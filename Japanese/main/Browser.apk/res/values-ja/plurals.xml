@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d items blocked</item>
+        <item quantity="one">%d item blocked</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">過去%d日間</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%2$d件中%1$d件目</item>
+        <item quantity="one">1件</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d秒後に自動的に新しいページが作成されます</item>
+        <item quantity="one">%d秒後に自動的に新しいページが作成されます</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Play video in %1$d seconds</item>
+        <item quantity="one">Play video in %1$d second</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Removed %1$d videos successfully.</item>
+        <item quantity="one">Removed %1$d video successfully.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Clear %1$d videos?</item>
+        <item quantity="one">Clear %1$d video?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">履歴から%1$d個のアイテムを削除しました。</item>
+        <item quantity="one">履歴から%1$d個のアイテムを削除しました。</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">履歴から%1$d個のアイテムを削除しますか？</item>
+        <item quantity="one">履歴から%1$d個のアイテムを削除しますか？</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">残り%d分</item>
+        <item quantity="one">残り%d分</item>
+    </plurals>
+</resources>

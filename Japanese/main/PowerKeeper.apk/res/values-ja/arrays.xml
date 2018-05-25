@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>Custom</item>
+        <item>Battery saver</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>"温度制御モード(デフォルト)"</item>
+        <item>"パフォーマンスモード"</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>"現在は温度制御モードです"</item>
+        <item>"現在はパフォーマンスモードです"</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>"パフォーマンス"</item>
+        <item>"バランス"</item>
+    </string-array>
+</resources>
