@@ -101,4 +101,16 @@
         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> アプリが長期間使用されていません、確認してください。"&lt;/Data></item>
         <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> アプリが長期間使用されていません、確認してください。"&lt;/Data></item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">"%1$d時間"</item>
+        <item quantity="one">"%1$d時間"</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">"%1$d分"</item>
+        <item quantity="one">"%1$d分"</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">"%1$d秒"</item>
+        <item quantity="one">"%1$d秒"</item>
+    </plurals>
 </resources>

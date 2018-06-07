@@ -14,13 +14,9 @@
         <item>メモ</item>
         <item>関連事項</item>
     </string-array>
-    <string-array name="resent_via_entries_sms">
-        <item>SMS</item>
-        <item>Miメッセージ</item>
-    </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>MMS</item>
-        <item>Miメッセージ</item>
+    <string-array name="entries_mms_validity_period">
+        <item>最長</item>
+        <item>2日</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>未設定</item>
@@ -30,9 +26,18 @@
         <item>1日</item>
         <item>最長</item>
     </string-array>
-    <string-array name="entries_mms_validity_period">
-        <item>最長</item>
-        <item>2日</item>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>常に</item>
+        <item>サイレントモード時のみ</item>
+        <item>バイブレーションしない</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>MMS</item>
+        <item>Miメッセージ</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Miメッセージ</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1秒</item>
@@ -46,10 +51,5 @@
         <item>9秒</item>
         <item>10秒</item>
         <item>その他</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>常に</item>
-        <item>サイレントモード時のみ</item>
-        <item>バイブレーションしない</item>
     </string-array>
 </resources>

@@ -747,15 +747,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>許可</item>
         <item>拒否</item>
     </string-array>
-    <string-array name="status_bar_show_carrier_entries">
-        <item>ロック画面にのみ表示</item>
-        <item>通知領域にのみ表示</item>
-        <item>キャリア名を表示しない</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>結合表示</item>
-        <item>分割表示</item>
-    </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>
         <item>ヨーロッパ</item>

@@ -343,6 +343,7 @@ to enter Second space from Lock screen"</string>
   <string name="switching_files">"ファイルを移動中…"</string>
   <string name="switching_photos">"写真を移動中…"</string>
   <string name="temporary_no_set">"後で"</string>
+  <string name="this_function_can_not_use_in_second_space">This function can only be used in first space</string>
   <string name="title_choose_app_status">"アプリの種類を選択"</string>
   <string name="title_switch_file">"これらのファイルを削除しますか？"</string>
   <string name="title_switch_photo">"これらの写真を削除しますか？"</string>

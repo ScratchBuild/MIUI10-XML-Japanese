@@ -40,4 +40,8 @@
         <item quantity="other">"%1$d秒"</item>
         <item quantity="one">"%1$d秒"</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">"%d秒"</item>
+        <item quantity="one">"%d秒"</item>
+    </plurals>
 </resources>

@@ -168,7 +168,6 @@
   <string name="error_state">データの不整合</string>
   <string name="error_state_text">スレッドと受信者の状態に不整合があります。バグレポートをキャプチャしてhttp://go/droidanizerから送信してください。</string>
   <string name="error_timed_msg">時間が不正です</string>
-  <string name="ex_type_guide">情報</string>
   <string name="ex_type_mx">Miメッセージ</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">メッセージサイズの上限に達しました。</string>

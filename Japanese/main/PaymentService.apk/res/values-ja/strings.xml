@@ -17,7 +17,7 @@
   <string name="abc_shareactionprovider_share_with">共有</string>
   <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
   <string name="abc_toolbar_collapse_description">折りたたむ</string>
-  <string name="mibi_all_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s and %1$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
+  <string name="mibi_all_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service. Touch OK if you agree to the terms and conditions described in the %1$s and %2$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
   <string name="mibi_app_name">Mi Credit</string>
   <string name="mibi_applock_config">分割画面を使用中はアプリロックを設定できません。</string>
   <string name="mibi_applock_dialog_cancel">後で</string>
@@ -108,9 +108,11 @@ Please check your local date and try again."</string>
   <string name="mibi_error_illegal_order_summary">Order error. Please try again later</string>
   <string name="mibi_error_invalid_device">Invalid device.</string>
   <string name="mibi_error_mili_summary">Insufficient funds.</string>
+  <string name="mibi_error_mipay_no_installed">"Mi Wallet isn't installed on your device."</string>
   <string name="mibi_error_network_summary">ネットワークに接続できませんでした。</string>
   <string name="mibi_error_no_available_channels">Sorry,no available channels currently.</string>
   <string name="mibi_error_pay_result_uncertain">Pay result uncertain.</string>
+  <string name="mibi_error_privacy_summary">You revoked authorization.</string>
   <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
   <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
   <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
@@ -146,6 +148,7 @@ Please check your local date and try again."</string>
   <string name="mibi_giftcard_has_unavailable">Expired</string>
   <string name="mibi_giftcard_has_used">Redeemed</string>
   <string name="mibi_giftcard_hint">Mi Credits added via gift card will be spent first automatically.</string>
+  <string name="mibi_giftcard_in_available">Available</string>
   <string name="mibi_giftcard_payment">Gift certificates</string>
   <string name="mibi_giftcard_payment_with_append">Apply gift certificates</string>
   <string name="mibi_giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
@@ -246,6 +249,8 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_title_default">金額を選択</string>
   <string name="mibi_prepaid_picker_title_selected">金額</string>
   <string name="mibi_privacy_license_name">プライバシーポリシー</string>
+  <string name="mibi_privacy_tip_message">"You can't use Mi Credits after authorization has been revoked."</string>
+  <string name="mibi_privacy_tip_title">Grant authorization first</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="mibi_progress_creating">Retrieving order info…</string>
   <string name="mibi_progress_deduct_creating">Activating %1$s automatic payment protocol​…</string>

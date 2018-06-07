@@ -1,13 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>水瓶座</item>
+        <item>1/20 - 2/18</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>牡羊座</item>
+        <item>3/21 - 4/19</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>蟹座</item>
+        <item>6/22 - 7/22</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>山羊座</item>
+        <item>12/22 - 1/19</item>
+    </string-array>
     <string-array name="change_response_labels">
         <item>"この予定のみ"</item>
         <item>"繰り返す予定すべて"</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Forwards</item>
+        <item>Backwards</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>予定の時刻</item>
+        <item>5分前</item>
+        <item>10分前</item>
+        <item>15分前</item>
+        <item>30分前</item>
+        <item>1時間前</item>
+        <item>1日前</item>
+        <item>2日前</item>
+        <item>1週間前</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>"この日の予定のみ"</item>
         <item>"これ以降の予定"</item>
         <item>"すべての予定"</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>双子座</item>
+        <item>5/21 - 6/21</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>獅子座</item>
+        <item>7/23 - 8/22</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>天秤座</item>
+        <item>9/23 - 10/23</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>"第1"</item>
@@ -15,6 +65,11 @@
         <item>"第3"</item>
         <item>"第4"</item>
         <item>"最終"</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>魚座</item>
+        <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>
@@ -27,11 +82,110 @@
         <item>"日曜日"</item>
         <item>"月曜日"</item>
     </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+        <item>9th</item>
+        <item>10th</item>
+        <item>11th</item>
+        <item>12th</item>
+        <item>13th</item>
+        <item>14th</item>
+        <item>15th</item>
+        <item>16th</item>
+        <item>17th</item>
+        <item>18th</item>
+        <item>19th</item>
+        <item>20th</item>
+        <item>21st</item>
+        <item>22nd</item>
+        <item>23rd</item>
+        <item>24th</item>
+        <item>25th</item>
+        <item>26th</item>
+        <item>27th</item>
+        <item>28th</item>
+        <item>29th</item>
+        <item>30th</item>
+        <item>31st</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Never</item>
+        <item>Time</item>
+        <item>Count</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>first</item>
+        <item>second</item>
+        <item>third</item>
+        <item>fourth</item>
+        <item>last</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Mon - Fri</item>
+        <item>Weekend</item>
+        <item>Whole week</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Never</item>
+        <item>毎月</item>
+        <item>毎年</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
     <string-array name="response_labels1">
         <item>"応答がありません"</item>
         <item>"はい"</item>
         <item>"未定"</item>
         <item>"いいえ"</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>射手座</item>
+        <item>11/23 - 12/21</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>蠍座</item>
+        <item>10/24 - 11/22</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>牡牛座</item>
+        <item>4/20 - 5/20</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>マーシャル諸島</item>
@@ -118,160 +272,6 @@
         <item>オークランド</item>
         <item>フィジー</item>
         <item>トンガ</item>
-    </string-array>
-    <string-array name="aquarius_info">
-        <item>aquarius</item>
-        <item>水瓶座</item>
-        <item>1/20 - 2/18</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>牡羊座</item>
-        <item>3/21 - 4/19</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>cancer</item>
-        <item>蟹座</item>
-        <item>6/22 - 7/22</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>山羊座</item>
-        <item>12/22 - 1/19</item>
-    </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Forwards</item>
-        <item>Backwards</item>
-    </string-array>
-    <string-array name="default_reminder_labels">
-        <item>予定の時刻</item>
-        <item>5分前</item>
-        <item>10分前</item>
-        <item>15分前</item>
-        <item>30分前</item>
-        <item>1時間前</item>
-        <item>1日前</item>
-        <item>2日前</item>
-        <item>1週間前</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>gemini</item>
-        <item>双子座</item>
-        <item>5/21 - 6/21</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leo</item>
-        <item>獅子座</item>
-        <item>7/23 - 8/22</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>libra</item>
-        <item>天秤座</item>
-        <item>9/23 - 10/23</item>
-    </string-array>
-    <string-array name="pisces_info">
-        <item>pisces</item>
-        <item>魚座</item>
-        <item>2/19 - 3/20</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1st</item>
-        <item>2nd</item>
-        <item>3rd</item>
-        <item>4th</item>
-        <item>5th</item>
-        <item>6th</item>
-        <item>7th</item>
-        <item>8th</item>
-        <item>9th</item>
-        <item>10th</item>
-        <item>11th</item>
-        <item>12th</item>
-        <item>13th</item>
-        <item>14th</item>
-        <item>15th</item>
-        <item>16th</item>
-        <item>17th</item>
-        <item>18th</item>
-        <item>19th</item>
-        <item>20th</item>
-        <item>21st</item>
-        <item>22nd</item>
-        <item>23rd</item>
-        <item>24th</item>
-        <item>25th</item>
-        <item>26th</item>
-        <item>27th</item>
-        <item>28th</item>
-        <item>29th</item>
-        <item>30th</item>
-        <item>31st</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Never</item>
-        <item>Time</item>
-        <item>Count</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>first</item>
-        <item>second</item>
-        <item>third</item>
-        <item>fourth</item>
-        <item>last</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Mon - Fri</item>
-        <item>Weekend</item>
-        <item>Whole week</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
-    </string-array>
-    <string-array name="repeat_countdown">
-        <item>Never</item>
-        <item>毎月</item>
-        <item>毎年</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
-    </string-array>
-    <string-array name="sagittarius_info">
-        <item>sagittarius</item>
-        <item>射手座</item>
-        <item>11/23 - 12/21</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>scorpio</item>
-        <item>蠍座</item>
-        <item>10/24 - 11/22</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>taurus</item>
-        <item>牡牛座</item>
-        <item>4/20 - 5/20</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>"3時間前"</item>

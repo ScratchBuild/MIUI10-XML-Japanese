@@ -118,6 +118,8 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
+  <string name="clean_long_msg">"Cleaning %1$d files,%2$d finished 
+%3$d%% item/second remained time:%4$s"</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="clear_safe_notify">"通知領域のウィジェット"</string>
@@ -482,7 +484,7 @@
   <string name="total_clean_text">"消去"</string>
   <string name="unlike">"結構です"</string>
   <string name="update_date_format">yyyy/MM/dd</string>
-  <string name="virus_scan">"セキュリティスキャン"</string>
+  <string name="virus_scan">"ウイルススキャン"</string>
   <string name="vungle_ad_name">"Vungle広告"</string>
   <string name="wechat_cache_files">"WeChatキャッシュ"</string>
   <string name="wechat_chat_data_type_cache">"WeChatキャッシュ"</string>

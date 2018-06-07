@@ -179,7 +179,7 @@
   <string name="composer_failed_to_get_database_infomation">"データベース情報を取得できません。"</string>
   <string name="composer_has_no_exportable_contact">"エクスポート可能な連絡先がありません。お使いの端末に連絡先がある場合、一部のデータプロバイダが端末から連絡先のエクスポートを許可していない可能性があります。"</string>
   <string name="composer_not_initialized">"vCard composerが正常に開始できませんでした。"</string>
-  <string name="confirm_delete_contact_all_call_logs">"通話履歴を消去しますか？"</string>
+  <string name="confirm_delete_contact_all_call_logs">"%sの通話履歴をすべて消去しますか？"</string>
   <string name="confirm_delete_selected_all_call_logs">"通話履歴を消去しますか？"</string>
   <string name="confirm_delete_sim_entry_miui_title">"削除"</string>
   <string name="confirm_export_message">連絡先リストは %s へエクスポートされます。</string>
@@ -199,8 +199,9 @@
   <string name="contact_detail_calllog_call_note_tips">"メモ"</string>
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
-  <string name="contact_detail_entry_pay">Pay</string>
+  <string name="contact_detail_entry_pay">"送金"</string>
   <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
+  <string name="contact_detail_entry_pay_request">Request money</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
   <string name="contact_detail_miprofile_accept">"連絡先カードを交換"</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"連絡先カードを交換できませんでした"</string>
@@ -1119,7 +1120,6 @@ To add a contact to your list of favorites:
   <string name="toast_start_intent_failed">"この操作を処理するアプリが見つかりませんでした"</string>
   <string name="toast_text_copied">"テキストをコピーしました"</string>
   <string name="today">"今日"</string>
-  <string name="tomorrow">"明日"</string>
   <string name="transfer_accounts">"アカウントを転送"</string>
   <string name="type_incoming">"着信履歴"</string>
   <string name="type_missed">"不在着信"</string>
@@ -1203,6 +1203,5 @@ To add a contact to your list of favorites:
   <string name="yellowpage_navigation_send_to_desktop_succeeded">"ホーム画面に設置しました"</string>
   <string name="yellowpage_search_the_yellowpage">"イエローページを検索"</string>
   <string name="yellowpage_user_profile">"プロフィール"</string>
-  <string name="yesterday">"昨日"</string>
   <string name="zero_items_selected">"アイテムを選択"</string>
 </resources>

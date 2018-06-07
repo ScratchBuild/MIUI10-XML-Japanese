@@ -3,6 +3,7 @@
   <string name="action_add_to_workspace">"ホーム画面に追加"</string>
   <string name="activity_not_found">"アプリがインストールされていません"</string>
   <string name="add_screen">"画面を追加"</string>
+  <string name="announce_for_checked">%1$s, checked</string>
   <string name="announce_for_choose_default_screen">"画面%1$dをデフォルトのホーム画面として設定しました"</string>
   <string name="announce_for_close_default_preview">"デフォルトのホーム画面設定を閉じました"</string>
   <string name="announce_for_close_folder">"フォルダを閉じました"</string>
@@ -22,10 +23,13 @@
   <string name="announce_for_drop_workspace">"%1$dページ目、%2$d行目、%3$d列目"</string>
   <string name="announce_for_edit_mode">"編集モードに切り替え"</string>
   <string name="announce_for_edit_mode_disable">"編集モードを終了"</string>
+  <string name="announce_for_move">Move to row %1$d column %2$d</string>
+  <string name="announce_for_move_hotseat">Move to dock position %1$d</string>
   <string name="announce_for_open_default_preview">"デフォルトのホーム画面設定を開きました"</string>
   <string name="announce_for_open_folder">"フォルダ%1$sを開きました"</string>
   <string name="announce_for_open_launcher_menu">"メニューを開きました"</string>
   <string name="announce_for_show_uninstall_dialog">"アンインストールダイアログが表示されました。キャンセルまたは確認してください。"</string>
+  <string name="announce_for_unchecked">%1$s, unchecked</string>
   <string name="app_already_exist">"アプリは既にインストール済みです"</string>
   <string name="app_being_backup_message">"アプリのバックアップ中"</string>
   <string name="app_being_restored_message">"アプリの復元中"</string>
@@ -58,6 +62,7 @@
   <string name="aqi_quality_index_light_pollution">"注意"</string>
   <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
+  <string name="backup_fail">"ランチャーのバックアップに失敗しました。"</string>
   <string name="bad_wallpaper_source_prompt">"壁紙を読み込むことができません"</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="cancel_action">"キャンセル"</string>
@@ -164,6 +169,7 @@
   <string name="guide_install_app_title">"アプリを探してインストールしますか？"</string>
   <string name="guide_tips_editing_mode">"長押しでウィジェットを選択"</string>
   <string name="home_screen">"ホーム画面"</string>
+  <string name="icon_reorganize_channel">"アイコンの配置"</string>
   <string name="image_too_small_message">"元の画像は十分な大きさではない。"</string>
   <string name="install">"インストール"</string>
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
@@ -213,6 +219,9 @@
   <string name="normal_wallpaper">"壁紙"</string>
   <string name="notification_installed">"正常にインストールされました"</string>
   <string name="notification_open_button">"開く"</string>
+  <string name="notification_reset_description">%1$s%1$s Can reset launcher to %2$s</string>
+  <string name="notification_reset_duration">In two hours,</string>
+  <string name="notification_reset_title">Auto clean up finished</string>
   <string name="online_wallpaper">"オンライン"</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
   <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
@@ -249,6 +258,7 @@
   <string name="preferences_general_title">"その他の設定"</string>
   <string name="preferences_title">"ランチャーの設定"</string>
   <string name="preferred_app_settings_not_selected">選択されていません</string>
+  <string name="quick_app">Quick App</string>
   <string name="recents_config_title">履歴</string>
   <string name="recommend_apps_no_data">"データなし"</string>
   <string name="recommend_apps_notice">おすすめのアプリ</string>
@@ -256,7 +266,10 @@
   <string name="recommend_apps_switch_title">おすすめのアプリ</string>
   <string name="recommend_apps_tips">"この機能が正常に動作するには、インターネットへの接続が必要です。この機能をオフにするには、フォルダ名をタップします。"</string>
   <string name="recommend_loading">"読み込み中"</string>
+  <string name="refresh">"更新"</string>
+  <string name="reset_fail">"リセットに失敗しました"</string>
   <string name="reset_scene_prompt">"画面はデフォルトのレイアウトにリセットされます。"</string>
+  <string name="reset_title">"リセット"</string>
   <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
   <string name="screen_locked_toast">"ホーム画面のレイアウトはロックされています。"</string>
   <string name="screen_number">%d screen</string>

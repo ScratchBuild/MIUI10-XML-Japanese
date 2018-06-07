@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1時間前</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">30分前</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-    </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Immediately</item>
     </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %1$d mins</item>
-        <item quantity="one">in %1$d min</item>
-    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">たった今</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%1$d分前</item>
-        <item quantity="one">%1$d分前</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d件の連絡先を削除しますか？</item>

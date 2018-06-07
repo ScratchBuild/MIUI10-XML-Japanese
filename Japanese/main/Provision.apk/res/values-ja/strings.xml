@@ -66,18 +66,21 @@
   <string name="sim_card_detecting_title">"SIMカードを確認"</string>
   <string name="sim_card_detection">"SIMカードを挿入"</string>
   <string name="sim_card_detection_info">"SIMカードを挿入するには、デバイスに付属の説明書をお読みください。"</string>
+  <string name="sim_card_detection_mobile_not_available">"SIM card couldn't connect to the network"</string>
   <string name="sim_dectection_next">"続行"</string>
   <string name="sim_redetection">"再確認"</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
   <string name="skip_underline">"この手順をスキップ"</string>
+  <string name="start_up_slogan">The best full screen experience</string>
   <string name="summary_not_set">"未設定"</string>
   <string name="system_navigation_mode">"システムナビゲーションモード"</string>
   <string name="terms_of_use">"利用規約"</string>
   <string name="terms_of_use_label">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, TranslationService, Quick apps, App vault, statistics, smart cards, Mi Link, and Mi Account components will connect to the internet and acquire your location."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, smart cards, Mi Link, and Mi Account components will connect to the internet and acquire your location."</string>
   <string name="terms_of_use_label_gms">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, TranslationService, Quick apps, App vault, statistics, smart cards, Mi Link, Mi Account, and Google Play services components will connect to the internet and acquire your location."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, smart cards, Mi Link, Mi Account, and Google Play services components will connect to the internet and acquire your location."</string>
   <string name="title_fingerprint">"パスワードを設定"</string>
   <string name="user_agreement">"利用規約"</string>
   <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>

@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alarm_in_furture">
+        <item>Alarm in less than 1 minute</item>
+        <item>Alarm in %1$s</item>
+        <item>Alarm in %2$s</item>
+        <item>Alarm in %1$s %2$s</item>
+        <item>Alarm in %3$s</item>
+        <item>Alarm in %1$s %3$s</item>
+        <item>Alarm in %2$s %3$s</item>
+        <item>Alarm in %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>"1回のみ"</item>
+        <item>"毎日"</item>
+        <item>"平日"</item>
+        <item>"休日"</item>
+        <item>"月～金"</item>
+        <item>"カスタム"</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>"1回のみ"</item>
+        <item>"毎日"</item>
+        <item>"月～金"</item>
+        <item>"カスタム"</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>"アラームは今から1分以内に設定されています。"</item>
         <item>"アラームは%1$s後に設定されています。"</item>
@@ -33,35 +57,6 @@
         <item>"何もしない"</item>
         <item>"スヌーズ"</item>
         <item>"閉じる"</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Alarm in less than 1 minute</item>
-        <item>Alarm in %1$s</item>
-        <item>Alarm in %2$s</item>
-        <item>Alarm in %1$s %2$s</item>
-        <item>Alarm in %3$s</item>
-        <item>Alarm in %1$s %3$s</item>
-        <item>Alarm in %2$s %3$s</item>
-        <item>Alarm in %1$s %2$s %3$s</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>"1回のみ"</item>
-        <item>"毎日"</item>
-        <item>"平日"</item>
-        <item>"休日"</item>
-        <item>"月～金"</item>
-        <item>"カスタム"</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>"1回のみ"</item>
-        <item>"毎日"</item>
-        <item>"月～金"</item>
-        <item>"カスタム"</item>
-    </string-array>
-    <string-array name="days">
-        <item>"昨日"</item>
-        <item>"今日"</item>
-        <item>"明日"</item>
     </string-array>
     <string-array name="stat_volume_button_behaviors">
         <item>"何もしない"</item>
