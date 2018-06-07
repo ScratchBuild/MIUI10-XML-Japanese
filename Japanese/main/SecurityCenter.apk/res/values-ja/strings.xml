@@ -163,6 +163,7 @@
   <string name="app_manager_default_open_title">"設定を消去"</string>
   <string name="app_manager_details_electric_title">"バッテリー"</string>
   <string name="app_manager_details_storage_title">"ストレージ"</string>
+  <string name="app_manager_details_title">"アプリ情報"</string>
   <string name="app_manager_details_traffic_title">"データ使用量"</string>
   <string name="app_manager_disable">"許可しない"</string>
   <string name="app_manager_disable_dlg_text">"このアプリを無効にすると、他のアプリが正常に動作しなくなる可能性があります。"</string>

@@ -153,12 +153,6 @@
   <string name="search_setting_description">"メモ内のテキストを検索"</string>
   <string name="select_account_prompt">"メモを同期"</string>
   <string name="set_alarm_description">"リマインダーを設定"</string>
-  <string name="sina_share_fail">"送信に失敗しました"</string>
-  <string name="sina_share_fail_content_repeat">"共有に失敗しました。既にコンテンツが存在します…"</string>
-  <string name="sina_share_pendding">"送信中…"</string>
-  <string name="sina_share_success">"送信しました"</string>
-  <string name="sina_token_expired_warning">"Weiboアカウントは期限切れです: 再接続してください"</string>
-  <string name="sina_token_invalid_warning">"Weiboアカウントは無効です: 再接続してください"</string>
   <string name="snippet_image_stub">画像メモ</string>
   <string name="snippet_image_template">[画像 %1$s]</string>
   <string name="sns_action_send">"送信"</string>

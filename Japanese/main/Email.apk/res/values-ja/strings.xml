@@ -48,7 +48,6 @@
   <string name="account_settings_notify_summary">"メールの着信時に通知を送信"</string>
   <string name="account_settings_param">"アカウント設定"</string>
   <string name="account_settings_policies">"セキュリティポリシー"</string>
-  <string name="account_settings_preference_add_account">"メールアカウントを追加"</string>
   <string name="account_settings_preference_att_save_path">"添付ファイルの保存場所"</string>
   <string name="account_settings_preference_head_icon">"プロフィール写真"</string>
   <string name="account_settings_preference_notify">"通知"</string>
@@ -88,6 +87,7 @@
   <string name="account_setup_exchange_certificate_title">"クライアント証明書"</string>
   <string name="account_setup_exchange_device_id_label">"携帯端末ID"</string>
   <string name="account_setup_exchange_no_certificate">"なし"</string>
+  <string name="account_setup_failed_auth_required">"Authentication methods aren't supported by server."</string>
   <string name="account_setup_failed_certificate_inaccessible">"証明書が無効か、証明書にアクセスできません。"</string>
   <string name="account_setup_failed_certificate_required">"クライアント証明書が必要です。クライアント証明書を使用してサーバーに接続しますか？"</string>
   <string name="account_setup_failed_check_credentials_message">"サーバーからエラーが返されました。ユーザー名とパスワードを確認してもう一度お試しください。"</string>
@@ -525,6 +525,7 @@
   <string name="login139">"China Mobileでログイン"</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
   <string name="login_failed_title">"ログインできませんでした"</string>
+  <string name="login_mail">Login Mail</string>
   <string name="login_support_tip_text">"一般的なメールアカウントをサポート"</string>
   <string name="long_press_to_select_tip">"長押しして1つのスレッドを選択し、その他のスレッドも選択するにはタップ。"</string>
   <string name="mail">"メール"</string>
@@ -534,7 +535,6 @@
   <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
-  <string name="mailbox_name_display_add_account">"メールアカウントを追加"</string>
   <string name="mailbox_name_display_circular">"通知"</string>
   <string name="mailbox_name_display_drafts">"下書き"</string>
   <string name="mailbox_name_display_inbox">"受信トレイ"</string>
@@ -613,6 +613,7 @@
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">"ミュート"</string>
   <string name="navigation_menu">"ナビゲーションメニュー"</string>
+  <string name="need_get_qq_mail">Need QQ Mail</string>
   <string name="network_error">"接続なし"</string>
   <string name="network_invaild">"ネットワークに接続できません"</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
@@ -663,6 +664,10 @@ Try a different inbox."</string>
   <string name="open_external_storage_and_calendar_permission">"[設定]からメールアプリにストレージとカレンダー情報へのアクセスを許可してください"</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">"[設定]からメールアプリにストレージと連絡先、カレンダー情報へのアクセスを許可してください"</string>
   <string name="open_external_storage_and_contacts_permission">"[設定]からメールアプリにストレージと連絡先へのアクセスを許可してください"</string>
+  <string name="open_notification_kingagent">Open the notice of the burial point</string>
+  <string name="optimization_suggestion">Optimization suggestion</string>
+  <string name="others_mail">Others</string>
+  <string name="others_mail_des">(Conver More than 60,0000 Mails)</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>
   <string name="outbox_alert_certificate_error">"電子メールシステムの管理者に連絡し、証明書を更新してください。"</string>
@@ -781,6 +786,9 @@ to receive reminders about payments and trips"</string>
   <string name="push_wps_confirm_message">"この添付ファイルを開くためにWPS Officeを試す。"</string>
   <string name="push_wps_confirm_title">"WPS Officeを試す"</string>
   <string name="push_wps_no_response_app">"この操作を処理するためのアプリが見つかりませんでした"</string>
+  <string name="qq_authorization_help_get">Help me get</string>
+  <string name="qq_authorization_know">Understanding the authorization code</string>
+  <string name="qq_authorization_tips">No longer prompt</string>
   <string name="qq_auto_login_failed_cpy_pass_success">"正常にコピーされました。ログインページに戻り、パスワードの入力欄に貼り付けてください"</string>
   <string name="qq_auto_login_failed_dialog_message">"認証コードをコピーしました、ログインページに戻り\"ログインするためにはユーザー名とパスワードを入力\"をタップししたら、パスワードの入力欄に貼り付けます"</string>
   <string name="qq_auto_login_failed_dialog_positive_label">"認証コードをコピー"</string>
@@ -794,6 +802,7 @@ to receive reminders about payments and trips"</string>
   <string name="qq_login_webview">Signing in to QQ web client, tap sign in using the password.</string>
   <string name="qq_next_generation_auth_toast">Turn on password protection in your browser</string>
   <string name="qq_uthentication_failed">"アカウントを確認できませんでした。再度ログインしてください"</string>
+  <string name="qq_verify_code">(Need QQ Verify Code)</string>
   <string name="qq_webview_loading">"読み込み中…"</string>
   <string name="questionnair_body_invisibility">"メッセージが表示されない"</string>
   <string name="questionnair_confirm_delete">"アカウントを削除しますか？"</string>
@@ -893,7 +902,7 @@ to receive reminders about payments and trips"</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">"保存中…"</string>
   <string name="sdcard_cannot_use">"SDカードは使用できません"</string>
-  <string name="search_bar_text">"メールや連絡先を検索"</string>
+  <string name="search_bar_text">"送信者または連絡先を検索"</string>
   <string name="search_hint">"メールを検索"</string>
   <string name="search_result">"結果 "</string>
   <string name="search_tabs_name_all">"すべて"</string>
@@ -986,6 +995,7 @@ to receive reminders about payments and trips"</string>
   <string name="tap_to_configure">Touch to set up.</string>
   <string name="tap_to_enable_sync">"オンにするにはタップ。"</string>
   <string name="three_day">"3日間"</string>
+  <string name="title_activity_about">"このアプリについて"</string>
   <string name="to_heading">"宛先: "</string>
   <string name="toast_bar_fail_synchronization">"ネットワークに接続できません"</string>
   <string name="toast_bar_insufficient_memory_space">"メールを受信できません、十分な空き領域がありません。"</string>
@@ -1027,9 +1037,8 @@ to receive reminders about payments and trips"</string>
   <string name="unread_string">"未読のスレッド"</string>
   <string name="unzip_file_failed">"ファイルを解凍できませんでした"</string>
   <string name="update_date_format_templete">M月d日 HH:mm</string>
-  <string name="update_to_wps_mail">Enjoy more features with WPS Mail</string>
   <string name="updated_at">Refreshed at %1$s</string>
-  <string name="upload_log">"ログをアップロード"</string>
+  <string name="upload_log">"ログを送信"</string>
   <string name="upload_log_failed">"ログを送信できませんでした"</string>
   <string name="upload_log_no">"キャンセル"</string>
   <string name="upload_log_success">"送信が完了しました, we'll get back to you soon."</string>
@@ -1039,6 +1048,8 @@ to receive reminders about payments and trips"</string>
   <string name="upload_logs_keywords">"ログをアップロード"</string>
   <string name="uploading_logs">"読み込み中…"</string>
   <string name="validation_failed_prompt">"アカウントを確認できません、%sのサーバー設定を確認してください"</string>
+  <string name="verify_code">Verify Code</string>
+  <string name="version_string">Version: %s</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">View more conversations</string>
   <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
@@ -1055,6 +1066,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="widget_other_views">"その他"</string>
   <string name="wipe_account_fail_description">"許可"</string>
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
+  <string name="wps_title">WPS Mail</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>
   <string name="yes">"はい"</string>
   <string name="you_are_in_mobile_network">"モバイルデータ接続を使用してログをアップロードしますか？"</string>

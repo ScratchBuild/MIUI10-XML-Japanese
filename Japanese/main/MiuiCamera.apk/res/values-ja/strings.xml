@@ -76,8 +76,12 @@ The object shouldn't be further than 2 meters."</string>
   <string name="face_beauty_intelligent_level_2">Medium</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_smart">"スマート"</string>
+  <string name="front_camera_hint_text_place">"Taking selfies will be easier
+if you rotate your phone"</string>
+  <string name="front_camera_hint_text_rotate">Rotate your phone</string>
   <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
 facial expression to synthesize into a photo"</string>
+  <string name="hibernate_hint">Tap the screen to wake Camera</string>
   <string name="hine_hht">"In low light, camera will take multiple photos
 and then create a shot with a minimal amount of noise."</string>
   <string name="hint_ae_af_lock">Auto focus / auto exposure has been locked</string>
@@ -96,6 +100,7 @@ and then create a shot where everyone looks best."</string>
   <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">"システムアプリ/カメラ/設定"</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D Beauty</string>
   <string name="photos_portrait_type_description">Portrait shots have a depth effect that keeps your subject in focus and blurs out rest of the background.</string>
   <string name="photos_portrait_type_name">Portrait</string>
   <string name="pref_advance_settings">"その他の設定"</string>
@@ -299,6 +304,10 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 High compatibility</string>
+  <string name="pref_video_encoder_entry_h265">H.265 High performance</string>
+  <string name="pref_video_encoder_title">Video encoder</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus mode</string>

@@ -118,6 +118,7 @@
   <string name="more_settings">"設定"</string>
   <string name="never">"一度だけ"</string>
   <string name="oneshot_alarm">Delete after goes off</string>
+  <string name="open_keep_screen">Screen will be kept on</string>
   <string name="pause">"停止"</string>
   <string name="remind_ringtone">Ringtone</string>
   <string name="reset">"リセット"</string>
@@ -131,6 +132,7 @@
   <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
   <string name="setting_alarm_arriving_title">Notification before ringing</string>
   <string name="settings">"設定"</string>
+  <string name="shut_down_keep_screen">"Screen won't be kept on"</string>
   <string name="shutdown_alarm_disable_summary">Alarm will not ring after powered off</string>
   <string name="shutdown_alarm_enable_summary">Alarm will ring after powered off</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
@@ -197,7 +199,7 @@
   <string name="volume_button_setting_title">"音量ボタン"</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">"時計なし"</string>
-  <string name="worldclock_input_hint_text">"国または都市を入力"</string>
+  <string name="worldclock_input_hint_text">"都市を入力"</string>
   <string name="worldclock_search_city">"都市を選択"</string>
   <string name="worldclock_title">"時計"</string>
   <string name="worldclock_world_time">"タイムゾーン"</string>
