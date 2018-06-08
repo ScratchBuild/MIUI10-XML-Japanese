@@ -118,8 +118,8 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
-  <string name="clean_long_msg">"Cleaning %1$d files,%2$d finished 
-%3$d%% item/second remained time:%4$s"</string>
+  <string name="clean_long_msg">"%1$d/%2$d個のファイルを削除中
+%3$d%% アイテム / 残り時間: %4$s"</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="clear_safe_notify">"通知領域のウィジェット"</string>

@@ -304,10 +304,9 @@ and then create a shot where everyone looks best."</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-  <string name="pref_video_encoder_default">h264</string>
-  <string name="pref_video_encoder_entry_h264">H.264 High compatibility</string>
-  <string name="pref_video_encoder_entry_h265">H.265 High performance</string>
-  <string name="pref_video_encoder_title">Video encoder</string>
+  <string name="pref_video_encoder_entry_h264">"H.264 (互換性優先)"</string>
+  <string name="pref_video_encoder_entry_h265">"H.265 (パフォーマンス優先)"</string>
+  <string name="pref_video_encoder_title">"動画エンコーダ"</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus mode</string>

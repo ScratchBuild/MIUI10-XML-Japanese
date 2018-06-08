@@ -666,7 +666,7 @@ Try a different inbox."</string>
   <string name="open_external_storage_and_contacts_permission">"[設定]からメールアプリにストレージと連絡先へのアクセスを許可してください"</string>
   <string name="open_notification_kingagent">Open the notice of the burial point</string>
   <string name="optimization_suggestion">Optimization suggestion</string>
-  <string name="others_mail">Others</string>
+  <string name="others_mail">"その他"</string>
   <string name="others_mail_des">(Conver More than 60,0000 Mails)</string>
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>

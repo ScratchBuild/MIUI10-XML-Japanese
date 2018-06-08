@@ -81,7 +81,7 @@
   <string name="conference_call_number">"%s人"</string>
   <string name="conference_call_recorder_title">"グループ通話"</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
-  <string name="conference_caller_info_name">"%1$s's conference call"</string>
+  <string name="conference_caller_info_name">"%1$sのグループ通話"</string>
   <string name="conference_callers_exceeded">"これ以上ユーザーを追加できません"</string>
   <string name="contacts_icon_label">"連絡先"</string>
   <string name="crbt_second_hold_prompt">"%sを保留中です…"</string>

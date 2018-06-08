@@ -1170,7 +1170,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Text</string>
-  <string name="video_editor_text_edit_all">All</string>
+  <string name="video_editor_text_edit_all">"すべて"</string>
   <string name="video_editor_text_edit_end">Outro</string>
   <string name="video_editor_text_edit_input_all_hint">Enter text</string>
   <string name="video_editor_text_edit_input_end_hint">Enter credits</string>
