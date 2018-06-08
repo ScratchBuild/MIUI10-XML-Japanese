@@ -286,6 +286,7 @@
   <string name="daltonizer_mode_protanomaly">第一色弱（赤緑）</string>
   <string name="daltonizer_mode_tritanomaly">第三色弱（青黄）</string>
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
+  <string name="data_connection_no_internet">インターネット接続なし</string>
   <string name="data_saver">データセーバー</string>
   <string name="data_usage_disabled_dialog">"設定したデータ上限に達しました。現在モバイルデータは使用できません。
 
@@ -908,11 +909,12 @@
   <string name="notification_all_categories">すべてのカテゴリ</string>
   <string name="notification_app_settings">カスタマイズ: %1$s</string>
   <string name="notification_channel_alerts">通知</string>
-  <string name="notification_channel_battery">電池</string>
   <string name="notification_channel_controls_closed_accessibility">%1$s の通知管理は閉じています</string>
   <string name="notification_channel_controls_opened_accessibility">%1$s の通知管理は開いています</string>
   <string name="notification_channel_disabled">今後、この通知は配信されません</string>
   <string name="notification_channel_general">一般メッセージ</string>
+  <string name="notification_channel_location">位置情報</string>
+  <string name="notification_channel_screenbutton">ナビゲーションボタン</string>
   <string name="notification_channel_screenshot">スクリーンショット</string>
   <string name="notification_channel_storage">ストレージ</string>
   <string name="notification_channel_switch_accessibility">このチャンネルからの通知を許可する</string>
@@ -922,7 +924,7 @@
   <string name="notification_done">完了</string>
   <string name="notification_group_collapse_button_text">Fold</string>
   <string name="notification_header_title">通知</string>
-  <string name="notification_hidden_by_policy_text">Content is hidden</string>
+  <string name="notification_hidden_by_policy_text">ポリシーによって非表示のコンテンツ</string>
   <string name="notification_hidden_text">新着メッセージがあります</string>
   <string name="notification_info_channel_disabled_text">"You won't receive %2$s notifications from %1$s."</string>
   <string name="notification_info_channel_enabled_text">You will receive %2$s notifications from %1$s.</string>
@@ -1119,6 +1121,9 @@
   <string name="quick_settings_nfc_off">NFC は無効です</string>
   <string name="quick_settings_nfc_on">NFC は有効です</string>
   <string name="quick_settings_night_display_label">読書灯</string>
+  <string name="quick_settings_night_secondary_label_on_at">%sにオン</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">日没から</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">日の出まで</string>
   <string name="quick_settings_notifications_label">通知</string>
   <string name="quick_settings_papermode_label">Reading mode</string>
   <string name="quick_settings_powermode_label">Performance mode</string>
@@ -1135,6 +1140,7 @@
   <string name="quick_settings_screenbutton_label">Buttons</string>
   <string name="quick_settings_screenlock_label">Lock screen</string>
   <string name="quick_settings_screenshot_label">Screenshot</string>
+  <string name="quick_settings_secondary_label_until">%sまで</string>
   <string name="quick_settings_settings_label">設定</string>
   <string name="quick_settings_sync_label">Sync</string>
   <string name="quick_settings_tethering_label">テザリング</string>

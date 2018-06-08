@@ -62,7 +62,7 @@
   <string name="aqi_quality_index_light_pollution">"注意"</string>
   <string name="aqi_quality_index_moderate">"中程度"</string>
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
-  <string name="backup_fail">"ランチャーのバックアップに失敗しました。"</string>
+  <string name="backup_fail">"ランチャー設定をバックアップできませんでした"</string>
   <string name="bad_wallpaper_source_prompt">"壁紙を読み込むことができません"</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="cancel_action">"キャンセル"</string>
@@ -169,7 +169,7 @@
   <string name="guide_install_app_title">"アプリを探してインストールしますか？"</string>
   <string name="guide_tips_editing_mode">"長押しでウィジェットを選択"</string>
   <string name="home_screen">"ホーム画面"</string>
-  <string name="icon_reorganize_channel">"アイコンの配置"</string>
+  <string name="icon_reorganize_channel">"アイコンを整列"</string>
   <string name="image_too_small_message">"元の画像は十分な大きさではない。"</string>
   <string name="install">"インストール"</string>
   <string name="invalid_contact_shortcut">"無効な連絡先"</string>
@@ -219,9 +219,7 @@
   <string name="normal_wallpaper">"壁紙"</string>
   <string name="notification_installed">"正常にインストールされました"</string>
   <string name="notification_open_button">"開く"</string>
-  <string name="notification_reset_description">%1$s%1$s Can reset launcher to %2$s</string>
-  <string name="notification_reset_duration">In two hours,</string>
-  <string name="notification_reset_title">Auto clean up finished</string>
+  <string name="notification_reset_title">"アイコンを整列しました"</string>
   <string name="online_wallpaper">"オンライン"</string>
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
   <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
@@ -267,7 +265,9 @@
   <string name="recommend_apps_tips">"この機能が正常に動作するには、インターネットへの接続が必要です。この機能をオフにするには、フォルダ名をタップします。"</string>
   <string name="recommend_loading">"読み込み中"</string>
   <string name="refresh">"更新"</string>
-  <string name="reset_fail">"リセットに失敗しました"</string>
+  <string name="reset_description_first_time">"2時間以内に%1$sからレイアウトを復元することができます"</string>
+  <string name="reset_description_others">"%1$sからレイアウトを復元することができます"</string>
+  <string name="reset_fail">"復元できませんでした"</string>
   <string name="reset_scene_prompt">"画面はデフォルトのレイアウトにリセットされます。"</string>
   <string name="reset_title">"リセット"</string>
   <string name="screen_cells_config_title">ホーム画面のレイアウト</string>
