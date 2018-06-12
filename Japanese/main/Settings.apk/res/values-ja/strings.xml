@@ -792,13 +792,19 @@
   <string name="bootloader_apply_step_5">Fastboot modeをオンにする前に、使用方法を理解しているか確認してください。</string>
   <string name="bootloader_apply_title">重要な警告</string>
   <string name="bootloader_device_bind_already">"正常に追加されました。Mi Accountは現在、このデバイスに関連付けられています。"</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">このSIMカードにアカウントを追加することはできません。</string>
   <string name="bootloader_device_bind_fail">確認できませんでした、しばらくしてからもう一度お試しください</string>
   <string name="bootloader_device_bind_msg">アカウントとデバイスの追加を準備中…</string>
   <string name="bootloader_device_bind_no_account">初めにMi Accountにログインしてください</string>
   <string name="bootloader_device_bind_no_network">ネットワークに接続して、再試行してください</string>
+  <string name="bootloader_device_bind_no_sim">SIMカードを挿入してもう一度お試しください。</string>
+  <string name="bootloader_device_bind_server_code">"追加できませんでした。エラーコード:"</string>
+  <string name="bootloader_device_bind_sim_invalid">SIMカードが無効です。交換してもう一度お試しください。</string>
   <string name="bootloader_locked_answer_1">我々はあなたの個人情報が安全に保たれ、第三者に開示されないようにするためにデバイスをロックしています。もしあなたがFastboot modeに切り替えてお使いのデバイスをフラッシュする必要がある場合、あなたはそれをアンロックすることができます。</string>
   <string name="bootloader_locked_answer_1_warning">忘れずに: デバイスがアンロックされた後、\"Find device\"を使うことはできません。</string>
-  <string name="bootloader_locked_answer_2">以下のボタンをタップすることで、あなたのMi Accountとこのデバイスを関連付けます。MIUIのウェブサイトにアクセスしてアンロックツールをダウンロードし、お使いのコンピューターにインストールしてください。アドレスはこちら:</string>
+  <string name="bootloader_locked_answer_2">"1. Make sure you've already inserted a SIM card into your device.
+2. Tap \"Add account\" below to associate your Mi Account with this device.
+3. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
   <string name="bootloader_locked_check_status">アカウントとデバイスの追加</string>
   <string name="bootloader_locked_question_1">なぜデバイスをロックする必要がありますか？</string>
   <string name="bootloader_locked_question_2">リスクを理解しました、それでもデバイスのアンロックを希望します。</string>
@@ -806,6 +812,11 @@
   <string name="bootloader_status_locked">Locked</string>
   <string name="bootloader_status_locked_info">このデバイスはロックされています</string>
   <string name="bootloader_status_locked_summary">電話は保護されています</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock needs access to your Mi Account, CPU ID, IMEI, IMSI to work normally. We collect, use, and process your data in accordance with our %s. Agree?</string>
+  <string name="bootloader_status_privacy_dialog_no">キャンセル</string>
+  <string name="bootloader_status_privacy_dialog_title">アクセス許可が必要</string>
+  <string name="bootloader_status_privacy_dialog_url_text">プライバシーポリシー</string>
+  <string name="bootloader_status_privacy_dialog_yes">同意</string>
   <string name="bootloader_status_summary">デバイスがロックされているかを確認する</string>
   <string name="bootloader_status_unlocked">Unlocked</string>
   <string name="bootloader_status_unlocked_info">このデバイスはロック解除されています</string>
@@ -1305,6 +1316,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">もっと見る</string>
   <string name="device_miui_version">MIUIバージョン</string>
+  <string name="device_miui_version_for_POCO">MIUIバージョン (For POCO)</string>
   <string name="device_miui_version_update">MIUIの更新が利用可能です</string>
   <string name="device_name">端末名</string>
   <string name="device_name_input_error">端末名を保存できませんでした</string>
@@ -2566,8 +2578,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
   <string name="miui_lab_super_resolution_desc">Make images crisper</string>
   <string name="miui_lab_super_resolution_title">Super resolution</string>
-  <string name="miui_lab_taplus_desc">アイテムを長押ししてアクションをトリガーする</string>
-  <string name="miui_lab_taplus_title">起動するアプリ</string>
   <string name="miui_master_clear_summary">端末のすべてのデータを消去します</string>
   <string name="miui_touch_filtered_warning">アプリがアクセス許可のダイアログをブロックしている場合は、重なっている項目をドラッグして移動するか、アプリを終了してください。</string>
   <string name="miui_updater">システムの更新</string>
@@ -4454,6 +4464,9 @@ PINが正しくない可能性があります。"</string>
   <string name="talkback_title">Talkback</string>
   <string name="tap_to_wake">タップしてスリープ解除</string>
   <string name="tap_to_wake_summary">画面をダブルタップすると端末のスリープを解除します</string>
+  <string name="telephony_monitor_switch">Telephony monitor</string>
+  <string name="telephony_monitor_switch_summary">Telephony Monitor は、電話やモデムの機能で問題が検出されたときにログを収集し、バグを報告するようユーザーに通知を表示します</string>
+  <string name="telephony_monitor_toast">Telephony Monitor の変更を適用するには、端末を再起動してください</string>
   <string name="terms_title">利用規約</string>
   <string name="testing">テスト中</string>
   <string name="testing_phone_info">携帯電話情報</string>
@@ -5094,7 +5107,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
 1. When WLAN connection is poor, WLAN assistant will try to connect your device to other available WLAN networks.
 2. If all available WLAN connections turn out to be poor and mobile data is turned on, WLAN assistant will switch to mobile data."</string>
   <string name="wifi_assistant_disconnect">Disconnect</string>
-  <string name="wifi_assistant_explicitly_confirm_data_message">This WLAN network has no access to the internet. Use mobile data instead?</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">This Wi-Fi network has no access to the internet. Use mobile data instead?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">This WLAN network has no access to the internet. Disconnect now?</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">This WLAN network has no access to the internet. Other WLAN networks are available. Switch networks?</string>
   <string name="wifi_assistant_keep_connection">Stay connected</string>

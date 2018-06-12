@@ -147,11 +147,21 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="feature_title_account">Mi Account</string>
   <string name="feature_title_antispam">"ブロックリスト"</string>
   <string name="feature_title_call_log">"通話履歴"</string>
+  <string name="feature_title_contacts">"連絡先"</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_sms">"メッセージ"</string>
   <string name="file_uploading">"アップロード中…"</string>
   <string name="files_backup_info">"SDカード上のすべてのファイル (写真、音楽、動画、アプリのデータ、その他を含む)"</string>
   <string name="findlost_contact">"連絡先を復元"</string>
   <string name="findlost_contact_online">"Mi Cloudから連絡先を復元する"</string>
+  <string name="flash_drive_backup_btn">Back up to USB drive</string>
+  <string name="flash_drive_backup_note">"Back up apps to a USB drive.
+Make sure the USB drive has enough storage space before you start."</string>
+  <string name="flash_drive_backup_restore">USB backups</string>
+  <string name="flash_drive_connection_failed">USB drive disconnected</string>
+  <string name="flash_drive_restore_btn">Restore from USB drive</string>
+  <string name="flash_drive_search_backup_files">"Searching for the USB backup…
+Don't change or rename backup files."</string>
   <string name="guarded_mode_dialog_backup_message">"ゲストモードでのバックアップは許可されていません。"</string>
   <string name="guarded_mode_dialog_title">"あなたはゲストモードです"</string>
   <string name="guarded_mode_dialog_transfer_message">"ゲストモードでMi Moverを使用することはできません。"</string>
@@ -193,6 +203,8 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="import_from_xiaomi_account_hint2">"既にバックアップがあれば、[次へ]をタップ。"</string>
   <string name="import_from_xiaomi_account_hint_title">"Mi Talkを使用して、デバイス間で連絡先をバックアップします。"</string>
   <string name="import_tip_summary">互換性の問題により、iOS端末からは一部のデータのみ転送できます。転送を開始する前にまずiCloudバックアップを作成してください。</string>
+  <string name="lack_perm_msg">Mi Moverには次の権限が必要です: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_title">"アクセス許可が必要"</string>
   <string name="list_footer_tip_title">Tips:</string>
   <string name="loading_data">"データを読み込み中"</string>
   <string name="local_app_name">"バックアップ"</string>
@@ -258,7 +270,15 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="password">"パスワード"</string>
   <string name="password_null">"パスワードを空にすることはできません"</string>
   <string name="pause">"中断"</string>
-  <string name="platform_chooser_item_android">"Android端末からインポート"</string>
+  <string name="perm_camera">"カメラ"</string>
+  <string name="perm_location">"位置情報の取得"</string>
+  <string name="perm_read_call_log">"通話履歴の読み取り"</string>
+  <string name="perm_read_contacts">"連絡先の読み取り"</string>
+  <string name="perm_read_phone_state">"端末のステータスの読み取り"</string>
+  <string name="perm_read_sms">"SMSの読み取り"</string>
+  <string name="perm_storage">"外部ストレージへのアクセスと変更"</string>
+  <string name="platform_chooser_item_android_mi">"Android端末 (Xiaomi)"</string>
+  <string name="platform_chooser_item_android_others">"Android端末 (その他)"</string>
   <string name="platform_chooser_item_ios">"iOS端末からインポート"</string>
   <string name="platform_chooser_title">"古い端末を選択する"</string>
   <string name="progress_backup_hint">"バックアップ中…"</string>
@@ -324,6 +344,8 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="start_restore">"復元"</string>
   <string name="state_mounting">"ルーターのストレージにアクセス中…"</string>
   <string name="state_waiting">"読み込み中…"</string>
+  <string name="storage_sd_card">"SDカード"</string>
+  <string name="storage_usb">"USBドライブ"</string>
   <string name="succ_description">"完了しました"</string>
   <string name="succeed">"完了"</string>
   <string name="summary_err_backup_encrypting">"Mi Accountにログイン。"</string>
@@ -364,8 +386,9 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="trans_backingup_no_items">"同期中…"</string>
   <string name="trans_button_cancel">"キャンセル"</string>
   <string name="trans_calculating">"計算中…"</string>
-  <string name="trans_calculating_app_sd_size">"計算中サイズ: %s"</string>
-  <string name="trans_calculating_base_size">"データサイズを計算中"</string>
+  <string name="trans_calculating_app_sd_description">"SDカード上のデータ"</string>
+  <string name="trans_calculating_media_description">"メディアファイル"</string>
+  <string name="trans_calculating_tip">計算中 %s…</string>
   <string name="trans_cancel_confirm">"転送の処理中です、今すぐ停止しますか？"</string>
   <string name="trans_cancelling">"キャンセル中…"</string>
   <string name="trans_connect_failed_device_incompatible">"デバイスの互換性がありません。転送をキャンセルしてもう一度お試しください。"</string>
@@ -407,18 +430,34 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="trans_generate_qr_code_failed">"QRコードを作成できませんでした"</string>
   <string name="trans_generate_qrcode_failed">"QRコードを作成できませんでした。もう一度お試しください。"</string>
   <string name="trans_generating_qrcode">"QRコードを作成中…"</string>
+  <string name="trans_install_guide_button_start">"開始"</string>
+  <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
+  <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
+to download and install Mi Mover."</string>
+  <string name="trans_install_guide_step1_content">Scan the QR code with your old phone to download and install \"Mi Mover\".</string>
+  <string name="trans_install_guide_step1_title">Step 1</string>
+  <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
+  <string name="trans_install_guide_step2_title">Step 2</string>
   <string name="trans_intro_desc_1">"On a Mi phone, connect to WLAN and tap \"I'm a recipient\". Select your iOS device, sign in to iCloud, and import data."</string>
   <string name="trans_intro_desc_3">Cancel the transfer, exit Mi Mover, and start over. Duplicate files will be overwritten during the new transfer.</string>
   <string name="trans_intro_desc_4">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though. However, some newer devices (for example, Mi 6) would still be able to connect to the internet using WLAN during transfers."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though."</string>
   <string name="trans_intro_desc_5">Storage space on old devices is used for creating transfer packages. Make sure you have at least 500MB - 1GB of available storage on your old phone before you start a transfer.</string>
   <string name="trans_intro_desc_6">There are several reasons why that may happen: system and app version compatibility issues, network problems, compatibility issues specific to a particular device, etc.</string>
   <string name="trans_intro_desc_7">Some app profiles (e-banking, finance, etc.) are associated with specific device due to security reasons. Try clearing the app data or re-installing the app on a new device.</string>
   <string name="trans_intro_desc_8">"WeChat app data and chat history might not be fully transferred using Mi Mover. Go to WeChat's settings and sign out of your account to get more chances for a successful transfer."</string>
+  <string name="trans_intro_desc_9_method_1_dec">Go to Home screen &gt; Tools &gt; Feedback.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Share your feedback using the \"Feedback\" app.</string>
+  <string name="trans_intro_desc_9_method_2_dec">Send your feedback to miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Send us an email</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
   <string name="trans_intro_desc_account">You have to sign in again to your accounts (e.g., Mi Account, Exchange, Google, etc.) on a new device due to security reasons.</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover doesn't transfer Dual apps data to avoid conflicts between files."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover can't access items in Second space. Move items to First space and launch Mi Mover there."</string>
   <string name="trans_intro_desc_new">"Tap \"I'm a recipient\". A QR code will be generated."</string>
   <string name="trans_intro_desc_old">"Tap \"I'm a sender\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\"."</string>
+  <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
   <string name="trans_intro_desc_private">"Mi Mover can't access photos in the hidden album because they are encrypted. You can restore these photos from Mi Cloud on a new device."</string>
   <string name="trans_intro_question_1">%d. How do I use Mi Mover to move data from an iOS device?</string>
   <string name="trans_intro_question_2">%d. How do I use Mi Mover to move data from an Android device?</string>
@@ -429,6 +468,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="trans_intro_question_7">"%d. Why won't some apps start on a new device?"</string>
   <string name="trans_intro_question_8">"%d. Why isn't WeChat history fully transferred?"</string>
   <string name="trans_intro_question_9">"%d. Which items can't be transferred?"</string>
+  <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">"アカウントとパスワード:"</string>
   <string name="trans_intro_title_multiapp">"デュアルアプリのデータ:"</string>
@@ -443,6 +483,11 @@ Free up storage space or transfer only important items."</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover needs some storage space to package the transferred data, but it looks like there isn't enough space available on the old device. Free up space in \"Security\" or transfer only important items."</string>
   <string name="trans_old_phone_low_space_title">Not enough storage space</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_open_camera_failed_message">Reboot your device or check whether Mi Mover is allowed to use &lt;b&gt;Camera&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">"Couldn't connect to Camera"</string>
+  <string name="trans_open_location_button">Turn on</string>
+  <string name="trans_open_location_message">Turn on location services to get the list of available WLAN networks.</string>
+  <string name="trans_open_location_title">Turn on location services</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
   <string name="trans_operate_new_phone_tips">"Go to Settings &gt; Additional Settings &gt; Mi Mover
@@ -455,6 +500,7 @@ Tap [I'm a recipient] to create a QR code"</string>
 Then tap \"Connect again\" to create a QR code."</string>
   <string name="trans_operate_reconnect_old_tips">"Wait until the old phone shows \"Connection was interrupted\".
 Then tap \"Connect again\" to scan the QR code."</string>
+  <string name="trans_operate_tip_for_other_android">Open Mi Mover on your old phone, tap \"Start\" and scan the QR code above.</string>
   <string name="trans_pausing">Pausing…</string>
   <string name="trans_please_waiting">"読み込み中…"</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
@@ -474,7 +520,7 @@ Wi-Fiホットスポットをオフにしないでください。
 端末をお互いに近づけてください。"</string>
   <string name="trans_receiving_completed">"受信が完了しました"</string>
   <string name="trans_restoring">"復元中…"</string>
-  <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_restoring_no_items">"情報を取得中…"</string>
   <string name="trans_retry">"再試行"</string>
   <string name="trans_scan_invalid_qrcode">"QRコードが無効です"</string>
   <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
@@ -502,6 +548,9 @@ Wi-Fiをオフにしないでください。
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
   <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
   <string name="trans_start_failed_title">"Couldn't start transfer"</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"Your new device feels like home now.
+Did you like Mi Mover?"</string>
   <string name="trans_switching_5g">"5GHz帯域に切り替え中…"</string>
   <string name="trans_time_format_second">"1分未満"</string>
   <string name="trans_time_spent">"経過時間: %s"</string>
@@ -513,6 +562,16 @@ and Mi Mover is on"</string>
   <string name="trans_wlan_tips_message">"データの転送中は電源を切ったり、Wi-Fiを切り替えないでください。Mi Moverがデータの転送に失敗する可能性があります。"</string>
   <string name="trans_wlan_tips_title">"Wi-Fiをオフにしないでください"</string>
   <string name="unknown_hint">"不明"</string>
+  <string name="usb_backup_select_data_too_large">"Selected files are big. Make sure the USB drive has enough storage space.
+Transfer only important items."</string>
+  <string name="usb_restore_select_data_too_large">"Backup files are big. It might take a while to restore them.
+Restoring only important items will be faster."</string>
+  <string name="usb_trans_native_no_space">"Only %s is available on your device.
+Free up space or make multiple smaller transfers."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Additional storage is required to package your backups. There's not enough storage space to continue the transfer. You can free up space and delete unnecessary files in Security or try tranfering only important items."</string>
+  <string name="usb_trans_old_phone_low_space_title">Not enough storage space</string>
+  <string name="usb_trans_select_data_no_space">"Only %s is available on your USB drive.
+Free up space or transfer only important items."</string>
   <string name="user_name">"Apple IDまたはメールアドレス"</string>
   <string name="user_name_null">"ユーザー名を空にすることはできません"</string>
   <string name="user_notice_declaration_ignore">"次回から表示しない"</string>

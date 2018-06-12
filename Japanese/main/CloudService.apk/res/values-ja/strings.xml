@@ -188,7 +188,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_main_multi_user_error_message">"First spaceと同じアカウントでログインしたため、Mi Cloudでエラーが発生しました。
 別のアカウントを使用する。"</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud error</string>
-  <string name="micloud_main_network_abnormal">ネットワークに接続できません</string>
+  <string name="micloud_main_network_abnormal">ネットワークの設定を確認してください</string>
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
   <string name="micloud_main_query_again">Send another request</string>
   <string name="micloud_main_query_error_message">一部のサービスでは同期が完了したかを確認できません</string>
