@@ -802,9 +802,9 @@
   <string name="bootloader_device_bind_sim_invalid">SIMカードが無効です。交換してもう一度お試しください。</string>
   <string name="bootloader_locked_answer_1">我々はあなたの個人情報が安全に保たれ、第三者に開示されないようにするためにデバイスをロックしています。もしあなたがFastboot modeに切り替えてお使いのデバイスをフラッシュする必要がある場合、あなたはそれをアンロックすることができます。</string>
   <string name="bootloader_locked_answer_1_warning">忘れずに: デバイスがアンロックされた後、\"Find device\"を使うことはできません。</string>
-  <string name="bootloader_locked_answer_2">"1. Make sure you've already inserted a SIM card into your device.
-2. Tap \"Add account\" below to associate your Mi Account with this device.
-3. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
+  <string name="bootloader_locked_answer_2">"1. SIMカードが予めデバイスに挿入されていることを確認してください。
+2. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
+3. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
   <string name="bootloader_locked_check_status">アカウントとデバイスの追加</string>
   <string name="bootloader_locked_question_1">なぜデバイスをロックする必要がありますか？</string>
   <string name="bootloader_locked_question_2">リスクを理解しました、それでもデバイスのアンロックを希望します。</string>
@@ -1754,7 +1754,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="firewall_set_bg_firewall_default_dialog_title">新規アプリのバックグラウンド接続を制限する</string>
   <string name="firewall_temp_rule_reason">%2$sは%1$sでのインターネット接続が制限されています</string>
   <string name="firewall_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off."</string>
+  <string name="firewall_wifi_dialog_message">このスイッチがオフの場合、インストールされたアプリはWi-Fiを使用してインターネットに接続できません。</string>
   <string name="firmware_version">Androidバージョン</string>
   <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
   <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
@@ -2404,7 +2404,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="macaddr_label">MACアドレス:</string>
   <string name="main_netcheck_summary">ネットワーク接続の問題をテストする</string>
   <string name="main_running_process_description">使用中のメインプロセスです。</string>
-  <string name="main_toolbar_statistic">Data usage stats</string>
+  <string name="main_toolbar_statistic">データ使用量の統計</string>
   <string name="make_sure_cancel_update">アップデートを中止しますか？</string>
   <string name="man_add_application">自動起動アプリを追加</string>
   <string name="manage_device_admin">端末管理者</string>
@@ -2470,11 +2470,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_summary">携帯端末内のすべてのデータを消去する</string>
   <string name="master_clear_title">データの初期化</string>
   <string name="max_aspect_settings_all_app_display_loading">読み込み中…</string>
-  <string name="max_cpu10_info">"Deca-core Max "</string>
-  <string name="max_cpu2_info">Dual-core Max</string>
-  <string name="max_cpu4_info">"Quad-core Max "</string>
-  <string name="max_cpu6_info">"Hexa-core Max "</string>
-  <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">5つ以上の指紋を追加することはできません。新しい指紋を追加するには、既存の指紋を削除してください。</string>
   <string name="maximum_memory_use">最大メモリ使用</string>
   <string name="mbn_version">MBN version</string>
@@ -2613,7 +2608,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mqs_privacy_automatically_upload">次回自動的にアップロード</string>
   <string name="mqs_privacy_dialog_cancel">キャンセル</string>
   <string name="mqs_privacy_dialog_confirm">アップロード</string>
-  <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
+  <string name="mqs_privacy_dialog_content">この問題をMIUIに報告するため、ログをアップロードしますか？ログには個人情報と位置データが含まれる場合があります。</string>
   <string name="mqs_privacy_dialog_title">エラーが発生しました</string>
   <string name="msd_driver_download">ドライバをダウンロード</string>
   <string name="msd_driver_download_mac">OSX:ドライバをダウンロードし、AndroidFileTransfer.dmgをインストールします。</string>
@@ -2981,7 +2976,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_11">天気</string>
   <string name="page_layout_12">セキュリティ</string>
   <string name="page_layout_13">ツール</string>
-  <string name="page_layout_18">Recents</string>
+  <string name="page_layout_18">履歴</string>
   <string name="page_layout_19">連絡先</string>
   <string name="page_layout_2">カメラ</string>
   <string name="page_layout_20">イエローページ</string>
@@ -3333,16 +3328,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="quiet_important_interruptions_mode">例外のみ許可する</string>
   <string name="quiet_no_interruptions_mode">すべての通知を消音する</string>
   <string name="quiet_off_mode">すべての通知を許可する</string>
-  <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">接続</string>
   <string name="radioInfo_data_connecting">接続中</string>
   <string name="radioInfo_data_disconnected">切断</string>
   <string name="radioInfo_data_suspended">強制停止</string>
-  <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_bytes">バイト</string>
-  <string name="radioInfo_display_dbm">dBm</string>
   <string name="radioInfo_display_packets">パケット</string>
-  <string name="radioInfo_lac">LAC</string>
   <string name="radioInfo_menu_getPDP">PDPリストを取得</string>
   <string name="radioInfo_menu_viewADN">SIMのアドレス帳を表示</string>
   <string name="radioInfo_menu_viewFDN">発信番号制限を表示</string>
@@ -3444,7 +3435,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="reset_network_final_button_text">設定をリセット</string>
   <string name="reset_network_final_desc">すべてのネットワーク設定をリセットしますか？この操作は元に戻せません。</string>
   <string name="reset_network_title">ネットワーク設定のリセット</string>
-  <string name="reset_network_wifi">WLAN</string>
+  <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Second spaceのパスワードをリセット</string>
   <string name="reset_second_space_passwd_cancel">キャンセル</string>
   <string name="reset_second_space_passwd_confirm">続行</string>
@@ -3491,7 +3482,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 
 この設定はこの端末上のすべてのユーザーに影響します。"</string>
   <string name="root">Root access</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rule_name">名前</string>
   <string name="running_frequency">頻度</string>
   <string name="running_process_item_removed_user_label">削除済みのユーザー</string>
@@ -3687,7 +3677,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_advanced_settings">Advanced settings;Wifi;Wifi settings;WLAN settings</string>
   <string name="search_airplane_mode">機内モード</string>
   <string name="search_alarm_sound_title">アラーム音</string>
-  <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
+  <string name="search_android_beam_settings_title">NFC;Androidビーム;ビーム</string>
   <string name="search_apn_settings">APN;アクセスポイント名</string>
   <string name="search_app_invisible">App Invisible;非表示のアプリ</string>
   <string name="search_app_switch_key">履歴;メニュー;メニューボタン;タスクマネージャ</string>
@@ -3698,13 +3688,13 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_bluetooth_device_searchable">Discoverable;Visible;Bluetooth name</string>
   <string name="search_bluetooth_enable">Bluetooth;Turn on Bluetooth;Bluetooth on</string>
   <string name="search_bluetooth_settings_title">Bluetooth;Discoverable</string>
-  <string name="search_bluetooth_tether_checkbox_text">Bluetooth tethering;tethering</string>
+  <string name="search_bluetooth_tether_checkbox_text">Bluetoothテザリング;テザリング</string>
   <string name="search_brightness">明るさ;Screen brightness;Display brightness</string>
   <string name="search_button_light_timeout">ボタンライトの点灯を維持する;Button lights</string>
   <string name="search_calendar_sound_title">カレンダー音;calendar ringtone;カレンダー</string>
   <string name="search_captioning_locale">言語</string>
   <string name="search_change_password">Change screen lock;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
-  <string name="search_children_mode_title">キッズモード;Child;Parental controls</string>
+  <string name="search_children_mode_title">キッズモード;Child;ペアレンタルコントロール</string>
   <string name="search_choose_timezone">タイムゾーンを選択;タイムゾーン</string>
   <string name="search_cloud_backup_settings_section_title">バックアップの設定;バックアップ</string>
   <string name="search_cloud_restore_section_title">Mi Cloudから復元する;Mi Cloud;Cloud backups</string>
@@ -3742,10 +3732,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_language_settings">言語と入力;言語;入力;キーボード</string>
   <string name="search_led">LED;通知ライト;LEDライト</string>
   <string name="search_legal_information">法的情報</string>
-  <string name="search_local_auto_backup_section_title">自動バックアップ;Automatic backups;Back up automatically</string>
+  <string name="search_local_auto_backup_section_title">自動バックアップ;Back up automatically</string>
   <string name="search_local_backup_section_title">ローカルバックアップ</string>
   <string name="search_location_settings_title">位置情報;位置情報サービス;GPS</string>
-  <string name="search_lock_settings">ロック画面とパスワード;Bluetooth unlock;passcode;Unlock with Bluetooth device</string>
+  <string name="search_lock_settings">ロック画面とパスワード;Bluetooth unlock;パスコード;Bluetoothデバイスでロック解除</string>
   <string name="search_lock_sounds_enable_title">画面ロックの音;Turn on Screen lock sound</string>
   <string name="search_manage_device_admin">デバイス管理者;管理;管理者</string>
   <string name="search_manage_notification_access_title">通知アクセス;通知;Notification permissions</string>
@@ -3754,7 +3744,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_menu_title">検索</string>
   <string name="search_micloud">同期;Mi Cloud;Cloud sync;Sync with Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">オーディオ設定;Sound settings</string>
-  <string name="search_music_equalizer">Equalizer</string>
+  <string name="search_music_equalizer">イコライザー</string>
   <string name="search_music_headset_calibrate">ボタンの割り当て;ボタン</string>
   <string name="search_music_headset_mode_settings">ヘッドフォンのリモコン;リモコン</string>
   <string name="search_music_headset_settings">ヘッドフォンとオーディオエフェクト;ヘッドフォン;イヤホン;オーディオエフェクト</string>
@@ -3776,7 +3766,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_power_hide_mode_title">アプリの電池使用量を管理;アプリの電池使用量;電池使用量;Battery stats</string>
   <string name="search_power_mode">電源設定;電源</string>
   <string name="search_power_optimize">バッテリーセーバー;Save battery</string>
-  <string name="search_power_usage_summary_title">バッテリーとパフォーマンス;バッテリー;パフォーマンス;Battery saver;Save battery</string>
+  <string name="search_power_usage_summary_title">バッテリーとパフォーマンス;バッテリー;パフォーマンス;バッテリーセーバー;Save battery</string>
   <string name="search_pref_edge_handgrip">エッジコントロール</string>
   <string name="search_pref_volume_wake_title">音量ボタンで復帰する;音量ボタン</string>
   <string name="search_preferred_network_type_title">優先ネットワークタイプ;優先ネットワーク;Network type</string>
@@ -3811,14 +3801,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_sms_received_sound_title">メッセージ受信;message sound;received message;message ringtone</string>
   <string name="search_sound_effects_enable_title">タッチ操作音;Turn on touch sounds</string>
   <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
-  <string name="search_status_bar_settings">Notifications &amp; status bar;Notifications;Status bar</string>
+  <string name="search_status_bar_settings">通知とステータスバー;通知;ステータスバー</string>
   <string name="search_status_bar_settings_custom_carrier">キャリア名を編集;キャリア名</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">ロック画面に表示</string>
   <string name="search_status_bar_settings_manage_notification">App Notifications;Notifications</string>
   <string name="search_status_bar_settings_show_carrier">キャリア名を表示;キャリア名</string>
   <string name="search_status_bar_settings_show_network_speed">接続速度を表示;接続速度</string>
-  <string name="search_status_bar_settings_show_notification_icon">通知アイコンを表示;notification icons;show notification icons</string>
-  <string name="search_status_bar_settings_show_screenshot_notification">スクリーンショットの通知を表示;Screenshot notification;スクリーンショット</string>
+  <string name="search_status_bar_settings_show_notification_icon">通知アイコンを表示;通知アイコン</string>
+  <string name="search_status_bar_settings_show_screenshot_notification">スクリーンショットの通知を表示;スクリーンショットの通知;スクリーンショット</string>
   <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles;combined;separate;combine</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch;collapse;hide</string>
   <string name="search_status_sim">SIMの状態;SIM</string>
@@ -3829,8 +3819,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
   <string name="search_touch_sensitive_title">手袋モード;手袋</string>
   <string name="search_trusted_credentials">信頼できる認証情報;App signature;App signatures;Credentials;Signature</string>
-  <string name="search_tts_settings_title">テキスト読み上げ出力;Text-to-speech</string>
-  <string name="search_turn_on_security_lock">画面ロックの変更;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
+  <string name="search_tts_settings_title">テキスト読み上げ出力;テキスト読み上げ</string>
+  <string name="search_turn_on_security_lock">画面ロックの変更;画面ロックの編集;画面ロック</string>
   <string name="search_usb_tethering_button_text">USBテザリング;テザリング;USB</string>
   <string name="search_user_agreement">利用規約</string>
   <string name="search_user_dict_settings_title">個人辞書;辞書</string>
@@ -3839,15 +3829,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_vibrate_when_ringing_title">着信時もバイブレーション;vibrate;vibration</string>
   <string name="search_virtual_sim">International mobile data;Data roaming;Roaming;Mobile data roaming;Lab functions</string>
   <string name="search_vpn_enable">Turn on VPN;VPN</string>
-  <string name="search_vpn_settings_password">VPNパスワード;Protect VPN</string>
-  <string name="search_vpn_settings_title">VPN;Add VPN;Turn on VPN</string>
+  <string name="search_vpn_settings_password">VPNパスワード;VPNの保護</string>
+  <string name="search_vpn_settings_title">VPN;VPNを追加;Turn on VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">通知で画面ロック解除;wake screen;wake device</string>
   <string name="search_wallpaper_settings_title">壁紙;ホーム画面;ロック画面</string>
   <string name="search_wfd_settings_title">Wireless display;Turn on wireless display</string>
   <string name="search_wifi_advanced_ip_address_title">IPアドレス;IP</string>
   <string name="search_wifi_advanced_mac_address_title">Wi-Fi MACアドレス</string>
   <string name="search_wifi_enable">WLAN;Turn on Wifi;Turn on Wi-fi;Turn on WLAN</string>
-  <string name="search_wifi_install_credentials">Install certificates;Certificates</string>
+  <string name="search_wifi_install_credentials">証明書をインストール;証明書</string>
   <string name="search_wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS PIN入力;WPS;WPS PIN</string>
   <string name="search_wifi_scan_always_available">常に利用可能なネットワークをスキャンする;Scan networks;Scan Wifi;Scan WLAN</string>
@@ -4188,7 +4178,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_app_enable_floating">フローティング通知</string>
   <string name="status_bar_app_enable_keyguard">ロック画面</string>
   <string name="status_bar_app_enable_message">バッジ</string>
-  <string name="status_bar_carrier_settings_no_sim_card">No SIM card</string>
+  <string name="status_bar_carrier_settings_no_sim_card">SIMカードなし</string>
   <string name="status_bar_key_position_custom">ボタンの配置を変更</string>
   <string name="status_bar_screen_button_force_immersive_desc">画面ボタンを表示するには画面の下から上に向かってスワイプします</string>
   <string name="status_bar_screen_button_key_force_immersive">画面ボタンを非表示</string>
@@ -4202,7 +4192,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_all_app_display_loading">読み込み中…</string>
   <string name="status_bar_settings_app_notification_preferences">アプリの設定</string>
   <string name="status_bar_settings_basic_settings">基本設定</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">キャリア名を編集</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fiネットワーク名を編集</string>
   <string name="status_bar_settings_enable_notification">通知を表示</string>
@@ -4408,7 +4397,7 @@ PINが正しくない可能性があります。"</string>
   <string name="summary_divider_text">"、 "</string>
   <string name="super_resolution_access_title">Accessible apps</string>
   <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
-  <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
+  <string name="super_resolution_maintain">Super resolutionはまだ使用できません。</string>
   <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
   <string name="super_resolution_reboot_tips">This feature allows to make blurry images in WeChat and Toutiao crisper. Launch apps again after you turn this feature on.</string>
   <string name="super_resolution_title">Super resolution</string>
@@ -4464,7 +4453,6 @@ PINが正しくない可能性があります。"</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
   <string name="system_update_settings_list_item_title">システムアップデート</string>
   <string name="talkback_summary">主に視覚障害者を対象としたスクリーンリーダー ツールです</string>
-  <string name="talkback_title">Talkback</string>
   <string name="tap_to_wake">タップしてスリープ解除</string>
   <string name="tap_to_wake_summary">画面をダブルタップすると端末のスリープを解除します</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>
@@ -5100,10 +5088,10 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_ap_choose_2G">2.4GHz</string>
   <string name="wifi_ap_choose_5G">5GHz</string>
   <string name="wifi_api_test">Wi-Fiネットワーク API</string>
-  <string name="wifi_assistant">WLAN assistant</string>
+  <string name="wifi_assistant">Wi-Fiアシスタント</string>
   <string name="wifi_assistant_auto_confirm_data_message">This WLAN network has no access to the internet. Your device will use mobile data instead. You can turn off WLAN assistant in the Settings.</string>
-  <string name="wifi_assistant_confirm_always">"Don't show again"</string>
-  <string name="wifi_assistant_confirm_connection_title">Confirm</string>
+  <string name="wifi_assistant_confirm_always">次回から表示しない</string>
+  <string name="wifi_assistant_confirm_connection_title">確認</string>
   <string name="wifi_assistant_data_prompt">Show data usage warning</string>
   <string name="wifi_assistant_data_prompt_summary">Show data usage warning when WLAN assistant switches to mobile data</string>
   <string name="wifi_assistant_description">"Here's how WLAN assistant works:

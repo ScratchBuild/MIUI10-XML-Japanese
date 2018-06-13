@@ -288,7 +288,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="eq_preset_hint">"エフェクト名"</string>
   <string name="eq_preset_select">"プリセットを選択"</string>
   <string name="eq_rock">Rock</string>
-  <string name="equalizer">Equalizer</string>
+  <string name="equalizer">イコライザー</string>
   <string name="err_media_handle">メディアを取得できませんでした。もう一度お試しください。</string>
   <string name="err_offline_on_playback">このメディアを再生するにはオンラインである必要があります。</string>
   <string name="error_forbidden">"Mi Accountに問題があるため、同期がオフになっています。"</string>
