@@ -2566,6 +2566,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_data_usage_menu_metered">モバイルホットスポット</string>
   <string name="miui_enable_service_title">サービスは次の操作を実行します:</string>
   <string name="miui_experience_optimization">MIUIの最適化をオンにする</string>
+  <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
+  <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
+  <string name="miui_lab_ai_preload_title">AI preloading</string>
   <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
   <string name="miui_lab_drive_mode_title">Car mode</string>
   <string name="miui_lab_feature_applied">適用しました</string>
@@ -4407,7 +4410,7 @@ PINが正しくない可能性があります。"</string>
   <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
   <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
   <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
-  <string name="super_resolution_reboot_tips">Restart apps to make this feature work after you turn it on.</string>
+  <string name="super_resolution_reboot_tips">This feature allows to make blurry images in WeChat and Toutiao crisper. Launch apps again after you turn this feature on.</string>
   <string name="super_resolution_title">Super resolution</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>

@@ -14,15 +14,19 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">"誕生日"</string>
+  <string name="cancel_description">"キャンセル"</string>
   <string name="check_phone_error_title">"同期はオフです"</string>
   <string name="check_phone_io_error">"ネットワークに接続できません"</string>
   <string name="clearable_edittext_clear_description">"消去"</string>
   <string name="close">"閉じる"</string>
+  <string name="confirm_description">"確認"</string>
   <string name="copyright">"著作権"</string>
   <string name="date_picker_dialog_title">"日付をセット"</string>
   <string name="date_time_done">"完了"</string>
   <string name="date_time_picker_dialog_title">"日付と時刻をセット"</string>
+  <string name="delete_description">"削除"</string>
   <string name="deselect_all">"選択を解除"</string>
+  <string name="deselect_all_description">"すべて選択を解除"</string>
   <string name="early_morning">AM</string>
   <string name="email">"メール"</string>
   <string name="eras_ad">AD</string>
@@ -155,6 +159,7 @@
   <string name="search_input_description">"検索"</string>
   <string name="search_mode_button_back_description">"戻る"</string>
   <string name="select_all">"すべて選択"</string>
+  <string name="select_all_description">"すべて選択"</string>
   <string name="select_item">"アイテムを選択"</string>
   <string name="send">"送る"</string>
   <string name="send_sms_for_sync_notice">このサービスを有効化するため、SMSを送信します。携帯通信会社により課金されることがあります。</string>

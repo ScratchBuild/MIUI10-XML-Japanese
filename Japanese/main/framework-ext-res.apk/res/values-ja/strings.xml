@@ -93,6 +93,7 @@
   <string name="reboot_progress">"再起動しています…"</string>
   <string name="remain">残り: %s</string>
   <string name="replace">"置き換え"</string>
+  <string name="resolver_app_recommend_flag">"おすすめ"</string>
   <string name="resource_select">"選択"</string>
   <string name="screen_button_notification_text">"オンにするには、ホームボタンと電源ボタンを同時に押してください。"</string>
   <string name="screen_button_notification_title">"ナビゲーションボタンは現在オフです"</string>
