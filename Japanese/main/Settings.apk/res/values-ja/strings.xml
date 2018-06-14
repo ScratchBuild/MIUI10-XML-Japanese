@@ -5128,7 +5128,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_calling_suggestion_title">Wi-Fi 通話の有効化</string>
   <string name="wifi_cancel">キャンセル</string>
   <string name="wifi_certificate">証明書</string>
-  <string name="wifi_click_login_wlan">接続しました。認証が必要です。</string>
+  <string name="wifi_click_login_wlan">ログインまたは許可が必要です</string>
   <string name="wifi_click_share_wlan">タップしてパスワードを共有</string>
   <string name="wifi_config_info">Wi-Fiネットワーク設定</string>
   <string name="wifi_configure_titlebar">Wi‑Fi の設定</string>

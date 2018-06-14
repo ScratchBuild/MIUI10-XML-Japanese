@@ -19,6 +19,8 @@
   <string name="account_global_region">"海外"</string>
   <string name="account_has_been_set">"変更"</string>
   <string name="account_limit_update_birthday">"誕生日を更新できません"</string>
+  <string name="account_mibi_center">Mi Credits</string>
+  <string name="account_mibi_charge">Mi Credits Charge</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
@@ -183,6 +185,7 @@
   <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> will get following permissions:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">"Mi Accountでログイン"</string>
   <string name="other_devices_title">"その他のデバイス"</string>
+  <string name="passport_Resend">"再送信"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">"メールアドレス/電話番号/Mi Account ID"</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -202,6 +205,7 @@
   <string name="passport_back">"戻る"</string>
   <string name="passport_bad_authentication">"無効なユーザー名またはパスワード"</string>
   <string name="passport_barcode_add_account_prompt">"アカウントに接続するには、ログインした後にQRコードをもう一スキャンしてください。"</string>
+  <string name="passport_btn_change_account">"アカウントを変更"</string>
   <string name="passport_change_account"><u>アカウントを変更</u></string>
   <string name="passport_change_phone_number">"番号を変更"</string>
   <string name="passport_checking_account">"パスワードを確認中…"</string>
@@ -232,6 +236,7 @@
   <string name="passport_error_empty_pwd">"パスワードを入力してください"</string>
   <string name="passport_error_empty_username">"ユーザー名を入力してください"</string>
   <string name="passport_error_empty_vcode">"認証コードを入力してください"</string>
+  <string name="passport_error_empty_voice_code">"キャプチャを入力してください"</string>
   <string name="passport_error_illegal_pwd">"無効なパスワード"</string>
   <string name="passport_error_invalid_dev_id">"デバイスIDは無効です。"</string>
   <string name="passport_error_invalid_phone_num">"無効な電話番号"</string>
@@ -269,8 +274,11 @@
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
   <string name="passport_input_vcode_hint">"認証コードを入力"</string>
   <string name="passport_input_voice_captcha_hint">"音声認証コードを入力"</string>
+  <string name="passport_input_voice_hint">""音声認証コードを入力""</string>
   <string name="passport_instant_login">"ログイン"</string>
   <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
+  <string name="passport_license_info_collapse">"折りたたむ"</string>
+  <string name="passport_license_info_open">"詳細"</string>
   <string name="passport_loading">"読み込み中…"</string>
   <string name="passport_login">"ログイン"</string>
   <string name="passport_login_failed">"ログインできません"</string>
@@ -283,6 +291,7 @@
   <string name="passport_login_title">"Mi Accountにログイン"</string>
   <string name="passport_login_using_other_ways">"その他の方法でログイン"</string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
+  <string name="passport_new_user_register">"アカウントを作成"</string>
   <string name="passport_next">"次へ"</string>
   <string name="passport_no">"いいえ"</string>
   <string name="passport_notification_title">"%1$sのログインエラー"</string>
@@ -325,6 +334,7 @@
   <string name="passport_register_by_email">"&lt;u>メールアドレスを使用してアカウントを作成&lt;/u>"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
+  <string name="passport_register_using_other_ways">"その他の方法で登録"</string>
   <string name="passport_registered_phone_num">"電話番号: %s"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
   <string name="passport_registered_phone_user_name">"ユーザー名: %s"</string>
@@ -388,6 +398,7 @@
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_phone_number_format">"入力した電話番号の形式が無効です"</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
+  <string name="passport_wrong_voice">"入力したコードが正しくありません"</string>
   <string name="phone_activated">%s activated</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="photoPickerNotFoundText">No photos available.</string>

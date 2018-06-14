@@ -203,6 +203,8 @@
   <string name="change_to_face_mode">"顔だけ表示する"</string>
   <string name="change_to_photo_mode">Show full previews</string>
   <string name="change_to_visible">"このユーザーを復元しますか？"</string>
+  <string name="checked">Selected</string>
+  <string name="checked_something">Selected %s</string>
   <string name="choose_baby_sexy">"性別"</string>
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
@@ -354,6 +356,7 @@
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
   <string name="enable_face_album_title">Sort by people</string>
   <string name="enabling_face_feature">"読み込み中…"</string>
+  <string name="enter_choice_mode">Entered Share dialog</string>
   <string name="enter_email_hint">"メールアドレスを入力"</string>
   <string name="error_album_not_exist">"アルバムが存在しません"</string>
   <string name="error_build_thumbnail_action">"元のファイルをダウンロードする"</string>
@@ -417,6 +420,7 @@
   <string name="error_unknown_msg">"エラーが発生しました。フィードバックを送信してください。"</string>
   <string name="error_unknown_tip">"エラーが発生しました。"</string>
   <string name="exit">"終了"</string>
+  <string name="exit_choice_mode">Left Share dialog</string>
   <string name="exit_share">"アルバムを終了"</string>
   <string name="exit_share_failed">"%1$sを終了できませんでした"</string>
   <string name="exit_share_in_process">"\"%s\"を終了しています…"</string>
@@ -450,6 +454,7 @@ Take more photos of your friends!"</string>
   <string name="fancy_color_desc">Colors</string>
   <string name="fast_share_auto_render">Beautify</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
+  <string name="feature_guidance_photo_effects">Photo effects</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Food</string>
   <string name="filter_category_master">Master</string>
@@ -540,6 +545,8 @@ Take more photos of your friends!"</string>
   <string name="image_invalid_path">"無効なパス"</string>
   <string name="image_not_found">"画像がみつかりませんでした"</string>
   <string name="image_quota_fulfiled">"画像が多すぎます。 画像をいくつか削除してもう一度やり直してください。"</string>
+  <string name="image_with_time">Photo taken on %s</string>
+  <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
   <string name="impunity_declaration_settings">"インターネット接続の通知"</string>
   <string name="impunity_declaration_summary">"ギャラリーを開くたびにインターネット接続の通知を表示する"</string>
   <string name="initializing_cloud">"初期化中…"</string>
@@ -1019,6 +1026,7 @@ Take more photos of your friends!"</string>
   <string name="sticker_words">Words</string>
   <string name="storage_description_primary">"内部ストレージ"</string>
   <string name="storage_description_sdcard">"SDカード"</string>
+  <string name="storage_description_usb">"USBストレージ"</string>
   <string name="storage_description_xspace">"デュアルアプリのデータ"</string>
   <string name="storage_no_space">"空きスペースがありません"</string>
   <string name="sub_discard_confirm_message">"変更を保存しますか？"</string>
@@ -1082,6 +1090,8 @@ Take more photos of your friends!"</string>
   <string name="turn_off_and_move">Turn off and move</string>
   <string name="turn_on_and_remove">Turn on and move</string>
   <string name="turn_on_sync">Turn on sync</string>
+  <string name="unchecked">Deselected</string>
+  <string name="unchecked_something">Deselected %s</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
   <string name="unpublish_succeeded">Album unpublished</string>
   <string name="unpublishing">"キャンセル中…"</string>
@@ -1186,6 +1196,8 @@ Take more photos of your friends!"</string>
   <string name="video_editor_watermark">"透かし"</string>
   <string name="video_err">"動画を再生できません"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
+  <string name="video_with_time">Video taken on %s</string>
+  <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="view_face_album">"アルバムを表示"</string>
   <string name="view_more_face_desc">"その他の人物を表示"</string>

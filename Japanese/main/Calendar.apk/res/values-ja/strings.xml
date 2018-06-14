@@ -82,7 +82,7 @@
   <string name="card_manager_no_data">"購読しているカードはありません :)"</string>
   <string name="card_title_change">"その他"</string>
   <string name="change_response_title">"出欠状況を変更"</string>
-  <string name="check_reminded_text">"アラームを表示"</string>
+  <string name="check_reminded_text">"表示"</string>
   <string name="chinese_leap">"閏"</string>
   <string name="chongsha">"幽霊"</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
@@ -214,7 +214,7 @@
   <string name="global_action_text_card_manager">"カレンダーをカスタマイズ"</string>
   <string name="guide_card_import">"インポート"</string>
   <string name="guide_card_primary_text">"友人の誕生日をインポート"</string>
-  <string name="guide_card_second_text">"知り合いの誕生日を一括でインポートする"</string>
+  <string name="guide_card_second_text">"重要な日付を忘れない"</string>
   <string name="guide_card_title">"誕生日をインポート"</string>
   <string name="hint_attendees">"ゲスト"</string>
   <string name="hint_description">"説明"</string>
