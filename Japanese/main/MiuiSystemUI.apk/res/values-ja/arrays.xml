@@ -135,6 +135,25 @@
         <item>DRMコンテンツのみをチェック</item>
         <item>常にチェック</item>
     </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>オフ</item>
+        <item>30分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>8時間</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>クリップボード</item>
+        <item>キーコード</item>
+        <item>キーボード切り替え</item>
+        <item>なし</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compact</item>
+        <item>Left-leaning</item>
+        <item>Right-leaning</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
         <item>480p</item>

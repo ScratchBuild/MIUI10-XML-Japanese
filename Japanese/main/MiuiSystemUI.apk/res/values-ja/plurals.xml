@@ -104,6 +104,10 @@
         <item quantity="other">他 %s 件の通知</item>
         <item quantity="one">他 %s 件の通知</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d 個の通知カテゴリ</item>
+        <item quantity="one">%d 個の通知カテゴリ</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">このアプリの通知カテゴリ %s 件中 1 件</item>
         <item quantity="one">このアプリの通知カテゴリ %s 件中 1 件</item>
