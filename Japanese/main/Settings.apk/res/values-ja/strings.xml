@@ -3742,7 +3742,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_master_clear_title">ファクトリーリセット</string>
   <string name="search_menu">検索設定</string>
   <string name="search_menu_title">検索</string>
-  <string name="search_micloud">同期;Mi Cloud;Cloud sync;Sync with Mi Cloud</string>
+  <string name="search_micloud">同期;Mi Cloud;Cloud sync;Mi Cloudと同期</string>
   <string name="search_music_audio_effect_optimize">オーディオ設定;Sound settings</string>
   <string name="search_music_equalizer">イコライザー</string>
   <string name="search_music_headset_calibrate">ボタンの割り当て;ボタン</string>
@@ -3783,12 +3783,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="search_screen_on_proximity_sensor_title">ポケットダイヤルを防止する;ポケット</string>
   <string name="search_screen_paper_mode_title">読書モード;読書;ブルーライト;yellow light;読書灯</string>
   <string name="search_screen_saver_settings">スクリーンセーバー</string>
-  <string name="search_screen_timeout">Sleep;Auto Lock Screen;Screen lock</string>
+  <string name="search_screen_timeout">スリープ;Auto Lock Screen;画面ロック</string>
   <string name="search_screenshot">スクリーンショット</string>
   <string name="search_second_space">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
   <string name="search_security_encryption_title">ロック画面のパスワードを使用して端末を暗号化;Encrypt;Encryption;Encrypt device;Encrypt phone</string>
   <string name="search_security_passwords_title">パスワード;画面ロック;PIN;パターン</string>
-  <string name="search_security_privacy_settings_title">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
+  <string name="search_security_privacy_settings_title">プライバシー;セキュリティ;不明なソース;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
   <string name="search_security_settings">プライバシー設定;セキュリティ;プライバシー</string>
   <string name="search_settings">検索</string>
   <string name="search_settings_no_results">一致する結果はありません</string>

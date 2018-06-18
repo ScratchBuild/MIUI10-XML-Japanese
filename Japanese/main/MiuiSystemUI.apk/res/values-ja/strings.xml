@@ -119,7 +119,7 @@
   <string name="auto_disable_screenbuttons_disable_toast_text">ナビゲーションボタンは無効です、いずれかのボタンをダブルタップでオンに戻ります。</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">ナビゲーションボタンは有効です</string>
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
-  <string name="back">Back</string>
+  <string name="back">戻る</string>
   <string name="battery">電池</string>
   <string name="battery_detail_charging_summary">充電中はバッテリー セーバーは利用できません</string>
   <string name="battery_detail_switch_summary">パフォーマンスとバックグラウンド データを制限します</string>

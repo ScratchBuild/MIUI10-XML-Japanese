@@ -497,7 +497,6 @@
   <string name="kg_reordering_delete_drop_target_text">削除</string>
   <string name="kg_sim_pin_instructions">SIM PINを入力</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIMカードのロック解除中…</string>
-  <string name="kg_text_message_separator">" - "</string>
   <string name="kg_too_many_failed_attempts_countdown">%1$d秒後にもう一度お試しください。</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">パスワードの入力を%d回間違えました。
 
@@ -523,12 +522,12 @@
   <string name="loading">読み込んでいます...</string>
   <string name="locale_search_menu">検索</string>
   <string name="lock_pattern_view_aspect">square</string>
-  <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+  <string name="lock_to_app_description">"単一表示の場合、画面固定はディスプレイをロックします。
 
-To unpin, press and hold Home and the Power button at the same time."</string>
-  <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+画面の固定を解除するにはホームボタンと電源ボタンを同時に押し続けます。"</string>
+  <string name="lock_to_app_description_accessible">"単一表示の場合、画面固定はディスプレイをロックします。
 
-To unpin, press and hold Home and the Power button at the same time."</string>
+画面の固定を解除するにはホームボタンと電源ボタンを同時に押し続けます。"</string>
   <string name="lock_to_app_exit">画面固定を解除しました</string>
   <string name="lock_to_app_start">画面を固定しました</string>
   <string name="lock_to_app_toast">この画面の固定を解除するにはホームボタンと電源ボタンを同時に押し続けます。</string>
