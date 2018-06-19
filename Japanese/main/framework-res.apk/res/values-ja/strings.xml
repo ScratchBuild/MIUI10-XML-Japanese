@@ -186,7 +186,7 @@
   <string name="data_usage_warning_title">データ使用の警告</string>
   <string name="data_usage_wifi_limit_snoozed_title">Wi-Fiデータの上限を超えました</string>
   <string name="data_usage_wifi_limit_title">Wi-Fiデータの上限に達しました</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%Y/%m/%d %-k:%M:%S</string>
   <string name="date_picker_decrement_day_button">1日戻します</string>
   <string name="date_picker_decrement_month_button">1か月戻します</string>
   <string name="date_picker_decrement_year_button">1年戻します</string>
@@ -1182,7 +1182,7 @@
   <string name="tethered_notification_title">テザリングまたはアクセスポイントが有効です</string>
   <string name="textSelectionCABTitle">テキスト選択</string>
   <string name="text_copied">テキストをクリップボードにコピーしました。</string>
-  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+  <string name="time_of_day" formatted="false">%-k:%M:%S</string>
   <string name="time_picker_decrement_hour_button">1時間戻します</string>
   <string name="time_picker_decrement_minute_button">1分戻します</string>
   <string name="time_picker_decrement_set_am_button">午前に設定</string>
