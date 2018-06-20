@@ -889,6 +889,7 @@
   <string name="cancel_action">キャンセル</string>
   <string name="cancel_alert">変更を破棄しますか？</string>
   <string name="cancel_button">キャンセル</string>
+  <string name="cancel_description">キャンセル</string>
   <string name="cancel_download_buton_text">キャンセル</string>
   <string name="cant_sync_dialog_message">このアイテムの同期は現在無効になっています。この設定を変更するには、バックグラウンドデータと自動同期を一時的にONにします。</string>
   <string name="cant_sync_dialog_title">手動では同期できません</string>
@@ -1024,6 +1025,7 @@
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">追加</string>
   <string name="confirm_convert_to_fbe_warning">ファイル暗号化のためにユーザーのデータを消去して変換してもよろしいですか？</string>
+  <string name="confirm_description">確認</string>
   <string name="confirm_download_cancelation_dialog_message">ダウンロードをキャンセルしますか？</string>
   <string name="confirm_enable_multi_window_text">警告: これは、[最近使ったアプリ]を通して画面上で同時に複数のアクティビティを許可する非常に試験運用的な機能です。一部のアプリはこの機能で使用するとクラッシュしたり正常に動作しなくなったりする可能性があります。</string>
   <string name="confirm_enable_multi_window_title">マルチウィンドウモードを有効にしますか？</string>
@@ -1669,6 +1671,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
+  <string name="fallback_home_title">読み込み中…</string>
   <string name="fcc_equipment_id">装置ID</string>
   <string name="file_privacy_password_role_instruction">プライベートなファイルはここに保存されます。</string>
   <string name="filter">フィルタ</string>
@@ -2032,6 +2035,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="key_combination_power_back">電源 + 戻る</string>
   <string name="key_combination_power_home">電源 + ホーム</string>
   <string name="key_combination_power_menu">電源 + メニュー</string>
+  <string name="key_fsg_dialog_message">ナビゲーションにフルスクリーンジェスチャーを使用中のため、ボタン関連の機能は現在利用できません。ボタン操作に切り替えますか？</string>
+  <string name="key_fsg_dialog_negative">キャンセル</string>
+  <string name="key_fsg_dialog_positive">ボタンに切り替える</string>
   <string name="key_gesture_function_dialog_message">%1$sは%2$sのショートカットです。%3$sで置き換えますか？</string>
   <string name="key_gesture_function_dialog_negative">キャンセル</string>
   <string name="key_gesture_function_dialog_positive">置き換える</string>

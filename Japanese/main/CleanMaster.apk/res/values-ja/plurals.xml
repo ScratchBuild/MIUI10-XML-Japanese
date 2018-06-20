@@ -101,6 +101,14 @@
         <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> アプリが長期間使用されていません、確認してください。"&lt;/Data></item>
         <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> アプリが長期間使用されていません、確認してください。"&lt;/Data></item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"%1$d個のファイルを削除中 (%2$d%%)\n"</item>
+        <item quantity="one">"%1$d個のファイルを削除中 (%2$d%%)\n"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d アイテム/秒 | 残り時間: %2$s</item>
+        <item quantity="one">%1$d アイテム/秒 | 残り時間: %2$s</item>
+    </plurals>
     <plurals name="hour">
         <item quantity="other">"%1$d時間"</item>
         <item quantity="one">"%1$d時間"</item>

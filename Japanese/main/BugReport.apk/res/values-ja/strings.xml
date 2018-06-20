@@ -265,6 +265,8 @@
   <string name="related_question_answer_details">"関連する問題"</string>
   <string name="reply">"返信"</string>
   <string name="reply_failed">"返信できませんでした"</string>
+  <string name="reply_option_log_hint">"オプション"</string>
+  <string name="reply_select_log_hint">"ログファイルを選択"</string>
   <string name="reply_successful">"返信に成功しました"</string>
   <string name="report_miui">"バグを報告"</string>
   <string name="request_empty_data">"データなし"</string>

@@ -245,6 +245,8 @@
   <string name="close_profile">閉じる</string>
   <string name="close_volte">VoLTEをオフにする</string>
   <string name="cloud_antispam_title">不明な番号を識別</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">Miローミングの使用中はデュアル4Gをオフにすることはできません</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">Miローミングの使用中はネットワークの設定を変更することはできません</string>
   <string name="cmcc_ut_data_enable_prompt">このサービスはモバイルデータ接続が必要です。続けるにはモバイルデータ接続をOnにしてください。</string>
   <string name="command_error_fdn_failure">最初にFDN（発信先固定）をOffにしてください。</string>
   <string name="config_disable_cdma_activation_code">false</string>
@@ -275,6 +277,11 @@
   <string name="cursorError">"カーソルエラー"</string>
   <string name="data_enable_summary">"モバイルデータの使用を許可"</string>
   <string name="data_enabled">"データ通信を有効にする"</string>
+  <string name="data_plan">モバイルデータプラン</string>
+  <string name="data_usage_uninstalled_apps">削除したアプリケーション</string>
+  <string name="data_usage_uninstalled_apps_users">削除されたアプリとユーザー</string>
+  <string name="dc_alert_dialog_message">一部のアプリではモバイルデータ接続が必要です。ご契約のキャリアに連絡して、%sが利用可能かを確認することができます。</string>
+  <string name="dc_alert_dialog_title">データ使用量の警告</string>
   <string name="deactivate_all">すべてキャンセル</string>
   <string name="delete">削除</string>
   <string name="deleteAllSimEntries">すべてのSIMの連絡先を削除</string>
@@ -318,6 +325,7 @@
   <string name="disabled_by_admin">"管理者によって無効にされています"</string>
   <string name="display_name_summary">&lt;ユーザー名と同じ></string>
   <string name="display_name_title">表示名</string>
+  <string name="do_not_show_again">次回から表示しない</string>
   <string name="domain_address_title">サーバー</string>
   <string name="doneButton">完了</string>
   <string name="dtmf_tone_entries_long">長め</string>

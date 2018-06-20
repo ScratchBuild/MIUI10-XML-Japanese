@@ -779,6 +779,9 @@
   <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
   <string name="gamebox_qq_not_find">Install QQ and try again.</string>
+  <string name="gamebox_type_close">"表示しない"</string>
+  <string name="gamebox_type_float">"ショートカットを固定"</string>
+  <string name="gamebox_type_gesture">"スワイプして表示"</string>
   <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>

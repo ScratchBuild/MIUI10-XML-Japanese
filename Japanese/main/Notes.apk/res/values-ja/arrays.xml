@@ -17,6 +17,16 @@
         <item>"住所"</item>
         <item>"メモ"</item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>Welcome to Notes!</item>
+        <item>Take notes</item>
+        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
+        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
+        <item>Share notes</item>
+        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
+        <item>Create&amp;switch between folders</item>
+        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
+    </string-array>
     <string-array name="folder_operations">
         <item>"名前の変更"</item>
         <item>"削除"</item>
@@ -30,16 +40,6 @@
     <string-array name="note_sort_way">
         <item>"作成日順"</item>
         <item>"変更日順"</item>
-    </string-array>
-    <string-array name="first_guide_contents">
-        <item>Welcome to Notes!</item>
-        <item>Take notes</item>
-        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-        <item>Share notes</item>
-        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-        <item>Create&amp;switch between folders</item>
-        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Voice notes</item>
