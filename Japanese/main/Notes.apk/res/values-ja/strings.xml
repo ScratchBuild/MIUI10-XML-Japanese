@@ -38,8 +38,8 @@
   <string name="dlg_check_reminder">"次回から表示しない"</string>
   <string name="dlg_delete_message">"削除中…"</string>
   <string name="dlg_hide_message">"非表示にしています…"</string>
-  <string name="dlg_info_creating_message">Creating image…</string>
-  <string name="dlg_info_save_to_gallery_message">Saving image to Gallery…</string>
+  <string name="dlg_info_creating_message">画像を作成中…</string>
+  <string name="dlg_info_save_to_gallery_message">画像をギャラリーに保存中…</string>
   <string name="dlg_message_password_reset">"Hidden notes' password will be replaced with Privacy protection password which works for apps, photos, and hidden folders"</string>
   <string name="dlg_message_set_password">Privacy protection password works for apps, photos, and hidden folders</string>
   <string name="dlg_message_use_privacy_password">Use Privacy protection password. It works for apps, photos, and hidden folders</string>
@@ -55,8 +55,8 @@
   <string name="edit_header_done_description">"完了"</string>
   <string name="edit_header_home_description">"戻る"</string>
   <string name="edit_header_lock_description">Hidden note</string>
-  <string name="empty_folder_import_notes">Import notes</string>
-  <string name="empty_folder_no_notes">No notes here</string>
+  <string name="empty_folder_import_notes">メモをインポート</string>
+  <string name="empty_folder_no_notes">メモはありません</string>
   <string name="enable_sync">"同期"</string>
   <string name="enable_sync_desc">"Mi Account(%1$s)を使用してメモを同期しますか？"</string>
   <string name="error_contact_not_exist">"連絡先が存在しません"</string>
@@ -70,8 +70,8 @@
   <string name="error_widget_exist_for_send_to_desktop">"このメモは既にホーム画面に設置済みです"</string>
   <string name="first_enter_custom_folder_hint">You can rename or delete folders here</string>
   <string name="folder_exist">"同じ名前のフォルダが既に存在します"</string>
-  <string name="folder_operation_delete">Delete</string>
-  <string name="folder_operation_rename">Rename</string>
+  <string name="folder_operation_delete">削除</string>
+  <string name="folder_operation_rename">名前を変更</string>
   <string name="force_touch_menu_add">"メモを追加"</string>
   <string name="format_move_note_out_folder">"このメモは移動されました"</string>
   <string name="format_move_note_to_folder">"%1$sに移動しました"</string>
@@ -118,7 +118,6 @@
   <string name="note_sort_way">"メモの並び替え方法を選択"</string>
   <string name="notealert_enter">"メモを開く"</string>
   <string name="notealert_ok">"却下"</string>
-  <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">"この許可を悪意のあるアプリに利用されると、個人情報にアクセスされる恐れがあります。"</string>
   <string name="permlab_accessNote">"メモへのアクセス"</string>
@@ -143,11 +142,11 @@
   <string name="rich_text_underline_description">Underline</string>
   <string name="root_folder_name">"クイックメモ"</string>
   <string name="save_to_gallery_failure_message">"保存できませんでした"</string>
-  <string name="save_to_gallery_icon_name">Save to Gallery</string>
+  <string name="save_to_gallery_icon_name">ギャラリーに保存</string>
   <string name="save_to_gallery_success_message">"正常に保存されました"</string>
   <string name="search">"メモ"</string>
   <string name="search_hint">"メモを検索"</string>
-  <string name="search_keyword_notes">"メモ;メモ"</string>
+  <string name="search_keyword_notes">"メモ;ノート"</string>
   <string name="search_label">"検索中…"</string>
   <string name="search_path_notes">"システムアプリ/メモ"</string>
   <string name="search_setting_description">"メモ内のテキストを検索"</string>
