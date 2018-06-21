@@ -5,19 +5,19 @@
         <item quantity="one">"%1$s hasn't been synced"</item>
     </plurals>
     <plurals name="folder_terms">
-        <item quantity="other">%1$s�̃t�H���_</item>
-        <item quantity="one">%1$s�̃t�H���_</item>
+        <item quantity="other">%1$s個のフォルダ</item>
+        <item quantity="one">%1$s個のフォルダ</item>
     </plurals>
     <plurals name="note_terms">
-        <item quantity="other">%1$s�̃���</item>
-        <item quantity="one">%1$s�̃���</item>
+        <item quantity="other">%1$s個のメモ</item>
+        <item quantity="one">%1$s個のメモ</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">�c��%d�b</item>
-        <item quantity="one">�c��%d�b</item>
+        <item quantity="other">残り%d秒</item>
+        <item quantity="one">残り%d秒</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s����</item>
-        <item quantity="one">%s����</item>
+        <item quantity="other">%s文字</item>
+        <item quantity="one">%s文字</item>
     </plurals>
 </resources>
