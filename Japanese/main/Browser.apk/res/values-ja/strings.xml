@@ -9,6 +9,7 @@
   <string name="accessibility_button_clear">"入力内容を消去"</string>
   <string name="account_prifix">"アカウント:"</string>
   <string name="action">"ログイン"</string>
+  <string name="action_imme_open">"今すぐ開く"</string>
   <string name="action_menu_account_not_login">"ログインしていません"</string>
   <string name="action_menu_account_not_login_hint">"Mi Cloudと同期するにはログインしてください"</string>
   <string name="action_menu_bookshelf">"本棚"</string>
@@ -45,7 +46,6 @@
   <string name="action_menu_useful_page_added">"スタートページに追加しました"</string>
   <string name="action_menu_user_center">"プロフィール"</string>
   <string name="action_modify_bookmark">"ブックマークを編集"</string>
-  <string name="action_one_touch">"通知を開く"</string>
   <string name="action_put_in_search_box">"検索ボックスに%sを配置"</string>
   <string name="action_skip">"スキップ"</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
@@ -199,10 +199,15 @@
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
+  <string name="custom_head_pull_down_text">Enter infoFlow</string>
   <string name="data_monitor">"データ使用量モニター"</string>
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
+  <string name="data_traffic_continue">"続行"</string>
+  <string name="data_traffic_goto">Free data traffic</string>
+  <string name="data_traffic_prompt_free_data">Using your mobile data connection to browse videos will increase your data usage. Please get free data traffic.</string>
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_title">"データ使用の警告"</string>
+  <string name="data_traffic_stop">"停止"</string>
   <string name="delete">"削除"</string>
   <string name="delete_bookmark">"削除"</string>
   <string name="delete_bookmark_action_warning">"ブックマークを削除しますか？"</string>
@@ -379,7 +384,7 @@
   <string name="menu_title_open_file_management">"File Managerを開く"</string>
   <string name="menu_title_pause_all">"すべて停止"</string>
   <string name="menu_title_resume_all">"すべて開始"</string>
-  <string name="message_notice_push">"最新のホットスポットを見逃しません！"</string>
+  <string name="message_notice_push">Experience my personal information</string>
   <string name="miui_autologin_bar_error">"ログインに失敗しました"</string>
   <string name="miui_autologin_bar_title">"Mi Accountでログイン"</string>
   <string name="miui_bookmark_action_bar_add_group_title">"グループに追加"</string>
@@ -801,6 +806,7 @@
   <string name="navigationbar_rightbutton_actiontext_cancle">"キャンセル"</string>
   <string name="navigationbar_rightbutton_actiontext_go">"移動"</string>
   <string name="navigationbar_rightbutton_actiontext_search">"検索"</string>
+  <string name="network_not_available_comment">"インターネット接続なし、コメントできません"</string>
   <string name="network_show_wifi_setting_tip_dialog_description">"近くにWi-Fiホットスポットが見つかりました。接続しますか？"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">"Wi-Fiネットワークが利用可能"</string>
   <string name="next_button_label">"進む"</string>
@@ -1005,6 +1011,7 @@
   <string name="save_to_camera_success">"ギャラリーに保存しました"</string>
   <string name="scanner_uninstalled_text">"続行するにはスキャナーをインストールしてください"</string>
   <string name="scanner_uninstalled_title">"スキャナーがアンインストールされました"</string>
+  <string name="screenshot_loading_dialog_title">"キャプチャ中"</string>
   <string name="sdcard_error">"SDカードを確認してください"</string>
   <string name="search">"検索"</string>
   <string name="search_baidu">Baidu</string>
@@ -1103,6 +1110,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_item_singer_albums">"%d アルバム"</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_item_site_mark">SITES</string>
+  <string name="suggest_access_item_topic_mark">"トピック"</string>
   <string name="suggest_access_item_video_mark">"動画"</string>
   <string name="suggest_access_item_weather_mark">"天気"</string>
   <string name="suggest_access_item_website_mark">"イエローページ"</string>
@@ -1123,6 +1131,10 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggestion_lottery_detail_price">EACH NOTE IS WORTH %s YUAN</string>
   <string name="suggestion_lottery_detail_text">THIS ROUND %s</string>
   <string name="suggestion_lottery_period">ROUND %s</string>
+  <string name="suggestion_more_button_text">"続きを見る"</string>
+  <string name="suggestion_more_news">"その他のニュース"</string>
+  <string name="suggestion_more_news_start_title_text">"関連ニュース"</string>
+  <string name="suggestion_topic_subtitle_hyphen">Focus</string>
   <string name="suggestion_translation_more">VIEW MORE</string>
   <string name="switchText">"はい"</string>
   <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
@@ -1136,7 +1148,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="tabs_description">"タブ"</string>
   <string name="temp_refuse">"結構です"</string>
   <string name="title_bar_loading">"読み込み中…"</string>
-  <string name="title_notice_push">"リマインダー通知"</string>
+  <string name="title_notice_push">"通知をオンにする"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>
   <string name="too_many_windows_dialog_title">"タブの数が限度に達しました"</string>
   <string name="transfer_prompt_0">"動画を再生"</string>

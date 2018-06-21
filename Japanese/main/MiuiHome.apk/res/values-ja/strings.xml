@@ -224,8 +224,9 @@
   <string name="open_personal_assistant_dialog_btn_cancel">キャンセル</string>
   <string name="open_personal_assistant_dialog_btn_confirm">オフにする</string>
   <string name="open_personal_assistant_dialog_desc">App vaultを使用したり、更新を受け取ることができません。今すぐオフにしますか？</string>
+  <string name="open_personal_assistant_dialog_desc_international">この機能をオフにすると、App Vaultのカード(株価、ショートカット等)を使用したり、更新を受け取ることができなくなります。</string>
   <string name="open_personal_assistant_dialog_title">App vaultをオフにする</string>
-  <string name="open_personal_assistant_title">App vaultをオンにする</string>
+  <string name="open_personal_assistant_title">App vault</string>
   <string name="out_of_space">"ホーム画面に空きスペースがありません"</string>
   <string name="permdesc_install_shortcut">"ユーザー操作なしでショートカットを追加することをアプリに許可します。"</string>
   <string name="permdesc_install_widget">"ユーザー操作なしでウィジェットを追加することをアプリに許可します。"</string>
