@@ -39,6 +39,10 @@
   <string name="grain_rain">谷雨</string>
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
+  <string name="group_name_contacts">"連絡先"</string>
+  <string name="group_name_coworkers">"同僚"</string>
+  <string name="group_name_family">"家族"</string>
+  <string name="group_name_friends">"友達"</string>
   <string name="heavy_snow">大雪</string>
   <string name="hksar_establishment_day">"香港成立記念日"</string>
   <string name="hoar_frost_falls">霜降</string>

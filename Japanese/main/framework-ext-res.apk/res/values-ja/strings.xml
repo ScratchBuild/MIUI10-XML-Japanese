@@ -49,10 +49,6 @@
   <string name="global_actions_reboot">"再起動"</string>
   <string name="global_actions_shutdown">"電源を切る"</string>
   <string name="global_actions_silent_mode">"サイレントモード"</string>
-  <string name="group_name_contacts">"連絡先"</string>
-  <string name="group_name_coworkers">"同僚"</string>
-  <string name="group_name_family">"家族"</string>
-  <string name="group_name_friends">"友達"</string>
   <string name="handy_mode_enter_dlg_msg">"片手操作モードに切り替えますか？"</string>
   <string name="handy_mode_enter_dlg_title">"片手操作モードに切り替え"</string>
   <string name="handy_mode_summary">"終了するには暗いエリアをタップ"</string>

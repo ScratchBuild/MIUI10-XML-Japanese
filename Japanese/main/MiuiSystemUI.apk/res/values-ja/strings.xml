@@ -360,9 +360,9 @@
   <string name="drag_to_add_tiles">タイルを追加するにはドラッグしてください</string>
   <string name="drag_to_remove_tiles">削除するにはここにドラッグ</string>
   <string name="drive_mode_tip">Car mode is on</string>
-  <string name="drive_mode_tip_idle">Tap to exit Car mode</string>
-  <string name="drive_mode_tip_idle_notch">Exit Car mode</string>
-  <string name="drive_mode_tip_notch">Car mode on</string>
+  <string name="drive_mode_tip_idle">Car mode is on</string>
+  <string name="drive_mode_tip_idle_notch">Car mode</string>
+  <string name="drive_mode_tip_notch">Car mode</string>
   <string name="emergency_call_string">緊急通報</string>
   <string name="empty_shade_text">通知はありません</string>
   <string name="enable_adb">USBデバッグ</string>

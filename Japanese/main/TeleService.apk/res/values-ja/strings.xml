@@ -1177,7 +1177,7 @@
   <string name="voice_service_cannot_call_notification_title">"Can't make calls in the current network"</string>
   <string name="voice_service_switch_summary">Turn on to be able to use VoLTE call functionality in VoLTE networks</string>
   <string name="voice_service_switch_title">Use VoLTE call services</string>
-  <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn if VoLTE is not supported in your area.
+  <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
 
 If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
 
@@ -1234,9 +1234,9 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="wapi_password_length_is_min">Password can not less than 8 characters in length</string>
   <string name="wapi_password_length_is_min_to_max">The password must be: 8-64 characters</string>
   <string name="wapi_yes">はい</string>
-  <string name="wfcmode_mobile_preferred">Cellular prefer</string>
-  <string name="wfcmode_wifi_only">WLAN only</string>
-  <string name="wfcmode_wifi_preferred">WLAN prefer</string>
+  <string name="wfcmode_mobile_preferred">モバイル優先</string>
+  <string name="wfcmode_wifi_only">Wi-Fiのみ</string>
+  <string name="wfcmode_wifi_preferred">Wi-Fi優先</string>
   <string name="wifi_aggressive_handover">Wi-Fiを強制的にモバイル接続に切り替える</string>
   <string name="wifi_aggressive_handover_summary">有効にすると、Wi-Fiの電波強度が弱い場合は強制的にモバイルデータ接続に切り替わるようになります</string>
   <string name="wifi_allow_scan_with_traffic">Wi‑Fiローミングスキャンを常に許可する</string>
@@ -1245,7 +1245,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
   <string name="wifi_call_setting">Wi-Fi通話</string>
   <string name="wifi_calling">"Wi-Fi通話"</string>
-  <string name="wificall_switch_summary">Your device can switch between WLAN and VoLTE when connection is poor</string>
+  <string name="wificall_switch_summary">Your device will switch between WLAN and VoLTE when connection is poor</string>
   <string name="wificall_switch_title">Make calls using WLAN</string>
   <string name="wild_prompt_str">"ワイルド文字を置換:"</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>

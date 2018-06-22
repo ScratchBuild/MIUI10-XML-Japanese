@@ -20,7 +20,7 @@
   <string name="account_has_been_set">"変更"</string>
   <string name="account_limit_update_birthday">"誕生日を更新できません"</string>
   <string name="account_mibi_center">Mi Credits</string>
-  <string name="account_mibi_charge">Mi Credits Charge</string>
+  <string name="account_mibi_charge">"チャージ"</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
@@ -334,7 +334,7 @@
   <string name="passport_register_by_email">"&lt;u>メールアドレスを使用してアカウントを作成&lt;/u>"</string>
   <string name="passport_register_restricted">"この番号に関連付けられているアカウントが多すぎます、別のものを試してみてください"</string>
   <string name="passport_register_restricted_title">"この電話番号は使用できません"</string>
-  <string name="passport_register_using_other_ways">"その他の方法で登録"</string>
+  <string name="passport_register_using_other_ways">"その他の方法でアカウントを作成"</string>
   <string name="passport_registered_phone_num">"電話番号: %s"</string>
   <string name="passport_registered_phone_user_ID">"ユーザーID: %s"</string>
   <string name="passport_registered_phone_user_name">"ユーザー名: %s"</string>
