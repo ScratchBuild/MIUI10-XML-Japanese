@@ -359,10 +359,10 @@
   <string name="dock_non_resizeble_failed_to_dock_text">アプリは分割画面をサポートしていません。</string>
   <string name="drag_to_add_tiles">タイルを追加するにはドラッグしてください</string>
   <string name="drag_to_remove_tiles">削除するにはここにドラッグ</string>
-  <string name="drive_mode_tip">Car mode is on</string>
-  <string name="drive_mode_tip_idle">Car mode is on</string>
-  <string name="drive_mode_tip_idle_notch">Car mode</string>
-  <string name="drive_mode_tip_notch">Car mode</string>
+  <string name="drive_mode_tip">運転モードはオンです</string>
+  <string name="drive_mode_tip_idle">運転モードはオンです</string>
+  <string name="drive_mode_tip_idle_notch">運転モード</string>
+  <string name="drive_mode_tip_notch">運転モード</string>
   <string name="emergency_call_string">緊急通報</string>
   <string name="empty_shade_text">通知はありません</string>
   <string name="enable_adb">USBデバッグ</string>
@@ -1101,9 +1101,9 @@
   <string name="quick_settings_dnd_none_label">サイレント</string>
   <string name="quick_settings_dnd_priority_label">優先する通知のみ</string>
   <string name="quick_settings_done">完了</string>
-  <string name="quick_settings_drivemode_label">Car mode</string>
+  <string name="quick_settings_drivemode_label">運転モード</string>
   <string name="quick_settings_dual_location_label">Dual GPS</string>
-  <string name="quick_settings_edit_label">Edit</string>
+  <string name="quick_settings_edit_label">編集</string>
   <string name="quick_settings_flashlight_label">ライト</string>
   <string name="quick_settings_hotspot_label">アクセスポイント</string>
   <string name="quick_settings_ime_label">入力方法</string>
