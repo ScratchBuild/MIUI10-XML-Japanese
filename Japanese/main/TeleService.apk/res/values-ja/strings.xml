@@ -181,7 +181,7 @@
   <string name="card_title_callonhold">保留にする</string>
   <string name="card_title_callonhold_released">保留を解除</string>
   <string name="card_title_callretrieved">Call retrieved</string>
-  <string name="card_title_clir_suppression_rejected">CLIR suppression rejected</string>
+  <string name="card_title_clir_suppression_rejected">Caller ID suppression rejected</string>
   <string name="card_title_conditionalCF">Conditional call forwarding is on</string>
   <string name="card_title_conf_call">グループ通話</string>
   <string name="card_title_cugcall">CUG call</string>

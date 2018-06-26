@@ -4094,7 +4094,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_lock_settings_category">SIMロックのセットアップ</string>
   <string name="sim_lock_settings_title">SIMロック</string>
   <string name="sim_management_title">SIMカードとモバイルネットワーク</string>
-  <string name="sim_management_title_cr_kolbi">SIMカードとモバイルネットワーク</string>
+  <string name="sim_management_title_singlesim">SIMカードとモバイルネットワーク</string>
   <string name="sim_multi_sims_summary">モバイルデータに使用するSIMを選択してください。</string>
   <string name="sim_multi_sims_title">複数のSIMが見つかりました</string>
   <string name="sim_name_hint">SIM名を入力します</string>

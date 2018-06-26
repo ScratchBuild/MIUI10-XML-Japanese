@@ -15,6 +15,7 @@
   <string name="activate_feature_register_xiaomi_account">"Mi Accountの設定"</string>
   <string name="activate_feature_remote_assist">"リモートアシスタント"</string>
   <string name="activate_feature_verify_mx_token">"Mi Accountの確認"</string>
+  <string name="activate_feature_voip">Mi Message Voice</string>
   <string name="activate_history_canceled_overview">SIM card activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">SIM card %2$d activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">Activated SIM card %2$d successfully. Activation is triggered by \"%1$s\".</string>
@@ -105,6 +106,11 @@
   <string name="activate_status_title_activating_msim">"SIMカード %d を有効にしています…"</string>
   <string name="agree">"許可"</string>
   <string name="app_name">Xiaomi SIM Activate Service</string>
+  <string name="checking_client">checking client env</string>
+  <string name="error_checking_client">client env error</string>
+  <string name="error_network_io">"ネットワークエラー"</string>
+  <string name="error_no_send_sms_permission">no send sms permission</string>
+  <string name="error_sim_not_in_service">sim not in service</string>
   <string name="explain_send_sms_permission_button">"確認"</string>
   <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
   <string name="explain_send_sms_permission_title">Verify your phone number</string>
@@ -117,4 +123,5 @@
   <string name="privacy_revoke_failed_msg">Activation requires granting authorization so that Messaging could get your phone number.</string>
   <string name="privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりMi Cloud、Mi Message、およびその他のメッセージ機能の同期は使用できなくなります。今すぐ権限を取り消しますか？"</string>
   <string name="sim_unactivated_title">"SIMカードが有効になっていません"</string>
+  <string name="waiting_sim_in_service">waiting sim in service</string>
 </resources>

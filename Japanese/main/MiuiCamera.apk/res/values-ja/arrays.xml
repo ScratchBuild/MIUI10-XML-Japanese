@@ -13,7 +13,7 @@
         <item>植物</item>
         <item>夜景</item>
         <item>雪景色</item>
-        <item>ビーチ</item>
+        <item>砂浜</item>
         <item>秋</item>
         <item>キャンドルライト</item>
         <item>自動車</item>
@@ -27,5 +27,13 @@
         <item>人物(逆光)</item>
         <item>人物(順光)</item>
         <item>人物</item>
+        <item>宝石</item>
+        <item>仏像</item>
+        <item>牛</item>
+        <item>カレー</item>
+        <item>バイク</item>
+        <item>寺院</item>
+        <item>砂浜</item>
+        <item>水中</item>
     </string-array>
 </resources>
