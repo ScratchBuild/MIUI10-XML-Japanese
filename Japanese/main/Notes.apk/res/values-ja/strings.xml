@@ -4,6 +4,8 @@
   <string name="action_mode_switcher_grid_description">"グリッド表示"</string>
   <string name="action_mode_switcher_list_description">"リスト表示"</string>
   <string name="action_settings_description">"設定を開く"</string>
+  <string name="actionbar_close_description">"閉じる"</string>
+  <string name="actionbar_home_description">"戻る"</string>
   <string name="add_account_desc">"Mi Accountを使用してメモを同期しますか？"</string>
   <string name="alarm_bar_title">"リマインダー"</string>
   <string name="alert_action_edit_anyway">"編集を続ける"</string>
@@ -53,7 +55,6 @@
   <string name="dlg_unhide_message">"非表示を解除しています…"</string>
   <string name="done">"完了"</string>
   <string name="edit_header_done_description">"完了"</string>
-  <string name="edit_header_home_description">"戻る"</string>
   <string name="edit_header_lock_description">Hidden note</string>
   <string name="empty_folder_import_notes">メモをインポート</string>
   <string name="empty_folder_no_notes">メモはありません</string>
@@ -92,7 +93,8 @@
   <string name="menu_delete">"削除"</string>
   <string name="menu_delete_forever">"完全に削除"</string>
   <string name="menu_folders">"フォルダ"</string>
-  <string name="menu_mark_privacy">"非表示にする"</string>
+  <string name="menu_hide">"隠す"</string>
+  <string name="menu_more_description">"その他"</string>
   <string name="menu_move_parent_folder">"親フォルダ"</string>
   <string name="menu_move_to">"移動"</string>
   <string name="menu_new_folder">"新しいフォルダ"</string>
@@ -195,11 +197,11 @@
   <string name="toast_reach_text_limit_attachment">"メモが長すぎるため、新しい添付ファイルを追加できません"</string>
   <string name="toast_reach_text_limit_checkbox">"メモが長すぎるため、チェックボックスを追加できません"</string>
   <string name="toast_reach_text_limit_truncate">"このメモは長すぎます。いくつかのテキストは最後が切り取られています。"</string>
-  <string name="toast_refuse_to_record_when_in_call">"Can't use this feature during calls"</string>
+  <string name="toast_refuse_to_record_when_in_call">"通話中にこの機能を使用することはできません"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">"分割画面でこの機能を使用することはできません"</string>
   <string name="toolbar_check_description">"チェックボックスを追加"</string>
   <string name="toolbar_delete_description">"メモを削除"</string>
   <string name="toolbar_gallery_description">"画像を追加"</string>
-  <string name="toolbar_more_description">"その他"</string>
   <string name="toolbar_redo_description">"やり直し"</string>
   <string name="toolbar_share_description">"メモを共有"</string>
   <string name="toolbar_text_description">Text style</string>

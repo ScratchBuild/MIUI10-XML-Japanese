@@ -2300,12 +2300,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_choose_for_second_user">Second space用のパスワードを設定</string>
   <string name="lockpassword_choose_lock_generic_header">画面ロックの選択</string>
   <string name="lockpassword_choose_your_password_header">パスワードを設定</string>
-  <string name="lockpassword_choose_your_password_second_space">"Second space用
- のパスワードを設定する"</string>
+  <string name="lockpassword_choose_your_password_second_space">"Second space用のPINを設定する。
+This PIN must contain as many digits
+as your First space PIN."</string>
   <string name="lockpassword_choose_your_pattern_header">パターンを設定</string>
   <string name="lockpassword_choose_your_pin_header">PINを設定</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Second space用
  のPINを設定する"</string>
+  <string name="lockpassword_choose_your_pin_title">4～16桁を入力</string>
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
   <string name="lockpassword_confirm_passwords_dont_match">パスワードが一致しません</string>
   <string name="lockpassword_confirm_pins_dont_match">PINが一致しません</string>
