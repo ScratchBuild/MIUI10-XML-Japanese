@@ -52,6 +52,8 @@
   <string name="accessibility_ime_switch_button">入力方法切り替えボタン</string>
   <string name="accessibility_managed_profile">仕事用プロファイル</string>
   <string name="accessibility_menu">メニュー</string>
+  <string name="accessibility_menu_item_split_disable">アプリは分割画面に対応していません</string>
+  <string name="accessibility_menu_item_split_enable">アプリは分割画面をサポートしています</string>
   <string name="accessibility_no_data">データ信号:なし</string>
   <string name="accessibility_no_phone">電波状態:なし</string>
   <string name="accessibility_no_wifi">Wi-Fiが切断されました。</string>
@@ -79,6 +81,8 @@
   <string name="accessibility_search_light">検索</string>
   <string name="accessibility_search_scanner">スキャナー</string>
   <string name="accessibility_settings">設定</string>
+  <string name="accessibility_splite_screen_primary">Add to split screen primary application</string>
+  <string name="accessibility_splite_screen_secondary">Add to split screen secondary application</string>
   <string name="accessibility_tty_enabled">テレタイプライターが有効です。</string>
   <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>

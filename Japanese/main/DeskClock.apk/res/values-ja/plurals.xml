@@ -4,10 +4,6 @@
         <item quantity="other">"%d分後に再通知します。"</item>
         <item quantity="one">"%d分後に再通知します。"</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">Alarms will silence after %d minutes</item>
-        <item quantity="one">Alarms will silence after %d minute</item>
-    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">"選択したアラームを削除しますか？"</item>
         <item quantity="one">"このアラームを削除しますか？"</item>
@@ -23,14 +19,6 @@
     <plurals name="snooze_message">
         <item quantity="other">Snooze for %d mins</item>
         <item quantity="one">Snooze for %d min</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">"%1$d分"</item>
-        <item quantity="one">"1分"</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">"%1$d秒"</item>
-        <item quantity="one">"1秒"</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d時間 "</item>
