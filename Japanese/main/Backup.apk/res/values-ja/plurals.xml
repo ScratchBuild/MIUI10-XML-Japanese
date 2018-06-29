@@ -13,12 +13,12 @@
         <item quantity="one">%d個</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d items,</item>
-        <item quantity="one">%d item,</item>
+        <item quantity="other">%d個のアイテム、</item>
+        <item quantity="one">%d個のアイテム、</item>
     </plurals>
     <plurals name="custom_progress">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d個のアイテム</item>
+        <item quantity="one">%d個のアイテム</item>
     </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">%d個のアイテムを転送できませんでした。詳細を表示するにはタップ。</item>
@@ -45,19 +45,19 @@
         <item quantity="one">item</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">Restored %d items</item>
-        <item quantity="one">Restored %d item</item>
+        <item quantity="other">%d個のアイテムを復元しました</item>
+        <item quantity="one">%d個のアイテムを復元しました</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">Imported and restored %d items</item>
-        <item quantity="one">Imported and restored %d item</item>
+        <item quantity="other">%d個のアイテムをインポートおよび復元しました</item>
+        <item quantity="one">%d個のアイテムをインポートおよび復元しました</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"Imported %d items. "</item>
-        <item quantity="one">"Imported %d item. "</item>
+        <item quantity="other">"%d個のアイテムをインポートしました。 "</item>
+        <item quantity="one">"%d個のアイテムをインポートしました。 "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">Import %d items again.</item>
-        <item quantity="one">Import %d item again.</item>
+        <item quantity="other">%d個のアイテムを再度インポートしてください。</item>
+        <item quantity="one">%d個のアイテムを再度インポートしてください。</item>
     </plurals>
 </resources>

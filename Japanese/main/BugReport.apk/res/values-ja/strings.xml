@@ -144,7 +144,6 @@
   <string name="menu_copy">"コピー"</string>
   <string name="message_label">"メッセージ"</string>
   <string name="michat_app_name">"オンラインサポート"</string>
-  <string name="michat_artificial_customer_phone">4001005678</string>
   <string name="michat_artificial_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
   <string name="michat_artificial_customer_text">"サポート担当者"</string>
   <string name="michat_attach_image">"画像"</string>
@@ -250,7 +249,7 @@
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">"データ接続時にレポートが送信されます。"</string>
   <string name="network_unavailable_dialog_title">"ネットワークに接続できませんでした"</string>
-  <string name="non_system_app_select">Downloaded apps</string>
+  <string name="non_system_app_select">"ユーザーアプリ"</string>
   <string name="open_feedback_main">"その他"</string>
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
   <string name="permission_granted">%1$s permission granted</string>

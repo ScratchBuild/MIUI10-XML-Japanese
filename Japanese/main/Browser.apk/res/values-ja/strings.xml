@@ -515,7 +515,7 @@
   <string name="mw_date_picker_dialog_set">"設定"</string>
   <string name="mw_date_picker_dialog_title">"日付の設定"</string>
   <string name="mw_date_time_picker_dialog_title">"日付と時刻の設定"</string>
-  <string name="mw_external_payment_app_leave_incognito_warning">Leaving incognito mode to pay via an external application. Continue?</string>
+  <string name="mw_external_payment_app_leave_incognito_warning">シークレットモードを使用して、外部アプリ経由で支払いを行います。続行しますか？</string>
   <string name="mw_find_next">"次を検索"</string>
   <string name="mw_find_previous">"前を検索"</string>
   <string name="mw_http_post_warning">検索しているページは、入力した情報を使用しています。このページに戻った場合、操作のやり直しが発生する可能性があります。続行しますか？</string>
@@ -1229,7 +1229,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_project_button">"停止"</string>
   <string name="video_project_msg">"%sに動画をキャスト中"</string>
   <string name="video_project_title">"動画をキャスト中"</string>
-  <string name="video_push_multi_message">%1$d updates available.</string>
+  <string name="video_push_multi_message">%1$d件の更新が利用可能。</string>
   <string name="video_push_multi_title">"更新が利用可能"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
   <string name="video_service_notification_title">Playing pop-up video</string>

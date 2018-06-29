@@ -47,10 +47,10 @@
   <string name="i_know">OK</string>
   <string name="input_password_hint">パスワードを入力</string>
   <string name="internet_access_dspt">このアプリが正常に動作するには、インターネットへの接続が必要です。</string>
-  <string name="ks_certificate_udpate_time">Certificate update</string>
-  <string name="ks_certificate_version">Certificate number</string>
-  <string name="ks_download_certificate">Download certificate</string>
-  <string name="ks_download_success">Downloaded successfully</string>
+  <string name="ks_certificate_udpate_time">証明書の更新</string>
+  <string name="ks_certificate_version">証明書番号</string>
+  <string name="ks_download_certificate">証明書のダウンロード</string>
+  <string name="ks_download_success">ダウンロードが完了しました</string>
   <string name="ks_fingerprint_payment">Fingerprint payments</string>
   <string name="ks_fingerprint_status">Payment status</string>
   <string name="ks_name_alipay">IFAA</string>

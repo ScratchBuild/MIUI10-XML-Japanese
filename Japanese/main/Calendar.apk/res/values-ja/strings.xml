@@ -365,7 +365,7 @@
   <string name="preferences_import_electricity_bill">"電気料金"</string>
   <string name="preferences_import_gas_bill">"ガス料金"</string>
   <string name="preferences_import_hotel">"ホテル"</string>
-  <string name="preferences_import_loan">贷款账单</string>
+  <string name="preferences_import_loan">"ローンの請求"</string>
   <string name="preferences_import_movie">"映画のチケット"</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_title">"カレンダー"</string>
@@ -389,7 +389,6 @@
   <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
   <string name="repeat_custom_string_prefix">Custom</string>
-  <string name="repeat_custom_string_suffix">" (%1$s)"</string>
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
@@ -401,11 +400,10 @@
   <string name="repeat_label_choose_month">"月を選択"</string>
   <string name="repeat_label_choose_time">"アラーム時刻を選択"</string>
   <string name="repeat_label_choose_week">"週を選択"</string>
-  <string name="repeat_label_day">Day</string>
+  <string name="repeat_label_day">"日"</string>
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
-  <string name="repeat_label_week">Week</string>
-  <string name="repeat_month_day_splitter">" "</string>
+  <string name="repeat_label_week">"週"</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">"繰り返し"</string>
   <string name="response_maybe">"未定"</string>
@@ -421,7 +419,6 @@
   <string name="select_date">"日付を選択"</string>
   <string name="select_synced_calendars_title">"カレンダーと同期"</string>
   <string name="setting_about_calendar_version">カレンダーバージョン:</string>
-  <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUIバージョン:</string>
   <string name="setting_about_summary">バージョン:</string>
   <string name="setting_accounts">"カレンダーのアカウント"</string>
