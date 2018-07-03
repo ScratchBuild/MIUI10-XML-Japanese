@@ -1659,6 +1659,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="every_day">毎日</string>
   <string name="experimental_category_title">試験運用機能</string>
   <string name="experimental_preference">（試験運用）</string>
+  <string name="extended_power_menu">拡張電源メニュー</string>
   <string name="external_code_size_label">USBストレージアプリ</string>
   <string name="external_data_size_label">SDカード</string>
   <string name="external_source_switch_title">この提供元のアプリを許可</string>
@@ -3565,7 +3566,7 @@ as your First space PIN."</string>
   <string name="screen_paper_mode_off_apps_title">読書モードを使用しない</string>
   <string name="screen_paper_mode_range_title">設定</string>
   <string name="screen_paper_mode_set_apps_title">読書モードを使用するアプリ</string>
-  <string name="screen_paper_mode_summary">"ディスプレイのブルーライトを低減する"</string>
+  <string name="screen_paper_mode_summary">読書モードでは、ディスプレイを暖色に設定して目をリラックスさせることができます。</string>
   <string name="screen_paper_mode_time_summary">スケジュールした時間に読書モードのオン/オフを切り替える</string>
   <string name="screen_paper_mode_time_title">スケジュール</string>
   <string name="screen_paper_mode_title">読書モード</string>

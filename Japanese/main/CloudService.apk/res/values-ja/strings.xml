@@ -142,7 +142,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_find_device_guide_alert_negtive">結構です</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">結構です</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Mi Account IDとパスワードを記憶する</string>
+  <string name="micloud_find_device_guide_alert_title">パスワードを記憶する</string>
   <string name="micloud_find_device_guide_button">Find deviceをオンにする</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Account - Mi CloudからFinde Deviceをオンにすることができます</string>
   <string name="micloud_find_device_guide_fail_sub_net">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
