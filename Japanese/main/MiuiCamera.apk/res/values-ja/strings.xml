@@ -379,6 +379,7 @@ and brings out the people in the front."</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
+  <string name="pref_video_quality_summary">4K動画は120fpsモードではサポートしていません</string>
   <string name="pref_video_quality_title">"動画品質"</string>
   <string name="pref_video_speed_entry_fast">"高速"</string>
   <string name="pref_video_speed_entry_normal">"標準"</string>

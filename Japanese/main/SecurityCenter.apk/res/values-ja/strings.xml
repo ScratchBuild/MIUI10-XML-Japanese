@@ -737,6 +737,12 @@
   <string name="float_window">"フローティングウインドウ"</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="fod_authentication_shift_button">"キャンセル"</string>
+  <string name="fod_button_finger">"指紋を使用"</string>
+  <string name="fod_button_password">"パスワードを入力"</string>
+  <string name="fod_finger_notice_title">"指を画面に置いてください"</string>
+  <string name="fod_finger_windows_tips">"指紋を確認する"</string>
+  <string name="fod_tips_split_screen_more_than_half">"パスワードを入力"</string>
   <string name="forbid_autobright_summary">"ゲームのプレイ中に画面の明るさが変わらないようにする"</string>
   <string name="forbid_autobright_title">"画面の明るさを固定する"</string>
   <string name="foreground_traffic">"フォアグラウンド %s"</string>
@@ -2204,4 +2210,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
   <string name="xunyou_pay_webview">Xunyou services</string>
   <string name="xunyou_server_expired">The session expired.</string>
+  <string name="yuan">CNY</string>
 </resources>

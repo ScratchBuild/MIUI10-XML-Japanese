@@ -801,6 +801,9 @@
   <string name="memory_clear_result_giga">%1$sGB cleared</string>
   <string name="memory_clear_result_mega">%1$sMB cleared</string>
   <string name="menu_ime">キーボードを切り替え</string>
+  <string name="miui_guide_dialog_button_negative_text">設定</string>
+  <string name="miui_guide_dialog_button_positive_text">OK</string>
+  <string name="miui_guide_dialog_message">Media sounds (music, videos, etc.) will still be played in Silent mode. You can change this in the Settings.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">"Bluetoothデバイスによってロック解除されました"</string>
   <string name="miui_ringer_count_down">Count down</string>
   <string name="miui_ringer_count_down_time">Count down: %s</string>
@@ -810,8 +813,10 @@
   <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
   <string name="miui_toast_zen_dnd_to_off">Sounds and vibration restored to normal</string>
   <string name="miui_toast_zen_standard_to_off">Ringtones restored to normal</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Ringtones, as well as notification and media sounds, will be played.</string>
   <string name="miui_toast_zen_to_dnd">Sounds silenced and vibration turned off</string>
   <string name="miui_toast_zen_to_standard">Ringtones for calls and notifications silenced</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Ringtones, as well as notification and media sounds, will be silenced.</string>
   <string name="mobile_data">モバイルデータ</string>
   <string name="mobile_data_always_on">モバイルデータを常にON</string>
   <string name="mobile_data_always_on_summary">Wi‑Fiが（ネットワークの自動切り替えで）ONのときでもモバイルデータが常にONになります。</string>

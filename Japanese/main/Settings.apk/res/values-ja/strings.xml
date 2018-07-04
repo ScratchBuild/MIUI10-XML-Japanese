@@ -4220,10 +4220,11 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_show_carrier_summary">この機能がオフの場合には、キャリア名がロック画面と通知領域に表示されます</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Show carrier when device is locked</string>
   <string name="status_bar_settings_show_floating_notification">フローティング通知</string>
-  <string name="status_bar_settings_show_floating_notification_summary">フローティング通知は画面の上部に表示された後、自動的に消えます</string>
+  <string name="status_bar_settings_show_floating_notification_summary">画面の上部に重要な通知を表示することを許可する</string>
   <string name="status_bar_settings_show_flow_info">データ使用量を表示</string>
   <string name="status_bar_settings_show_home_message">アプリのアイコンバッジ</string>
   <string name="status_bar_settings_show_keyguard_notification">ロック画面の通知</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">ロック画面上に重要な通知を表示することを許可する</string>
   <string name="status_bar_settings_show_network_speed">接続速度を表示</string>
   <string name="status_bar_settings_show_notification_icon">通知アイコンを表示</string>
   <string name="status_bar_settings_show_wifi_name">Wi-Fiネットワークを表示</string>
