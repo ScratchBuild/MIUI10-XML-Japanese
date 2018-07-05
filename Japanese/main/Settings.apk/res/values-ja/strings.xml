@@ -1763,6 +1763,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">このスイッチがオフの場合、インストールされたアプリはWi-Fiを使用してインターネットに接続できません。</string>
   <string name="firmware_version">Androidバージョン</string>
+  <string name="flash_drive_backup_restore">USBを使用してバックアップまたは復元</string>
+  <string name="flash_drive_backup_restore_summary">USBドライブを接続してください</string>
   <string name="floating_window_switch_label">フローティングウィンドウを有効にする</string>
   <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
   <string name="fluency_mode">システムアニメーション</string>
