@@ -836,6 +836,17 @@
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Bluetooth HCIスヌープログを有効にする</string>
   <string name="bt_hci_snoop_log_summary">Bluetooth HCIパケットをすべてファイルにキャプチャする</string>
+  <string name="bt_ldac_declaration">When the Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience and also brings higher power consumption. Playback may occur due to Bluetooth hardware limitations</string>
+  <string name="bt_ldac_dialog_summary">"LDAC provides a high-quality audio experience and also brings higher power consumption
+This feature can be turned off in [Settings]"</string>
+  <string name="bt_ldac_dialog_title">The current device supports LDAC, which has been connected by default:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC provides a high-quality audio experience and also brings higher power consumption. Playback may occur due to Bluetooth hardware limitations</string>
+  <string name="bt_ldac_open_dialog_title">Are you sure to turn on LDAC?</string>
+  <string name="bt_ldac_pre_summary">高品質なオーディオ体験を提供します</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">プロパティ</string>
+  <string name="bt_ldac_remember_choice">次回から表示しない</string>
+  <string name="bt_ldac_settings">設定</string>
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
   <string name="bt_trace_log_summary">Bluetoothトレースログ</string>
@@ -3869,6 +3880,9 @@ as your First space PIN."</string>
   <string name="second_space">Second space</string>
   <string name="secondspace_category">Second space</string>
   <string name="secondspace_delete_space_title">Second spaceを削除</string>
+  <string name="secspace_fod_finger_tips">指紋を確認できませんでした、もう一度お試しください。</string>
+  <string name="secspace_fod_finger_title">指紋を確認する</string>
+  <string name="secspace_fod_use_password">パスワードを入力</string>
   <string name="secure_keyguard_business_title">画面ロックを設定</string>
   <string name="secure_lock_encryption_warning">ユーザー補助サービスがONに設定されているため、端末データの暗号化の強化に画面ロックは使用されません。</string>
   <string name="security_dashboard_summary">画面ロック、指紋</string>
