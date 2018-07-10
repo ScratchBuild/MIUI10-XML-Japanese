@@ -1573,6 +1573,13 @@ EEEE"</string>
   <string name="wifi_verbose_logging">Wi-Fi詳細ログの有効化</string>
   <string name="wifi_verbose_logging_summary">Wi-Fiログレベルを上げて、Wi-Fi選択ツールでSSID RSSIごとに表示します</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
+  <string name="wireless_change_to_ac_charging">有線充電に切り替えました</string>
+  <string name="wireless_charge_current">充電中</string>
+  <string name="wireless_charge_dialog_cancel">OK</string>
+  <string name="wireless_charge_dialog_title">充電器の中央に端末を置いてください</string>
+  <string name="wireless_charge_reset_device">充電速度が遅いです、端末を置き直してください。</string>
+  <string name="wireless_charge_reset_device_detail">充電器の正しい位置に端末が置かれているか確認してください</string>
+  <string name="wireless_charge_stop">ワイヤレス充電が停止しました</string>
   <string name="wrong_password">パスワードが正しくありません</string>
   <string name="zen_alarm_warning">次回のアラーム（%1$s）は鳴りません</string>
   <string name="zen_alarm_warning_indef">この設定をOFFにしないと次回のアラーム（%1$s）は鳴りません</string>

@@ -240,6 +240,10 @@
         <item quantity="other">"バグレポートの送信まであと%1$dステップです。"</item>
         <item quantity="one">"バグレポートの送信まであと%1$dステップです。"</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">出荷時の状態にリセットするまであと%1$dステップです</item>
+        <item quantity="one">出荷時の状態にリセットするまであと%1$dステップです</item>
+    </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">データの無制限使用が可能なアプリは %d 個です</item>
         <item quantity="one">データの無制限使用が可能なアプリは 1 個です</item>

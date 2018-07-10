@@ -1109,6 +1109,8 @@ To add a contact to your list of favorites:
   <string name="title_other_devices">"その他の利用可能なデバイス"</string>
   <string name="title_paired_devices">"ペア設定したデバイス"</string>
   <string name="toast_call_detail_error">"詳細情報がありません"</string>
+  <string name="toast_call_no_SoundRecorder">"レコーダーアプリが利用できません"</string>
+  <string name="toast_call_no_notes">"メモアプリが利用できません"</string>
   <string name="toast_copy_done">"完了"</string>
   <string name="toast_copying">"コピー中…"</string>
   <string name="toast_displaying_all_contacts">"すべての連絡先を表示しています"</string>

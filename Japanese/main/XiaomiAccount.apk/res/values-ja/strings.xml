@@ -392,7 +392,7 @@
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
   <string name="passport_vcode_prompt_long">"認証コードを入力"</string>
   <string name="passport_vcode_sms_send_prompt">"認証コードを%sに送信します"</string>
-  <string name="passport_verification_failed">"認証に失敗しました"</string>
+  <string name="passport_verification_failed">"アカウントを確認できませんでした"</string>
   <string name="passport_verify">"認証"</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
   <string name="passport_wrong_captcha">"入力したコードが正しくありません"</string>
