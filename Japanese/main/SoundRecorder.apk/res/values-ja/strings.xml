@@ -97,6 +97,7 @@
   <string name="record_downloading_notification">"ダウンロード中…"</string>
   <string name="record_downloading_notification_complete">"ダウンロード完了"</string>
   <string name="record_downloading_notification_count">%d downloading</string>
+  <string name="record_format_preference_title">"録音フォーマット"</string>
   <string name="record_list">"録音"</string>
   <string name="record_list_call">"録音した通話"</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>
