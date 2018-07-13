@@ -137,6 +137,7 @@
   <string name="description_calendar">"システムアプリ/カレンダー"</string>
   <string name="description_calendar_edit_event">"システムアプリ/カレンダー/予定"</string>
   <string name="directory_searching_fmt">"%sを検索中…"</string>
+  <string name="discard_label">"キャンセル"</string>
   <string name="does_not_repeat">"繰り返しなし"</string>
   <string name="done">"戻る"</string>
   <string name="download">"ダウンロード"</string>

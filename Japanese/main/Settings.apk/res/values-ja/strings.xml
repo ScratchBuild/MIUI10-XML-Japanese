@@ -3481,6 +3481,7 @@ as your First space PIN."</string>
   <string name="retail_demo_reset_next">次へ</string>
   <string name="retail_demo_reset_title">パスワード必須</string>
   <string name="retry">再試行</string>
+  <string name="rgb_manage_facerecoginition_text">2D顔データを管理</string>
   <string name="ring_volume_option_title">着信音の音量</string>
   <string name="ring_volume_title">着信音量</string>
   <string name="ringtone_mute">None</string>
@@ -4404,7 +4405,8 @@ PINが正しくない可能性があります。"</string>
   <string name="storageuse_settings_title">ストレージ使用状況</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
-  <string name="structure_add_facerecoginition_text">Add 3D face data</string>
+  <string name="structure_add_facerecoginition_text">3D顔データを追加</string>
+  <string name="structure_manage_facerecoginition_text">3D顔データを管理</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードで最適に動作します</string>
   <string name="suggested_fingerprint_lock_settings_summary">指紋でロック解除する</string>
   <string name="suggested_lock_settings_summary">お使いの端末を保護する</string>

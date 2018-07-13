@@ -54,6 +54,7 @@
   <string name="album_name_people">"人物"</string>
   <string name="album_name_recent_discovery">"履歴"</string>
   <string name="album_name_tags">"タグ"</string>
+  <string name="album_notes">"メモ"</string>
   <string name="album_others_share_baby_info_format">Baby album from %s</string>
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">"共有済み"</string>
@@ -355,7 +356,6 @@
   <string name="enable_cloud_for_sharing">Turn on Mi Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
   <string name="enable_face_album_title">Sort by people</string>
-  <string name="enabling_face_feature">"読み込み中…"</string>
   <string name="enter_choice_mode">Entered Share dialog</string>
   <string name="enter_email_hint">"メールアドレスを入力"</string>
   <string name="error_album_not_exist">"アルバムが存在しません"</string>
@@ -428,7 +428,6 @@
   <string name="exit_video_play">"終了"</string>
   <string name="expand_desc">"その他"</string>
   <string name="expand_people">Show more people</string>
-  <string name="face_album_detecting_tip">"読み込み中…"</string>
   <string name="face_album_empty">"Not enough photos to recognize people.
 Take more photos of your friends!"</string>
   <string name="face_album_empty_syncing">Syncing data, come back in a while</string>
@@ -436,7 +435,6 @@ Take more photos of your friends!"</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
-  <string name="face_album_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_album_rename_hint">"名前を入力"</string>
   <string name="face_album_title">Photos with %s</string>
   <string name="face_album_use_tip">Automatically sort photos by the people that are in them.</string>
@@ -454,7 +452,8 @@ Take more photos of your friends!"</string>
   <string name="fancy_color_desc">Colors</string>
   <string name="fast_share_auto_render">Beautify</string>
   <string name="fast_share_auto_render_finish">Beautified</string>
-  <string name="feature_guidance_photo_effects">Photo effects</string>
+  <string name="feature_guidance_photo_effects">"新しい写真エフェクトが利用可能です"</string>
+  <string name="feature_guidance_video_editor_smart_effects">"新しいエフェクトが利用可能です"</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Food</string>
   <string name="filter_category_master">Master</string>
@@ -775,7 +774,13 @@ Take more photos of your friends!"</string>
   <string name="photo_print_package_installing">"プラグインの読み込み中…"</string>
   <string name="photo_save_to_msg">"%sに保存しました"</string>
   <string name="photomovie_audio_custom">Local</string>
+  <string name="photomovie_audio_default">Memory</string>
+  <string name="photomovie_audio_kawaii">Romantic</string>
+  <string name="photomovie_audio_light">Ballad</string>
+  <string name="photomovie_audio_linear">Rock</string>
   <string name="photomovie_audio_none">"なし"</string>
+  <string name="photomovie_audio_soft">Ukulele</string>
+  <string name="photomovie_audio_sport">Techno</string>
   <string name="photomovie_cancel_download">"キャンセル"</string>
   <string name="photomovie_delete_disable">"クリップを作成するには、少なくとも3枚の写真が必要です。"</string>
   <string name="photomovie_download">"ダウンロード"</string>
@@ -797,6 +802,11 @@ Take more photos of your friends!"</string>
   <string name="photomovie_tab_music">Music</string>
   <string name="photomovie_tab_template">"テンプレート"</string>
   <string name="photomovie_template_default">Slow</string>
+  <string name="photomovie_template_kawaii">Charms</string>
+  <string name="photomovie_template_light">Breeze</string>
+  <string name="photomovie_template_linear">Roadtrip</string>
+  <string name="photomovie_template_soft">Youth</string>
+  <string name="photomovie_template_sport">Vigor</string>
   <string name="pick_from_contact">"連絡先から選択"</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="picker_cancel_download">"ダウンロードをキャンセル"</string>
@@ -809,6 +819,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_no_network_message">"ダウンロードするにはネットワークに接続してください"</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
+  <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
   <string name="picker_title_format">Select %1$d to %2$d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
   <string name="picker_title_selection_format_multiple">Select %1$d to %2$d photos (%3$d)</string>
@@ -921,12 +932,12 @@ Take more photos of your friends!"</string>
   <string name="search_net_error">"ネットワークエラーが発生しました。別のネットワークに接続してもう一度お試しください。"</string>
   <string name="search_request_applied">"適用されました"</string>
   <string name="search_request_open">"テストチームに参加"</string>
+  <string name="search_request_requesting">Applied. Wait a while before you start.</string>
   <string name="search_result_empty">"何も見つかりませんでした"</string>
   <string name="search_retry">"再試行"</string>
   <string name="search_select_network">"ネットワークを選択"</string>
   <string name="search_set_network_connection">"ネットワーク設定"</string>
   <string name="search_setting_sub_title">"写真上の人物、場所、オブジェクトを検索する。"</string>
-  <string name="search_setting_sub_title_open">"承認されました。開始までもう少々お待ちください。"</string>
   <string name="search_setting_title">"ギャラリー内の写真を検索"</string>
   <string name="search_syncing">Syncing data, come back in a while</string>
   <string name="search_title_album">"アルバム"</string>
@@ -956,6 +967,7 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_too_large">"ファイルが大きすぎます"</string>
   <string name="secret_reason_type_not_support">"このファイルタイプはサポートされていません"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
+  <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">"元のファイル (%s)"</string>
@@ -1166,7 +1178,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_smart_effect_fastslow">Motion</string>
   <string name="video_editor_smart_effect_freesze">Stop motion</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">This effect works best with high frame rate videos.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
   <string name="video_editor_smart_effect_movie">Movie</string>
   <string name="video_editor_smart_effect_none">None</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
@@ -1193,6 +1205,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
   <string name="video_editor_unzip_file_fail">"Couldn't unpack video."</string>
   <string name="video_editor_video_is_short">"この動画は編集できません。"</string>
+  <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
   <string name="video_editor_watermark">"透かし"</string>
   <string name="video_err">"動画を再生できません"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
@@ -1201,7 +1214,6 @@ Take more photos of your friends!"</string>
   <string name="view_by_gallery_tip">MIUI Gallery</string>
   <string name="view_face_album">"アルバムを表示"</string>
   <string name="view_more_face_desc">"その他の人物を表示"</string>
-  <string name="view_queuing_status">"状態を確認"</string>
   <string name="voice_assistant">"音声入力"</string>
   <string name="welcome_to_micloud">"Mi Cloudへようこそ"</string>
   <string name="where_is_barcode">"QRコードはどこですか？"</string>

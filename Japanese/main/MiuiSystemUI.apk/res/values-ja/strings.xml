@@ -417,6 +417,7 @@
   <string name="face_data_input_ok_msg_angle">"画面がオンになっているとき、顔データを使用して端末のロックを解除します。
 (あらゆる角度からの顔データを記録しておく必要があります。)​"</string>
   <string name="face_data_input_ok_title">"正常に追加されました"</string>
+  <string name="face_data_input_structure_title">3D顔データ</string>
   <string name="face_data_input_title">"顔データを追加"</string>
   <string name="face_data_introduction_msg">"顔データを使用して端末のロックを解除したり、身元を確認することができます。顔データを追加する前にロック画面のパスワードを追加してください。"</string>
   <string name="face_data_introduction_next">"次へ"</string>
@@ -1204,6 +1205,8 @@
   <string name="retail_demo_reset_next">次へ</string>
   <string name="retail_demo_reset_title">パスワード必須</string>
   <string name="return_to_incall_screen">通話に戻る</string>
+  <string name="rgb_face_data_introduction_title">2D顔データを追加</string>
+  <string name="rgb_face_data_manage_delete_msg">2D顔データを削除</string>
   <string name="right_icon">右アイコン</string>
   <string name="right_keycode">右キーコード</string>
   <string name="right_nav_bar_button_type">その他の右ボタンタイプ</string>
@@ -1364,6 +1367,8 @@ EEEE"</string>
   <string name="structure_face_data_input_ok">完了</string>
   <string name="structure_face_data_input_right">頭を右に向けてください</string>
   <string name="structure_face_data_input_success">完了</string>
+  <string name="structure_face_data_input_timeout_msg">記録できませんでした。もう一度お試しください。</string>
+  <string name="structure_face_data_input_timeout_title">再試行</string>
   <string name="structure_face_data_input_up">頭を上げてください</string>
   <string name="structure_face_data_introduction_back">戻る</string>
   <string name="structure_face_data_introduction_msg">3D顔データはお使いの端末のロックを解除し、ユーザーの身元を確認することができます。この機能を利用する前にパスワードを設定する必要があります。</string>
@@ -1371,6 +1376,7 @@ EEEE"</string>
   <string name="structure_face_data_introduction_settingpassword">設定</string>
   <string name="structure_face_data_introduction_title">3D顔データを追加</string>
   <string name="structure_face_data_ir_input_face">頭を少し動かしてください</string>
+  <string name="structure_face_data_manage_delete_msg">3D顔データを削除</string>
   <string name="structure_face_data_open_cameraing">カメラを起動中…</string>
   <string name="structure_face_data_rgb_input_face">フレームの内側に顔を収めてください</string>
   <string name="structure_face_data_suggestion_text">顔のすべての部分がはっきりと見えるようにしてください。3D顔データを記録中は、帽子、サングラス、またはその他の顔を覆う可能性のあるアクセサリー類を着用しないでください。あなたの顔が均等に映っていることを確認してください。</string>
@@ -1378,6 +1384,24 @@ EEEE"</string>
   <string name="structure_face_delete_data_dialog_msg">カメラを起動してプレビューを表示できませんでした。もう一度お試しください。</string>
   <string name="structure_face_delete_data_dialog_msg_retry">再試行</string>
   <string name="structure_face_delete_data_dialog_title">カメラを起動できませんでした</string>
+  <string name="structure_face_hardware_abnormal_btn">OK</string>
+  <string name="structure_face_hardware_abnormal_msg">"Can't record face data due to a laser error. Contact customer service to get help."</string>
+  <string name="structure_face_hardware_abnormal_title">レーザーエラー</string>
+  <string name="structure_face_modules_abnormal_btn">再起動</string>
+  <string name="structure_face_modules_abnormal_msg">光学モジュールエラーのため顔データを記録できません。端末を再起動してもう一度お試しください。</string>
+  <string name="structure_face_modules_abnormal_title">光学モジュールエラー</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">"3D recognition will be turned off. Your 3D face data will be deleted. You'll also have to add your 2D face data. Turn on 2D recognition?"</string>
+  <string name="structure_face_unlock_model2d_dialog_title">Turning on 2D recognition</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">"2D recognition will be turned off. Your 2D face data will be deleted. You'll also have to add your 3D face data. Turn on 3D recognition?"</string>
+  <string name="structure_face_unlock_model3d_dialog_title">Turning on 3D recognition</string>
+  <string name="structure_face_unlock_model_dialog_enable">Turn on</string>
+  <string name="structure_face_unlock_model_dialog_notenable">結構です</string>
+  <string name="structure_face_unlock_model_other">その他</string>
+  <string name="structure_face_unlock_model_other_msg_2d">2D認識</string>
+  <string name="structure_face_unlock_model_other_msg_3d">3D認識</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. Whenthis feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
+  <string name="structure_face_unlock_model_other_title">顔認識</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="system_ui_tuner">システムUI調整ツール</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>
