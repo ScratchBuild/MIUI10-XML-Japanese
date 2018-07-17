@@ -4220,9 +4220,11 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_no_carrier">なし</string>
   <string name="status_bar_settings_notification_bar">通知領域</string>
   <string name="status_bar_settings_notification_led">通知LED</string>
+  <string name="status_bar_settings_notification_led_custom">色を変更</string>
   <string name="status_bar_settings_notification_priority">優先順位</string>
   <string name="status_bar_settings_notification_priority_summary">通知をリストの最上部に表示</string>
   <string name="status_bar_settings_notification_sound">通知音</string>
+  <string name="status_bar_settings_notification_sound_custom">音を変更</string>
   <string name="status_bar_settings_notification_vibrate">バイブレーション</string>
   <string name="status_bar_settings_show_carrier">キャリア名を表示</string>
   <string name="status_bar_settings_show_carrier_summary">この機能がオフの場合には、キャリア名がロック画面と通知領域に表示されます</string>
