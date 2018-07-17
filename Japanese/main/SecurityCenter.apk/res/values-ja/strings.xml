@@ -254,7 +254,7 @@
   <string name="applock_add_account_info">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="applock_add_account_setting">"アカウントとプライバシー"</string>
   <string name="applock_bind_account_title">Forgot password</string>
-  <string name="applock_close_dialog_summary">"アプリロックをオフにすると、アプリは保護されなくなりパスワードも削除されます。"</string>
+  <string name="applock_close_dialog_summary">"すべての非表示アプリは再表示され、ホーム画面のショートカットは復元、アプリロックのパスワードは削除されます。アプリロックをオフにしますか？"</string>
   <string name="applock_close_dialog_title">"アプリロックをオンにしますか？"</string>
   <string name="applock_exit_account_info">"ログアウトするとアカウントは自動的に削除されます"</string>
   <string name="applock_header_text_less_than_half">"小さすぎます。もう少しドラッグしてください。"</string>
@@ -1415,7 +1415,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_btn_analyze">"電池使用量を分析"</string>
   <string name="power_cell">"セルスタンバイ"</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
-  <string name="power_center_back">"電池使用量に戻る"</string>
+  <string name="power_center_back">"戻る"</string>
   <string name="power_center_charge_time">"フル充電まで%1$s"</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>
@@ -1539,6 +1539,20 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="preferred_app_entries_launcher">"ランチャー"</string>
   <string name="preferred_app_entries_messaging">"メッセージ"</string>
   <string name="preferred_app_entries_music">Music</string>
+  <string name="privacy_apps">"非表示アプリ"</string>
+  <string name="privacy_apps_category_title">"非表示アプリ"</string>
+  <string name="privacy_apps_checkbox_remind_choice">"次回から表示しない"</string>
+  <string name="privacy_apps_close">"閉じる"</string>
+  <string name="privacy_apps_enable_summary">"アプリを隠しフォルダに移動し、ホーム画面のショートカットを削除します"</string>
+  <string name="privacy_apps_go_to_use">"開始"</string>
+  <string name="privacy_apps_manage">"非表示アプリを管理"</string>
+  <string name="privacy_apps_manage_dialog_title">"非表示アプリについて"</string>
+  <string name="privacy_apps_manager_dialog_message">"アプリを非表示にするには、画面ロックのパスワードを設定する必要があります。非表示アプリの通知は無効になります。このアプリを非表示にしますか？"</string>
+  <string name="privacy_apps_tutorial">"チュートリアル"</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"アプリを非表示にすると隠しフォルダに移動され、これらのショートカットはホーム画面からも隠されます。
+この機能は、システムアプリでは使用できません。"</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">"パスワードを入力すると、非表示アプリを含むフォルダが表示されます。"</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"画面を二本の指で広げると、アプリロックのパスワード入力を求めるメッセージが表示されます。"</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_dialog_message">"インターネットに接続すると、データ使用状況の監視機能を改善するため、キャリア情報と共にこのメッセージが暗号化され、Xiaomiサーバにアップロードされます。"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>

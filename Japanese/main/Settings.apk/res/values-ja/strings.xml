@@ -4166,6 +4166,10 @@ PINが正しくない可能性があります。"</string>
   <string name="sound_settings">音量</string>
   <string name="sound_settings_example_summary">着信音の音量: 80%%</string>
   <string name="sound_settings_summary">着信音の音量: %1$s</string>
+  <string name="sound_settings_summary_silent">マナーモード着信に設定</string>
+  <string name="sound_settings_summary_vibrate">バイブレーション着信に設定</string>
+  <string name="sound_stereo_mode_summary">スピーカーでサウンドを再生するときのみ利用可能</string>
+  <string name="sound_stereo_mode_title">ステレオサウンド</string>
   <string name="sound_vibrate_settings">音量とバイブレーション</string>
   <string name="special_access">特別なアクセス</string>
   <string name="spell_checker_not_selected">選択していません</string>
@@ -4703,6 +4707,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>
   <string name="unmount_inform_text">SDカードのマウントが解除されます。</string>
+  <string name="unmute_sound_title">ミュートを解除</string>
   <string name="unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードに最適化されています</string>
   <string name="unrestricted_app_summary">データセーバーが ON のときのデータ無制限アクセスを許可</string>
   <string name="unrestricted_app_title">データの無制限使用</string>

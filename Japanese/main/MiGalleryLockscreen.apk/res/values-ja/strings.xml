@@ -21,6 +21,12 @@
   <string name="ad_pop_des">アプリをダウンロード中：</string>
   <string name="add_launch_hint_text">ホーム画面にショートカットを追加する</string>
   <string name="app_name">Mi Wallpaper Carousel</string>
+  <string name="app_self_upgrade_dlg_checkbox_ignore_version">このバージョンをスキップ</string>
+  <string name="app_self_upgrade_dlg_content">アプリの新しいバージョンが利用可能です、今すぐ更新しますか？</string>
+  <string name="app_self_upgrade_dlg_negative_btn">後で</string>
+  <string name="app_self_upgrade_dlg_postive_btn">更新</string>
+  <string name="app_self_upgrade_dlg_title">アプリの更新</string>
+  <string name="app_self_upgrade_toast_downloading_install">新しいバージョンのダウンロードとインストールを開始</string>
   <string name="apply">"適用"</string>
   <string name="apply_to_above_all">両方に設定</string>
   <string name="apply_to_screenlock">ロック画面に設定</string>

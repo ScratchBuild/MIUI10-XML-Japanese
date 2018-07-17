@@ -327,4 +327,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d日間連続してチェックインしました</item>
         <item quantity="one">%d回チェックインしました</item>
     </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d個のアプリを非表示にできます</item>
+        <item quantity="one">%d個のアプリを非表示にできます</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d個のアプリが非表示です</item>
+        <item quantity="one">%d個のアプリが非表示です</item>
+    </plurals>
 </resources>
