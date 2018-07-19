@@ -450,7 +450,6 @@
   <string name="edit_category_dialog_title">Select payment category</string>
   <string name="edit_comment_hint">Remark</string>
   <string name="edit_delete_dialog_message">この履歴を削除しますか？</string>
-  <string name="edit_record_category">"Category: "</string>
   <string name="edit_record_label">詳細</string>
   <string name="empty_card_btn">アプリを開く</string>
   <string name="empty_card_tip">"Looks like you aren't signed in or haven't set up this card yet."</string>
@@ -484,7 +483,9 @@
   <string name="exercise_setting_brief">Measure distance and count the steps you make daily</string>
   <string name="exercise_setting_misport_detail">Measure distance and count the steps you make daily (Allow Mi Fit to autostart in Security - Permissions).</string>
   <string name="express">Express delivery</string>
+  <string name="express_add">追加</string>
   <string name="express_add_new_address">アドレスを追加</string>
+  <string name="express_add_tel">電話を追加</string>
   <string name="express_address_delete_warning">このアドレスを削除しますか？</string>
   <string name="express_address_deleted">アドレスを削除しました</string>
   <string name="express_address_info">アドレス情報</string>
@@ -517,6 +518,7 @@
   <string name="express_copied">追跡番号をコピーしました</string>
   <string name="express_copy_number">コピー</string>
   <string name="express_delete_order">削除</string>
+  <string name="express_delete_tel">電話を削除</string>
   <string name="express_delivery">Delivering</string>
   <string name="express_dest_city_label">目的地</string>
   <string name="express_detailed_address">Address</string>
@@ -940,6 +942,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="mi_sport">歩数計</string>
   <string name="mi_sport_go_install">ダウンロード</string>
   <string name="mi_wallet">Mi Wallet</string>
+  <string name="mifare_card">门禁卡</string>
   <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
   <string name="mini_agree">同意</string>
   <string name="mini_already_download">ダウンロード済み</string>
@@ -1220,13 +1223,9 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="payment_record_add">Add payment</string>
   <string name="payment_record_delete">Delete from payments</string>
   <string name="payment_record_empty">No payments yet</string>
-  <string name="payment_record_label">詳細</string>
   <string name="payment_record_list">詳細</string>
   <string name="payment_record_menu_delete">削除</string>
   <string name="payment_record_menu_select">選択</string>
-  <string name="payment_record_new_lable">Add history record</string>
-  <string name="payment_record_recent_title">Recent payments</string>
-  <string name="payment_record_show_more">View more</string>
   <string name="payment_report_failed_record_dialog_cancel">キャンセル</string>
   <string name="payment_report_failed_record_dialog_message">"Report unprocessed bills to help us make payment calculation more precise.
 "&lt;b>The items you share will only be used to improve App vault.&lt;/b></string>
@@ -1270,6 +1269,8 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="recharge_title_over">Went over limit</string>
   <string name="recharge_title_remaining">Remaining data</string>
   <string name="recharge_title_used">Used today</string>
+  <string name="recommend_add_one_card">%sを追加</string>
+  <string name="recommend_close">閉じる</string>
   <string name="recommend_title">添加更多你感兴趣的卡片</string>
   <string name="record_name">New recording</string>
   <string name="record_parent">Recorder</string>
@@ -1281,12 +1282,14 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="retry">再試行</string>
   <string name="rmb">RMB</string>
   <string name="save_edit">変更を保存</string>
+  <string name="save_to_note">メモに保存</string>
   <string name="scan">Scan</string>
   <string name="scan_app">Scan</string>
   <string name="scan_card">Business card</string>
   <string name="scan_code">QR code</string>
   <string name="scan_doc">Document</string>
   <string name="scan_exercise">Study</string>
+  <string name="scan_express_num">扫码查询</string>
   <string name="scan_parent">Pay</string>
   <string name="scan_trans">Translate</string>
   <string name="screen_shot">スクリーンショット</string>
@@ -1301,6 +1304,8 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="search_setting_description">お気に入りのタイトル</string>
   <string name="search_tip">検索中…</string>
   <string name="security">セキュリティ</string>
+  <string name="select_team_close">閉じる</string>
+  <string name="select_team_confirm">送信</string>
   <string name="send_action_title">お気に入りに追加</string>
   <string name="send_shortcut_failed">送信できませんでした</string>
   <string name="send_shortcut_success">ホーム画面に設置しました</string>
@@ -1386,6 +1391,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="shopping_enable">Shopping is on</string>
   <string name="shopping_label">Shopping</string>
   <string name="shopping_notification_title">Added to Shopping</string>
+  <string name="shopping_search">购物搜索</string>
   <string name="shopping_setting_authorize">Allow exporting info about purchases</string>
   <string name="shopping_setting_authorize_sub">App vault will have access to your favorites and shopping cart items.</string>
   <string name="shopping_setting_base">Settings</string>
@@ -1468,6 +1474,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="taxi_open">タクシーのカードを表示</string>
   <string name="taxi_setting_brief">1回のタップでタクシーを手配。</string>
   <string name="taxi_target">目的地</string>
+  <string name="team_selected">%s,已选中</string>
   <string name="temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="template_args_invalid">上下文参数不合法</string>
   <string name="template_bussiness_data_error">服务端返回数据解析异常，无法展示界面</string>

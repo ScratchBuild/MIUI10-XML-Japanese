@@ -189,7 +189,7 @@
   <string name="card_title_dialing">発信中</string>
   <string name="card_title_forwardcheckreceived">Forwarded call checked &amp; received</string>
   <string name="card_title_forwarded_MTcall">Forwarded incoming call</string>
-  <string name="card_title_hanging_up">通話終了</string>
+  <string name="card_title_hanging_up">"通話終了 "</string>
   <string name="card_title_in_call">着信</string>
   <string name="card_title_incoming_barred">Incoming calls barred</string>
   <string name="card_title_incoming_call">着信</string>

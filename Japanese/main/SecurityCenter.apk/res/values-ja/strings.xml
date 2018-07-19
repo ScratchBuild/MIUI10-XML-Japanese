@@ -239,7 +239,7 @@
   <string name="app_manager_uninstall_xspace_app_dlg_title">"デュアルアプリをアンインストールしますか？"</string>
   <string name="app_manager_unstall_application">"アンインストール"</string>
   <string name="app_managere_not_have_app">Empty</string>
-  <string name="app_mobile">"モバイル"</string>
+  <string name="app_mobile">"モバイルデータ"</string>
   <string name="app_name">"アプリロック"</string>
   <string name="app_name_na">"データ使用量"</string>
   <string name="app_name_securitycenter">"セキュリティ"</string>
@@ -794,8 +794,8 @@
   <string name="gb_first_window_antimsg_summary_quick_answer">"クイック返信を使用する"</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">"テキストの背景を透過して表示する"</string>
   <string name="gb_first_window_antimsg_title">"便利な通知"</string>
-  <string name="gb_first_window_gamebox_summary_four">"キャッシュの消去、スクリーンレコーダーやスクリーンショットを作成"</string>
-  <string name="gb_first_window_gamebox_summary_six">"クイック返信を使用、スクリーンレコーダーやスクリーンショットを作成"</string>
+  <string name="gb_first_window_gamebox_summary_four">"クイック返信を使用、スクリーンレコーダーやスクリーンショットを作成"</string>
+  <string name="gb_first_window_gamebox_summary_six">"キャッシュの消去、スクリーンレコーダーやスクリーンショットを作成"</string>
   <string name="gb_first_window_handsfree_summary">"スピーカーを自動的にオンにする"</string>
   <string name="gb_first_window_handsfree_title">"ハンズフリー通話"</string>
   <string name="gb_first_window_start">"プレイを開始する"</string>

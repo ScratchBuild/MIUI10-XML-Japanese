@@ -81,8 +81,8 @@
   <string name="accessibility_search_light">検索</string>
   <string name="accessibility_search_scanner">スキャナー</string>
   <string name="accessibility_settings">設定</string>
-  <string name="accessibility_splite_screen_primary">Add to split screen primary application</string>
-  <string name="accessibility_splite_screen_secondary">Add to split screen secondary application</string>
+  <string name="accessibility_splite_screen_primary">分割画面に優先アプリとして追加</string>
+  <string name="accessibility_splite_screen_secondary">分割画面に補助アプリとして追加</string>
   <string name="accessibility_tty_enabled">テレタイプライターが有効です。</string>
   <string name="accessibility_wifi_off">Wi-FiはOFFです。</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi電波状態:レベル1</string>
@@ -1402,6 +1402,8 @@ EEEE"</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. Whenthis feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
   <string name="structure_face_unlock_model_other_title">顔認識</string>
+  <string name="structure_face_unlock_not_same_person">"You have to complete all the steps yourself. Don't switch places with anyone."</string>
+  <string name="structure_face_unlock_really_person">"Looks like you've replaced your face with an object."</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="system_ui_tuner">システムUI調整ツール</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>

@@ -122,7 +122,7 @@
         <item quantity="one">"%1$d秒"</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">%1$d個のファイルを削除しますか？</item>
-        <item quantity="one">%1$d個のファイルを削除しますか？</item>
+        <item quantity="other">%1$d個のアイテムを削除しますか？</item>
+        <item quantity="one">%1$d個のアイテムを削除しますか？</item>
     </plurals>
 </resources>

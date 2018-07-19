@@ -93,7 +93,7 @@
   <string name="hybrid_provider">"%1$sで提供されます"</string>
   <string name="im">IM</string>
   <string name="immersion_button_close_description">"閉じる"</string>
-  <string name="instruction">"説明書"</string>
+  <string name="instruction">安全に関する重要な情報</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
   <string name="monday">"月曜日"</string>

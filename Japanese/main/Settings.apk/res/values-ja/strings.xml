@@ -2018,7 +2018,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="instant_app_details_summary">%1$s上の詳細情報</string>
   <string name="instant_apps_account">インスタントアプリのアカウント</string>
   <string name="instruction_privacy_password">このパスワードは以下の項目を保護します</string>
-  <string name="instruction_title">説明書</string>
+  <string name="instruction_title">安全に関する重要な情報</string>
   <string name="insufficient_storage">十分な空き容量がありません。</string>
   <string name="intent_sender_account_label">アカウント:</string>
   <string name="intent_sender_action_label">アクション:</string>
@@ -4412,6 +4412,8 @@ PINが正しくない可能性があります。"</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>
   <string name="structure_add_facerecoginition_text">3D顔データを追加</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">バッテリーが不足しているため、この機能を使用できません</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">記録を開始するには、バッテリーが少なくとも5%充電されている必要があります。</string>
   <string name="structure_manage_facerecoginition_text">3D顔データを管理</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードで最適に動作します</string>
   <string name="suggested_fingerprint_lock_settings_summary">指紋でロック解除する</string>
