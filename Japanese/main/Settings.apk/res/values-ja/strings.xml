@@ -4227,6 +4227,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_notification_led_custom">色を変更</string>
   <string name="status_bar_settings_notification_priority">優先順位</string>
   <string name="status_bar_settings_notification_priority_summary">通知をリストの最上部に表示</string>
+  <string name="status_bar_settings_notification_shade_shortcut">通知シェードのショートカット</string>
   <string name="status_bar_settings_notification_sound">通知音</string>
   <string name="status_bar_settings_notification_sound_custom">音を変更</string>
   <string name="status_bar_settings_notification_vibrate">バイブレーション</string>

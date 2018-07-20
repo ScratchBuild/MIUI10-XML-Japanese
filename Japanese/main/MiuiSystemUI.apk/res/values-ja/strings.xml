@@ -292,6 +292,9 @@
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
   <string name="data_connection_no_internet">インターネットに接続していません</string>
   <string name="data_saver">データセーバー</string>
+  <string name="data_saver_description">データ使用量の削減をするため、一部のアプリはバックグラウンドでデータを送受信できなくなります。現在使用中のアプリはデータ接続にアクセスできますが、あまり頻繁には使用できません。例えば、画像をタップするまで画像が表示されない場合があります。</string>
+  <string name="data_saver_enable_button">オンにする</string>
+  <string name="data_saver_enable_title">データセーバーをオンにしますか？</string>
   <string name="data_usage_disabled_dialog">"設定したデータ上限に達しました。現在モバイルデータは使用できません。
 
 再開する場合は、データ使用量について請求が発生する可能性があります。"</string>
@@ -879,27 +882,6 @@
   <string name="monitoring_title_device_owned">端末管理</string>
   <string name="monitoring_title_profile_owned">プロファイルの監視</string>
   <string name="mount_storage">はい</string>
-  <string name="mr_button_content_description">キャストアイコン</string>
-  <string name="mr_cast_button_connected">キャスト アイコン。接続済み</string>
-  <string name="mr_cast_button_connecting">キャスト アイコン。接続中</string>
-  <string name="mr_cast_button_disconnected">キャスト アイコン。接続解除済み</string>
-  <string name="mr_chooser_searching">端末を検索しています</string>
-  <string name="mr_chooser_title">キャストするデバイス</string>
-  <string name="mr_controller_album_art">アルバムアート</string>
-  <string name="mr_controller_casting_screen">画面をキャストしています</string>
-  <string name="mr_controller_close_description">閉じる</string>
-  <string name="mr_controller_collapse_group">折りたたむ</string>
-  <string name="mr_controller_disconnect">接続を解除</string>
-  <string name="mr_controller_expand_group">展開</string>
-  <string name="mr_controller_no_info_available">情報がありません</string>
-  <string name="mr_controller_no_media_selected">メディアが選択されていません</string>
-  <string name="mr_controller_pause">一時停止</string>
-  <string name="mr_controller_play">再生</string>
-  <string name="mr_controller_stop">停止</string>
-  <string name="mr_controller_stop_casting">キャストを停止</string>
-  <string name="mr_controller_volume_slider">音量スライダー</string>
-  <string name="mr_system_route_name">システム</string>
-  <string name="mr_user_route_category_name">端末</string>
   <string name="nav_bar">ナビゲーション バー</string>
   <string name="nav_bar_default">（デフォルト）</string>
   <string name="nav_bar_layout">レイアウト</string>
@@ -973,7 +955,6 @@
   <string name="oldman_incall_text">通話に戻る</string>
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_remote_center_hint_text">"右にスワイプでMi Remoteを開く"</string>
-  <string name="orb_search_action">検索操作</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overview">履歴</string>

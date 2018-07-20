@@ -73,8 +73,6 @@
   <string name="backup_empty_button">"曲が選択されていません"</string>
   <string name="backup_immediate">"バックアップ"</string>
   <string name="backup_song_title">"バックアップする曲を選択"</string>
-  <string name="being_disable_auto_payment">"オフにしています…"</string>
-  <string name="being_enable_auto_payment">"オンにしています…"</string>
   <string name="bluetooth_device">"Bluetoothオーディオデバイス"</string>
   <string name="browser_error">一時的に利用できません。しばらくしてからもう一度お試しください</string>
   <string name="btn_earlier_items">最近のメッセージを読み込む</string>
@@ -186,10 +184,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="dialog_title_not_available">"ダウンロードできませんでした"</string>
   <string name="dialog_title_queued_body">"ファイルはまだ利用できません"</string>
   <string name="dialog_title_remove_tracks">"削除"</string>
-  <string name="disable_auto_payment_fail">"オフにできませんでした"</string>
-  <string name="disable_auto_payment_fail_message">"自動更新をオフにできませんでした"</string>
-  <string name="disable_auto_payment_success">"オフにしました"</string>
-  <string name="disable_auto_payment_success_message">"自動更新をオフにしました。現在の購読が期限切れになった後、曲をダウンロードするには再度購読する必要があります。"</string>
   <string name="disallow_add_to_fm">"FMラジオに曲を追加できません"</string>
   <string name="disallow_add_to_personal_radio">"パーソナルラジオに曲を追加できません"</string>
   <string name="do_not_remind_this_version">このバージョンの更新通知を行わない</string>
@@ -265,10 +259,6 @@ is mainly provided by Ultimate Inc."</string>
   <string name="edit_playlist_info">プレイリストの情報を編集</string>
   <string name="empty_page_no_album">"アルバムがありません。"</string>
   <string name="empty_page_no_artist">"アーティストはいません。"</string>
-  <string name="enable_auto_payment_fail">"オンにできませんでした"</string>
-  <string name="enable_auto_payment_fail_message">"自動更新をオンにできませんでした"</string>
-  <string name="enable_auto_payment_success">"自動的に更新"</string>
-  <string name="enable_auto_payment_success_message">自動更新をオンにしました。次の支払いは%sです。</string>
   <string name="enabled">Enabled</string>
   <string name="enter_garbage_clean">"内部ストレージをクリーンアップ。"</string>
   <string name="eq_auto">Custom</string>
@@ -409,7 +399,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="local_page_artist_more">More songs by %s</string>
   <string name="local_page_custom_subtitle">New songs every day</string>
   <string name="local_page_custom_title">For you</string>
-  <string name="local_page_playlist">My playlists</string>
+  <string name="local_page_playlist">プレイリスト</string>
   <string name="local_page_song_download_history">"ダウンロード"</string>
   <string name="long_press_to_select_lyric">長押しして端末上の歌詞ファイルを選択</string>
   <string name="lrc_search_failed">"歌詞が見つかりませんでした"</string>
@@ -460,8 +450,9 @@ is mainly provided by Ultimate Inc."</string>
   <string name="modify_song_info_success">"曲情報が更新されました"</string>
   <string name="more">"もっと"</string>
   <string name="more_add_song_list">"キューに曲を追加"</string>
+  <string name="more_milink">MI Link</string>
   <string name="more_settings">"その他の設定"</string>
-  <string name="more_settings_summary">"ダウンロード設定、スリープタイマー、モバイルデータ管理、ファイル用フィルター等。"</string>
+  <string name="more_settings_summary">"スリープタイマー、ファイル用フィルター等。"</string>
   <string name="more_share">"共有"</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
@@ -586,7 +577,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="radar_searching_state">"検索中…"</string>
   <string name="really_pay">"今すぐ支払う？"</string>
   <string name="recently_played">"再生履歴"</string>
-  <string name="recently_played_songs">"再生履歴"</string>
+  <string name="recently_played_songs">"履歴"</string>
   <string name="recognition_reverted_message">"アルバムカバーと歌詞が正常に削除されました。[設定]からすべての曲に対して同じ操作を行うことができます。"</string>
   <string name="recognition_reverted_title">"アルバムカバーと歌詞"</string>
   <string name="recognize_call">Optimize</string>

@@ -751,6 +751,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>許可</item>
         <item>拒否</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>検索</item>
+        <item>設定</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>
         <item>ヨーロッパ</item>
