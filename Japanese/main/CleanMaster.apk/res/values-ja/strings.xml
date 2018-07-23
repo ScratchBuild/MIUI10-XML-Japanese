@@ -321,10 +321,10 @@
   <string name="news_change">"変更"</string>
   <string name="no_network">"ネットワークに接続できませんでした、あとでもう一度試してみてください"</string>
   <string name="no_network_btn">"再試行"</string>
-  <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
+  <string name="notification_summary_after_auto_cleanup">"%s をクリーンアップしました。"</string>
   <string name="notification_summary_of_garbage_cleanup">"空き領域を確保するにはタップ。"</string>
   <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
-  <string name="notify_when">Get a notification when trash size reaches 100MB</string>
+  <string name="notify_when">"ゴミ箱のサイズが100MBに達したときに通知を行う"</string>
   <string name="ok">OK</string>
   <string name="open">"オンにする"</string>
   <string name="open_app">"開く"</string>

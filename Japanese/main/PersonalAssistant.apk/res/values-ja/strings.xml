@@ -310,7 +310,7 @@
   <string name="book_assistant_train_started">Left station</string>
   <string name="book_dep_city">出発地</string>
   <string name="book_store">View books</string>
-  <string name="book_update">Update is available</string>
+  <string name="book_update">更新が利用可能</string>
   <string name="btn_back">戻る</string>
   <string name="btn_more">More</string>
   <string name="calc_currency">Currency</string>
@@ -942,7 +942,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="mi_sport">歩数計</string>
   <string name="mi_sport_go_install">ダウンロード</string>
   <string name="mi_wallet">Mi Wallet</string>
-  <string name="mifare_card">门禁卡</string>
+  <string name="mifare_card">マイフェアカード</string>
   <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
   <string name="mini_agree">同意</string>
   <string name="mini_already_download">ダウンロード済み</string>

@@ -89,11 +89,11 @@
   <string name="micloud_battery_low_notification_message">"同期するには充電器に接続してください"</string>
   <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member_safe">"Mi Cloudストレージをもっと入手"</string>
-  <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
-to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_text">"SIMカードが変更されたようです。お使いのMi Accountに
+ログインして、Mi Cloudを再度有効にしてください。"</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
-  <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
-to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_check_sim_title">"SIMカードが変更されたようです。お使いのMi Accountに
+ログインして、Mi Cloudを再度有効にしてください。"</string>
   <string name="micloud_confusion_account_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
   <string name="micloud_confusion_account_name">Account:</string>
   <string name="micloud_confusion_account_notify_text">Another device is modifying your Mi Account. Verify your account now.</string>
@@ -267,9 +267,9 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_setting_wifi_summary">"Wi-Fi設定"</string>
   <string name="micloud_space_applist_detail">"ホーム画面のアプリを管理"</string>
   <string name="micloud_space_applist_title">"アプリを管理"</string>
-  <string name="micloud_space_duokan_detail">Download and manage ebooks with the Duokan app.</string>
+  <string name="micloud_space_duokan_detail">"Doukanアプリで電子書籍のダウンロードと管理を行う。"</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
+  <string name="micloud_space_soundrecorder_detail">"端末に保存されたレコーダーの録音を管理する。"</string>
   <string name="micloud_space_soundrecorder_title">Recordings</string>
   <string name="micloud_storage_expires_auto_renewal_sum">"購読の更新が必要です。"</string>
   <string name="micloud_storage_expires_manually_renewal_sum">"購読の更新が必要です。"</string>

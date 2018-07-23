@@ -145,8 +145,8 @@
         <item quantity="one">1 item waiting to back up</item>
     </plurals>
     <plurals name="number_of_images_synced">
-        <item quantity="other">%1$d photos</item>
-        <item quantity="one">1 photo</item>
+        <item quantity="other">%1$d枚の写真</item>
+        <item quantity="one">1枚の写真</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to back up</item>
@@ -237,20 +237,20 @@
         <item quantity="one">\"%2$s\"から%1$d枚の写真を削除しました。</item>
     </plurals>
     <plurals name="send_processing_files_error">
-        <item quantity="other">"Couldn't share. Still processing %d photos…"</item>
-        <item quantity="one">"Couldn't share. Still processing %d photo…"</item>
+        <item quantity="other">共有できませんでした。%d枚の写真を処理中です…</item>
+        <item quantity="one">共有できませんでした。%d枚の写真を処理中です…</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
-        <item quantity="other">Optimized %d photos</item>
-        <item quantity="one">Optimized %d photo</item>
+        <item quantity="other">%d枚の写真を最適化しました</item>
+        <item quantity="one">%d枚の写真を最適化しました</item>
     </plurals>
     <plurals name="slim_exit_dialog_message">
-        <item quantity="other">"%d photos haven't been optimized. Stop now?"</item>
-        <item quantity="one">"%d photo hasn't been optimized. Stop now?"</item>
+        <item quantity="other">%d枚の写真が最適化されていません。今すぐ停止しますか？</item>
+        <item quantity="one">%d枚の写真が最適化されていません。今すぐ停止しますか？</item>
     </plurals>
     <plurals name="slim_remain_photo_count">
-        <item quantity="other">%d photos left</item>
-        <item quantity="one">%d photo left</item>
+        <item quantity="other">残り%d枚の写真</item>
+        <item quantity="one">残り%d枚の写真</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Haven't backed up %d photos and videos"</item>
