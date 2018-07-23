@@ -12,7 +12,7 @@
   <string name="alert_miasist_occupy_backup">"Mi PC Suiteを使用してアイテムをバックアップしています… バックアップが完了するのを待ってから、もう一度お試しください。"</string>
   <string name="alert_miasist_occupy_restore">"Mi PC Suiteを使用してアイテムを復元しています… アイテムが復元されるのを待ってから、もう一度お試しください。"</string>
   <string name="alert_phone_occupy_backup">"Mi PC Suiteは現在利用できません。バックアップまたはアイテムの復元が完了するのを待ってから、もう一度お試しください。"</string>
-  <string name="alert_second_space_not_support_miasist">"Secound spaceでMi PC Suiteを使用することはできません。First spaceに切り替えてください。"</string>
+  <string name="alert_second_space_not_support_miasist">"Second spaceでMi PC Suiteを使用することはできません。First spaceに切り替えてください。"</string>
   <string name="alert_title_backup_to_miasist">"Mi PC Suiteを使用してアイテムをバックアップしますか？"</string>
   <string name="alert_title_restore_from_miasist">"端末のアイテムを復元しますか？"</string>
   <string name="already_enable_encrypt">"暗号化は既にオンです"</string>

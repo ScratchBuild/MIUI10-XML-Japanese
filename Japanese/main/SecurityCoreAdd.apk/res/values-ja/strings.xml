@@ -278,7 +278,7 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="settings_set_password_for_sec_space">"Second spaceに画面ロックを設定する"</string>
   <string name="settings_set_password_for_sec_space_desc">"[設定]からショートカットを削除するには、Second spaceに画面ロックを設定します。"</string>
   <string name="settings_space_data">"データ"</string>
-  <string name="settings_status_icon_summary">"ステータスバーにSecound spaceのアイコンを表示する"</string>
+  <string name="settings_status_icon_summary">"ステータスバーにSecond spaceのアイコンを表示する"</string>
   <string name="settings_status_icon_title">"Second spaceのアイコン"</string>
   <string name="settings_switch_shortcut_summary">"First spaceのホーム画面にショートカットを表示する"</string>
   <string name="settings_switch_shortcut_title">"ホーム画面のショートカット"</string>
