@@ -14,6 +14,7 @@
   <string name="button_cancel">キャンセル</string>
   <string name="calendar_sync">カレンダー</string>
   <string name="click_to_enabled">同期するにはタップ。</string>
+  <string name="close_shortcut">閉じる</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_find_device_off">オフ</string>
   <string name="cloud_find_device_on">オン</string>
