@@ -17,7 +17,7 @@
         <item quantity="one">残り%d秒</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s文字</item>
-        <item quantity="one">%s文字</item>
+        <item quantity="other">%d文字</item>
+        <item quantity="one">%d文字</item>
     </plurals>
 </resources>

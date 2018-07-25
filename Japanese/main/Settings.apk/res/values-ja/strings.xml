@@ -896,7 +896,6 @@ This feature can be turned off in [Settings]"</string>
   <string name="cancel_action">キャンセル</string>
   <string name="cancel_alert">変更を破棄しますか？</string>
   <string name="cancel_button">キャンセル</string>
-  <string name="cancel_description">キャンセル</string>
   <string name="cancel_download_buton_text">キャンセル</string>
   <string name="cant_sync_dialog_message">このアイテムの同期は現在無効になっています。この設定を変更するには、バックグラウンドデータと自動同期を一時的にONにします。</string>
   <string name="cant_sync_dialog_title">手動では同期できません</string>
@@ -1032,7 +1031,6 @@ This feature can be turned off in [Settings]"</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">追加</string>
   <string name="confirm_convert_to_fbe_warning">ファイル暗号化のためにユーザーのデータを消去して変換してもよろしいですか？</string>
-  <string name="confirm_description">確認</string>
   <string name="confirm_download_cancelation_dialog_message">ダウンロードをキャンセルしますか？</string>
   <string name="confirm_enable_multi_window_text">警告: これは、[最近使ったアプリ]を通して画面上で同時に複数のアクティビティを許可する非常に試験運用的な機能です。一部のアプリはこの機能で使用するとクラッシュしたり正常に動作しなくなったりする可能性があります。</string>
   <string name="confirm_enable_multi_window_title">マルチウィンドウモードを有効にしますか？</string>
@@ -4558,8 +4556,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="toast_lockscreen_glogin_empty_password">パスワードを入力</string>
   <string name="toast_need_login">Miアカウントにログインしてください</string>
   <string name="total">DND</string>
-  <string name="total_info">Silence sounds %1$sexcept for the alarms</string>
-  <string name="total_info_sub">and turn off vibration</string>
+  <string name="total_info">Silence sounds and turn off vibration except for the alarms</string>
+  <string name="total_info_no_vibrator">Silence sounds except for the alarms</string>
   <string name="total_memory">合計メモリ</string>
   <string name="total_size">合計容量： %s</string>
   <string name="total_size_label">合計</string>

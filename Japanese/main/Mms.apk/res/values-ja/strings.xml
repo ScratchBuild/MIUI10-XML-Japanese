@@ -361,8 +361,17 @@
   <string name="no_subject_view">(件名なし)</string>
   <string name="non_english_subject_limit">上限13文字まで</string>
   <string name="nosend_message">"送信しない"</string>
+  <string name="notification_channel_msg_description">メッセージ通知</string>
+  <string name="notification_channel_msg_name">メッセージ</string>
+  <string name="notification_channel_other_description">メッセージ以外の通知</string>
+  <string name="notification_channel_other_name">その他</string>
+  <string name="notification_channel_sim1_description">メッセージ通知 (SIM1)</string>
+  <string name="notification_channel_sim1_name">メッセージ (SIM1)</string>
+  <string name="notification_channel_sim2_description">メッセージ通知 (SIM2)</string>
+  <string name="notification_channel_sim2_name">メッセージ (SIM2)</string>
   <string name="notification_failed_multiple">"%s件のメッセージを送信できませんでした"</string>
   <string name="notification_failed_multiple_title">メッセージ送信失敗</string>
+  <string name="notification_group_name">メッセージ</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
   <string name="open_audio_record_panel">"オーディオ録音のパネルを開く"</string>
@@ -646,6 +655,7 @@
   <string name="unstick">ピンを外す</string>
   <string name="unstick_conversation">現在のスレッドのピンを外す</string>
   <string name="unsticked_conversation">スレッドのピンは既に外されています</string>
+  <string name="unsubscribe">Unsubscribe</string>
   <string name="unsupported_media_format">"対応していない%1$s形式です"</string>
   <string name="url_fraud_dangerous_alert">"アクセスしようとしているウェブサイトは危険かもしれません。お使いの携帯端末とデータに損傷を与える可能性があります。とにかくアクセスしますか？\n%s"</string>
   <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイトは危険かもしれません。 とにかくアクセスしますか？\n%s"</string>

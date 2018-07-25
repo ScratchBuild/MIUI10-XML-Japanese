@@ -215,9 +215,6 @@
   <string name="trash_folder_reminder">"削除したメモは30日後にゴミ箱から完全に削除されます。"</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_source">"不明なソース"</string>
-  <string name="welcome_note_for_cm">"もっと便利な機能！
-  - Mi Cloudとの同期
-  - リマインダーを設定"</string>
   <string name="widget_content_loading">"読み込み中…"</string>
   <string name="widget_havenot_content">"タップでメモを作成。ウィジェットを長押しでリサイズ。"</string>
 </resources>
