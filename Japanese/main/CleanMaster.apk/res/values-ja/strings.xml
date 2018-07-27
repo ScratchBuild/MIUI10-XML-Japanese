@@ -130,7 +130,7 @@
   <string name="deep_clean_completed_tips">"正常に消去されました"</string>
   <string name="deep_clean_data_path_clean_title">"キャッシュを消去"</string>
   <string name="deep_clean_uninstall_completed_tips">"正常にアンインストールされました"</string>
-  <string name="deepclean_1_k_clean">Quick clean</string>
+  <string name="deepclean_1_k_clean">"メモリを解放"</string>
   <string name="deepclean_apk_content">"APKや不要なアプリを削除する"</string>
   <string name="deepclean_apk_summary_empty">問題は見つかりませんでした、削除するAPKはありません</string>
   <string name="deepclean_apk_version_error">"不明"</string>
@@ -268,7 +268,7 @@
   <string name="hints_storage_free">Free</string>
   <string name="hints_storage_free_size">Total %1$s, %2$s available</string>
   <string name="hints_storage_news">Security news</string>
-  <string name="hints_title_garbage">trash</string>
+  <string name="hints_title_garbage">"ゴミファイル"</string>
   <string name="hints_video_camera">"撮影した動画"</string>
   <string name="hints_video_download">"ダウンロードした動画"</string>
   <string name="hot">Popular</string>
@@ -297,7 +297,7 @@
   <string name="low_memory_warning_dialog_ok_button">"消去"</string>
   <string name="low_memory_warning_dialog_title">"十分な空き領域がありません"</string>
   <string name="main_title_filesize">%1$s trash</string>
-  <string name="main_total_garbage">"すべてのゴミ"</string>
+  <string name="main_total_garbage">"ゴミ箱のサイズ"</string>
   <string name="mainbtn_text_no_trash">"スキップ"</string>
   <string name="mainbtn_text_quick_cleanup">"%sをクリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>

@@ -2721,8 +2721,6 @@ as your First space PIN."</string>
   <string name="navigation_guide_app_title">アプリのアクションをトリガーする</string>
   <string name="navigation_guide_appswitch_summary">Swipe left or right from the edge of the screen and hold for a while</string>
   <string name="navigation_guide_appswitch_title">Switch to previous app</string>
-  <string name="navigation_guide_back_anim_summary">画面の端からスワイプしている間にアニメーションを表示する</string>
-  <string name="navigation_guide_back_anim_title">\"戻る\"ジェスチャーをアニメーション表示</string>
   <string name="navigation_guide_back_summary">画面の端から右または左にスワイプする</string>
   <string name="navigation_guide_back_title">戻る</string>
   <string name="navigation_guide_dialog_dont_show_again">二度と表示しない</string>
@@ -3100,6 +3098,7 @@ as your First space PIN."</string>
   <string name="picture_in_picture_title">PIP</string>
   <string name="pin_failed">SIM PIN操作に失敗しました。</string>
   <string name="ping_test_label">pingテストの実行</string>
+  <string name="play_pause_description">再生/一時停止ボタン</string>
   <string name="please_select_phase2">フェーズ2認証</string>
   <string name="please_type_passphrase">パスワード</string>
   <string name="pointer_location">ポインタの位置</string>

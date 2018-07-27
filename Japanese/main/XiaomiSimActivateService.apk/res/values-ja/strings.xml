@@ -15,7 +15,7 @@
   <string name="activate_feature_register_xiaomi_account">"Mi Accountの設定"</string>
   <string name="activate_feature_remote_assist">"リモートアシスタント"</string>
   <string name="activate_feature_verify_mx_token">"Mi Accountの確認"</string>
-  <string name="activate_feature_voip">Mi Message Voice</string>
+  <string name="activate_feature_voip">Mi Message VoIP</string>
   <string name="activate_history_canceled_overview">SIM card activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">SIM card %2$d activation was canceled. Activation is triggered by \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">Activated SIM card %2$d successfully. Activation is triggered by \"%1$s\".</string>
@@ -39,9 +39,9 @@
   <string name="activate_popup_desc_2_intl_sim_cards">2 international text messages will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_2_sim_cards">2 regular text messages will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"お使いの電話番号が見つかりませんでした。SIMカードが有効になっていることを確認してください。
-%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください"</string>
+%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください。"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"アクティベーションメッセージを送信できませんでした。SIMカードが有効になっていることを確認してください。
-%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください"</string>
+%sを再度有効にするには、新しいSIMカードに関連づけられた電話番号を入力してください。"</string>
   <string name="activate_popup_desc_error_device_id">"IMEIを確認するには *#06# に発信"</string>
   <string name="activate_popup_desc_failed_phone_error">"入力した電話番号は無効です。"</string>
   <string name="activate_popup_desc_failed_query_info">"お使いの電話番号が見つかりませんでした。SIMカードが有効になっていることを確認してください。"</string>
@@ -98,19 +98,19 @@
   <string name="activate_status_desc_request_activation_sms_server_error">Server error occurred while requesting an activation SMS.</string>
   <string name="activate_status_desc_sending_sms">Sending activation SMS…</string>
   <string name="activate_status_desc_sending_sms_fail">"Couldn't send activation SMS to gateway"</string>
-  <string name="activate_status_desc_sms_sent">Activation SMS sent</string>
+  <string name="activate_status_desc_sms_sent">"アクティベートSMSを正常に送信しました"</string>
   <string name="activate_status_desc_wait_for_sms">Waiting for activation SMS from server…</string>
   <string name="activate_status_desc_wait_for_sms_fail">"Couldn't receive activation SMS from server"</string>
   <string name="activate_status_desc_wait_for_sms_success">Received activation SMS from server</string>
   <string name="activate_status_title_activating">"SIMカードを有効にしています…"</string>
   <string name="activate_status_title_activating_msim">"SIMカード %d を有効にしています…"</string>
   <string name="agree">"許可"</string>
-  <string name="app_name">Xiaomi SIM Activate Service</string>
+  <string name="app_name">Xiaomi SIM Activation Service</string>
   <string name="checking_client">checking client env</string>
-  <string name="error_checking_client">client env error</string>
-  <string name="error_network_io">"ネットワークエラー"</string>
-  <string name="error_no_send_sms_permission">no send sms permission</string>
-  <string name="error_sim_not_in_service">sim not in service</string>
+  <string name="error_checking_client">"アクティベーション中にエラーが発生しました"</string>
+  <string name="error_network_io">"ネットワークエラーが発生しました"</string>
+  <string name="error_no_send_sms_permission">"Xiaomi SIM Activation ServiceはSMSのアクセス許可が必要です"</string>
+  <string name="error_sim_not_in_service">"SIMカードがアクティベートされるのを待っています"</string>
   <string name="explain_send_sms_permission_button">"確認"</string>
   <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
   <string name="explain_send_sms_permission_title">Verify your phone number</string>

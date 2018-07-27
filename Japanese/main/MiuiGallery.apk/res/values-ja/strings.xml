@@ -1184,9 +1184,9 @@ Take more photos of your friends!"</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
   <string name="video_editor_smart_effect_rhythm">Pulse</string>
   <string name="video_editor_smart_effect_street">Metropolis</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">You can apply this effect to videos which are up to 40 seconds long.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">This effect can be applied to videos no longer than 40 seconds. Adjusted duration automatically.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">You can apply this effect to videos which are at least 6 seconds long.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">You can apply this effect to videos which are up to 60 seconds long.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">This effect can be applied to videos no longer than 60 seconds. Adjusted duration automatically.</string>
   <string name="video_editor_template_family">Family</string>
   <string name="video_editor_template_forbidden_tips">"Can't do this when using a template"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
@@ -1205,7 +1205,7 @@ Take more photos of your friends!"</string>
   <string name="video_editor_unsupport_audio_file">Unsupport audio file</string>
   <string name="video_editor_unzip_file_fail">"Couldn't unpack video."</string>
   <string name="video_editor_video_is_short">"この動画は編集できません。"</string>
-  <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
+  <string name="video_editor_video_loading">Preparing video… Wait a second or two and try again.</string>
   <string name="video_editor_watermark">"透かし"</string>
   <string name="video_err">"動画を再生できません"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
