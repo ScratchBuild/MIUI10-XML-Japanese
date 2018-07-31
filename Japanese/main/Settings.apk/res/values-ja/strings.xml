@@ -5079,8 +5079,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wallpaper_settings_fragment_title">壁紙の選択先:</string>
   <string name="wallpaper_settings_title">壁紙</string>
   <string name="wapi_auto_sel_cert">自動的に選択</string>
-  <string name="wapi_auto_sel_cert_fail">証明書を自動的に選択できません。リストから証明書を選択し、接続を試みます。</string>
-  <string name="wapi_cert_is_not_selected">最初に証明書を選択する</string>
+  <string name="wapi_auto_sel_cert_fail">証明書を自動的に選択できません。リストから証明書を選択し、接続してください。</string>
+  <string name="wapi_cert_is_not_selected">最初に証明書を選択してください</string>
   <string name="wapi_cert_manage_summary">WAPI証明書を追加または削除する</string>
   <string name="wapi_cert_manage_title">WAPI証明書の管理</string>
   <string name="wapi_cert_select">WAPI証明書</string>
@@ -5312,7 +5312,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_off_airplane_on_not_remind">二度と表示しない</string>
   <string name="wifi_off_airplane_on_title">Wi-Fiネットワークを有効にしますか？</string>
   <string name="wifi_on_time">Wi-FiをONにしている時間</string>
-  <string name="wifi_other_connection_mode">Other connectivity options</string>
+  <string name="wifi_other_connection_mode">その他の接続オプション</string>
   <string name="wifi_other_network">別のネットワークを追加</string>
   <string name="wifi_p2p_cancel_connect_message">%1$sとの接続への招待をキャンセルしますか？</string>
   <string name="wifi_p2p_cancel_connect_title">招待状のキャンセル</string>
@@ -5341,11 +5341,11 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_priority_settings_title">アクセスポイントの優先順位設定</string>
   <string name="wifi_priority_type_summary">手動で各アクセスポイントの優先順位を設定します</string>
   <string name="wifi_priority_type_title">手動でアクセスポイントの優先順位を設定</string>
-  <string name="wifi_property">WLAN properties</string>
+  <string name="wifi_property">Wi-Fiのプロパティ</string>
   <string name="wifi_quick_toggle_summary">Wi-FiをONにする</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">保存済み</string>
-  <string name="wifi_remembered_disabled_auto_connect">Saved. Auto connection is off.</string>
+  <string name="wifi_remembered_disabled_auto_connect">保存しました。自動接続はOFFです。</string>
   <string name="wifi_required_info_text">セットアップを完了するには、タブレットでWi-Fiに接続する必要があります。セットアップ後にモバイルデータ通信とWi-Fiを切り替えられます。</string>
   <string name="wifi_rssi_threshold_check">RSSI閾値を有効</string>
   <string name="wifi_rssi_threshold_check_summary">受信強度が低い場合には、認証サーバーに接続しないでください</string>
