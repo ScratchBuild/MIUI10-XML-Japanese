@@ -86,6 +86,7 @@
   <string name="chinese_leap">"閏"</string>
   <string name="chongsha">"幽霊"</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
+  <string name="close_alarm">"オフにする"</string>
   <string name="copy_email">"メールアドレスをコピー"</string>
   <string name="copy_number">"電話番号をコピー"</string>
   <string name="countdown_event_title">"カウントダウン: %1$s"</string>
@@ -213,6 +214,7 @@
   <string name="gadget_no_events">"近日中の予定はありません"</string>
   <string name="gadget_title">"カレンダー"</string>
   <string name="global_action_text_card_manager">"カレンダーをカスタマイズ"</string>
+  <string name="guide_card_close">"閉じる"</string>
   <string name="guide_card_import">"インポート"</string>
   <string name="guide_card_primary_text">"友人の誕生日をインポート"</string>
   <string name="guide_card_second_text">"重要な日付を忘れない"</string>
@@ -285,6 +287,7 @@
   <string name="loan_event_title">贷款账单</string>
   <string name="local_calendar_display_name">"ローカルカレンダー"</string>
   <string name="local_owner_account_name">"この端末上に保存"</string>
+  <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
   <string name="lunar_date">Lunar date</string>
   <string name="match_ed">"終了済"</string>
   <string name="match_ing">"進行中"</string>
@@ -460,7 +463,9 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="tab_title_month">"月"</string>
   <string name="tab_title_week">"週"</string>
   <string name="taishen">胎神</string>
-  <string name="talk_back_read_date">Current date: %1$s (%2$s according to lunar calendar).</string>
+  <string name="talk_back_month">月</string>
+  <string name="talk_back_read_date">%1$s (%2$s according to lunar calendar).</string>
+  <string name="talk_back_setting">"設定"</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
   <string name="template_week_num">"第%1$s週"</string>
   <string name="text_day">日</string>

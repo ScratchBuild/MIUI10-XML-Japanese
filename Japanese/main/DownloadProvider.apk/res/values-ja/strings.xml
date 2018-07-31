@@ -7,6 +7,10 @@
   <string name="button_queue_for_wifi">"キューに登録"</string>
   <string name="button_start_now">"今すぐ開始"</string>
   <string name="button_wait_for_wifi">"待機"</string>
+  <string name="channel_active">"ダウンロード中"</string>
+  <string name="channel_complete">"ダウンロード済み"</string>
+  <string name="channel_insufficient_space">"空き領域が不足"</string>
+  <string name="channel_waiting">"ダウンロード待ち"</string>
   <string name="dialog_insufficient_space_on_cache">"内部ストレージにダウンロードするための十分な空き容量がありません"</string>
   <string name="dialog_insufficient_space_on_external">"外部ストレージに十分な空き領域がありません"</string>
   <string name="dialog_not_show_again">"二度と表示しない"</string>

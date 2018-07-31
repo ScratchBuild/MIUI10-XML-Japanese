@@ -28,18 +28,6 @@
         <item quantity="other">PUKコードが正しくありません、残り%d回です</item>
         <item quantity="one">PUKコードが正しくありません、残り%d回です</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">フル充電まで%d時間</item>
-        <item quantity="one">フル充電まで%d時間</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">フル充電まで%d分</item>
-        <item quantity="one">フル充電まで%d分​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">フル充電まで%1$d時間%2$d分</item>
-        <item quantity="one">フル充電まで%1$d時間%2$d分</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">残り%d時間</item>
         <item quantity="one">残り%d時間</item>

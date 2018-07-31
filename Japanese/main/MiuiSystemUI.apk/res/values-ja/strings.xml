@@ -621,6 +621,7 @@
   <string name="incorrect_pukcode">"PUKコードが正しくありません"</string>
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"ペアレンタルコントロールが有効な間はspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
   <string name="input_password_handle_sdcard_fs">"ロック画面からSecond spaceに切り替えることはできません。First spaceから切り替えてください。"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
@@ -846,7 +847,6 @@
   <string name="lockscreen_shortcut_left">左ショートカット</string>
   <string name="lockscreen_shortcut_right">右ショートカット</string>
   <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
-  <string name="lockscreen_storage_locked">すべての機能とデータのロックを解除</string>
   <string name="lockscreen_unlock_left">左ショートカットでもロックを解除</string>
   <string name="lockscreen_unlock_right">右ショートカットでもロックを解除</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
@@ -1039,12 +1039,12 @@
   <string name="phone_locked_string">"電話がロックされています"</string>
   <string name="picture_color_mode">画像の色モード</string>
   <string name="picture_color_mode_desc">sRGBを使用</string>
-  <string name="pip_close">PIP を閉じる</string>
+  <string name="pip_close">PiP を閉じる</string>
   <string name="pip_fullscreen">全画面表示</string>
   <string name="pip_menu_title">メニュー</string>
   <string name="pip_notification_message">%sでこの機能を使用しない場合は、タップして設定を開いて OFF にしてください。</string>
   <string name="pip_notification_title">%sはピクチャー イン ピクチャーで表示中です</string>
-  <string name="pip_notification_unknown_title">（無題の番組）</string>
+  <string name="pip_notification_unknown_title">(番組名なし)</string>
   <string name="pip_pause">一時停止</string>
   <string name="pip_phone_close">閉じる</string>
   <string name="pip_phone_dismiss_hint">下にドラッグして閉じる</string>
