@@ -5100,7 +5100,6 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="web_action_section_title">インスタントアプリ</string>
   <string name="webview_disabled_for_user">（%s では無効）</string>
   <string name="webview_license_title">システムのWebViewライセンス</string>
-  <string name="webview_uninstalled_for_user">（%s からアンインストール）</string>
   <string name="welcome">ようこそ</string>
   <string name="wfd_available_devices">利用可能なデバイス</string>
   <string name="wfd_disconnect_diag_msg">%1$sへの接続を終了します。</string>
