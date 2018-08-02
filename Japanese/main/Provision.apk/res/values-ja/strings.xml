@@ -77,15 +77,13 @@
   <string name="summary_not_set">"未設定"</string>
   <string name="system_navigation_mode">"システムナビゲーションモード"</string>
   <string name="terms_of_use">"利用規約"</string>
-  <string name="terms_of_use_label">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
-
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, smart cards, Mi Link, and Mi Account components will connect to the internet and acquire your location."</string>
-  <string name="terms_of_use_label_gms">"Your privacy is very important to us. Read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
-
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, smart cards, Mi Link, Mi Account, and Google Play services components will connect to the internet and acquire your location."</string>
-  <string name="terms_of_use_label_systemhelper">"自己登録サービス"</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. %s and Mi Account components will connect to the internet and acquire your location."</string>
+  <string name="terms_of_use_label_systemhelper">, Self-registered service</string>
+  <string name="terms_of_use_lable_apps">Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen, Game center, MAB, MIUI Daemon and MSA system components, Translation services, Quick apps, App vault, statistics, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"この機能を使用する前に、Facemojiプライバシーポリシーに同意する必要があります。"</string>
   <string name="terms_of_use_lable_default_input_method_kika">"この機能を使用する前に、Kikaプライバシーポリシーに同意する必要があります。"</string>
+  <string name="terms_of_use_lable_gms">、Google Playサービス</string>
+  <string name="terms_of_use_lable_smart_cards">、スマートカード</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemojiプライバシーポリシー</string>
   <string name="terms_privacy_policy_input_method_kika">Kikaプライバシーポリシー</string>
   <string name="title_fingerprint">"パスワードを設定"</string>

@@ -2861,7 +2861,7 @@ as your First space PIN."</string>
   <string name="notification_channel_badge_title">通知ドットの表示</string>
   <string name="notification_channel_sound_title">音</string>
   <string name="notification_channel_title">通知のカテゴリ</string>
-  <string name="notification_channels">カテゴリ</string>
+  <string name="notification_channels">通知のカテゴリ</string>
   <string name="notification_channels_other">その他</string>
   <string name="notification_content_block_summary">シェードにも周辺端末にも通知を表示しない</string>
   <string name="notification_content_block_title">通知の表示</string>
@@ -5100,6 +5100,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="web_action_section_title">インスタントアプリ</string>
   <string name="webview_disabled_for_user">（%s では無効）</string>
   <string name="webview_license_title">システムのWebViewライセンス</string>
+  <string name="webview_uninstalled_for_user">（%s からアンインストール）</string>
   <string name="welcome">ようこそ</string>
   <string name="wfd_available_devices">利用可能なデバイス</string>
   <string name="wfd_disconnect_diag_msg">%1$sへの接続を終了します。</string>

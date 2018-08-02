@@ -996,10 +996,10 @@
   <string name="same_folder_name_warning">"同じ名前のグループが既に存在します"</string>
   <string name="save_button_text">"保存"</string>
   <string name="save_dialog_title">"保存"</string>
-  <string name="save_file">"保存"</string>
+  <string name="save_file">"保存 "</string>
   <string name="save_file_already_exist_alert_message">"同じ名前のファイルが既に存在します、ファイルを上書きしますか？"</string>
   <string name="save_file_already_exist_alert_title">"ファイルを上書きしますか？"</string>
-  <string name="save_file_suffix">file</string>
+  <string name="save_file_suffix">" ファイル"</string>
   <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
   <string name="save_image_failed">"画像を保存できませんでした"</string>
   <string name="save_image_success">"画像を保存しました"</string>
