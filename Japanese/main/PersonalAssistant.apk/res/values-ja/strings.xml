@@ -661,6 +661,8 @@
   <string name="express_setting_service_provider">Service provider</string>
   <string name="express_setting_service_unavailable">抱歉，当前服务不可用，请稍后重试</string>
   <string name="express_setting_sim_card_index">卡槽%d</string>
+  <string name="express_setting_subscribe_phone_failed">携帯番号を追加できませんでした</string>
+  <string name="express_setting_subscribe_phone_success">携帯番号を正常に追加しました</string>
   <string name="express_setting_supported_orders">"Supported delivery services include Taobao, Tmall, Xianyu, ZTO Express, STO Express, Yunda Express, and other major delivery companies.
 Several orders sent via SF Express from the vendors outside of Taobao, Tmall, and Xianyu can only be checked manually. JD Express isn't supported."</string>
   <string name="express_setting_title">Verified phone number</string>
@@ -1293,6 +1295,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="scan_parent">Pay</string>
   <string name="scan_trans">Translate</string>
   <string name="screen_shot">スクリーンショット</string>
+  <string name="search">検索</string>
   <string name="search_add_header">Add cover image</string>
   <string name="search_category_article">Articles</string>
   <string name="search_category_shopping">Shopping</string>

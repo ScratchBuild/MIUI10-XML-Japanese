@@ -183,6 +183,7 @@
   <string name="apn_settings_not_available">このユーザーはアクセスポイント名設定を利用できません</string>
   <string name="app_info">アプリ情報</string>
   <string name="app_label">システムUI</string>
+  <string name="app_name">ロック画面</string>
   <string name="app_process_limit_title">バックグラウンドプロセスの上限</string>
   <string name="as_important">Important</string>
   <string name="as_unimportant">Unimportant</string>
@@ -673,7 +674,7 @@
   <string name="keyguard_accessibility_pin_area">PIN エリア</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN エリア</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK エリア</string>
-  <string name="keyguard_carrier_default">通信サービスはありません。</string>
+  <string name="keyguard_carrier_default">通信サービスはありません</string>
   <string name="keyguard_charged">充電が完了しました</string>
   <string name="keyguard_charging_info_battery_used_time_text">"電池使用時間"</string>
   <string name="keyguard_charging_info_click_to_detail">"詳細を表示"</string>
@@ -686,7 +687,7 @@
   <string name="keyguard_charging_info_tip_text2">"Don't overcharge your device. Multiple shorter charges are better than an overnight charge."</string>
   <string name="keyguard_charging_info_tip_text3">Avoid charging your device when the surrounding temperature is lower than 0℃.</string>
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
-  <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
+  <string name="keyguard_charging_info_tip_text5">It takes longer for batteries to charge when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
   <string name="keyguard_indication_charging_time">充電中（フル充電まで%s）</string>
   <string name="keyguard_indication_charging_time_fast">急速充電中（完了まで%s）</string>
@@ -723,7 +724,7 @@
   <string name="keyguard_sim_unlock_progress_dialog_message">SIM カードのロックを解除しています…</string>
   <string name="keyguard_torch_cover_text">"ライトをオンにするには、電源ボタンを押し続けます"</string>
   <string name="keyguard_unlock">ロック解除するには上にスワイプしてください</string>
-  <string name="kg_enter_confirm_pin_hint">必要な PIN コードを確認してください</string>
+  <string name="kg_enter_confirm_pin_hint">新しい PIN コードを確認してください</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">スマートフォンのロック解除に %1$d 回失敗しました。あと %2$d 回失敗すると、仕事用プロファイルは削除され、プロファイルのデータはすべて消去されます。</string>
   <string name="kg_failed_attempts_almost_at_erase_user">スマートフォンのロック解除に %1$d 回失敗しました。あと %2$d 回失敗すると、このユーザーは削除され、ユーザー データはすべて消去されます。</string>
   <string name="kg_failed_attempts_almost_at_login">"ロック解除パターンの入力を %1$d 回間違えました。あと %2$d 回間違えると、スマートフォンのロック解除にメール アカウントが必要になります。
@@ -740,8 +741,8 @@
   <string name="kg_invalid_sim_puk_hint">PUK コードは 8 桁以下の数字で入力してください。</string>
   <string name="kg_login_too_many_attempts">パターンの入力を所定の回数以上間違えました</string>
   <string name="kg_password_instructions">パスワードを入力してください</string>
-  <string name="kg_password_pin_failed">SIM PIN 操作に失敗しました。</string>
-  <string name="kg_password_puk_failed">SIM PUK 操作に失敗しました。</string>
+  <string name="kg_password_pin_failed">SIM PIN を使用してロック解除できませんでした</string>
+  <string name="kg_password_puk_failed">SIM PUK を使用してロック解除できませんでした</string>
   <string name="kg_password_wrong_pin_code_pukked">SIM PIN コードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="kg_password_wrong_puk_code_dead">SIM は使用できません。携帯通信会社にお問い合わせください。</string>
   <string name="kg_pattern_instructions">パターンを入力してください</string>
@@ -758,7 +759,7 @@
   <string name="kg_prompt_reason_timeout_pattern">追加の確認のためパターンが必要です</string>
   <string name="kg_prompt_reason_timeout_pin">追加の確認のため PIN が必要です</string>
   <string name="kg_prompt_reason_user_request">端末は手動でロックされました</string>
-  <string name="kg_puk_enter_pin_hint">必要な PIN コードを入力してください</string>
+  <string name="kg_puk_enter_pin_hint">新しい PIN コードを入力してください</string>
   <string name="kg_puk_enter_puk_hint">SIM が無効になりました。続行するには PUK コードを入力してください。詳しくは携帯通信会社にお問い合わせください。</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM「%1$s」が無効になりました。続行するには PUK コードを入力してください。詳しくは携帯通信会社にお問い合わせください。</string>
   <string name="kg_sim_pin_instructions">SIM PIN を入力してください。</string>
@@ -846,7 +847,7 @@
   <string name="lockscreen_none">なし</string>
   <string name="lockscreen_shortcut_left">左ショートカット</string>
   <string name="lockscreen_shortcut_right">右ショートカット</string>
-  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+  <string name="lockscreen_sim_error_message_short">SIMカードが無効です。</string>
   <string name="lockscreen_unlock_left">左ショートカットでもロックを解除</string>
   <string name="lockscreen_unlock_right">右ショートカットでもロックを解除</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
@@ -1447,7 +1448,7 @@ EEEE"</string>
   <string name="structure_face_unlock_model_other">その他</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D認識</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D認識</string>
-  <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. Whenthis feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. When this feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
   <string name="structure_face_unlock_model_other_title">顔認識</string>
   <string name="structure_face_unlock_not_same_person">"You have to complete all the steps yourself. Don't switch places with anyone."</string>
