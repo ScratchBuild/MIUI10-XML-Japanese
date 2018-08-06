@@ -2067,6 +2067,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
+  <string name="keyguard_vertical_clock_title">Vertical Clock</string>
   <string name="keyguard_left_function_chooser_hint_text">左側のショートカットは%sに変更しました</string>
   <string name="keyguard_left_function_chooser_title">アプリ</string>
   <string name="keyguard_left_function_title">左側</string>
