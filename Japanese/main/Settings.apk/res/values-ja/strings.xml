@@ -801,6 +801,8 @@
   <string name="bootloader_locked_answer_2">"1. SIMカードが予めデバイスに挿入されていることを確認してください。
 2. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
 3. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
+2. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
   <string name="bootloader_locked_check_status">アカウントとデバイスの追加</string>
   <string name="bootloader_locked_question_1">なぜデバイスをロックする必要がありますか？</string>
   <string name="bootloader_locked_question_2">リスクを理解しました、それでもデバイスのアンロックを希望します。</string>
@@ -3898,6 +3900,8 @@ as your First space PIN."</string>
   <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
   <string name="security_encryption_rejected_via_home_manager">この機能はデモ版ではサポートされていません。</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
+  <string name="security_input">セキュリティ入力</string>
+  <string name="security_input_hint">セキュリティキーボードを使用してパスワードを入力</string>
   <string name="security_keyguard_category_name">画面ロック</string>
   <string name="security_password_category_name">ロック画面</string>
   <string name="security_passwords_title">パスワード</string>

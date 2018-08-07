@@ -1506,7 +1506,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_key_tethering_setting">"ワンタイム データ制限"</string>
   <string name="pref_key_tethering_title">"ワンタイム データ制限"</string>
   <string name="pref_manual_adjust">"データ使用量の統計を手動で設定"</string>
-  <string name="pref_mi_sim_settings">"Mi SIMの設定"</string>
+  <string name="pref_mi_sim_settings">"%s パッケージの設定"</string>
   <string name="pref_more_settings">"その他の設定"</string>
   <string name="pref_new_installed_preconfig_title">"新しいアプリのデフォルト設定"</string>
   <string name="pref_normal_traffic_limit">"データプランを使い切った場合"</string>
@@ -1520,7 +1520,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_roaming_setting_gategory">"設定"</string>
   <string name="pref_special_package_setting">Custom data plan</string>
   <string name="pref_special_package_setting_summary">Manage off-peak data, top-up packages, daily data plans, and designated data</string>
-  <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
+  <string name="pref_summary_upload_data_usage">"MIUIのサービスを改善するため、データ使用量の情報を報告してください。報告プロセスは、当社のプライバシーポリシーに従って行われます。"</string>
   <string name="pref_title_declaration">"重要な免責条項"</string>
   <string name="pref_title_diagnostics_show_float_notification">"フローティング通知"</string>
   <string name="pref_title_manual_check_virus_db_update">"更新を確認"</string>
@@ -1528,7 +1528,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">"ネットワーク速度を表示"</string>
   <string name="pref_title_update_notification">"データ使用の通知"</string>
-  <string name="pref_title_upload_data_usage">Report data usage stats</string>
+  <string name="pref_title_upload_data_usage">"データ使用量の情報を報告"</string>
   <string name="pref_traffic_manage_title">"データ使用量"</string>
   <string name="pref_whitelist_setting">"データローミングの例外"</string>
   <string name="preferred_app_entries_browser">"ブラウザ"</string>
@@ -1587,6 +1587,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="report_success">"メッセージを報告しました"</string>
   <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
   <string name="report_warning_title">"注意"</string>
+  <string name="reset_data_dialog_message">"この端末はお使いのMi Accountに関連付けられていないため、パスワードの復元やリセットはできません。すべての重要なデータをバックアップして、ファクトリーリセットを実行します。すべてのデータは完全に削除され、SDカードは工場出荷時の状態にフォーマットされます。"</string>
+  <string name="reset_data_dialog_ok">"ファクトリーリセット"</string>
+  <string name="reset_data_title">"パスワードを復元できません"</string>
   <string name="resource_antispam">"ブロックリスト"</string>
   <string name="resource_antivirus">"ウイルススキャン"</string>
   <string name="resource_app_permissions">"アプリの権限"</string>

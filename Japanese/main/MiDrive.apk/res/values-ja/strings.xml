@@ -54,7 +54,7 @@
   <string name="month_day_format">"M月d日"</string>
   <string name="move_failed">"切り取りできませんでした"</string>
   <string name="move_failed_retry">"切り取りできません、%1$sを待ってからもう一度お試しください"</string>
-  <string name="need_get_accounts_permission">"Mi Driveが正常に動作するにはアカウントへのアクセスが必要です。"</string>
+  <string name="need_get_accounts_and_storage_permission">Mi Driveが正常に動作するには、アカウント情報と外部ストレージへのアクセス許可が必要です。</string>
   <string name="never_notify">"次回から表示しない"</string>
   <string name="no_app_found_to_open_file">"この操作を処理するためのアプリが見つかりませんでした。"</string>
   <string name="no_more_space">"十分な空き領域がありません。"</string>
@@ -101,7 +101,7 @@
   <string name="quota_info">"Mi Drive: %1$s 空き, %2$s 合計"</string>
   <string name="rename_alert">"このファイルの拡張子を変更した場合、それを開くことができなくなる場合があります。"</string>
   <string name="rename_failed">"同じ名前のファイルが既に存在します。"</string>
-  <string name="request_permission_msg">"Mi Driveが正常に動作するには、アカウント情報へのアクセスを許可してください。"</string>
+  <string name="request_permission_msg">"Mi Driveが正常に動作するには、アカウント情報と外部ストレージへのアクセスを許可してください。"</string>
   <string name="request_permission_title">"権限のリクエスト"</string>
   <string name="sd_full">"SDカードがいっぱいです。"</string>
   <string name="sd_invalid">"SDカードが破損しています。"</string>

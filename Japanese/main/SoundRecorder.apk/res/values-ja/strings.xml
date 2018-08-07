@@ -75,6 +75,7 @@
   <string name="preference_scenes">"録音タイプ"</string>
   <string name="preference_silent_mode">"録音中は着信音をミュート"</string>
   <string name="preference_tip_rename">"手動で録音に名前を付ける"</string>
+  <string name="privacy_policy_title">"プライバシーポリシー"</string>
   <string name="recognition_error_cancel">"キャンセルしました"</string>
   <string name="recognition_error_download_cancel">"後で"</string>
   <string name="recognition_error_download_fail">"ダウンロードできませんでした。ネットワーク設定を確認してもう一度お試しください。"</string>
