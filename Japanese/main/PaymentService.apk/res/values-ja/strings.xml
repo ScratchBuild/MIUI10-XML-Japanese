@@ -336,7 +336,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_web_login">ログイン</string>
   <string name="mibi_web_login_app_description">Login %1$s</string>
   <string name="mibi_web_login_description">ログイン</string>
-  <string name="mibi_web_login_waiting">Please wait…</string>
+  <string name="mibi_web_login_waiting">読み込み中…</string>
   <string name="mibi_web_sso_login_fail">もう一度ログインする必要があります</string>
   <string name="passport_access_denied">アクセスが拒否されました</string>
   <string name="passport_account_hint_text">メールアドレス/電話番号/Mi Account ID</string>

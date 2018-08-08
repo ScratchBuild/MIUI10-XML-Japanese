@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$s haven't been synced"</item>
-        <item quantity="one">"%1$s hasn't been synced"</item>
+        <item quantity="other">%1$sが同期されていません</item>
+        <item quantity="one">%1$sが同期されていません</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s個のフォルダ</item>
