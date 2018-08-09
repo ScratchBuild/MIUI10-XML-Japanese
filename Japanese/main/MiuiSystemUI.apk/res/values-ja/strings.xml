@@ -1022,7 +1022,7 @@
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">通話に戻る</string>
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
-  <string name="open_remote_center_hint_text">"右にスワイプでMi Remoteを開く"</string>
+  <string name="open_remote_center_hint_text">"右にスワイプでショートカットを開く"</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overview">履歴</string>
