@@ -136,6 +136,7 @@
   <string name="micloud_dialog_sync_now_title">同期するにはWi-Fiに接続</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="micloud_dspt_provision_xms">Use Mi Cloud to sync data.</string>
   <string name="micloud_find_device_close_alert_content">"この機能をオフにすると、端末を紛失した場合に端末を見つけることができなくなります。"</string>
   <string name="micloud_find_device_close_alert_negtive">とにかくオフにする</string>
   <string name="micloud_find_device_close_alert_positive">オンのままにする</string>
@@ -174,6 +175,7 @@
   <string name="micloud_main_button_authorize">許可する</string>
   <string name="micloud_main_button_set_internet">設定</string>
   <string name="micloud_main_cancel_sync">同期をキャンセル</string>
+  <string name="micloud_main_cancel_sync_now">キャンセル中…</string>
   <string name="micloud_main_clear_now">"消去"</string>
   <string name="micloud_main_detail">詳細を表示</string>
   <string name="micloud_main_error_activated_fail">SIMカードを有効にしてください。</string>
@@ -201,6 +203,11 @@
   <string name="micloud_main_resume_sync_soon">すぐに同期を再開する</string>
   <string name="micloud_main_see_unsynced_data">同期するデータを確認する</string>
   <string name="micloud_main_set_internet">ネットワーク</string>
+  <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
+  <string name="micloud_main_simple_off">Sync Off</string>
+  <string name="micloud_main_simple_pending">Pending</string>
+  <string name="micloud_main_simple_synced">Synced</string>
+  <string name="micloud_main_simple_syncing">Syncing</string>
   <string name="micloud_main_space_full_message">Buy more storage space in Mi Cloud</string>
   <string name="micloud_main_space_full_title">十分な空き領域がありません、同期が一時停止しました</string>
   <string name="micloud_main_space_low">空き領域が残りわずか</string>

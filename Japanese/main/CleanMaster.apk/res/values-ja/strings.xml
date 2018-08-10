@@ -302,6 +302,8 @@
   <string name="mainbtn_text_no_trash">"スキップ"</string>
   <string name="mainbtn_text_quick_cleanup">"%sをクリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
+  <string name="memory_clean_icon_text">"メモリを解放"</string>
+  <string name="memory_clean_no_trash_tip">"ゴミファイルはありません"</string>
   <string name="menu_add_to_white_list">"例外に追加"</string>
   <string name="menu_clear">"消去"</string>
   <string name="menu_install">"このアプリをインストール"</string>
@@ -327,6 +329,12 @@
   <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
   <string name="notify_when">"ゴミ箱のサイズが100MBに達したときに通知を行う"</string>
   <string name="ok">OK</string>
+  <string name="onekeyclean_boost_available">"%s が利用可能です"</string>
+  <string name="onekeyclean_boost_cleaned">"%s を解放しました"</string>
+  <string name="onekeyclean_boosted_title">"メモリを解放しました"</string>
+  <string name="onekeyclean_boosting_title">Boosting speed</string>
+  <string name="onekeyclean_card_btn">"今すぐ消去"</string>
+  <string name="onekeyclean_card_summery">"ゴミを削除して空き領域を確保"</string>
   <string name="open">"オンにする"</string>
   <string name="open_app">"開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
@@ -360,6 +368,7 @@
   <string name="pref_title_choose_engine">"定義"</string>
   <string name="pref_title_clean_alert">Remind to clean</string>
   <string name="pref_title_cleanup_white_list">"例外"</string>
+  <string name="pref_title_create_onekeyclean_shortcut">"ホーム画面にショートカットを追加する"</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
   <string name="pref_title_garbage_cleanup_check_size">"ゴミ箱のサイズ制限"</string>
   <string name="pref_title_garbage_cleanup_check_time">"スケジュール"</string>

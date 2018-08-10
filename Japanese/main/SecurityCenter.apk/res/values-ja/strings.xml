@@ -828,7 +828,7 @@
   <string name="gmscore_support_service">"Googleサービス"</string>
   <string name="go_to">"続行"</string>
   <string name="go_to_setting_fingerprint">"設定"</string>
-  <string name="google_base_app_install_choice">"\"%s\"が正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
+  <string name="google_base_app_install_choice">"アプリが正常に動作するにはGoogleサービスフレームワークが必要です、今すぐインストールしますか？"</string>
   <string name="gs_anto_clean_memory_whitelist">"例外"</string>
   <string name="gs_app_back_self_start">"バッテリーセーバー"</string>
   <string name="gs_auto_clean_memory">"キャッシュを消去"</string>

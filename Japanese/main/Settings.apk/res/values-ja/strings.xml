@@ -1820,6 +1820,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="foreground_traffic">フォアグラウンド %s</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
+  <string name="forget_password_dialog_button_text">戻る</string>
+  <string name="forget_password_dialog_content_four">&lt;Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.&lt;/Data></string>
+  <string name="forget_password_dialog_content_one">&lt;Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."&lt;/Data></string>
+  <string name="forget_password_dialog_content_three">&lt;Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."&lt;/Data></string>
+  <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
+  <string name="forget_password_dialog_title">Reset your password</string>
   <string name="forget_pattern">&lt;u>Forgot pattern?&lt;/u></string>
   <string name="forget_privacy_password_setting">Mi Accountを追加</string>
   <string name="forget_privacy_password_summary">Mi Accountを使用してパスワードをリセット</string>
