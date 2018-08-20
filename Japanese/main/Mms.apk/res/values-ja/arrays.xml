@@ -52,4 +52,9 @@
         <item>10秒</item>
         <item>その他</item>
     </string-array>
+    <string-array name="recv_type">
+        <item>受信して通知する</item>
+        <item>受信のみ</item>
+        <item>拒否する</item>
+    </string-array>
 </resources>

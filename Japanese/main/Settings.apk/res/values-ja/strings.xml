@@ -1582,6 +1582,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enter_password">Androidを起動するには、パスワードを入力します</string>
   <string name="enter_pattern">Androidを起動するには、パターンを入力します</string>
   <string name="enter_pin">Androidを起動するには、PINを入力します</string>
+  <string name="enterprise_mode">Enterprise mode</string>
   <string name="enterprise_privacy_always_on_vpn_device">常時接続 VPN は ON です</string>
   <string name="enterprise_privacy_always_on_vpn_personal">個人プロフィールで常時接続 VPN は ON です</string>
   <string name="enterprise_privacy_always_on_vpn_work">仕事用プロファイルで常時接続 VPN は ON です</string>
@@ -2075,7 +2076,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
-  <string name="keyguard_vertical_clock_title">Vertical Clock</string>
+  <string name="keyguard_vertical_clock_title">Vertical clock</string>
   <string name="keyguard_left_function_chooser_hint_text">左側のショートカットは%sに変更しました</string>
   <string name="keyguard_left_function_chooser_title">アプリ</string>
   <string name="keyguard_left_function_title">左側</string>
@@ -4230,6 +4231,8 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_custom_carrier">キャリア名を編集</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fiネットワーク名を編集</string>
   <string name="status_bar_settings_enable_notification">通知を表示</string>
+  <string name="status_bar_settings_expand_top_notification">Expand top notification</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Show on secure lock screen</string>
   <string name="status_bar_settings_long_click_sort">トグルスイッチを並べ替えるには長押し</string>
   <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_no_carrier">なし</string>
@@ -4241,6 +4244,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_notification_shade_shortcut">通知シェードのショートカット</string>
   <string name="status_bar_settings_notification_sound">通知音</string>
   <string name="status_bar_settings_notification_sound_custom">音を変更</string>
+  <string name="status_bar_settings_notification_use_app_icon">通知にアプリアイコンを使用</string>
   <string name="status_bar_settings_notification_vibrate">バイブレーション</string>
   <string name="status_bar_settings_show_carrier">キャリア名を表示</string>
   <string name="status_bar_settings_show_carrier_summary">この機能がオフの場合には、キャリア名がロック画面と通知領域に表示されます</string>

@@ -36,7 +36,9 @@
   <string name="aqi_quality_ambient_air_quality">Air quality nearby</string>
   <string name="aqi_quality_co_desc">Carbon monoxide</string>
   <string name="aqi_quality_detail_15_days">"15日間の予報"</string>
+  <string name="aqi_quality_detail_24_hours">"24時間の予報"</string>
   <string name="aqi_quality_detail_48_hours">"48時間の予報"</string>
+  <string name="aqi_quality_detail_5_days">"5日間の予報"</string>
   <string name="aqi_quality_major_pollutants">"主要な汚染物質"</string>
   <string name="aqi_quality_map_title">Air quality map</string>
   <string name="aqi_quality_no2_desc">"二酸化窒素"</string>
@@ -61,7 +63,7 @@
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
-  <string name="china_version_first_start_network_msg">"このアプリを使用することで、Xiaomiの%1$sと%2$sに同意したことになります。このアプリが正常に動作するには、インターネット接続と位置情報へのアクセスが必要です。"</string>
+  <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's %1$s and %2$s. To help you get more accurate weather information, the weather will get your location information and deal with it, and it need to connect the network. Do you agree?"</string>
   <string name="city_exceeded_warning">"最大で10都市まで追加できます"</string>
   <string name="clear_net_mock_success">Net mockを正常に消去しました</string>
   <string name="common_loading_text">"読み込み中..."</string>
@@ -83,7 +85,7 @@
 手動で更新を行うか、ネットワークの設定を確認してください"</string>
   <string name="data_provided_by">Data provided by</string>
   <string name="edit_city">"都市を管理"</string>
-  <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that Xiaomi will collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that this product will connect the network, collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="feedback_heavy_rain">"大雨"</string>
   <string name="feedback_heavy_snow">"雪"</string>
   <string name="feedback_light_rain">"小雨"</string>
@@ -96,6 +98,8 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">"現在"</string>
   <string name="hourly_forecast_date">M/d</string>
+  <string name="hourly_forecast_title_24_hours_desc">"24時間の予報"</string>
+  <string name="hourly_forecast_title_hourly_desc">"1時間ごとの予報"</string>
   <string name="index_item_experience_now">"今すぐインストール"</string>
   <string name="index_item_install_now">"今すぐインストール"</string>
   <string name="index_item_installing">"インストール中"</string>
@@ -158,6 +162,7 @@
   <string name="privacy_grant_failed">"Couldn't grant authorization. Wait a minute or two and try again."</string>
   <string name="privacy_grant_or_revoke_settings">Granting &amp; revoking authorization</string>
   <string name="privacy_grant_success">Granted authorization successfully</string>
+  <string name="privacy_policy">"プライバシーポリシー"</string>
   <string name="privacy_revoke_failed">"Couldn't revoke authorization. Wait a minute or two and try again."</string>
   <string name="privacy_revoke_success">Revoked authorization successfully</string>
   <string name="privacy_settings">"プライバシーポリシー"</string>
@@ -199,6 +204,7 @@
   <string name="update_setting_title_text">"天気情報を更新"</string>
   <string name="updated_a_moment_ago">"少し前に更新"</string>
   <string name="updating">"更新中…"</string>
+  <string name="user_agreement">"利用規約"</string>
   <string name="view_forecast_item_yesterday">"昨日"</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>

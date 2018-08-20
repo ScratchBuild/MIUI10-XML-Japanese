@@ -1082,6 +1082,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_charge_traffic">Buy data</string>
   <string name="menu_edit">"編集"</string>
   <string name="menu_item_about_content">Version %s</string>
+  <string name="menu_item_about_privacy_title">"プライバシーポリシー"</string>
   <string name="menu_item_about_summary">Version %s</string>
   <string name="menu_item_about_title">"このアプリについて"</string>
   <string name="menu_item_app_details">"詳細"</string>

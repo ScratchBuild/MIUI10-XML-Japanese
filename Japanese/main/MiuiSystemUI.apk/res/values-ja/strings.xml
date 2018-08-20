@@ -48,6 +48,12 @@
   <string name="accessibility_display_daltonizer_preference_title">色補正</string>
   <string name="accessibility_divider">分割画面の分割線</string>
   <string name="accessibility_drag_hint_message">アイテムを画面の上部にドラッグする</string>
+  <string name="accessibility_enter_lock_wallpaper">タップしてMusicアプリを開く</string>
+  <string name="accessibility_ethernet_connected">イーサネットに接続しました。</string>
+  <string name="accessibility_ethernet_disconnected">イーサネット接続を解除しました。</string>
+  <string name="accessibility_fingerprint_dialog_app_icon">アプリのアイコン</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">指紋のアイコン</string>
+  <string name="accessibility_fingerprint_dialog_help_area">ヘルプメッセージの領域</string>
   <string name="accessibility_home">ホーム</string>
   <string name="accessibility_ime_switch_button">入力方法切り替えボタン</string>
   <string name="accessibility_managed_profile">仕事用プロファイル</string>
@@ -534,6 +540,7 @@
   <string name="fingerprint_add_text">"指紋インターフェースが更新されました。指紋をもう一度追加してください。"</string>
   <string name="fingerprint_add_title">"指紋認証を追加"</string>
   <string name="fingerprint_again_identified_msg">Your fingerprint is active now. Use it to unlock the device, or enter password.</string>
+  <string name="fingerprint_dialog_touch_sensor">指紋センサーに触れる</string>
   <string name="fingerprint_enter_second_psw_msg">Enter Second space password after rebooting device to be able to use fingerprint recognition</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">"Lite modeの使用中はSecond spaceに切り替えることができません"</string>
   <string name="fingerprint_enter_second_psw_title">"Second spaceのパスワードを入力"</string>
@@ -1163,7 +1170,7 @@
   <string name="quick_settings_done">完了</string>
   <string name="quick_settings_drivemode_label">運転モード</string>
   <string name="quick_settings_dual_location_label">Dual GPS</string>
-  <string name="quick_settings_edit_label">編集</string>
+  <string name="quick_settings_edit_label">その他</string>
   <string name="quick_settings_flashlight_label">ライト</string>
   <string name="quick_settings_hotspot_label">アクセスポイント</string>
   <string name="quick_settings_ime_label">入力方法</string>

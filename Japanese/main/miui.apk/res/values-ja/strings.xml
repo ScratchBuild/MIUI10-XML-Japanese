@@ -65,10 +65,10 @@
   <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
   <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
   <string name="fmt_time_12hour_pm">a h時</string>
-  <string name="fmt_time_24hour">H時</string>
-  <string name="fmt_time_24hour_minute">H:mm</string>
-  <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-  <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+  <string name="fmt_time_24hour">HH時</string>
+  <string name="fmt_time_24hour_minute">HH:mm</string>
+  <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
+  <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
   <string name="fmt_time_millis">Sミリ秒</string>
   <string name="fmt_time_minute">m分</string>
   <string name="fmt_time_minute_second">m分s秒</string>

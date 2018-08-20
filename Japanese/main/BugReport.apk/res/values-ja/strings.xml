@@ -9,7 +9,7 @@
   <string name="app_search">"アプリを検索"</string>
   <string name="btn_send">"送信"</string>
   <string name="bugreport_dialog_not_show_again">"次回から表示しない"</string>
-  <string name="bugreport_dialog_submit_content">"端末にソフトウェアのログを保存しています。ログには個人情報と位置データが含まれる場合があります。この情報を公開したくない場合は、他のユーザーとログを共有しないでください。"</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data>"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed. Selecting \"Agree\" means that you've read and agreed to our <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Privacy Policy</a> and <a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">User Agreement</a>."&lt;/Data></string>
   <string name="bugreport_dump_complete_notification_summary">"表示するにはタップ。"</string>
   <string name="bugreport_dump_complete_notification_title">"バグレポートを作成"</string>
   <string name="bugreport_dump_start_notification_summary">"これには数分かかります。"</string>
@@ -257,6 +257,8 @@
   <string name="plus_one_submit_dialog_content">"フィードバックはエラーログと共にXiaomiのサーバーに送信されます。"</string>
   <string name="plus_one_submit_dialog_not_show_again">"設定を保存"</string>
   <string name="post_miui_bbs_failed">"フォーラムに投稿できませんでした"</string>
+  <string name="privacy_category_title">"プライバシー"</string>
+  <string name="privacy_policy_title">"プライバシーポリシー"</string>
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="pull_to_refresh_refreshing_label">読み込み中…</string>
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
@@ -279,8 +281,8 @@
   <string name="select_system_app_tag">"問題を選択"</string>
   <string name="submit_dialog_cancel">"同意しない"</string>
   <string name="submit_dialog_confirm">"同意する"</string>
-  <string name="submit_dialog_content">"フィードバックは添付ファイルと共にMIUIのサーバーに送信されます。これには個人情報と位置データが含まれる場合があります。"</string>
-  <string name="submit_dialog_content_global">"添付ファイル(もしあれば)とログ(アップロードしたくない項目はチェックを外すことができます)は、MIUIのサーバーとMIUIフォーラムの限定されたセクションに送信され、解析と更なるコミュニケーションのため使用されます。ログには個人情報と位置データが含まれる場合があります。"</string>
+  <string name="submit_dialog_content">&lt;Data>"Your feedback, along with attachments and logs, will be sent to MIUI's servers. It may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Privacy Policy</a> and <a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">User Agreement</a>."&lt;/Data></string>
+  <string name="submit_dialog_content_global">&lt;Data>"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers. The information about your threads and forum activity will also be collected for analysis and further communication. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Privacy Policy</a> and <a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">User Agreement</a>."&lt;/Data></string>
   <string name="submit_dialog_title">"レポートを送信"</string>
   <string name="submit_feedback_info_failed">"レポートを送信できませんでした"</string>
   <string name="suggestion_description">"ここに説明を追加"</string>
@@ -288,6 +290,7 @@
   <string name="systemui">"通知シェード"</string>
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">My reports</string>
+  <string name="tab_title_preferences">"設定"</string>
   <string name="tab_title_report">"フィードバック"</string>
   <string name="time_in_justnow">"たった今"</string>
   <string name="title_answer_feedback_main">"回答が見つかりました！"</string>

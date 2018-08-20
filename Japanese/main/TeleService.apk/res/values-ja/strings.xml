@@ -283,6 +283,8 @@
   <string name="data_usage_uninstalled_apps_users">削除されたアプリとユーザー</string>
   <string name="dc_alert_dialog_message">一部のアプリではモバイルデータ接続が必要です。ご契約のキャリアに連絡して、%sが利用可能かを確認することができます。</string>
   <string name="dc_alert_dialog_title">データ使用量の警告</string>
+  <string name="dds_switch_warning_message_data_off">SIM %1$sが見つかりません。SIM %2$sがデフォルトのモバイルデータカードとして設定されました。モバイルデータは現在オフになっています。</string>
+  <string name="dds_switch_warning_message_data_on">SIM %1$sが見つかりません。SIM %2$sがデフォルトのモバイルデータカードとして設定されました。不必要な料金の発生を避けるには、モバイルデータをオフにしてください。</string>
   <string name="deactivate_all">すべてキャンセル</string>
   <string name="delete">削除</string>
   <string name="deleteAllSimEntries">すべてのSIMの連絡先を削除</string>

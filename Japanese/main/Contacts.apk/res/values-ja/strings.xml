@@ -346,7 +346,6 @@
   <string name="device_import_message">"インポート中"</string>
   <string name="device_import_progress_begin_message">"インポート中…"</string>
   <string name="device_import_progress_end_message">"インポートしました"</string>
-  <string name="device_import_progress_message">"インポート中…"</string>
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
   <string name="device_list_title">"端末を選択"</string>
@@ -874,6 +873,7 @@ To add a contact to your list of favorites:
   <string name="preference_others">"その他"</string>
   <string name="preference_phone">"端末"</string>
   <string name="preference_phone_more_title">"通話設定"</string>
+  <string name="preference_privacy_policy_title">"プライバシーポリシー"</string>
   <string name="preference_remove_duplicate">"重複する連絡先を統合"</string>
   <string name="preference_show_firewall_calllog">"通話履歴でブロックされた着信を表示"</string>
   <string name="preference_show_yellowpage_tab_description">"この機能をオフにすると、イエローページが正常に動作しない場合があります。"</string>
@@ -1109,8 +1109,8 @@ To add a contact to your list of favorites:
   <string name="title_other_devices">"その他の利用可能なデバイス"</string>
   <string name="title_paired_devices">"ペア設定したデバイス"</string>
   <string name="toast_call_detail_error">"詳細情報がありません"</string>
-  <string name="toast_call_no_SoundRecorder">"レコーダーアプリが利用できません"</string>
-  <string name="toast_call_no_notes">"メモアプリが利用できません"</string>
+  <string name="toast_call_no_SoundRecorder">"レコーダーアプリは利用できません"</string>
+  <string name="toast_call_no_notes">"メモアプリは利用できません"</string>
   <string name="toast_copy_done">"完了"</string>
   <string name="toast_copying">"コピー中…"</string>
   <string name="toast_displaying_all_contacts">"すべての連絡先を表示しています"</string>
