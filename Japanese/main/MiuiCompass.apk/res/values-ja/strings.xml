@@ -50,6 +50,8 @@
   <string name="mobiledata_alert_dialog_title">モバイルデータ通信の警告</string>
   <string name="open_perm_msg">Compass needs access to location info and camera. This is necessary to determine coordinates and provide live previews. Allow?</string>
   <string name="open_perm_title">Permissions required</string>
+  <string name="preference_other">その他</string>
+  <string name="preference_privacy_title">プライバシーポリシー</string>
   <string name="pressure_title">気圧</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">8の字に振ってください</string>

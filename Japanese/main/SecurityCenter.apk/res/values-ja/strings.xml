@@ -254,7 +254,7 @@
   <string name="applock_add_account_info">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="applock_add_account_setting">"アカウントとプライバシー"</string>
   <string name="applock_bind_account_title">Forgot password</string>
-  <string name="applock_close_dialog_summary">"アプリロックをオフにすると、アプリは保護されなくなりパスワードも削除されます。"</string>
+  <string name="applock_close_dialog_summary">All hidden apps will be unhidden, their Home screen shortcuts will be restored, and your App lock password will be deleted. Turn off App lock?</string>
   <string name="applock_close_dialog_title">"アプリロックをオンにしますか？"</string>
   <string name="applock_exit_account_info">"ログアウトするとアカウントは自動的に削除されます"</string>
   <string name="applock_header_text_less_than_half">"小さすぎます。もう少しドラッグしてください。"</string>
@@ -701,6 +701,14 @@
   <string name="exit_dialog_scan_message">"お使いの端末のパフォーマンススコアは75ポイント未満です。今すぐ最適化しますか？"</string>
   <string name="exit_dialog_scan_positive_button">"最適化"</string>
   <string name="exit_dialog_scan_title">"パフォーマンスを最適化"</string>
+  <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
+  <string name="extreme_add_white_list_title">Background exceptions</string>
+  <string name="extreme_power_save_description"><li>"Extreme battery saver stops all background activity of an app after you leave it and go back to the Home screen. This app won't send you notifications or receive updates."</li>"
+"<li>If you want an app to be running in the background, lock it in Recents, or add it to background exceptions below. Up to 4 apps can be running in the background when Extreme battery saver is on.</li>"
+"<li>Extreme battery saver turns off NFC by default. You can change this in the Settings.</li>"
+"<li>To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.</li></string>
+  <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, stops sync, and reduces display colors.</string>
+  <string name="extreme_power_save_mode_title">Extreme battery saver</string>
   <string name="finger_remind_message">"初めに指紋を追加してください。タップで[設定]を開きます。"</string>
   <string name="fingerprint_identify_msg">"指紋によるロック解除をオンにする"</string>
   <string name="fingerprint_not_identified_msg">"指紋を読み取れませんでした、パスワードを入力してください"</string>
@@ -1229,12 +1237,15 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="note_sms_none">"メッセージはありません"</string>
   <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間にバッテリーの%2$sが消費されました"</string>
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
+  <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
+  <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
   <string name="notification_exit_power_save_mode">"バッテリーセーバーをオフにしました"</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
   <string name="notification_mask_title">"内容を非表示"</string>
   <string name="notification_masked_item">"通知を非表示"</string>
   <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
+  <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
   <string name="notify_channel_name_security">"システムセキュリティ"</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
@@ -1540,6 +1551,20 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="preferred_app_entries_launcher">"ランチャー"</string>
   <string name="preferred_app_entries_messaging">"メッセージ"</string>
   <string name="preferred_app_entries_music">Music</string>
+  <string name="privacy_apps">Hidden apps</string>
+  <string name="privacy_apps_category_title">Hidden apps</string>
+  <string name="privacy_apps_checkbox_remind_choice">"次回から表示しない"</string>
+  <string name="privacy_apps_close">"閉じる"</string>
+  <string name="privacy_apps_enable_summary">Move apps to a hidden folder and remove their Home screen shortcuts</string>
+  <string name="privacy_apps_go_to_use">Start</string>
+  <string name="privacy_apps_manage">Manage hidden apps</string>
+  <string name="privacy_apps_manage_dialog_title">About hidden apps</string>
+  <string name="privacy_apps_manager_dialog_message">Hiding apps requires setting your App screen lock. Notifications for hidden apps will be turned off. Hide this app?</string>
+  <string name="privacy_apps_tutorial">"チュートリアル"</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"When you hide an app, it's moved to a hidden folder. Its Home screen shortcut is hidden is well.
+This feature isn't supported for system apps."</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">After you enter your password, the folder with hidden apps will appear.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
   <string name="privacy_dialog_message">"インターネットに接続すると、データ使用状況の監視機能を改善するため、キャリア情報と共にこのメッセージが暗号化され、Xiaomiサーバにアップロードされます。"</string>
   <string name="privacy_mode_dialog_title">"ゲストモード"</string>

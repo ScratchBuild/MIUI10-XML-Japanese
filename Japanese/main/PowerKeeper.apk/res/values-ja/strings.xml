@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Extreme battery saver</string>
   <string name="about_hide_mode">"バッテリーセーバーについて"</string>
   <string name="active_classify">"アプリのアクティブ状態で分類"</string>
   <string name="app_list_title">"アプリを選択"</string>
@@ -30,16 +31,18 @@
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="enable_sleep_mode">"夜間のバッテリー使用率を最適化するためスリープモードをオンにする"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
+  <string name="extreme_mode_max_item_alert">Only 4 apps can be selected to be run in background in extreme battery save mode</string>
   <string name="extreme_power_config_mode_category">Extreme mode</string>
   <string name="extreme_power_config_mode_desc">"Extteme modeに切り替えると、同期、Bluetooth、GPS、NFC、ダブルタップやボタンライトをオフにし、通知を受信してもロック画面やLEDライトを点灯しません。MIUIはバッテリーの節約にフォーカスします。"</string>
   <string name="extreme_power_config_mode_title">Extreme mode</string>
   <string name="failure">"エラー"</string>
-  <string name="hide_mode_desc">"アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。"</string>
+  <string name="hide_mode_desc"><font color="#000000">アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。</font></string>
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="important_warning">"警告"</string>
   <string name="lasttime_applist_cloud">"更新されたアプリ:"</string>
   <string name="lasttime_feature_cloud">"更新された機能:"</string>
+  <string name="message_i_know">OK</string>
   <string name="nonui_mode_config_description">"MIUIは端末が使用されていないことを検出するとバッテリーを節約するため、通知を受信しても画面やLEDライトを点灯せず、指紋センサーやタッチ操作を無効にします。"</string>
   <string name="nonui_mode_config_title">"非対話モード"</string>
   <string name="performance_category">"パフォーマンス"</string>
@@ -67,6 +70,7 @@
   <string name="power_mode">"電源設定"</string>
   <string name="power_usage">"電池使用量"</string>
   <string name="pref_config_title">"パフォーマンスの最適化"</string>
+  <string name="privacy">"プライバシーポリシー"</string>
   <string name="scenario_policies_summary">"さまざまなシーンに応じて最適な省電力モードを適用します。"</string>
   <string name="scenario_policies_title">"スマートシーン"</string>
   <string name="scenario_policies_warmcontrol">"温度制御"</string>

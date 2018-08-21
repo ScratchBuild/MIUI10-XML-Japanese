@@ -1290,6 +1290,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_or_keep_legacy_passwords_confirm_msg">この指紋を削除しますか？</string>
   <string name="delete_rule">ルールを削除</string>
   <string name="delete_saved_network">保存されたネットワークを削除</string>
+  <string name="delete_sound_effect">\"Delete\" sound</string>
   <string name="deleted_apps">削除されたアプリ</string>
   <string name="demo_mode">デモモード</string>
   <string name="demo_mode_summary">ステータスバーにデモアイコンを表示する</string>
@@ -2076,6 +2077,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
+  <string name="keyguard_security_setting_others">その他</string>
+  <string name="keyguard_security_setting_privacy_policy">プライバシーポリシー</string>
   <string name="keyguard_vertical_clock_title">Vertical clock</string>
   <string name="keyguard_left_function_chooser_hint_text">左側のショートカットは%sに変更しました</string>
   <string name="keyguard_left_function_chooser_title">アプリ</string>

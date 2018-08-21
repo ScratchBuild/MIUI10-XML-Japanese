@@ -201,6 +201,7 @@
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="back">戻る</string>
   <string name="battery">電池</string>
+  <string name="battery_can_use_time">残り約 %s</string>
   <string name="battery_detail_charging_summary">充電中はバッテリー セーバーは利用できません</string>
   <string name="battery_detail_switch_summary">パフォーマンスとバックグラウンド データを制限します</string>
   <string name="battery_detail_switch_title">バッテリー セーバー</string>
@@ -428,10 +429,17 @@
   <string name="divider_menu_close">閉じる</string>
   <string name="divider_menu_select_apps">選択</string>
   <string name="divider_menu_swap_task">切り替え</string>
+  <string name="dlg_cancel">キャンセル</string>
+  <string name="dlg_confirm">オンにする</string>
   <string name="dlg_confirm_kill_storage_users_text">"USBストレージをONにすると、使用中のアプリの一部が停止し、USBストレージをOFFにするまで使用できなくなる場合があります。"</string>
   <string name="dlg_confirm_kill_storage_users_title">"USBストレージをONにする"</string>
   <string name="dlg_error_title">USB操作失敗</string>
   <string name="dlg_ok">OK</string>
+  <string name="dlg_summary_close_app">バックグラウンドのアクティビティと通知を制限する</string>
+  <string name="dlg_summary_close_theme">アニメーションテーマを制限する</string>
+  <string name="dlg_summary_close_wifi">Wi-Fi接続、Bluetooth、テザリングをオフにする</string>
+  <string name="dlg_summary_nfc">NFCをオフにする</string>
+  <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.</string>
   <string name="dnd_is_off">マナーモードは OFF です</string>
   <string name="do_disclosure_generic">この端末は組織によって管理されています</string>
   <string name="do_disclosure_with_name">この端末は %s が管理しています</string>
@@ -454,6 +462,7 @@
   <string name="enable_bluetooth_message">タブレットでキーボードに接続するには、最初にBluetoothをONにする必要があります。</string>
   <string name="enable_bluetooth_title">BluetoothをONにしますか？</string>
   <string name="enable_demo_mode">デモモードを有効にする</string>
+  <string name="enable_extreme_power_save_mode">Extreme battery saver</string>
   <string name="enable_freeform_support">フリーフォーム ウィンドウの有効化</string>
   <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
   <string name="enable_opengl_traces_title">OpenGLトレースを有効化</string>
@@ -1029,6 +1038,7 @@
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">通話に戻る</string>
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
+  <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_remote_center_hint_text">"右にスワイプでショートカットを開く"</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
