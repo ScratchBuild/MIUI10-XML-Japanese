@@ -435,6 +435,7 @@
   <string name="operation_reply">Comment</string>
   <string name="operation_send">"送信"</string>
   <string name="operation_share">"共有"</string>
+  <string name="operation_show_privacy_policy">"プライバシーポリシーを表示"</string>
   <string name="operation_show_sys">"隠しファイルを表示"</string>
   <string name="operation_unfavorite">"お気に入りから削除"</string>
   <string name="original_user_desc">Upload original videos regularly to gain the Creator status</string>

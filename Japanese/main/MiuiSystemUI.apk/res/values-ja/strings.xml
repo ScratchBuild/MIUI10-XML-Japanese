@@ -1181,6 +1181,7 @@
   <string name="quick_settings_drivemode_label">運転モード</string>
   <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">その他</string>
+  <string name="quick_settings_extreme_batterysaver_label">Extreme battery saver</string>
   <string name="quick_settings_flashlight_label">ライト</string>
   <string name="quick_settings_hotspot_label">アクセスポイント</string>
   <string name="quick_settings_ime_label">入力方法</string>
