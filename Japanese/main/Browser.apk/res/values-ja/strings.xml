@@ -952,6 +952,7 @@
   <string name="pref_privacy_enable_geolocation_summary">"ブラウザに現在地情報へのアクセスを許可する"</string>
   <string name="pref_privacy_formdata_title">"フォームデータ"</string>
   <string name="pref_privacy_location_title">"現在地情報"</string>
+  <string name="pref_privacy_policy">"プライバシーポリシー"</string>
   <string name="pref_privacy_security_title">"プライバシーとセキュリティ"</string>
   <string name="pref_save_bandwidth_mode_title">"データ使用量の削減"</string>
   <string name="pref_security_accept_cookies">"Cookieを受け入れる"</string>
