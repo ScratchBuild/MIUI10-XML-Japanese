@@ -218,7 +218,6 @@ and brings out the people in the front."</string>
   <string name="pref_camera_beautify_entry_high">"高"</string>
   <string name="pref_camera_beautify_entry_low">"低"</string>
   <string name="pref_camera_beautify_entry_normal">"中"</string>
-
   <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>

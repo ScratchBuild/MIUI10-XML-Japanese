@@ -888,8 +888,8 @@
   <string name="media_projection_action_text">今すぐ開始</string>
   <string name="media_projection_dialog_text">%sで、画面に表示されているコンテンツのキャプチャを開始します。</string>
   <string name="media_projection_remember_text">"再度表示しない"</string>
-  <string name="memory_clear_result_giga">%1$sGB cleared</string>
-  <string name="memory_clear_result_mega">%1$sMB cleared</string>
+  <string name="memory_clear_result_giga">%1$sGBを解放しました</string>
+  <string name="memory_clear_result_mega">%1$sMBを解放しました</string>
   <string name="menu_ime">キーボードを切り替え</string>
   <string name="miui_guide_dialog_button_negative_text">設定</string>
   <string name="miui_guide_dialog_button_positive_text">OK</string>
@@ -996,7 +996,7 @@
   <string name="notification_channels_list_desc_2">%1$s、%2$s</string>
   <string name="notification_default_channel_desc">このアプリでは通知カテゴリが設定されていません</string>
   <string name="notification_done">完了</string>
-  <string name="notification_group_collapse_button_text">Fold</string>
+  <string name="notification_group_collapse_button_text">折りたたむ</string>
   <string name="notification_header_title">通知</string>
   <string name="notification_hidden_by_policy_text">非表示のコンテンツ</string>
   <string name="notification_hidden_text">新着メッセージがあります</string>
@@ -1133,7 +1133,7 @@
   <string name="qs_paging">新しいクイック設定を使用する</string>
   <string name="qs_rearrange">クイック設定を並べ替え</string>
   <string name="quick_settings">クイック設定</string>
-  <string name="quick_settings_autobrightness_label">Auto brightness</string>
+  <string name="quick_settings_autobrightness_label">明るさの自動調節</string>
   <string name="quick_settings_batterysaver_label">バッテリーセーバー</string>
   <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -1212,12 +1212,12 @@
   <string name="quick_settings_rotation_unlocked_label">自動回転</string>
   <string name="quick_settings_rssi_emergency_only">緊急通報のみ</string>
   <string name="quick_settings_rssi_label">RSSI</string>
-  <string name="quick_settings_screenbutton_label">Buttons</string>
+  <string name="quick_settings_screenbutton_label">ボタン</string>
   <string name="quick_settings_screenlock_label">Lock screen</string>
-  <string name="quick_settings_screenshot_label">Screenshot</string>
+  <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_secondary_label_until">%sまで</string>
   <string name="quick_settings_settings_label">設定</string>
-  <string name="quick_settings_sync_label">Sync</string>
+  <string name="quick_settings_sync_label">同期</string>
   <string name="quick_settings_tethering_label">テザリング</string>
   <string name="quick_settings_time_label">時間</string>
   <string name="quick_settings_user_label">このユーザー</string>

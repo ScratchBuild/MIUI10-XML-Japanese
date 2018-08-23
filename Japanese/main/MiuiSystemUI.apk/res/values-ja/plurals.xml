@@ -53,8 +53,8 @@
         <item quantity="one">%1$d時間%2$d分</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
-        <item quantity="other">Enter SIM PIN, you have %d remaining attempts.</item>
-        <item quantity="one">Enter SIM PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">SIM PIN コードを入力してください。入力できるのはあと %d 回です。</item>
+        <item quantity="one">SIM PIN コードを入力してください。入力できるのはあと %d 回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
         <item quantity="other">SIM is now disabled. Enter PUK code to continue. You have %d remaining attempts before SIM becomes permanently unusable. Contact carrier for details.</item>
