@@ -224,6 +224,10 @@
         <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
         <item quantity="one">"通知領域に%1$d個のトグルが表示されます"</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">オーディオログの取得開始まであと%1$dステップです。</item>
+        <item quantity="one">オーディオログの取得開始まであと%1$dステップです。</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"CITへの切り替えまであと%1$dステップです"</item>
         <item quantity="one">"CITへの切り替えまであと%1$dステップです"</item>
@@ -231,6 +235,14 @@
     <plurals name="show_dev_countdown">
         <item quantity="other">"デベロッパーになるまであと%1$dステップです。"</item>
         <item quantity="one">"デベロッパーになるまであと%1$dステップです。"</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">GPSログの取得開始まであと%1$dステップです。</item>
+        <item quantity="one">GPSログの取得開始まであと%1$dステップです。</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">オーディオログの取得開始まであと%1$dステップです。</item>
+        <item quantity="one">オーディオログの取得開始まであと%1$dステップです。</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"端末情報の表示まであと%1$dステップです。"</item>

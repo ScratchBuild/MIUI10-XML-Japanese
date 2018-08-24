@@ -3542,6 +3542,7 @@ as your First space PIN."</string>
   <string name="saved_wifi">保存されたネットワークの管理</string>
   <string name="saved_wifi_delete">削除</string>
   <string name="scan_list_label">スキャン結果:</string>
+  <string name="sccret_code_error">入力したコードが間違っています。</string>
   <string name="screen">画面</string>
   <string name="screen_color_and_optimize">色とコントラスト</string>
   <string name="screen_color_and_optimize_disabled">読書モードで色温度の調整はできません</string>
@@ -4294,6 +4295,9 @@ PINが正しくない可能性があります。"</string>
   <string name="status_wimax_mac_address">4G MACアドレス</string>
   <string name="status_write_success">書き込み完了</string>
   <string name="statusbar_permission_desc">次のアクセス許可は、重要な通知に対してのみ有効です。</string>
+  <string name="stop_upload_audio_log">オーディオログの取得を停止する</string>
+  <string name="stop_upload_gps_log">GPSログの取得を停止する</string>
+  <string name="stop_upload_modem_log">モデムログの取得を停止する</string>
   <string name="storage_detail_apps">アプリ</string>
   <string name="storage_detail_audio">音声</string>
   <string name="storage_detail_cached">キャッシュデータ</string>
@@ -4736,8 +4740,11 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="untitled_apn">無題</string>
   <string name="update_new_version">更新が利用可能</string>
   <string name="update_progress_for_updates">アップデート中... (%s)</string>
+  <string name="upload_audio_log">オーディオログの取得を開始する</string>
   <string name="upload_debug_log_summary">問題の特定や解決に役立つ使用状況の統計には、ユーザーの個人情報が含まれる場合があります。</string>
   <string name="upload_debug_log_title">診断データを自動的に送信する</string>
+  <string name="upload_gps_log">GPSログの取得を開始する</string>
+  <string name="upload_modem_log">モデムログの取得を開始する</string>
   <string name="usage">使用量</string>
   <string name="usage_access">使用状況へのアクセス</string>
   <string name="usage_access_description">使用状況へのアクセスにより、アプリは他のアプリの使用状況、使用頻度、携帯通信会社、言語設定などの情報を追跡できるようになります。</string>

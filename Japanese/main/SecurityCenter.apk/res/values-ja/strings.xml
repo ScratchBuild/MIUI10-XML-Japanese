@@ -1775,6 +1775,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="section_title_system">"システムのセキュリティ"</string>
   <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="see_detail">"詳細"</string>
+  <string name="see_more_content">"より多くのおすすめを表示するため、game centerを更新する"</string>
   <string name="set_applock_password">"パスワードを設定"</string>
   <string name="set_mixed_password_name">"パスワードを設定"</string>
   <string name="set_numeric_password_name">"PINを設定"</string>
