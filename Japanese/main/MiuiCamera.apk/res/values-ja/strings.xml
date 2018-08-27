@@ -35,7 +35,7 @@
   <string name="accessibility_hdr_off">HDR is off</string>
   <string name="accessibility_hdr_on">HDR is on</string>
   <string name="accessibility_intent_done_apply">Done</string>
-  <string name="accessibility_intent_done_retry">Retake</string>
+  <string name="accessibility_intent_done_retry">"撮り直す"</string>
   <string name="accessibility_mode_dismiss_button">Close Mode Selection button</string>
   <string name="accessibility_more">More</string>
   <string name="accessibility_open">Turned on</string>
@@ -153,8 +153,8 @@ and then create a shot where everyone looks best."</string>
   <string name="install_confirmed">"インストール"</string>
   <string name="lens_dirty_detected_content">"端末のカメラが汚れているようです。より良い
 効果を得るためレンズをきれいにしてください。"</string>
-  <string name="lens_dirty_detected_title_back">Rear camera lens is dirty</string>
-  <string name="lens_dirty_detected_title_front">Front camera lens is dirty</string>
+  <string name="lens_dirty_detected_title_back">"背面カメラのレンズが汚れています"</string>
+  <string name="lens_dirty_detected_title_front">"前面カメラのレンズが汚れています"</string>
   <string name="lighting_hint_needed">Place your object in the spotlight</string>
   <string name="lighting_hint_title">Studio lighting</string>
   <string name="lighting_hint_too_close">Move the camera further away</string>
