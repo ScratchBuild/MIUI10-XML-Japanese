@@ -810,7 +810,7 @@
   <string name="bootloader_status_locked">Locked</string>
   <string name="bootloader_status_locked_info">このデバイスはロックされています</string>
   <string name="bootloader_status_locked_summary">電話は保護されています</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock needs access to your Mi Account, CPU ID, IMEI, IMSI to work normally. We collect, use, and process your data in accordance with our %s. Agree?</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlockが正常に動作するには、Mi Account、CPU ID、IMEI、IMSIへのアクセスが必要です。当社は %s に従ってデータの収集、使用、処理などを行います。同意しますか？</string>
   <string name="bootloader_status_privacy_dialog_no">キャンセル</string>
   <string name="bootloader_status_privacy_dialog_title">アクセス許可が必要</string>
   <string name="bootloader_status_privacy_dialog_url_text">プライバシーポリシー</string>
@@ -2322,12 +2322,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_choose_lock_generic_header">画面ロックの選択</string>
   <string name="lockpassword_choose_your_password_header">パスワードを設定</string>
   <string name="lockpassword_choose_your_password_second_space">"Second space用のPINを設定する。
-This PIN must contain as many digits
-as your First space PIN."</string>
+このPINにはFirst spaceのPINと
+同じ桁数を含める必要があります。"</string>
   <string name="lockpassword_choose_your_pattern_header">パターンを設定</string>
   <string name="lockpassword_choose_your_pin_header">PINを設定</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Second space用
- のPINを設定する"</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">Second space用のPINを設定する</string>
   <string name="lockpassword_choose_your_pin_title">4～16桁を入力</string>
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
   <string name="lockpassword_confirm_passwords_dont_match">パスワードが一致しません</string>
@@ -2593,7 +2592,7 @@ as your First space PIN."</string>
   <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
   <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
-  <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
+  <string name="miui_lab_drive_mode_desc">音声コントロールとWeChatメッセージの読み上げを使用</string>
   <string name="miui_lab_drive_mode_title">運転モード</string>
   <string name="miui_lab_feature_applied">適用しました</string>
   <string name="miui_lab_feature_off">オフ</string>
@@ -2606,8 +2605,8 @@ as your First space PIN."</string>
   <string name="miui_lab_install_drive_mode_title">運転モードをインストール</string>
   <string name="miui_lab_settings">MIUIラボ</string>
   <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
-  <string name="miui_lab_super_resolution_desc">Make images crisper</string>
-  <string name="miui_lab_super_resolution_title">Super resolution</string>
+  <string name="miui_lab_super_resolution_desc">画像をより鮮明にする</string>
+  <string name="miui_lab_super_resolution_title">超解像度</string>
   <string name="miui_master_clear_summary">端末のすべてのデータを消去します</string>
   <string name="miui_touch_filtered_warning">アプリがアクセス許可のダイアログをブロックしている場合は、重なっている項目をドラッグして移動するか、アプリを終了してください。</string>
   <string name="miui_updater">システムの更新</string>
@@ -2735,8 +2734,8 @@ as your First space PIN."</string>
   <string name="n_cacrts">CA証明書%d件</string>
   <string name="navigation_guide_app_summary">画面上部の端から左または右にスワイプする</string>
   <string name="navigation_guide_app_title">アプリのアクションをトリガーする</string>
-  <string name="navigation_guide_appswitch_summary">Swipe left or right from the edge of the screen and hold for a while</string>
-  <string name="navigation_guide_appswitch_title">Switch to previous app</string>
+  <string name="navigation_guide_appswitch_summary">画面の端から左または右にスワイプしてしばらく長押しする</string>
+  <string name="navigation_guide_appswitch_title">直前のアプリに切り替える</string>
   <string name="navigation_guide_back_summary">画面の端から右または左にスワイプする</string>
   <string name="navigation_guide_back_title">戻る</string>
   <string name="navigation_guide_dialog_dont_show_again">二度と表示しない</string>
@@ -2746,7 +2745,7 @@ as your First space PIN."</string>
   <string name="navigation_guide_dialog_title">ジェスチャーを学ぶ</string>
   <string name="navigation_guide_home_summary">画面の下から上にスワイプする</string>
   <string name="navigation_guide_home_title">ホーム画面に移動</string>
-  <string name="navigation_guide_recent_summary">画面の下から上にスワイプして一時停止する</string>
+  <string name="navigation_guide_recent_summary">画面の下から上にスワイプしてしばらく長押しする</string>
   <string name="navigation_guide_recent_title">履歴を開く</string>
   <string name="navigation_guide_settings">ジェスチャーのデモ</string>
   <string name="navigation_type_radio_text_full_screen">フルスクリーンジェスチャー</string>
@@ -3055,8 +3054,8 @@ as your First space PIN."</string>
   <string name="page_tab_title_support">サポート</string>
   <string name="paper_mode_auto_twilight_summary">日没後、自動的に読書モードに切り替える</string>
   <string name="paper_mode_auto_twilight_title">"Good night's read"</string>
-  <string name="paper_mode_customize_time_summary">Turn on Reading mode for a custom period</string>
-  <string name="paper_mode_customize_time_title">Custom period</string>
+  <string name="paper_mode_customize_time_summary">指定した時間の間、読書モードを有効にする</string>
+  <string name="paper_mode_customize_time_title">カスタム時間</string>
   <string name="paper_mode_end_time_title">オフにする</string>
   <string name="paper_mode_get_location_dlg_msg">日の出と日の入時間を計算するには、位置情報へのアクセスが必要です</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">キャンセル</string>
