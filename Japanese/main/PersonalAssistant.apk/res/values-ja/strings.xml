@@ -613,10 +613,12 @@
   <string name="express_schedule_delivery">配達予約</string>
   <string name="express_select_addressee">To</string>
   <string name="express_select_city">都市を選択</string>
+  <string name="express_select_send_providers">宅配業者を選択</string>
   <string name="express_select_sender">From</string>
   <string name="express_send">Ship</string>
   <string name="express_send_mms">Send</string>
   <string name="express_send_mms_format">Package delivered by %1$s | 追跡番号: %2$s</string>
+  <string name="express_send_not_available">サービスが一時的に利用できません。後ほど再試行してください。</string>
   <string name="express_send_notice">Prohibited items</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>

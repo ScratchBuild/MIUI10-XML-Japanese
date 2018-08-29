@@ -941,7 +941,8 @@ This feature can be turned off in [Settings]"</string>
   <string name="charge_length_format">%1$s前</string>
   <string name="charging_sounds_title">充電中の音</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">重要としてマークしますか？</string>
+  <string name="check_importance">グループ化した通知のルール</string>
+  <string name="check_importance_dialog_cancel">キャンセル</string>
   <string name="check_update">アップデートをチェック</string>
   <string name="checkbox_notification_same_as_incoming_call">通知音にも着信音量を適用</string>
   <string name="checking_decryption">確認しています…</string>
@@ -1917,6 +1918,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="handy_mode_enable">片手操作モード</string>
   <string name="handy_mode_size">画面サイズ</string>
   <string name="handy_mode_tips">ホームボタンから左または右にスワイプする事で、画面を片一方に寄せる事ができます。</string>
+  <string name="handy_mode_tips_full_screen">フルスクリーンジェスチャーを使用中は、Quick ballを使用することで片手操作モードをオンにできます。フルスクリーンジェスチャーの代わりにボタンを使用することもできます。</string>
   <string name="haptic_feedback_enable_title">タッチ操作バイブ</string>
   <string name="haptic_feedback_level">バイブレーションの強さ</string>
   <string name="hardkeyboard_category">キーボードの設定</string>
