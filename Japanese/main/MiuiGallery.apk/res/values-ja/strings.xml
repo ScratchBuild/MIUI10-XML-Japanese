@@ -3,8 +3,8 @@
   <string name="accept">"同意する"</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="actionbar_overflow_item_desc">"その他のオプション"</string>
-  <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
-  <string name="add_automatically_alert_title">Add photos automatically</string>
+  <string name="add_automatically_alert_msg">"このアルバムに\"%1$s\"からの写真を自動的に追加しますか？"</string>
+  <string name="add_automatically_alert_title">"写真を自動的に追加"</string>
   <string name="add_secret_ensure_title">"非表示"</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_album">"アルバムに追加"</string>
@@ -102,8 +102,8 @@
   <string name="associate_face_album">"アルバムを選択"</string>
   <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="auto_download_media_title">"Mi Cloudから写真を自動的にダウンロード"</string>
-  <string name="auto_update_face">Add photos automatically</string>
-  <string name="auto_update_face_summary">Automatically match and add photos to Baby album</string>
+  <string name="auto_update_face">"写真を自動的に追加"</string>
+  <string name="auto_update_face_summary">"一致した写真を赤ちゃんのアルバムに自動的に追加する"</string>
   <string name="auto_update_off">"オフ"</string>
   <string name="auto_update_on">"オン"</string>
   <string name="auto_upload_before_share_message">"このアルバムを共有する前にMi Cloudへバックアップします"</string>
@@ -113,7 +113,7 @@
   <string name="auto_upload_enable_toast_long_press_menu">"Mi Cloudとの同期はオンです。"</string>
   <string name="baby_album">"赤ちゃんのアルバム"</string>
   <string name="baby_album_change_background">"背景の写真を変更"</string>
-  <string name="baby_album_needs_auto_backup_tip">"Can't turn off automatic backup for Baby album"</string>
+  <string name="baby_album_needs_auto_backup_tip">"赤ちゃんのアルバムの自動バックアップはオフにできません"</string>
   <string name="baby_album_new_photo_remind">"赤ちゃんのアルバムに新しい写真があります。"</string>
   <string name="baby_album_setting_title">"赤ちゃんの情報"</string>
   <string name="baby_album_settings">"赤ちゃんのアルバムの設定"</string>
@@ -146,7 +146,7 @@
   <string name="backup_cta_not_allow_desc">"自動的にバックアップすることに同意します"</string>
   <string name="backup_cta_not_allow_title">"ネットワークにアクセスできません"</string>
   <string name="backup_detail_page_empty">"バックアップを待機中の写真や動画はありません"</string>
-  <string name="backup_detail_page_title">Mi Cloud backups</string>
+  <string name="backup_detail_page_title">"Mi Cloudバックアップ"</string>
   <string name="backup_device_space_low_btn_text">"消去"</string>
   <string name="backup_device_space_low_desc">"バックアップを続行するには空き領域を確保してください"</string>
   <string name="backup_device_space_low_title">"空き領域不足"</string>

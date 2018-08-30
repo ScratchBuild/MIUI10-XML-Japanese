@@ -31,7 +31,7 @@
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="enable_sleep_mode">"夜間のバッテリー使用率を最適化するためスリープモードをオンにする"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
-  <string name="extreme_mode_max_item_alert">Only 4 apps can be selected to be run in background in extreme battery save mode</string>
+  <string name="extreme_mode_max_item_alert">"Extreme modeでは、バックグラウンドで実行されるアプリは4つまでしか選択できません"</string>
   <string name="extreme_power_config_mode_category">Extreme mode</string>
   <string name="extreme_power_config_mode_desc">"Extteme modeに切り替えると、同期、Bluetooth、GPS、NFC、ダブルタップやボタンライトをオフにし、通知を受信してもロック画面やLEDライトを点灯しません。MIUIはバッテリーの節約にフォーカスします。"</string>
   <string name="extreme_power_config_mode_title">Extreme mode</string>
@@ -86,7 +86,7 @@
   <string name="sleepmode_privacy_title">"スリープモード"</string>
   <string name="sucess">"完了"</string>
   <string name="update_profile_failture_not_connect_wifi">"更新できませんでした。Wi-Fiに接続して再試行してください。"</string>
-  <string name="update_profile_sucess">Updated from server sucessfully</string>
+  <string name="update_profile_sucess">"サーバーから正常に更新を取得しました。"</string>
   <string name="vip_feedback">VIP feedback</string>
   <string name="vip_feedback_enable">Turn on VIP feedback</string>
   <string name="warm_configure">"温度制御の設定"</string>
