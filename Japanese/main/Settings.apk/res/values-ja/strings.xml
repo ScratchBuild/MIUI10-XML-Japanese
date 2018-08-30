@@ -967,8 +967,11 @@ This feature can be turned off in [Settings]"</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_uri_btn_text">アクセスをクリア</string>
   <string name="clear_user_data_text">データを消去</string>
+  <string name="close_aod">この機能は\"常時オンモード\"と組み合わせることはできません。最初に\"常時オンモードを\"オフにしてください。</string>
   <string name="close_app">現在のアプリを閉じる</string>
   <string name="close_demo_mode">キャンセル</string>
+  <string name="close_fod">画面がオフのときは、指紋を使用して端末のロックを解除することはできません。 指紋によるロック解除は、画面がオンの場合にのみ有効です。</string>
+  <string name="close_fod_aod">画面がオフのときは、指紋を使用して端末のロックを解除することはできません。\"常時オンモード\"も使用できません。指紋によるロック解除は、画面がオンの場合にのみ有効です。</string>
   <string name="close_gesture">ジェスチャーを使用して閉じる</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_optimization_message">この機能をオフにすると、MIUIのテキストレイアウト、アカウント、およびその他の部分が影響を受ける可能性があります。</string>
@@ -4576,6 +4579,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="title_hdmi_color_calibration">色補正プリセット</string>
   <string name="title_layout_current">文字サイズ</string>
   <string name="title_layout_current2">文字サイズ</string>
+  <string name="to_close">オフにする</string>
   <string name="title_local_resource">ローカルリソース</string>
   <string name="title_system_resource">システムリソース</string>
   <string name="toast_lockscreen_glogin_empty_password">パスワードを入力</string>
