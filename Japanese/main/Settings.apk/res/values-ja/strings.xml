@@ -134,6 +134,7 @@
   <string name="adding_profile_owner_warning">"次に進むと、ユーザーは管理者の管理対象となり、管理者は個人情報に加えて関連データも保存できるようになります。
 
 管理者は、ネットワークアクティビティや端末の位置情報など、このユーザーに関連付けられた設定、アクセス、アプリ、データを監視および管理できます。"</string>
+  <string name="additional_battery_info">使用状況に関する通知</string>
   <string name="additional_permissions">その他の権限</string>
   <string name="additional_permissions_more">他%1$d件</string>
   <string name="additional_system_update_settings_list_item_title">その他のシステムアップデート</string>
@@ -145,6 +146,7 @@
   <string name="admin_profile_owner_user_message">管理者は、設定、アクセス許可、企業アクセス、ネットワークアクティビティ、端末の位置情報など、このユーザーに関連付けられているアプリとデータを監視および管理できます。</string>
   <string name="admin_support_more_info">その他の詳細</string>
   <string name="advanced_apps">詳細設定</string>
+  <string name="advanced_battery_title">電池の使用状況の詳細</string>
   <string name="advanced_section_header">詳細設定</string>
   <string name="advanced_security_title">詳細設定</string>
   <string name="advanced_settings">その他の設定</string>
@@ -260,6 +262,9 @@
   <string name="app_notification_block_summary">このアプリからの通知を表示しない</string>
   <string name="app_notification_block_title">すべてブロック</string>
   <string name="app_notification_importance_title">重要度</string>
+  <string name="app_notification_listing_summary_zero">すべてのアプリで ON になっています</string>
+  <string name="app_notification_override_dnd_summary">[マナーモード] が [優先する通知のみ] に設定されているとき、この通知を引き続き表示します</string>
+  <string name="app_notification_override_dnd_title">マナーモードのオーバーライド</string>
   <string name="app_notification_peekable_summary">現在の画面で特定の通知をスライド表示することをこのアプリに許可する</string>
   <string name="app_notification_peekable_title">通知の瞬間表示を許可</string>
   <string name="app_notification_preferences">アプリの設定</string>
@@ -270,7 +275,9 @@
   <string name="app_notification_row_sensitive">プライベート</string>
   <string name="app_notification_sensitive_summary">端末がロックされている場合、プライベートな内容はこのアプリの通知に表示されません</string>
   <string name="app_notification_sensitive_title">プライベート</string>
+  <string name="app_notification_visibility_override_title">ロック画面</string>
   <string name="app_notifications_dialog_done">完了</string>
+  <string name="app_notifications_off_desc">Android により、このアプリの通知はこの端末には表示されません</string>
   <string name="app_notifications_switch_label">通知を表示</string>
   <string name="app_notifications_title">アプリの通知</string>
   <string name="app_ops_never_used">（未使用）</string>
@@ -284,6 +291,7 @@
   <string name="app_restrictions_custom_label">アプリの制限を設定</string>
   <string name="app_sees_restricted_accounts">このアプリはアカウントにアクセスする場合があります</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">このアプリはアカウントにアクセスする場合があります。%1$sが制御しています</string>
+  <string name="app_settings_link">アプリ内のその他の設定</string>
   <string name="app_special_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。データも削除されます。</string>
   <string name="app_special_disable_dlg_title">データを削除し、アプリを無効にしますか？</string>
   <string name="app_switch_key">履歴</string>
@@ -388,6 +396,15 @@
   <string name="autofill_confirmation_message">&lt;b>このアプリが信頼できることを確認してください&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> は画面上の内容に基づいて、入力可能な情報を判別します。</string>
   <string name="autofill_keywords">自動, 入力, 自動入力</string>
   <string name="automatic_brightness">明るさを自動調整</string>
+  <string name="automatic_storage_manager_activation_warning">接続すれば、バックアップに選択した画質で引き続き写真や動画をお楽しみいただけます</string>
+  <string name="automatic_storage_manager_days_title">バックアップ済みの写真と動画の削除</string>
+  <string name="automatic_storage_manager_deactivation_warning">スマート ストレージを OFF にしますか？</string>
+  <string name="automatic_storage_manager_freed_bytes">計 %1$s が利用可能になりました
+
+最終実行: %2$s"</string>
+  <string name="automatic_storage_manager_preference_title">スマート ストレージ</string>
+  <string name="automatic_storage_manager_settings">ストレージの管理</string>
+  <string name="automatic_storage_manager_text">ストレージの空き容量が少なくなったときに、バックアップ済みの写真や動画を削除します。削除した後でも引き続き Google フォトで確認できます。</string>
   <string name="available_size">空き容量： %s</string>
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="average_memory_use">平均メモリ使用</string>
@@ -447,6 +464,15 @@
   <string name="battery_desc_users">ユーザーの電池使用量</string>
   <string name="battery_desc_voice">通話の電池使用量</string>
   <string name="battery_desc_wifi">Wi-Fiの電池使用量</string>
+  <string name="battery_detail_background">バックグラウンド時</string>
+  <string name="battery_detail_foreground">アクティブ時</string>
+  <string name="battery_detail_info_title">フル充電以降の電池の使用状況</string>
+  <string name="battery_detail_manage_title">電池の使用状況の管理</string>
+  <string name="battery_detail_power_percentage">アプリ使用量全体の %1$s（%2$d mAh）</string>
+  <string name="battery_detail_power_usage">電池使用量</string>
+  <string name="battery_detail_since_full_charge">前回のフル充電以降の内訳</string>
+  <string name="battery_details_title">電池の使用状況</string>
+  <string name="battery_footer_summary">電池の使用状況データは概算値であり、使用状況によって変わります</string>
   <string name="battery_history_days">%1$d日%2$d時間%3$d分%4$d秒</string>
   <string name="battery_history_days_no_seconds">%1$d日%2$d時間%3$d分</string>
   <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
@@ -492,10 +518,15 @@
   <string name="battery_info_uptime">起動してからの時間:</string>
   <string name="battery_info_voltage_label">電池電圧:</string>
   <string name="battery_info_voltage_units">mV</string>
+  <string name="battery_last_full_charge">前回のフル充電</string>
   <string name="battery_level_title">電池残量</string>
   <string name="battery_light_summary">充電中は通知LEDを点灯します</string>
   <string name="battery_light_title">充電中に点灯</string>
   <string name="battery_msg_unaccounted">電池使用量は消費電力の概算であり、電池を消費するすべてのソースが含まれているわけではありません。「その他」は、算出された概算消費電力と実際に確認された電池消費量との差です。</string>
+  <string name="battery_overall_usage">電池使用量全体の %1$s</string>
+  <string name="battery_percentage">電池残量</string>
+  <string name="battery_percentage_description">ステータスバーに電池残量を表示する</string>
+  <string name="battery_power_management">電源管理</string>
   <string name="battery_saver">バッテリーセーバー</string>
   <string name="battery_saver_desc_turn_on_auto_never">自動的にONにしない</string>
   <string name="battery_saver_desc_turn_on_auto_pct">電池残量が%1$sになったら自動的にONにする</string>
@@ -504,6 +535,7 @@
   <string name="battery_saver_turn_on_automatically_never">使用しない</string>
   <string name="battery_saver_turn_on_automatically_pct">電池残量%1$d%%</string>
   <string name="battery_saver_turn_on_automatically_title">自動的にON</string>
+  <string name="battery_screen_usage">画面の使用: ^1</string>
   <string name="battery_settings">電池</string>
   <string name="battery_settings_title">電池</string>
   <string name="battery_since_reset">リセット後の電池使用量</string>
@@ -528,6 +560,8 @@
   <string name="battery_sugg_radio">電波が届かない場所では機内モードに切り替えて電池を節約します。</string>
   <string name="battery_sugg_wifi">未使用時または圏外のときWi-FiをOFFにします</string>
   <string name="battery_summary">前回のフル充電から%1$d%%使用しています</string>
+  <string name="battery_used_by">%1$s: %2$s</string>
+  <string name="battery_used_for">^1使用</string>
   <string name="bearer">ベアラー</string>
   <string name="billing_cycle">請求期間</string>
   <string name="billing_cycle_fragment_summary">%1$s 日から月単位で請求</string>
@@ -555,15 +589,22 @@
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth詳細設定</string>
+  <string name="bluetooth_ask_disablement">「%1$s」が Bluetooth を OFF にしようとしています</string>
+  <string name="bluetooth_ask_disablement_no_name">アプリが Bluetooth を OFF にしようとしています</string>
   <string name="bluetooth_ask_discovery">アプリが、%1$d秒間他のBluetoothデバイスにこの携帯端末を表示しようとしています。</string>
+  <string name="bluetooth_ask_discovery_no_name">アプリが %1$d 秒間他の Bluetooth デバイスにこのスマートフォンを表示しようとしています。</string>
   <string name="bluetooth_ask_enablement">アプリがBluetoothをONにしようとしています。</string>
   <string name="bluetooth_ask_enablement_and_discovery">アプリが、%1$d秒間BluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">%1$d秒間BluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">アプリが %1$d 秒間 Bluetooth を ON にして他のデバイスにこのスマートフォンを表示しようとしています。</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">アプリがBluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。これは後からBluetoothの設定で変更できます。</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">BluetoothをONにして他のデバイスにこの携帯端末を表示しようとしています。これは後からBluetoothの設定で変更できます。</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">アプリが Bluetooth を ON にして他のデバイスにこのスマートフォンを表示しようとしています。これは後から Bluetooth の設定で変更できます。</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$sがBluetoothとBluetoothブロードキャストをONにして付近の他のデバイスと通信しようとしています。これは後からBluetoothの設定で変更できます。</string>
   <string name="bluetooth_ask_enablement_detected">Bluetoothをオンにしようとしています</string>
+  <string name="bluetooth_ask_enablement_no_name">アプリが Bluetooth を ON にしようとしています</string>
   <string name="bluetooth_ask_lasting_discovery">アプリが他のBluetoothデバイスにこの携帯端末を表示しようとしています。これは後からBluetoothの設定で変更できます。</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">アプリが他の Bluetooth デバイスにこのスマートフォンを表示しようとしています。これは後から Bluetooth の設定で変更できます。</string>
   <string name="bluetooth_ask_start_broadcast">%1$sがBluetoothブロードキャストをONにして付近の他のデバイスと通信しようとしています。これは後からBluetoothの設定で変更できます。</string>
   <string name="bluetooth_auto_connect">自動接続</string>
   <string name="bluetooth_broadcasting">ブロードキャスト</string>
@@ -573,6 +614,7 @@
   <string name="bluetooth_confirm_passkey_msg">次のデバイスをペアに設定する場合:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>次のパスキーが表示されていることを確認してください:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_connect_specific_profiles_title">接続先...</string>
   <string name="bluetooth_connected">接続</string>
+  <string name="bluetooth_connected_multiple_devices_summary">複数のデバイスに接続しました</string>
   <string name="bluetooth_connected_no_a2dp">接続済み（メディアを除く）</string>
   <string name="bluetooth_connected_no_headset">接続済み（電話を除く）</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアを除く）</string>
@@ -627,6 +669,8 @@
   <string name="bluetooth_empty_list_user_restricted">Bluetooth設定を変更する権限がありません。</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PINに文字か記号が含まれる</string>
+  <string name="bluetooth_enable_inband_ringing">インバンド リンギングを有効にする</string>
+  <string name="bluetooth_enable_inband_ringing_summary">スマートフォンの着信音が Bluetooth ヘッドセットで再生されることを許可する</string>
   <string name="bluetooth_enter_passkey_msg">ペア設定コードを入力してからReturnキーまたはEnterキーを押してください</string>
   <string name="bluetooth_enter_passkey_other_device">もう一方のデバイスでも、このパスキーの入力が必要な場合があります。</string>
   <string name="bluetooth_enter_pin_other_device">もう一方のデバイスでも、このPINの入力が必要な場合があります。</string>
@@ -694,6 +738,8 @@
   <string name="bluetooth_preference_paired_dialog_title">ペア設定したデバイス</string>
   <string name="bluetooth_preference_scan_title">デバイスのスキャン</string>
   <string name="bluetooth_profile_a2dp">メディアの音声</string>
+  <string name="bluetooth_profile_a2dp_high_quality">HD オーディオ: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD オーディオ</string>
   <string name="bluetooth_profile_details">プロファイル設定</string>
   <string name="bluetooth_profile_dun">ダイヤルアップネットワークへのアクセスに使用</string>
   <string name="bluetooth_profile_headset">電話の音声</string>
@@ -938,6 +984,8 @@ This feature can be turned off in [Settings]"</string>
   <string name="change_password">画面ロックの変更</string>
   <string name="change_security_lock">ロック解除する他の方法を試す</string>
   <string name="change_storage">ストレージの変更</string>
+  <string name="change_theme_reboot">テーマを変更するには再起動が必要です。</string>
+  <string name="channel_notifications_off_desc">Android により、この通知のカテゴリはこの端末には表示されません</string>
   <string name="charge_length_format">%1$s前</string>
   <string name="charging_sounds_title">充電中の音</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
@@ -1034,6 +1082,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="configure_apps">アプリの設定</string>
   <string name="configure_input_method">入力方法のセットアップ</string>
   <string name="configure_notification_settings">通知の設定</string>
+  <string name="configure_section_header">設定</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">追加</string>
   <string name="confirm_convert_to_fbe_warning">ファイル暗号化のためにユーザーのデータを消去して変換してもよろしいですか？</string>
@@ -1056,12 +1105,16 @@ This feature can be turned off in [Settings]"</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">ShortcutManager のレート制限をリセットしますか？</string>
   <string name="connect_mode">接続タイプ</string>
   <string name="connect_to_internet">ネットワークに接続</string>
+  <string name="connected">接続済み</string>
   <string name="connected_devices_dashboard_summary">Bluetooth、キャスト、NFC</string>
   <string name="connected_devices_dashboard_title">接続済みの端末</string>
+  <string name="connected_via_network_scorer">%1$s 経由で自動的に接続しています</string>
+  <string name="connected_via_network_scorer_default">ネットワーク評価プロバイダ経由で自動的に接続しています</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
   <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
   <string name="connected_wifi">接続しました</string>
   <string name="connecting_to_vpn">VPNへの接続</string>
+  <string name="content_description_menu_button">メニュー</string>
   <string name="contributors_title">アライアンスパートナー</string>
   <string name="controls_label">コントロール</string>
   <string name="controls_subtitle">消費電力の調整</string>
@@ -1076,6 +1129,9 @@ This feature can be turned off in [Settings]"</string>
   <string name="copyright_title">著作権</string>
   <string name="country_name">%s (system)</string>
   <string name="create">作成</string>
+  <string name="credential_contains">この認証情報には以下が含まれています。</string>
+  <string name="credential_for_vpn_and_apps">VPN とアプリ用にインストール済み</string>
+  <string name="credential_for_wifi">Wi-Fi 用にインストール済み</string>
   <string name="credential_storage_type">ストレージのタイプ</string>
   <string name="credential_storage_type_hardware">ハードウェア式</string>
   <string name="credential_storage_type_software">ソフトウェアのみ</string>
@@ -1296,12 +1352,17 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="delete_saved_network">保存されたネットワークを削除</string>
   <string name="delete_sound_effect">\"Delete\" sound</string>
   <string name="deleted_apps">削除されたアプリ</string>
+  <string name="deletion_helper_automatic_title">自動</string>
+  <string name="deletion_helper_manual_title">手動</string>
+  <string name="deletion_helper_preference_title">今すぐ空き容量を増やす</string>
   <string name="demo_mode">デモモード</string>
   <string name="demo_mode_summary">ステータスバーにデモアイコンを表示する</string>
   <string name="deny">許可しない</string>
   <string name="detail_app_button">アプリ情報</string>
   <string name="details_subtitle">使用状況の詳細</string>
   <string name="details_title">使用状況の詳細</string>
+  <string name="dev_logpersist_clear_warning_message">Google が常駐ロガーで監視していない場合、端末上のログデータを消去する必要があります。</string>
+  <string name="dev_logpersist_clear_warning_title">ログの永続ストレージを消去しますか？</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="developer_smallest_width">最小幅</string>
@@ -1319,6 +1380,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_available_memory">空き容量</string>
   <string name="device_battery">バッテリー</string>
   <string name="device_build_id">バージョン番号</string>
+  <string name="device_cellular_network">モバイル ネットワークのスキャン</string>
   <string name="device_complete_parameters">すべてのスペック</string>
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
@@ -1338,6 +1400,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_name_input_overlength">文字数オーバー</string>
   <string name="device_name_usage_point">近くにある他のデバイスは、この名前を見ることができます。</string>
   <string name="device_picker">Bluetoothデバイスの選択</string>
+  <string name="device_screen_consumption">画面消費</string>
   <string name="device_rear_camera">背面カメラ</string>
   <string name="device_reset_title">端末をリセット</string>
   <string name="device_screen_resolution">画面解像度</string>
@@ -1457,6 +1520,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dndm_vip_list_starred_contact">お気に入り</string>
   <string name="dndm_wristband">Mi Bandでアクティブにする</string>
   <string name="dndm_wristband_detailed">Mi Bandが睡眠を検知したら、スケジュール開始時間前でも夜間モードをオンにする</string>
+  <string name="do_disclosure_generic">この端末は組織によって管理されています。</string>
+  <string name="do_disclosure_learn_more">詳細</string>
+  <string name="do_disclosure_with_name">この端末は %s により管理されています。</string>
   <string name="do_not_disturb_mode">夜間モード</string>
   <string name="dock_audio_media_disabled">すべて音声</string>
   <string name="dock_audio_media_enabled">メディアの音声のみ</string>
@@ -1476,6 +1542,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dock_sounds_enable_title">ホルダー装着時の音</string>
   <string name="docking_sounds_title">装着音</string>
   <string name="does_not_exist">アプリが存在しません。</string>
+  <string name="domain_url_section_title">インストール済みアプリ</string>
+  <string name="domain_urls_apps_summary_off">対応リンクを開くことができるアプリはありません</string> 
   <string name="domain_urls_summary_none">対応リンクを開かない</string>
   <string name="domain_urls_summary_one">%s を開く</string>
   <string name="domain_urls_summary_some">%s と関連URLを開く</string>
@@ -1485,6 +1553,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="double_click_power_key">電源ボタンを2回押す</string>
   <string name="double_tap_power_for_camera_summary">カメラをすばやく起動するには、電源ボタンを 2 回押します。どの画面からでも操作できます。</string>
   <string name="double_tap_power_for_camera_title">カメラの起動</string>
+  <string name="double_twist_for_camera_mode_title">カメラの切り替え</string>
   <string name="download_current_rom">MIUIの最新版を取得する</string>
   <string name="downloading_description">ダウンロード中…</string>
   <string name="doze_summary">端末を取り上げたとき、または通知を受信したときにスリープ状態から復帰</string>
@@ -1682,6 +1751,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="factory_reset_summary">内部ストレージからすべてのデータを消去します</string>
   <string name="failed_to_check_find_device_status_content">"Find deviceのステータスを確認できませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_check_find_device_status_title">"ステータスを確認できませんでした。"</string>
+  <string name="failed_to_erase_text">Please turn off lock screen password before performing 1217 operation.</string>
+  <string name="failed_to_erase_title">Forbidden operation</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
@@ -1698,11 +1769,18 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="filter_apps_third_party">ダウンロード済み</string>
   <string name="filter_dlg_title">フィルタオプションの選択</string>
   <string name="filter_enabled_apps">有効</string>
-  <string name="filter_notif_blocked_apps">ブロック中</string>
+  <string name="filter_install_sources_apps">他のアプリをインストール可能</string>
+  <string name="filter_instant_apps">インスタントアプリ</string>
+  <string name="filter_notif_all_apps">アプリ: すべて</string>
+  <string name="filter_notif_blocked_apps">アプリ: OFF</string>
+  <string name="filter_notif_blocked_channels">カテゴリ: OFF</string>
+  <string name="filter_notif_dnd_channels">カテゴリ: マナーモードに優先</string>
   <string name="filter_notif_hide_notifications_apps">ロック画面に表示しない</string>
+  <string name="filter_notif_low_channels">カテゴリ: 重要度「低」</string>
   <string name="filter_notif_priority_apps">夜間モードの設定を上書き</string>
   <string name="filter_notif_sensitive_apps">プライベートな内容を非表示</string>
   <string name="filter_notif_silent">マナーモードで表示</string>
+  <string name="filter_notif_urgent_channels">カテゴリ: 重要度「緊急」</string>
   <string name="filter_overlay_apps">権限のあるアプリ</string>
   <string name="filter_personal_apps">個人用</string>
   <string name="filter_with_domain_urls_apps">ドメインURLあり</string>
@@ -1746,6 +1824,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_unlock_set_unlock_password">指紋 + パスワード</string>
   <string name="fingerprint_unlock_set_unlock_pattern">指紋 + パターン</string>
   <string name="fingerprint_unlock_set_unlock_pin">指紋 + PIN</string>
+  <string name="fingerprint_unlock_skip_fingerprint">Continue without fingerprint</string>
+  <string name="fingerprint_unlock_title">You can unlock your phone using your fingerprint. For security, this option requires a backup screen lock.</string>
   <string name="fingerprint_usage_category_title">指紋の用途</string>
   <string name="finish_application">強制停止</string>
   <string name="finish_button">完了</string>
@@ -1957,6 +2037,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="help_label">ヘルプとフィードバック</string>
   <string name="hidden_ssid_label">ステルスSSID:</string>
   <string name="hide">非表示</string>
+  <string name="hide_extra_apps">アプリの使用状況を表示</string>
   <string name="hide_screen_button">画面ボタンを非表示</string>
   <string name="high_performance_notif_summary">端末は高い負荷を掛けると熱くなる場合があります</string>
   <string name="high_performance_notif_title">パフォーマンスモードがオン</string>
@@ -2081,6 +2162,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_layout_picker_title">キーボードレイアウト</string>
   <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
+  <string name="keyboard_shortcuts_helper">キーボード ショートカット ヘルパー</string>
+  <string name="keyboard_shortcuts_helper_summary">使用可能なショートカットを表示します</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
   <string name="keyguard_security_setting_others">その他</string>
   <string name="keyguard_security_setting_privacy_policy">プライバシーポリシー</string>
@@ -2947,6 +3030,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notifications_hidden">ロック画面に表示しない</string>
   <string name="notifications_label">通知</string>
   <string name="notifications_no_peeking">重要な通知をポップアップしない</string>
+  <string name="notifications_partly_blocked">%2$d 件中 %1$d 件のカテゴリが OFF</string>
   <string name="notifications_priority">夜間モードの設定を上書き</string>
   <string name="notifications_redacted">ロック画面にプライベートな内容を表示しない</string>
   <string name="notifications_silenced">マナーモード</string>
@@ -2956,6 +3040,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="now">今すぐ再起動</string>
   <string name="nsd_quick_toggle_summary">別の端末上のアプリにこの端末上のアプリを検出することを許可する</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
+  <string name="number_of_device_admins_none">アクティブなアプリはありません</string>
   <string name="oem_radio_info_label">OEM固有の情報/設定</string>
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">ブートローダーは既にロック解除されています</string>
@@ -3150,6 +3235,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_optimize">バッテリーセーバー</string>
   <string name="power_overcounted">過剰算出</string>
   <string name="power_phone">通話</string>
+  <string name="power_remaining_charging_duration_only">フル充電まであと %1$s</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">あと%1$s</string>
   <string name="power_screen">画面</string>
@@ -3158,6 +3244,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_usage_history">電池使用</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_list_summary">前回のフル充電から使用</string>
+  <string name="power_usage_list_summary_device">フル充電（^1前）以降の端末の電池使用状況</string>
   <string name="power_usage_not_available">電池使用量データがありません。</string>
   <string name="power_usage_summary">電池の使用状況</string>
   <string name="power_usage_summary_title">電池とパフォーマンス</string>
