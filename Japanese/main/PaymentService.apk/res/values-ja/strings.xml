@@ -330,7 +330,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_unit_value">%1$s Mi Credit</string>
   <string name="mibi_unit_value_redeemed">%1$s Mi Credit redeemed</string>
   <string name="mibi_unit_value_remained">%1$s Mi Credit remained</string>
-  <string name="mibi_voucher_card_text">Please scratch off the coat</string>
+  <string name="mibi_voucher_card_text">スクラッチを剥がしてください</string>
   <string name="mibi_voucher_error_password">コードが無効です。</string>
   <string name="mibi_voucher_input_password_prompt">コードを入力</string>
   <string name="mibi_web_login">ログイン</string>

@@ -131,7 +131,7 @@
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_mehod_back">"戻る"</string>
   <string name="phone_locked_foget_password_method">Forgot password?</string>
-  <string name="phone_locked_foget_password_method_content"><Data>You have to &lt;font color=#a5220e>erase all data &lt;/font> on your device, including photos and contacts, and then set a new Lock screen password.</Data></string>
+  <string name="phone_locked_foget_password_method_content"><Data>写真や連絡先などの端末上の&lt;font color=#a5220e>すべてのデータを消去&lt;/font>してから、新しいロック画面のパスワードを設定する必要があります。</Data></string>
   <string name="phone_locked_foget_password_method_next">"次へ"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_forget_password_suggesstion_one_content"><Data>端末の電源をオフにして、Miロゴが表示されるまで&lt;font color=#a5220e>電源ボタン&lt;/font>と&lt;font color=#a5220e>音量[＋]ボタン&lt;/font>を同時に長押ししてください。</Data></string>

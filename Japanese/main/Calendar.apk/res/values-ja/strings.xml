@@ -57,7 +57,7 @@
   <string name="birthday_notification_text_days_later">%1$s days until %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
-  <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
+  <string name="birthday_notification_title_today">"%1$sの%3$s"</string>
   <string name="birthday_saved">"誕生日を保存しました"</string>
   <string name="birthday_term">"誕生日"</string>
   <string name="book_card_free">"無料"</string>

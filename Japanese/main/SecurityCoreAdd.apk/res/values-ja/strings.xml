@@ -263,9 +263,9 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="scanner_fingerprint_tips_desc">"既存の指紋を選択してSecond spaceに切り替えます。First spaceで同じ指紋を使用することはできません。"</string>
   <string name="scanner_fingerprint_tips_title">"既存の指紋を使用してSecond spaceに切り替える"</string>
   <string name="scanner_second_space_fingerprint">"Scan Secondの指紋を読み取る"</string>
-  <string name="sdcardfs_dialog_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。この問題を解決するには、手順に従って更新プログラムをインストールしてください。この更新中に端末が2回再起動されます。"</string>
+  <string name="sdcardfs_dialog_message">"この更新では新しいファイルシステムが導入されました。古いデータとの互換性がない可能性があります。この問題を解決するには、手順に従って更新プログラムをインストールしてください。この更新中に端末が2回再起動されます。"</string>
   <string name="sdcardfs_dialog_title">"重要な更新"</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9では新しいファイルシステムを使用できますが、古いデータとは互換性がない可能性があります。更新するにはSecond spaceからアイテムを移動し、端末を再起動して再度Second spaceを作成し直してください。
+  <string name="sdcradfs_dialog_in_owner_message">"この更新では新しいファイルシステムが導入されました。古いデータとの互換性がない可能性があります。更新するにはSecond spaceからアイテムを移動し、端末を再起動して再度Second spaceを作成し直してください。
 更新しない場合、デュアルアプリも正常に動作しない可能性があります。"</string>
   <string name="sdcradfs_dialog_in_owner_title">Second space</string>
   <string name="sdcradfs_dialog_in_sec_message">"更新するにはSecond spaceを削除して再度作成し直す必要があります。Second spaceからFirst spaceにデータを移動し、更新を完了するために端末を再起動してください。

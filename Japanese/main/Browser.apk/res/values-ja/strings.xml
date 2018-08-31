@@ -32,9 +32,9 @@
   <string name="action_menu_request_desktop_site_off">"デスクトップ表示/オフ"</string>
   <string name="action_menu_request_desktop_site_on">"デスクトップ表示/オン"</string>
   <string name="action_menu_text_add_bookmark">"ブックマークに追加"</string>
-  <string name="action_menu_text_bandwidth">Data saver</string>
-  <string name="action_menu_text_bandwidth_off">Data saver</string>
-  <string name="action_menu_text_bandwidth_on">Data saver</string>
+  <string name="action_menu_text_bandwidth">データセーバー</string>
+  <string name="action_menu_text_bandwidth_off">データセーバー</string>
+  <string name="action_menu_text_bandwidth_on">データセーバー</string>
   <string name="action_menu_text_bookmark_add_off">"ウェブサイトを追加できませんでした。"</string>
   <string name="action_menu_text_bookmark_added">"ブックマークに追加済み"</string>
   <string name="action_menu_text_copy_url">"URLをコピー"</string>

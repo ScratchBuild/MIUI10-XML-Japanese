@@ -535,12 +535,12 @@
   <string name="received_label">"受信: "</string>
   <string name="recipient_label">"宛先: "</string>
   <string name="recipients_over_size">宛先が多すぎます</string>
-  <string name="recommend_bar_cancel">Ignore</string>
+  <string name="recommend_bar_cancel">無視</string>
   <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other MIUI devices without incurring charges.</string>
   <string name="recommend_bar_message_mx_rcs">Mi Message allows you to send messages to other MIUI devices and China Mobile users without incurring charges.</string>
   <string name="recommend_bar_message_rcs">China Mobile Messaging allows you to send messages to other users without incurring charges.</string>
   <string name="recommend_bar_message_smart_message">Copy one-time passwords, track packages, use smart menus, and more</string>
-  <string name="recommend_bar_ok">Turn on</string>
+  <string name="recommend_bar_ok">オンにする</string>
   <string name="recommend_bar_title_mx_rcs">Mi Message</string>
   <string name="recommend_bar_title_smart_message">Smart Messaging</string>
   <string name="recording_failed">"録音できません"</string>

@@ -1048,7 +1048,7 @@
   <string name="phone_locked_foget_password">Forgot password?</string>
   <string name="phone_locked_foget_password_mehod_back">"戻る"</string>
   <string name="phone_locked_foget_password_method">Forgot password?</string>
-  <string name="phone_locked_foget_password_method_content"><Data>You have to &lt;font color=#a5220e>erase all data &lt;/font> on your device, including photos and contacts, and then set a new Lock screen password.</Data></string>
+  <string name="phone_locked_foget_password_method_content"><Data>写真や連絡先などの端末上の&lt;font color=#a5220e>すべてのデータを消去&lt;/font>してから、新しいロック画面のパスワードを設定する必要があります。</Data></string>
   <string name="phone_locked_foget_password_method_next">"次へ"</string>
   <string name="phone_locked_foget_password_ok">OK</string>
   <string name="phone_locked_forget_password_suggesstion_one_content"><Data>端末の電源をオフにして、Miロゴが表示されるまで&lt;font color=#a5220e>電源ボタン&lt;/font>と&lt;font color=#a5220e>音量[＋]ボタン&lt;/font>を同時に長押ししてください。</Data></string>
@@ -1461,7 +1461,7 @@ EEEE"</string>
   <string name="structure_face_unlock_model2d_dialog_title">Turning on 2D recognition</string>
   <string name="structure_face_unlock_model3d_dialog_msg">"2D recognition will be turned off. Your 2D face data will be deleted. You'll also have to add your 3D face data. Turn on 3D recognition?"</string>
   <string name="structure_face_unlock_model3d_dialog_title">Turning on 3D recognition</string>
-  <string name="structure_face_unlock_model_dialog_enable">Turn on</string>
+  <string name="structure_face_unlock_model_dialog_enable">オンにする</string>
   <string name="structure_face_unlock_model_dialog_notenable">結構です</string>
   <string name="structure_face_unlock_model_other">その他</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D認識</string>
