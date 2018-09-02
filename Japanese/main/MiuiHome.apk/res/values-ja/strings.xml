@@ -17,7 +17,7 @@
   <string name="announce_for_drop_folder_grid_view">Number %1$d in the folder</string>
   <string name="announce_for_drop_folder_icon">In the folder %1$s</string>
   <string name="announce_for_drop_hotseat">In the dock area</string>
-  <string name="announce_for_drop_shortcut_icon">"%1$dと%2$dのフォルダを作成しました"</string>
+  <string name="announce_for_drop_shortcut_icon">Created a folder with %1$s and %2$s</string>
   <string name="announce_for_drop_thumbnail_container">%1$d番目の画面をプレビューしています</string>
   <string name="announce_for_drop_trash">In the uninstallation zone</string>
   <string name="announce_for_drop_workspace">"%1$dページ目、%2$d行目、%3$d列目"</string>
