@@ -6,7 +6,7 @@
   <string name="altitude_uncalibrate_msg">GPSかモバイルデータ通信が無いと、正確な高度の調整はできません</string>
   <string name="altitude_uncalibrate_refresh">再試行</string>
   <string name="altitude_uncalibrate_tip">高度の調整ができません</string>
-  <string name="app_description_content">Compass is used for navigation and orientation and shows you direction. Make sure you can do without these features before you uninstall the app.</string>
+  <string name="app_description_content">Compass is used for navigation and orientation and shows you direction. アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。</string>
   <string name="app_description_title">コンパスについて</string>
   <string name="app_label">コンパス</string>
   <string name="calibrate_failed">高度の補正に失敗しました</string>
@@ -48,8 +48,8 @@
   <string name="longitude">経度</string>
   <string name="mobiledata_alert_dialog_message">インターネットへ接続し現在地の海抜を確認しますか</string>
   <string name="mobiledata_alert_dialog_title">モバイルデータ通信の警告</string>
-  <string name="open_perm_msg">Compass needs access to location info and camera. This is necessary to determine coordinates and provide live previews. Allow?</string>
-  <string name="open_perm_title">Permissions required</string>
+  <string name="open_perm_msg">コンパスが正常に動作するには、位置情報とカメラへのアクセス許可が必要です。これは座標を決定し、ライブビューを提供するために必要です。許可しますか？</string>
+  <string name="open_perm_title">アクセス許可が必要</string>
   <string name="preference_other">その他</string>
   <string name="preference_privacy_title">プライバシーポリシー</string>
   <string name="pressure_title">気圧</string>

@@ -200,7 +200,7 @@
   <string name="contact_detail_calllog_call_record_tips">Recorded call</string>
   <string name="contact_detail_calllog_empty">"通話履歴はありません"</string>
   <string name="contact_detail_entry_pay">"送金"</string>
-  <string name="contact_detail_entry_pay_dialog_title">Select phone number</string>
+  <string name="contact_detail_entry_pay_dialog_title">電話番号を選択</string>
   <string name="contact_detail_entry_pay_request">Request money</string>
   <string name="contact_detail_menu_delete_miprofile">"カードを削除"</string>
   <string name="contact_detail_miprofile_accept">"連絡先カードを交換"</string>
@@ -642,7 +642,7 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="messageShortcutActivityTitle">"メッセージを送る番号の選択"</string>
   <string name="miprofile_account_type">"連絡先カード"</string>
   <string name="miprofile_alertdialog_edit">"名前を入力"</string>
-  <string name="miprofile_alertdialog_message">Show this name to contacts when you ask to exchange cards.</string>
+  <string name="miprofile_alertdialog_message">カードの交換を行う際に、この名前が連絡先として表示されます。</string>
   <string name="miprofile_alertdialog_title">"名前を入力"</string>
   <string name="miprofile_bind_account_alertdialog_message">"この機能を使用するには、あなたのMi Accountに端末の電話番号を追加する必要があります。"</string>
   <string name="miprofile_bind_account_alertdialog_positive">"番号を追加"</string>
@@ -751,7 +751,7 @@ To add a contact to your list of favorites:
   <string name="no_contact_in_other_phone">"連絡先が検出できません"</string>
   <string name="no_contacts_dialog_message">"連絡先がSIMカードに保存されている可能性があります。SIMカードから端末の内部ストレージにインポートしてから、もう一度お試しください。"</string>
   <string name="no_contacts_dialog_title">"連絡先が見つかりません"</string>
-  <string name="no_contacts_selected">No contacts selected.</string>
+  <string name="no_contacts_selected">連絡先が選択されていません。</string>
   <string name="no_sdcard_message">"SDカードが見つかりません。"</string>
   <string name="no_setting_menu">"メニューオプションはありません"</string>
   <string name="non_phone_add_to_contacts">"連絡先に追加"</string>
@@ -772,7 +772,7 @@ To add a contact to your list of favorites:
   <string name="option_not_star">"お気に入りから削除"</string>
   <string name="option_rename_group">"名前を変更"</string>
   <string name="option_send_to_desktop">"ホーム画面に設置"</string>
-  <string name="option_send_to_others">Forward</string>
+  <string name="option_send_to_others">転送</string>
   <string name="option_view_contact">"表示"</string>
   <string name="option_view_group">"表示"</string>
   <string name="organizationLabelsGroup">組織</string>
@@ -995,8 +995,8 @@ To add a contact to your list of favorites:
   <string name="search_wipe_data">Organize;Contacts</string>
   <string name="searching_vcard_message">端末内のvCardデータを検索しています…</string>
   <string name="select_all">"すべて選択"</string>
-  <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
-  <string name="select_exceed">Select no more than %1$d</string>
+  <string name="select_all_exceed">%1$d件以下で選択してください、すべてを選択することはできません</string>
+  <string name="select_exceed">%1$d件以下で選択してください</string>
   <string name="select_groups">"グループを選択"</string>
   <string name="select_none">"アイテムが選択されていません"</string>
   <string name="select_show_contacts">"連絡先リスト"</string>
@@ -1179,8 +1179,8 @@ To add a contact to your list of favorites:
   <string name="voicemail_status_configure_voicemail">"ボイスメールを設定してください"</string>
   <string name="voicemail_status_messages_waiting">"新着ボイスメールがあります。現在は読み込めません。"</string>
   <string name="voicemail_status_voicemail_not_available">"新着ボイスメールは現在利用できません"</string>
-  <string name="voip_audio_description">VoIP call</string>
-  <string name="voip_video_description">VoIP video call</string>
+  <string name="voip_audio_description">VoIP通話</string>
+  <string name="voip_video_description">VoIPビデオ通話</string>
   <string name="websiteLabelsGroup">ウェブサイト</string>
   <string name="wipe_data">"データを消去"</string>
   <string name="yellowPageNavigationIconLabel">"イエローページ"</string>

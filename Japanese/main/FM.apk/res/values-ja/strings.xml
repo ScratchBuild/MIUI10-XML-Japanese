@@ -57,7 +57,6 @@
   <string name="toast_sleep_mode">"ラジオの再生は%sで停止します"</string>
   <string name="toast_sleep_mode_exit">"スリープタイマーがキャンセルされました"</string>
   <string name="turn_off_fm">"FMをオフにする"</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">"スリープモード"</string>
   <string name="using_recorder_cancel">"拒否"</string>
   <string name="using_recorder_confirm">"許可"</string>
