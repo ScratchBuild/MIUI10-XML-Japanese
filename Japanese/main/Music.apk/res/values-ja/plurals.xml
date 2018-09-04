@@ -12,6 +12,16 @@
         <item quantity="other">Backing up songs, %1$d songs remaining (%2$.1fMB)</item>
         <item quantity="one">Backing up songs, %1$d song remaining (%2$.1fMB)</item>
     </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"サブスクリプションの有効期限は残り%d日です。
+有効期限の更新を行いますか？"</item>
+        <item quantity="one">"サブスクリプションの有効期限は残り%d日です。
+有効期限の更新を行いますか？"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">無料で%1$d曲ダウンロードできます。今すぐ%2$sをダウンロードしますか？</item>
+        <item quantity="one">無料で%1$d曲ダウンロードできます。今すぐ%2$sをダウンロードしますか？</item>
+    </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">プレーヤーは%d分後に停止します</item>
         <item quantity="one">プレーヤーは%d分後に停止します</item>

@@ -23,6 +23,7 @@
     <string-array name="thermal_summaries">
         <item>"温度制御優先"</item>
         <item>"パフォーマンス優先"</item>
+        <item>extreme power modeで設定が無効</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>"パフォーマンス"</item>

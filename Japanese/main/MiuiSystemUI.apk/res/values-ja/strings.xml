@@ -754,7 +754,7 @@
   <string name="kg_invalid_confirm_pin_hint">PIN コードが一致しません</string>
   <string name="kg_invalid_puk">正しい PUK コードを再入力してください。誤入力を繰り返すと、SIM が完全に無効になる恐れがあります。</string>
   <string name="kg_invalid_sim_pin_hint">PIN は 4～8 桁の数字で入力してください。</string>
-  <string name="kg_invalid_sim_puk_hint">PUK コードは 8 桁以下の数字で入力してください。</string>
+  <string name="kg_invalid_sim_puk_hint">PUKコードは8桁の番号です。</string>
   <string name="kg_login_too_many_attempts">パターンの入力を所定の回数以上間違えました</string>
   <string name="kg_password_instructions">パスワードを入力してください</string>
   <string name="kg_password_pin_failed">SIM PIN を使用してロック解除できませんでした</string>

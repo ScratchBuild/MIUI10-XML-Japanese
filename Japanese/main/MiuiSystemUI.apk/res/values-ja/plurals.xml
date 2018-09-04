@@ -52,6 +52,18 @@
         <item quantity="other">%1$d時間%2$d分</item>
         <item quantity="one">%1$d時間%2$d分</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">残り%d時間</item>
+        <item quantity="one">残り%d時間</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">残り%d分</item>
+        <item quantity="one">残り%d分</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">残り%1$d時間%2$d分</item>
+        <item quantity="one">残り%1$d時間%2$d分</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">SIM PIN コードを入力してください。入力できるのはあと %d 回です。</item>
         <item quantity="one">SIM PIN コードを入力してください。入力できるのはあと %d 回です。この回数を超えると、お使いの端末をロック解除するのに携帯通信会社にお問い合わせいただく必要があります。</item>

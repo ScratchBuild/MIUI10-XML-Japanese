@@ -4663,6 +4663,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="title_font_current2">システムフォント</string>
   <string name="title_font_size">フォントサイズ</string>
   <string name="title_hdmi_color_calibration">色補正プリセット</string>
+  <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_layout_current">文字サイズ</string>
   <string name="title_layout_current2">文字サイズ</string>
   <string name="to_close">オフにする</string>
@@ -4818,7 +4819,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_password_title">パスワード</string>
   <string name="unlock_set_unlock_pattern_summary">端末のロックを解除するには指で簡単なパターンを入力する</string>
   <string name="unlock_set_unlock_pattern_title">パターン</string>
-  <string name="unlock_set_unlock_pin_summary">端末のロックを解除するには4桁の数字を入力する</string>
+  <string name="unlock_set_unlock_pin_summary">端末のロックを解除するには4～16桁の数字を入力する</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>

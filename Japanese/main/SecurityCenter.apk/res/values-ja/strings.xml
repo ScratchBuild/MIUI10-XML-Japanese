@@ -340,6 +340,7 @@
   <string name="auto_task_operation_sync">"同期"</string>
   <string name="auto_task_operation_vibration">"バイブレーション"</string>
   <string name="auto_task_operation_wifi">"Wi-Fi"</string>
+  <string name="auto_task_result_summary_text">Set automated tasks for Battery saver</string>
   <string name="back_app_name">"アプリロックに戻る"</string>
   <string name="back_description_securitycenter">"戻る"</string>
   <string name="back_modifypassword">"パスワードの変更に戻る"</string>
@@ -741,6 +742,7 @@
 "<li>If you want an app to be running in the background, lock it in Recents, or add it to background exceptions below. Up to 4 apps can be running in the background when Extreme battery saver is on.</li>"
 "<li>Extreme battery saver turns off NFC by default. You can change this in the Settings.</li>"
 "<li>To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.</li></string>
+  <string name="extreme_power_save_mode_card_summary">Turn on Extreme mode to save power when the battery is low.</string>
   <string name="extreme_power_save_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
   <string name="extreme_power_save_mode_title">Extreme battery saver</string>
   <string name="finger_remind_message">"初めに指紋を追加してください。タップで[設定]を開きます。"</string>
@@ -959,10 +961,15 @@
   <string name="guide_wait_setting">"後で"</string>
   <string name="handle_bar_summary_wifi_unknown">"不明"</string>
   <string name="handle_bar_title_system">"システム"</string>
+  <string name="handle_title_abnormal">Draining battery</string>
+  <string name="handle_title_app">ユーザーアプリ</string>
+  <string name="handle_title_details">バッテリー使用量の詳細</string>
   <string name="handle_title_network">"Wi-Fiセキュリティ"</string>
   <string name="handle_title_pay_env">"支払い環境"</string>
   <string name="handle_title_privacy">"プライバシーとセキュリティ"</string>
+  <string name="handle_title_system">システムのバッテリー使用量</string>
   <string name="hide_mode_app_background_setting_text">App battery saver</string>
+  <string name="hide_mode_result_summary_text">Customize Battery saver settings for individual apps</string>
   <string name="hide_mode_summary_text">"バッテリーを節約するため、アプリのバックグラウンドアクティビティを管理する"</string>
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="hint_antispam_mode_edit">"カスタムモード"</string>
@@ -1484,6 +1491,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="path_usb_install">システムアプリ/セキュリティ/パーミッション/USB経由でインストール</string>
   <string name="pc_activity_title">"バッテリーを最適化"</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
+  <string name="pc_main_activity_back">戻る</string>
+  <string name="pc_settings_title">バッテリー使用量の設定</string>
   <string name="pc_to_phone_install">"USB経由で%sのインストールをブロックしました"</string>
   <string name="per_month_pkg_traffic_settings">データの制限を設定する</string>
   <string name="permission_action_accept">"許可"</string>
@@ -1518,11 +1527,30 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_back">"戻る"</string>
   <string name="power_center_charge_time">"フル充電まで%1$s"</string>
+  <string name="power_center_hints_scan_danger_result">バッテリーの問題を今すぐ修復できます</string>
+  <string name="power_center_list_item_auto_brightness">画面の明るさを自動的に調整する</string>
+  <string name="power_center_list_item_battery_status_time">h</string>
+  <string name="power_center_list_item_close_bluetooth">Bluetoothをオフにする</string>
+  <string name="power_center_list_item_deep_save_title">高度な設定</string>
+  <string name="power_center_list_item_set_lockscreen_time">30秒間操作が行われていない場合に画面を消灯する</string>
   <string name="power_center_ontime_boot">Power on time</string>
   <string name="power_center_ontime_shutdown">Power off time</string>
   <string name="power_center_repeat">Repeat</string>
+  <string name="power_center_scan_item_title_GPS">Adjust GPS accuracy</string>
+  <string name="power_center_scan_item_title_abnormal">Battery issues</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Abnormal power consumption application</string>
+  <string name="power_center_scan_item_title_auto_invoke">Chain start</string>
+  <string name="power_center_scan_item_title_auto_start">Autostart</string>
+  <string name="power_center_scan_item_title_battery_details">Battery usage details</string>
+  <string name="power_center_scan_item_title_brightness">Adjust screen brightness</string>
+  <string name="power_center_scan_item_title_clean_memory">Clear memory</string>
+  <string name="power_center_scan_item_title_hide">Manage battery usage</string>
+  <string name="power_center_scan_item_title_power_saver">Turn on Battery saver</string>
+  <string name="power_center_scan_item_title_running_app">Apps running in the background</string>
+  <string name="power_center_scan_result_safe">No battery issues found</string>
   <string name="power_center_state_off">OFF</string>
   <string name="power_center_state_on">ON</string>
+  <string name="power_center_stop_scan_title">スキャンを停止</string>
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
   <string name="power_center_title">"電池使用量"</string>
@@ -1562,6 +1590,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_mode_summary">"バックグラウンドプロセスを監視して同期をオフにします。バッテリーが60%以上充電されている時、バッテリーセーバーは自動でオフになります。"</string>
   <string name="power_save_on_time_end_time_summary_na">"終了時間"</string>
   <string name="power_save_on_time_start_time_summary_na">"開始時間"</string>
+  <string name="power_save_started_summary_text">"バッテリーセーバーがオンになっています。これにより、バックグラウンドアクティビティを減らし、同期の停止、システムアニメーションを最小限に抑えます。"</string>
   <string name="power_save_summary_text">"バッテリーセーバーをオンにすると、アプリのバックグラウンドアクティビティの抑制、同期の停止、システムアニメーションを最小限に抑えられます。"</string>
   <string name="power_save_title_text">"バッテリーセーバー"</string>
   <string name="power_screen">"画面"</string>
@@ -1775,7 +1804,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="section_title_system">"システムのセキュリティ"</string>
   <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="see_detail">"詳細"</string>
-  <string name="see_more_content">"より多くのおすすめを表示するため、game centerを更新する"</string>
+  <string name="see_more_content">"より多くのおすすめを表示するため、ゲームを更新する"</string>
   <string name="set_applock_password">"パスワードを設定"</string>
   <string name="set_mixed_password_name">"パスワードを設定"</string>
   <string name="set_numeric_password_name">"PINを設定"</string>

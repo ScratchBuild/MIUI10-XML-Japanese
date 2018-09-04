@@ -57,6 +57,9 @@
   <string name="download_failed">"ダウンロードに失敗"</string>
   <string name="download_preview_failed">"プレビューを読み込めません"</string>
   <string name="download_success">"ダウンロードが完了しました"</string>
+  <string name="exit_extreme_mode_dialog_agree">"同意する"</string>
+  <string name="exit_extreme_mode_dialog_cancel">"キャンセル"</string>
+  <string name="exit_extreme_mode_dialog_title">"Extreme modeをオフにする"</string>
   <string name="exo_controls_fastforward_description">"早送り"</string>
   <string name="exo_controls_fullscreen_description">"全画面モード"</string>
   <string name="exo_controls_next_description">"次の曲"</string>
@@ -86,6 +89,9 @@
   <string name="exo_track_surround_5_point_1">"5.1ch サラウンド"</string>
   <string name="exo_track_surround_7_point_1">"7.1ch サラウンド"</string>
   <string name="exo_track_unknown">"不明"</string>
+  <string name="extreme_mode_dialog_message">"Extreme modeではこの機能を使用できません。使用するにはExtreme modeをオフにしてください。"</string>
+  <string name="extreme_mode_dialog_ok">OK</string>
+  <string name="extreme_mode_dialog_title">"警告"</string>
   <string name="fail_to_add_account">"アカウントが追加できません"</string>
   <string name="favorite_list">"お気に入り"</string>
   <string name="favorite_list_format">"お気に入り %1$s"</string>
