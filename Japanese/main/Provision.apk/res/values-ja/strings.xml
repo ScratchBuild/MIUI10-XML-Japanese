@@ -90,6 +90,10 @@ You must agree to our Terms of Service and Privacy Policy before you can use MIU
   <string name="terms_privacy_policy_input_method_kika">Kikaプライバシーポリシー</string>
   <string name="title_fingerprint">"パスワードを設定"</string>
   <string name="user_agreement">"利用規約"</string>
+  <string name="voice_assist_advice">Mi AIでは音声コントロールを使用できますが、より多くの電力を消費します(毎時 +1%)。</string>
+  <string name="voice_assist_condition">"次のようなケースでMi AIを使用することができます:
+1. 画面がオンのとき。
+2. 画面をオフにして音楽を聴いているとき。"</string>
   <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
   <string name="voice_assist_title">Wake with voice</string>
   <string name="welcome">"ようこそ"</string>

@@ -252,7 +252,6 @@
   <string name="non_system_app_select">"ユーザーアプリ"</string>
   <string name="open_feedback_main">"その他"</string>
   <string name="packaging_dialog_content">"レポートを作成中…"</string>
-  <string name="permission_granted">%1$s permission granted</string>
   <string name="pic_not_exist">"この画像は存在しません"</string>
   <string name="plus_one_submit_dialog_content">"フィードバックはエラーログと共にXiaomiのサーバーに送信されます。"</string>
   <string name="plus_one_submit_dialog_not_show_again">"設定を保存"</string>
@@ -292,9 +291,7 @@
   <string name="tab_title_my_reports">My reports</string>
   <string name="tab_title_preferences">"設定"</string>
   <string name="tab_title_report">"フィードバック"</string>
-  <string name="time_in_justnow">"たった今"</string>
   <string name="title_answer_feedback_main">"回答が見つかりました！"</string>
-  <string name="title_bbs_feedback_main">Learn more about Mi phones</string>
   <string name="title_customer_service">"カスタマーサービス"</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>

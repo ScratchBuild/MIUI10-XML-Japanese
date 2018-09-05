@@ -4324,9 +4324,11 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_basic_settings">基本設定</string>
   <string name="status_bar_settings_custom_carrier">キャリア名を編集</string>
   <string name="status_bar_settings_custom_wifi_name">Wi-Fiネットワーク名を編集</string>
+  <string name="status_bar_settings_customer_feedback">フィードバック</string>
   <string name="status_bar_settings_enable_notification">通知を表示</string>
   <string name="status_bar_settings_expand_top_notification">Expand top notification</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on secure lock screen</string>
+  <string name="status_bar_settings_function_description">この機能について</string>
   <string name="status_bar_settings_long_click_sort">トグルスイッチを並べ替えるには長押し</string>
   <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_no_carrier">なし</string>
@@ -4357,6 +4359,11 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">タップ後に折り畳む</string>
   <string name="status_bar_settings_toggle_position">トグルの位置</string>
   <string name="status_bar_settings_user_fold">通知フォルダ</string>
+  <string name="status_bar_settings_user_fold_description1">\"通知フォルダ\"はMIUI 9で導入されました。この機能では「重要でない通知」をフィルター処理し、別のフォルダに配置します。</string>
+  <string name="status_bar_settings_user_fold_description2">MIUIはどの通知をタップしたかを記憶しておき、複数の基準を使用して重要かどうかを判断します。</string>
+  <string name="status_bar_settings_user_fold_description3">重要と思われる通知が\"通知フォルダ\"に移動してしまう場合には、この問題を我々に報告するようにしてください。改善の手助けとなるようご意見を頂けると幸いです。</string>
+  <string name="status_bar_settings_user_fold_disable">OFF</string>
+  <string name="status_bar_settings_user_fold_enable">ON</string>
   <string name="status_bar_settings_user_fold_summary">重要でない通知はすべて別のフォルダに表示されます</string>
   <string name="status_bar_style_list">結合表示</string>
   <string name="status_bar_style_page">分割表示</string>

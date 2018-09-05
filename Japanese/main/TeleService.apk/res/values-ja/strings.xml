@@ -174,7 +174,7 @@
   <string name="card_title_MOcall_forwarding">Outgoing forwarded call</string>
   <string name="card_title_MTcall_forwarding">Incoming call is forwarded</string>
   <string name="card_title_call_deflected">Call deflected</string>
-  <string name="card_title_call_ended">通話終了</string>
+  <string name="card_title_call_ended">"通話終了 "</string>
   <string name="card_title_callconnectedect">Call connected ECT</string>
   <string name="card_title_callconnectingect">Call connecting ECT</string>
   <string name="card_title_calliswaiting">Waiting</string>
@@ -194,7 +194,7 @@
   <string name="card_title_incoming_barred">Incoming calls barred</string>
   <string name="card_title_incoming_call">着信</string>
   <string name="card_title_multipartycall">Multiparty call</string>
-  <string name="card_title_on_hold">保留中</string>
+  <string name="card_title_on_hold">"保留中 "</string>
   <string name="card_title_outgoing_barred">Outgoing calls barred</string>
   <string name="card_title_redialing">リダイヤル中</string>
   <string name="card_title_unconditionalCF">Unconditional call forwarding is on</string>
