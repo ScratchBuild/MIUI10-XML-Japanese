@@ -435,7 +435,7 @@
   <string name="dialog_delete_title">お気に入りから削除</string>
   <string name="dialog_font_background">Background</string>
   <string name="dialog_font_light">画面の明るさ</string>
-  <string name="dialog_mark_like">Marked as important</string>
+  <string name="dialog_mark_like">重要としてマーク</string>
   <string name="dialog_report_cancel">キャンセル</string>
   <string name="dialog_report_confirm">報告</string>
   <string name="dialog_report_desc">ページフォーマットのエラーを報告することができます。今すぐ報告しますか？</string>
@@ -730,7 +730,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="favorite_cancel">キャンセル</string>
   <string name="favorite_clipboard_tip">Add the address from the clipboard to favorites?</string>
   <string name="favorite_delete">削除</string>
-  <string name="favorite_important">インポート</string>
+  <string name="favorite_important">重要</string>
   <string name="favorite_label">お気に入り</string>
   <string name="favorite_main">履歴</string>
   <string name="favorite_title_limit">40文字以内で入力してください</string>
@@ -904,7 +904,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="login_ok">ログイン</string>
   <string name="look_more">View more</string>
   <string name="main_add">追加</string>
-  <string name="main_mark">Important</string>
+  <string name="main_mark">重要</string>
   <string name="main_mark_cancel">Delete mark</string>
   <string name="main_paste_add">追加</string>
   <string name="main_search_hint">検索</string>

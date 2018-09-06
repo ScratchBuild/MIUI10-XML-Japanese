@@ -191,8 +191,8 @@
   <string name="app_label">システムUI</string>
   <string name="app_name">ロック画面</string>
   <string name="app_process_limit_title">バックグラウンドプロセスの上限</string>
-  <string name="as_important">Important</string>
-  <string name="as_unimportant">Unimportant</string>
+  <string name="as_important">重要</string>
+  <string name="as_unimportant">重要でない</string>
   <string name="audio_effect_custom">設定</string>
   <string name="audio_effect_info">オーディオの最適化</string>
   <string name="audio_effect_settings">ヘッドフォンタイプを選択してください</string>
@@ -849,7 +849,7 @@
   <string name="lock_wallpaper_learn_more">"その他"</string>
   <string name="lockscreen_access_pattern_area">Pattern area.</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
-  <string name="lockscreen_access_pattern_cell_added_verbose">Cell %1$s added</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">セル %1$s を追加しました</string>
   <string name="lockscreen_access_pattern_cleared">"パターンを消去しました"</string>
   <string name="lockscreen_access_pattern_detected">"パターンの描画が完了しました"</string>
   <string name="lockscreen_access_pattern_start">"パターンの描画を開始しました"</string>
@@ -1009,12 +1009,12 @@
   <string name="notification_low_battery_title">電池残量: %d%%</string>
   <string name="notification_manager">通知の管理</string>
   <string name="notification_manager_des">フィルターおよび通知の管理</string>
-  <string name="notification_menu_filter_description">Unimportant notifications</string>
-  <string name="notification_menu_filter_secondary_text">All notifications of %s will appear in a separate folder.</string>
-  <string name="notification_menu_filter_title">Unimportant</string>
+  <string name="notification_menu_filter_description">重要でない通知</string>
+  <string name="notification_menu_filter_secondary_text">%s のすべての通知は、別のフォルダに表示されます。</string>
+  <string name="notification_menu_filter_title">重要でない</string>
   <string name="notification_menu_gear_description">通知管理</string>
-  <string name="notification_menu_remove_from_filter_secondary_text">All important notifications of %s will appear directly on the Notification shade.</string>
-  <string name="notification_menu_remove_from_filter_title">Important</string>
+  <string name="notification_menu_remove_from_filter_secondary_text">%s の重要な通知は、すべて通知シェードに直接表示されます。</string>
+  <string name="notification_menu_remove_from_filter_title">重要</string>
   <string name="notification_menu_snooze_description">通知スヌーズ設定</string>
   <string name="notification_otg_gamestick_in">ゲームコントローラーが接続されました</string>
   <string name="notification_otg_gamestick_out">ゲームコントローラーが切断されました</string>
