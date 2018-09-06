@@ -719,6 +719,7 @@
   <string name="to_address_label">"To: "</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">"%sに送信"</string>
+  <string name="toast_pending_hangup_msg">通話終了後にメッセージが送信されます</string>
   <string name="today">"今日"</string>
   <string name="too_many_attachments">添付ファイル数の上限は%1$s個です。最初の%2$s個のみ追加されました</string>
   <string name="too_many_recipients">"宛先が多すぎます (%1$s)。%2$s以上の宛先は設定できません"</string>
@@ -742,10 +743,11 @@
   <string name="unsubscribe">Unsubscribe</string>
   <string name="unsupported_media_format">"対応していない%1$s形式です"</string>
   <string name="url_fraud_dangerous_alert">"アクセスしようとしているウェブサイトは危険かもしれません。お使いの携帯端末とデータに損傷を与える可能性があります。とにかくアクセスしますか？\n%s"</string>
-  <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイトは危険かもしれません。 とにかくアクセスしますか？\n%s"</string>
+  <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイト %s は危険かもしれません。とにかくアクセスしますか？"</string>
   <string name="url_fraud_title">偽装されたウェブサイトの可能性があります</string>
   <string name="url_fraud_visit">&lt;u>とにかくアクセスする&lt;/u></string>
   <string name="url_result_safe">このURLは安全です</string>
+  <string name="url_scan_again">もう一度確認</string>
   <string name="url_scanning">URLを確認中...</string>
   <string name="user_agreement">利用規約</string>
   <string name="verification_code_list_title">認証コード</string>

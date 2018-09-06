@@ -194,12 +194,15 @@
   <string name="android_beam_witch_label">Androidビーム</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="anti_spam">ブロックリスト</string>
+  <string name="aod_close_color_inversion">この機能は色反転と同時に使用することはできません。最初に色反転をオフにしてください。</string>
+  <string name="aod_got_it">OK</string>
   <string name="aod_mode_summary">画面が消灯しているときは、常に時間、日付、メッセージを表示する</string>
   <string name="aod_mode_time_summary">端末が\"常時オンモード\"に切り替わる時間をスケジュール設定する</string>
   <string name="aod_mode_time_title">スケジュール</string>
   <string name="aod_mode_title">常時オンモード</string>
   <string name="aod_mode_turn_off">OFF</string>
   <string name="aod_mode_turn_on">ON</string>
+  <string name="aod_to_close">OFFにする</string>
   <string name="apn_auth_type">認証タイプ</string>
   <string name="apn_auth_type_none">なし</string>
   <string name="apn_auth_type_pap_chap">PAPまたはCHAP</string>
@@ -249,9 +252,9 @@
   <string name="app_launch_open_domain_urls_title">対応リンクを開く</string>
   <string name="app_launch_other_defaults_title">その他のデフォルト</string>
   <string name="app_launch_supported_domain_urls_title">対応リンク</string>
-  <string name="app_link_open_always">このアプリで開く</string>
+  <string name="app_link_open_always">開く</string>
   <string name="app_link_open_ask">その都度確認</string>
-  <string name="app_link_open_never">このアプリで開かない</string>
+  <string name="app_link_open_never">開かない</string>
   <string name="app_list_memory_use">アプリの使用状況</string>
   <string name="app_list_preference_none">なし</string>
   <string name="app_memory_use">メモリ使用</string>
@@ -2052,7 +2055,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="high_power_system">電池の最適化の利用不可</string>
   <string name="history_details_title">履歴の詳細</string>
   <string name="home">ホーム画面の設定</string>
-  <string name="home_app">ホームアプリ</string>
+  <string name="home_app">ランチャー</string>
   <string name="home_app_uninstall_button">このアプリをアンインストール</string>
   <string name="home_key">ホーム</string>
   <string name="home_settings">ホーム</string>
@@ -4252,7 +4255,7 @@ PINが正しくない可能性があります。"</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">スマートカバーモード</string>
   <string name="smartcover_sensitive_summary">スマートカバーを使用して端末をロックまたはロック解除する</string>
   <string name="smartcover_sensitive_title">スマートカバー</string>
-  <string name="sms_application_title">SMSアプリ</string>
+  <string name="sms_application_title">メッセージ</string>
   <string name="sms_delivered_sound_dialog_title">メッセージ送信時の音を選択</string>
   <string name="sms_delivered_sound_title">メッセージ送信時の音</string>
   <string name="sms_messages_title">SMSメッセージ</string>
