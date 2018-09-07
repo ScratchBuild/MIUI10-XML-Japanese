@@ -223,7 +223,7 @@ is mainly provided by Ultimate Inc."</string>
   <string name="download_manage_item_complete">"完了"</string>
   <string name="download_method">"ダウンロード"</string>
   <string name="download_no_application_title">"ファイルを開けません"</string>
-  <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
+  <string name="download_paused_in_power_save_mode">"バッテリーセーバーがオンの場合、ダウンロードは中断されます"</string>
   <string name="download_processing">"ダウンロード中…"</string>
   <string name="download_quality">"ダウンロード品質"</string>
   <string name="download_quality_summary">"曲をダウンロードするための追加設定"</string>

@@ -368,8 +368,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_item_sms_summary">"この端末で送受信したメッセージを同期する"</string>
   <string name="sync_item_sms_title">"メッセージを同期"</string>
   <string name="sync_item_title">Syncing items</string>
-  <string name="sync_off">Off</string>
-  <string name="sync_on">On</string>
+  <string name="sync_off">OFF</string>
+  <string name="sync_on">ON</string>
   <string name="sync_sub_1_intl_sms">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_1_sms">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_1_sms_1_intl_sms">1 domestic and 1 international SMS message may be required to activate this service. Your carrier will charge you for these messages.</string>
