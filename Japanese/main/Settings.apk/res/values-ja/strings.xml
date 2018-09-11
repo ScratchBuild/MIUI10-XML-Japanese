@@ -1862,6 +1862,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="floating_window_switch_label_disable">フローティングウィンドウを無効にする</string>
   <string name="fluency_mode">システムアニメーション</string>
   <string name="fluency_mode_confirm_and_reboot">今すぐ再起動</string>
+  <string name="following_us_title">フォローする</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>
