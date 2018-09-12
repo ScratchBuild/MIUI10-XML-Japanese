@@ -58,7 +58,7 @@
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
   <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
-  <string name="beauty_fragment_tab_name_3d_makeup">美妆</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
   <string name="beauty_fragment_tab_name_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_makeup">Advanced</string>
