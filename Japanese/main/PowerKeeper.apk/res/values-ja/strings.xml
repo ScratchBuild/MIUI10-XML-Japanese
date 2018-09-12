@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Extreme battery saver</string>
+  <string name="about_extreme_mode">Extreme mode</string>
   <string name="about_hide_mode">"バッテリーセーバーについて"</string>
   <string name="active_classify">"アプリのアクティブ状態で分類"</string>
   <string name="app_list_title">"アプリを選択"</string>
@@ -31,7 +31,7 @@
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="enable_sleep_mode">"夜間のバッテリー使用率を最適化するためスリープモードをオンにする"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
-  <string name="extreme_mode_max_item_alert">"Extreme modeでは、バックグラウンドで実行されるアプリは4つまでしか選択できません"</string>
+  <string name="extreme_mode_max_item_alert">"Extreme modeでは、バックグラウンドで実行するアプリを4つまで選択できます"</string>
   <string name="extreme_power_config_mode_category">Extreme mode</string>
   <string name="extreme_power_config_mode_desc">"Extteme modeに切り替えると、同期、Bluetooth、GPS、NFC、ダブルタップやボタンライトをオフにし、通知を受信してもロック画面やLEDライトを点灯しません。MIUIはバッテリーの節約にフォーカスします。"</string>
   <string name="extreme_power_config_mode_title">Extreme mode</string>

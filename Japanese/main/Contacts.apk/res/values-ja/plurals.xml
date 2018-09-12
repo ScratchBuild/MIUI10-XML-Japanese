@@ -50,6 +50,10 @@
         <item quantity="other">SIMカードには%1$d件の連絡先を保存できます。</item>
         <item quantity="one">SIMカードには%1$d件の連絡先を保存できます。</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">%d件以上の連絡先が見つかりました。</item>
+        <item quantity="one">%d件以上の連絡先が見つかりました。</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d件の連絡先を追加しました</item>
         <item quantity="one">%1$d件の連絡先を追加しました</item>
@@ -89,6 +93,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">電話番号のある連絡先%d件</item>
         <item quantity="one">電話番号のある連絡先1件</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacts with partially identical info</item>
+        <item quantity="one">%1$d contacts with partially identical info</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">%0$d件の連絡先から結合</item>
@@ -138,6 +146,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d件見つかりました</item>
         <item quantity="one">1件見つかりました</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">%1$d件以下で選択してください、すべてを選択することはできません</item>
+        <item quantity="one">%1$d件以下で選択してください、すべてを選択することはできません</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">%1$d件以下で選択してください</item>
+        <item quantity="one">%1$d件以下で選択してください</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d人</item>

@@ -2826,6 +2826,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="n_cacrts">CA証明書%d件</string>
   <string name="navigation_guide_app_summary">画面上部の端から左または右にスワイプする</string>
   <string name="navigation_guide_app_title">アプリのアクションをトリガーする</string>
+  <string name="navigation_guide_appswitch_anim_summary">画面の端からスワイプして直前のアプリに戻る</string>
+  <string name="navigation_guide_appswitch_anim_title">直前のアプリに戻る</string>
   <string name="navigation_guide_appswitch_summary">画面の端から左または右にスワイプしてしばらく長押しする</string>
   <string name="navigation_guide_appswitch_title">直前のアプリに切り替える</string>
   <string name="navigation_guide_back_summary">画面の端から右または左にスワイプする</string>

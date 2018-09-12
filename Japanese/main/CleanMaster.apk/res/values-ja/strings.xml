@@ -111,6 +111,7 @@
   <string name="cd_list_item_collapse">"折りたたみ"</string>
   <string name="cd_list_item_expanded">"展開"</string>
   <string name="cd_percent">"パーセント"</string>
+  <string name="cd_scanning">"スキャン中"</string>
   <string name="cd_settings">"設定"</string>
   <string name="cd_sort_type">"並べ替え"</string>
   <string name="clean_content_all">"すべて"</string>
@@ -118,7 +119,7 @@
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
   <string name="clean_content_zero">None</string>
-  <string name="clean_summary">"%1$s個のファイルを削除しました"</string>
+  <string name="clean_summary">"%1$sを消去しました"</string>
   <string name="clear_bigfiles">"大きいファイル、重複した写真、その他の古いアイテムを削除"</string>
   <string name="clear_immediately">"今すぐ消去"</string>
   <string name="clear_safe_notify">"通知領域のウィジェット"</string>
