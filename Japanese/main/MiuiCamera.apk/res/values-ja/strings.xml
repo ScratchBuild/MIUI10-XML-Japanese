@@ -56,7 +56,7 @@
   <string name="accessibility_zoom_button">Zoom mode</string>
   <string name="ai_scene_mode_use_hint_text">"AIカメラを開き、写真の撮影シーンや被写体に基づいて画像を最適化します。"</string>
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
-  <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
+  <string name="back_bokeh_use_hint">Keep your subject within 1.5 meters for best effect</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
@@ -212,6 +212,8 @@ in Portrait mode"</string>
   <string name="portrait_mode_too_far_hint">Place object within 2 meters</string>
   <string name="portrait_mode_use_hint">"Portrait mode blurs the background
 and brings out the people in the front."</string>
+  <string name="portrait_mode_use_hint_for_bokeh">"Try Portrait mode.
+Keep the subject sharp while blurring the background."</string>
   <string name="pref_advance_settings">"その他の設定"</string>
   <string name="pref_ai_detect">AI detection</string>
   <string name="pref_audio_focus_entry_front">"前面"</string>

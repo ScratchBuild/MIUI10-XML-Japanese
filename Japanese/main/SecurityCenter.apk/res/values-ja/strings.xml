@@ -791,15 +791,10 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="first_aid_card_apn_title">"ネットワークに接続できません"</string>
   <string name="first_aid_card_consume_power_button1">"制限する"</string>
   <string name="first_aid_card_consume_power_button2">"オフにする"</string>
-  <string name="first_aid_card_consume_power_button3">"オフにする"</string>
-  <string name="first_aid_card_consume_power_button4">"オフにする"</string>
   <string name="first_aid_card_consume_power_summary1">"自動起動が5つ以上のアプリで許可されています。バッテリーを節約するために制限します。"</string>
   <string name="first_aid_card_consume_power_summary2">"バッテリーを節約するためにテザリングをオフにします。"</string>
-  <string name="first_aid_card_consume_power_summary3">"バッテリーを節約するためにBluetoothをオフにします。"</string>
-  <string name="first_aid_card_consume_power_summary4">"バッテリーを節約するためにGPSをオフにします。"</string>
   <string name="first_aid_card_consume_power_title">"バッテリー使用量"</string>
   <string name="first_aid_card_float_window_button">"制限する"</string>
-  <string name="first_aid_card_float_window_summary">"%sが正常に表示されない可能性があるため、フローティング通知を制限します。"</string>
   <string name="first_aid_card_float_window_title">"フローティング通知が許可されました"</string>
   <string name="first_aid_card_kadun_button1">"空き領域を確保"</string>
   <string name="first_aid_card_kadun_button2">"制限する"</string>
@@ -825,9 +820,10 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="first_aid_item4_content">"バッテリー"</string>
   <string name="first_aid_item5_content">"その他の問題"</string>
   <string name="first_aid_result_feedback_button">"送信"</string>
-  <string name="first_aid_result_feedback_summary">"使用している端末の問題が解決できません。"</string>
+  <string name="first_aid_result_feedback_summary">"First aid scan couldn't find any problems. However, I spotted some."</string>
   <string name="first_aid_result_feedback_title">"フィードバック"</string>
   <string name="first_aid_result_summary_normal">Everything looks good!</string>
+  <string name="first_aid_result_summary_not_finished">"Scan wan't complete. Some risks may be undetected."</string>
   <string name="first_aid_scanning_item1">"パフォーマンスの問題を確認中…"</string>
   <string name="first_aid_scanning_item2">"ネットワークの問題を確認中…"</string>
   <string name="first_aid_scanning_item3">"不適切な設定を確認中…"</string>
@@ -1683,7 +1679,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="privacy_apps_manage_dialog_title">About hidden apps</string>
   <string name="privacy_apps_manager_dialog_message">"This app's icon won't be displayed on the Home screen after you hide this app. Hide this app now?"</string>
   <string name="privacy_apps_tutorial">"チュートリアル"</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"When you hide an app, it's moved to a hidden folder. Its Home screen shortcut is hidden is well.
+  <string name="privacy_apps_tutorial_prompt_pageone">"When you hide an app, it's moved to a hidden folder. Its Home screen shortcut is hidden as well.
 This feature isn't supported for system apps."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">After you enter your password, the folder with hidden apps will appear.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>

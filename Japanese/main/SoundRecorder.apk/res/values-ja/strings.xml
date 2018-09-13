@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">"選択した録音を削除しますか？"</string>
+  <string name="alert_message_delete_local_record">この録音を削除しますか？</string>
   <string name="alert_message_delete_record">"端末から録音を削除すると、Mi Cloudからもこの録音が削除されます。今すぐ削除しますか？"</string>
   <string name="alert_message_delete_record_title">"録音を削除しますか？"</string>
   <string name="app_name">"レコーダー"</string>

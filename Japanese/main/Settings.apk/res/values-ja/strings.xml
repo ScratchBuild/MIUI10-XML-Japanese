@@ -841,15 +841,19 @@
   <string name="bootloader_device_bind_fail">確認できませんでした、しばらくしてからもう一度お試しください</string>
   <string name="bootloader_device_bind_msg">アカウントとデバイスの追加を準備中…</string>
   <string name="bootloader_device_bind_no_account">初めにMi Accountにログインしてください</string>
+  <string name="bootloader_device_bind_no_data_network">Wi-Fi接続をオフにし、モバイルデータを使用してお使いのアカウントへデバイスの追加を行います。</string>
   <string name="bootloader_device_bind_no_network">ネットワークに接続して、再試行してください</string>
   <string name="bootloader_device_bind_no_sim">SIMカードを挿入してもう一度お試しください。</string>
   <string name="bootloader_device_bind_server_code">"追加できませんでした。エラーコード:"</string>
+  <string name="bootloader_device_bind_server_token_expired_1">確認できませんでした。お使いのアカウントにデバイスをもう一度追加してみてください。</string>
+  <string name="bootloader_device_bind_server_token_expired_2">確認できませんでした。お使いのアカウントにログインしてもう一度初めからやり直してください。</string>
   <string name="bootloader_device_bind_sim_invalid">SIMカードが無効です。交換してもう一度お試しください。</string>
   <string name="bootloader_locked_answer_1">我々はあなたの個人情報が安全に保たれ、第三者に開示されないようにするためにデバイスをロックしています。もしあなたがFastboot modeに切り替えてお使いのデバイスをフラッシュする必要がある場合、あなたはそれをアンロックすることができます。</string>
   <string name="bootloader_locked_answer_1_warning">忘れずに: デバイスがアンロックされた後、\"Find device\"を使うことはできません。</string>
   <string name="bootloader_locked_answer_2">"1. SIMカードが予めデバイスに挿入されていることを確認してください。
-2. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
-3. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
+2. Wi-Fi接続をオフにし、モバイルデータをオンにします。お使いの端末がモバイルデータを使用してインターネットに接続できることを確認してください。
+3. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
+4. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. \"アカウントを追加\"をタップして、Mi Accountをこのデバイスと関連付けます。
 2. Xiaomiの公式サイトからロック解除ツールをダウンロードしてください。コンピュータを使用してデバイスのロックを解除する必要があります。次からダウンロード:"</string>
   <string name="bootloader_locked_check_status">アカウントとデバイスの追加</string>
@@ -1754,8 +1758,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="factory_reset_summary">内部ストレージからすべてのデータを消去します</string>
   <string name="failed_to_check_find_device_status_content">"Find deviceのステータスを確認できませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_check_find_device_status_title">"ステータスを確認できませんでした。"</string>
-  <string name="failed_to_erase_text">Please turn off lock screen password before performing 1217 operation.</string>
-  <string name="failed_to_erase_title">Forbidden operation</string>
+  <string name="failed_to_erase_text">\"1217\" コードを入力する前に、ロック画面のパスワードをオフにしてください。</string>
+  <string name="failed_to_erase_title">この操作を完了できません</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="failed_to_shut_down_find_device_content">"Find deviceをオフにできませんでした。1～2分待ってから再試行してください。"</string>
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
@@ -4007,8 +4011,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
   <string name="security_encryption_rejected_via_home_manager">この機能はデモ版ではサポートされていません。</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
-  <string name="security_input">セキュリティ入力</string>
-  <string name="security_input_hint">セキュリティキーボードを使用してパスワードを入力</string>
+  <string name="security_input">セキュアキーボード</string>
+  <string name="security_input_hint">パスワードの入力時にセキュアキーボードを使用する</string>
   <string name="security_keyguard_category_name">画面ロック</string>
   <string name="security_password_category_name">ロック画面</string>
   <string name="security_passwords_title">パスワード</string>

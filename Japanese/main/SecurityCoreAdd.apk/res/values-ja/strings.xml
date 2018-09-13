@@ -45,6 +45,8 @@ this feature will be added to Second space automatically."</string>
   <string name="confirmDelete">"削除"</string>
   <string name="confirmSecondSpacePassword">"Second spaceのパスワードを確認"</string>
   <string name="confirm_airspace_password">"%sのパスワードを確認"</string>
+  <string name="confirm_close_password_desc">"パスワードをオフにした後、ロック画面からSecond spaceに切り替えることはできません。とにかくオフにしますか？"</string>
+  <string name="confirm_close_password_title">パスワードをオフにする</string>
   <string name="confirm_main_space_password">"First spaceのパスワードを確認"</string>
   <string name="confirm_restore">"表示しない"</string>
   <string name="contactData">"連絡先"</string>

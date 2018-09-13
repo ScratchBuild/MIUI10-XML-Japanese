@@ -544,6 +544,7 @@
   <string name="face_unlock_rise">"頭を下げてください"</string>
   <string name="face_unlock_rotated_left">"頭を右に向けてください"</string>
   <string name="face_unlock_rotated_right">"頭を左に向けてください"</string>
+  <string name="face_unlock_sc_status">Push the screen down to open camera</string>
   <string name="face_unlock_stay_away_screen">"画面から25～40cmの位置で保持してください"</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="fingerprint_add_text">"指紋インターフェースが更新されました。指紋をもう一度追加してください。"</string>
