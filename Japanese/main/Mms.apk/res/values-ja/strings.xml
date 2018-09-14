@@ -508,7 +508,6 @@
   <string name="rcs_create_new_group">新建群聊</string>
   <string name="rcs_dspt">Send and recieve messages using Wi-Fi or China Mobile network</string>
   <string name="rcs_dspt_unavailable">"Can't use this feature now. China Mobile SIM card isn't your default data card."</string>
-  <string name="rcs_dspt">After China Mobile users are switched on, send messages by default via WLAN or mobile network.</string>
   <string name="rcs_forward_faild">"Couldn't forward"</string>
   <string name="rcs_forward_successful">Forwarded successfully</string>
   <string name="rcs_group_notification_invitation">群邀请</string>
