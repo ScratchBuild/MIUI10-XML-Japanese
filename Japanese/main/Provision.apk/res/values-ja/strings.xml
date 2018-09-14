@@ -63,6 +63,7 @@
   <string name="other_settings_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="other_settings_user_experience_summary">"使用状況の統計を共有することで、我々の製品やサービスを改善する手助けをしてください。詳細を表示"</string>
   <string name="other_settings_user_experience_summary_index">"詳細を表示"</string>
+  <string name="poco_agree_terms_other">(POCO Launcherのプライバシーポリシーと利用規約を含む)</string>
   <string name="pref_title_data_slot">"優先SIMカード(通信)"</string>
   <string name="pref_title_voice_slot">"優先SIMカード(音声)"</string>
   <string name="privacy_policy">"プライバシーポリシー"</string>

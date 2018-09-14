@@ -107,6 +107,7 @@
   <string name="description_image_button_two">"2"</string>
   <string name="description_image_button_video_answer">"ビデオ通話"</string>
   <string name="description_image_button_zero">"0"</string>
+  <string name="description_message_list_title">クイック返信のリスト</string>
   <string name="description_target_answer">"電話に出る"</string>
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>

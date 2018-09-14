@@ -64,6 +64,7 @@
   <string name="accessibility_services_title">サービス</string>
   <string name="accessibility_settings">ユーザー補助</string>
   <string name="accessibility_settings_title">ユーザー補助の設定</string>
+  <string name="accessibility_summary_source">Provided by %s</string>
   <string name="accessibility_sync_disabled">同期は無効になっています</string>
   <string name="accessibility_sync_enabled">同期が有効です</string>
   <string name="accessibility_sync_error">同期エラー</string>
@@ -1157,6 +1158,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="credentials_reset_warning_plural">パスワードが正しくありません。あと%1$d回失敗すると、認証情報ストレージが消去されます。</string>
   <string name="credentials_settings_not_available">認証情報はこのユーザーには表示されません</string>
   <string name="credentials_title">認証情報ストレージ</string>
+  <string name="credentials_title_verification">Verification</string>
   <string name="credentials_unlock_hint">認証情報ストレージのパスワードを入力してください。</string>
   <string name="credentials_wrong_password">パスワードが正しくありません。</string>
   <string name="crypt_keeper_button_text">携帯端末を暗号化</string>

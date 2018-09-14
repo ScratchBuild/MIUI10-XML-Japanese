@@ -194,6 +194,8 @@
   <string name="tax_social_insurance">社会保険</string>
   <string name="tax_thershold_foreign">%s (中国大陸以外)</string>
   <string name="tax_thershold_native">%s (中国大陸)</string>
+  <string name="tax_thershold_native_new">%s (new)</string>
+  <string name="tax_thershold_native_new_description">Taxes will be calculated according to the new tax law starting from October 1, 2018</string>
   <string name="tax_threshold">非課税基準額</string>
   <string name="tax_total_insurance_provident_fund">保険と住宅資金</string>
   <string name="tax_unemployment">失業</string>

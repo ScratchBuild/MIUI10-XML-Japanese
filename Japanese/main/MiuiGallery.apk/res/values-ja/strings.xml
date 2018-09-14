@@ -21,6 +21,7 @@
   <string name="add_to_secret_successful">Added to hidden album</string>
   <string name="add_to_share_album_not_delete">"共有アルバムから写真を削除することはできません"</string>
   <string name="added_to_favorites">"お気に入りに追加しました"</string>
+  <string name="added_to_favorites_desc">"お気に入りに追加しました"</string>
   <string name="added_to_favorites_tip">Added to \"Favorites\" album</string>
   <string name="adding">"追加中…"</string>
   <string name="adding_recipients">"受信者を追加中…"</string>
@@ -98,7 +99,7 @@
   <string name="app_name_view_picture">"写真を表示"</string>
   <string name="app_name_view_video">"動画を表示"</string>
   <string name="apply">"適用"</string>
-  <string name="assistant_page_label">"アシスタント"</string>
+  <string name="assistant_page_label">"ストーリー"</string>
   <string name="associate_face_album">"アルバムを選択"</string>
   <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
   <string name="auto_download_media_title">"Mi Cloudから写真を自動的にダウンロード"</string>
@@ -199,6 +200,23 @@
   <string name="cannot_remove_creator">"作成者を削除できません"</string>
   <string name="cannot_send_message">"メッセージを送信できません"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
+  <string name="card_delete_description">"This story won't appear again. Delete anyway?"</string>
+  <string name="card_delete_negative_text">キャンセル</string>
+  <string name="card_delete_positive_text">削除</string>
+  <string name="card_delete_title">Delete story</string>
+  <string name="card_title_annual_selection">Yearly recap</string>
+  <string name="card_title_last2years_someone">BFFs</string>
+  <string name="card_title_last_week_end">Last weekend</string>
+  <string name="card_title_last_year_today">This day last year</string>
+  <string name="card_title_lastweek_meet">Together</string>
+  <string name="card_title_one_day">Unforgettable day</string>
+  <string name="card_title_past_year_today">This day through the years</string>
+  <string name="card_title_period_last_month">"Last month's recap"</string>
+  <string name="card_title_period_last_week">"Last week's recap"</string>
+  <string name="card_title_period_six_month">Last 6 months</string>
+  <string name="card_title_period_three_month">Last 3 months</string>
+  <string name="card_title_recent_place">%1$s recently</string>
+  <string name="card_title_someone">Friendship</string>
   <string name="cast_devices_unavailable_desc">"この端末とプロジェクターが同じWi-Fiネットワークに接続されていることを確認してください"</string>
   <string name="cast_devices_unavailable_title">"プロジェクターが見つかりませんでした"</string>
   <string name="change_to_face_mode">"顔だけ表示する"</string>
@@ -222,7 +240,7 @@
   <string name="cleaner_screen_shot_action">"消去"</string>
   <string name="cleaner_screen_shot_description">"不要になったスクリーンショットを削除します。"</string>
   <string name="cleaner_screen_shot_title">"スクリーンショットを削除"</string>
-  <string name="cleaner_slim_action">"最適化を開始中…"</string>
+  <string name="cleaner_slim_action">"最適化を開始"</string>
   <string name="cleaner_slim_description">"最適化した写真を端末上に残し、元のファイルはMi Cloudに保存されます。"</string>
   <string name="cleaner_slim_start">"最適化"</string>
   <string name="cleaner_slim_title">"写真を最適化"</string>
@@ -353,6 +371,7 @@
   <string name="empty_recommend_back">"戻る"</string>
   <string name="empty_recommend_face_page_view">"おすすめはありません"</string>
   <string name="empty_relation">"グループ名は空にすることはできません"</string>
+  <string name="empty_title_no_cards">Your stories will appear here.</string>
   <string name="empty_title_no_photos">"写真や動画はありません"</string>
   <string name="enable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオンにしますか？"</string>
   <string name="enable_auto_upload_title">"Mi Cloudとの同期をオンにする"</string>
@@ -618,6 +637,7 @@ Take more photos of your friends!"</string>
   <string name="merge_album_title">Merge with a person</string>
   <string name="messagelist_sender_self">"自分"</string>
   <string name="micloud_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
+  <string name="more">More</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
   <string name="more_face_album_name">More people</string>
@@ -668,6 +688,7 @@ Take more photos of your friends!"</string>
   <string name="operation_edit_video">"編集"</string>
   <string name="operation_enable_auto_upload">"Mi Cloudとの同期をオンにする"</string>
   <string name="operation_failed">"操作を完了できませんでした"</string>
+  <string name="operation_favorites">お気に入り</string>
   <string name="operation_force_top">"ピン留めを設定"</string>
   <string name="operation_hide">"非表示にする"</string>
   <string name="operation_in_process">"処理中…"</string>
@@ -882,6 +903,7 @@ Take more photos of your friends!"</string>
   <string name="remove_from_secret_successful">Removed from hidden album</string>
   <string name="remove_to_album_title">Merge with</string>
   <string name="remove_to_other_album">Merge with a different person</string>
+  <string name="removed_from_favorites_desc">お気に入りから削除しました</string>
   <string name="remover_edit_type_free">Objects</string>
   <string name="remover_edit_type_line">Lines</string>
   <string name="remover_erase_aera_too_big">"消去する領域が大きすぎます"</string>
@@ -890,6 +912,8 @@ Take more photos of your friends!"</string>
   <string name="rename_album">"アルバム名を変更"</string>
   <string name="rename_album_failed">"名前を変更できません"</string>
   <string name="rename_album_succeeded">"名前が変更されました"</string>
+  <string name="rename_dialog_hint">タイトルを入力</string>
+  <string name="rename_dialog_title">ストーリーの名前を変更</string>
   <string name="rename_face_album">"名前を変更"</string>
   <string name="rename_fail_msg">"名前を変更できません"</string>
   <string name="rename_from_contact">Name from contacts</string>
@@ -1049,6 +1073,14 @@ Take more photos of your friends!"</string>
   <string name="storage_description_usb">"USBストレージ"</string>
   <string name="storage_description_xspace">"デュアルアプリのデータ"</string>
   <string name="storage_no_space">"空きスペースがありません"</string>
+  <string name="story_action_remove">ストーリーから削除</string>
+  <string name="story_action_share">共有</string>
+  <string name="story_option_menu_rename">名前を変更</string>
+  <string name="story_remove_confirm_message">"Removed photos won't appear in this story again. You'll still be able to find them in Gallery."</string>
+  <string name="story_remove_confirm_positive">削除</string>
+  <string name="story_remove_confirm_title">写真を削除する</string>
+  <string name="story_rename_invalid_char">"Can't use \"%s\" in the title of the story. Use letters, digits, and Chinese characters."</string>
+  <string name="story_rename_invalid_prefix">"Can't start story titles with \".\" or \"_\""</string>
   <string name="sub_discard_confirm_message">"変更を保存しますか？"</string>
   <string name="sub_discard_negative_btn">"破棄"</string>
   <string name="sub_discard_positive_btn">"保存"</string>

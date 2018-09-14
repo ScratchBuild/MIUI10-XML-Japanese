@@ -120,10 +120,10 @@
   <string name="count_down">Countdown: %1$s</string>
   <string name="create_shortcut_success">"ショートカットを追加しました"</string>
   <string name="daily_clockin">"チェックイン"</string>
-  <string name="data_consumption_cancel">"終了"</string>
+  <string name="data_consumption_cancel">"同意しない"</string>
   <string name="data_consumption_checkbox_hint">"二度と表示しない"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">"このアプリが正常に動作するには、インターネットへの接続が必要です。"</string>
+  <string name="data_consumption_message">"File Managerが正常に動作するには、ネットワークへの接続が必要です。同意しますか？"</string>
   <string name="data_consumption_message1">"File Managerが正常に動作するには、Wi-Fiを使用してインターネットへの接続が必要です。"</string>
   <string name="data_consumption_title">"インターネット接続"</string>
   <string name="decompress_cancel">"キャンセル"</string>
