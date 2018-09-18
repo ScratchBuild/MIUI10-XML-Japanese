@@ -152,6 +152,8 @@
   <string name="switch_brand_desc_tv">Security services provided by Spaces Mobile</string>
   <string name="switch_desc_tv">"二つのスペースを。一つの端末で。"</string>
   <string name="switching_tv">"切り替え中…"</string>
+  <string name="talk_back_water_mark_string1">TalkBackはオンです</string>
+  <string name="talk_back_water_mark_string2">オフにするには 音量大ボタン と 音量小ボタン を3秒間押し続ける</string>
   <string name="total_description">"アラーム以外のすべてのアイテムについて消音とバイブレーションをオフにする"</string>
   <string name="total_title">DND</string>
   <string name="translation_more">"その他"</string>

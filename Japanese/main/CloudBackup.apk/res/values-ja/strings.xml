@@ -93,7 +93,6 @@
   <string name="desktop_wait_wifi">待機中</string>
   <string name="desktop_waiting">待機中</string>
   <string name="device_delete_prompt">%sのバックアップを削除しますか？</string>
-  <string name="device_xiaomi">Mi Phone</string>
   <string name="dialog_btn_next">次へ</string>
   <string name="dialog_btn_restore_skip">後で復元</string>
   <string name="dialog_cancel_backup_cancel">キャンセル</string>
@@ -110,9 +109,11 @@
   <string name="download_meta_failed">データを読み込めませんでした。</string>
   <string name="download_settings">ホーム画面の設定をダウンロード中 %s%%</string>
   <string name="download_settings_fail">ホーム画面の設定をダウンロードできませんでした</string>
+  <string name="error_retry_later">失敗しました。もう一度お試しください。</string>
   <string name="error_unknown">"不明なエラー"</string>
   <string name="get_device_id_error">デバイスIDを取得できませんでした</string>
   <string name="home_hint_global_launcher">Poco Home screen</string>
+  <string name="home_hint_other_launcher">Other Home screen</string>
   <string name="home_restore_error">ホーム画面を復元できませんでした</string>
   <string name="lack_of_storage">ストレージの空き領域が不足しています</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
@@ -124,7 +125,6 @@
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">アイテムを復元中です、今すぐ停止しますか？</string>
   <string name="msg_alert_restore_error">Mi Cloudからアイテムを復元できませんでした。もう一度お試しください。</string>
-  <string name="name_model">"%1$sの%2$s"</string>
   <string name="network_error">ネットワークに接続</string>
   <string name="no_account">Mi Accountにログインしていません。</string>
   <string name="no_backup">Mi Cloudにバックアップはありません。</string>
@@ -171,5 +171,6 @@
   <string name="title_alert_restore_error">復元できませんでした</string>
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
+  <string name="unsupported_home">最新のOSにアップデートしてください。</string>
   <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
 </resources>

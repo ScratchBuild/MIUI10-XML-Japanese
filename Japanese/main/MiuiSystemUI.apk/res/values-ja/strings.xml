@@ -1577,7 +1577,6 @@ EEEE"</string>
   <string name="usb_debugging_title">USBデバッグを許可しますか？</string>
   <string name="usb_device_confirm_prompt">このUSBデバイスが接続された際に %1$s を開きますか？</string>
   <string name="usb_device_permission_prompt">アプリ %1$s のUSBデバイスアクセスを許可しますか？</string>
-  <string name="usb_function_charging_text">充電モードで接続</string>
   <string name="usb_mode_dont_ask">常にこの選択を使用</string>
   <string name="usb_mode_mount_storage_title">USBストレージを開きますか？</string>
   <string name="usb_mode_notification">USBストレージ</string>

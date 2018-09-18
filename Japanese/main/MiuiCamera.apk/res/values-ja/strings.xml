@@ -418,9 +418,9 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_google_lens">Googleレンズ</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>
-  <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720P videos with 240FPS</string>
-  <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
-  <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720p videos with 240fps</string>
+  <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+  <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
   <string name="pref_priority_storage_title">"SDカードへ保存"</string>
   <string name="pref_qc_focus_position_title">"フォーカス"</string>
   <string name="pref_retain_camera_mode_summary">Switch camera to the previously used mode when you open the app.</string>

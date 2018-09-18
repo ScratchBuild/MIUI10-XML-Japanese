@@ -63,7 +63,7 @@
   <string name="button_sure_abandon">"変更を破棄しますか？"</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">"ネットワーク接続を確認して、もう一度やり直してください。"</string>
-  <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's %1$s and %2$s. To help you get more accurate weather information, the weather will get your location information and deal with it, and it need to connect the network. Do you agree?"</string>
+  <string name="china_version_first_start_network_msg">"天気アプリを使用するには、Xiaomiの%1$sと%2$sに同意する必要があります。このアプリが正常に動作するには、位置情報へのアクセスとインターネットに接続する必要があります。同意しますか？"</string>
   <string name="city_exceeded_warning">"最大で10都市まで追加できます"</string>
   <string name="clear_net_mock_success">Net mockを正常に消去しました</string>
   <string name="common_loading_text">"読み込み中..."</string>
@@ -72,6 +72,8 @@
   <string name="content_desc_activity_main_add_city_manage">"都市を管理"</string>
   <string name="content_desc_activity_main_more_settings">"その他の設定"</string>
   <string name="content_desc_back_button">"戻る"</string>
+  <string name="content_desc_city_manage_del">削除</string>
+  <string name="content_desc_city_manage_edit">都市を管理</string>
   <string name="content_desc_close_button">"閉じる"</string>
   <string name="content_desc_edit_city_manage">"都市を管理"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>

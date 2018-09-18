@@ -41,7 +41,6 @@
   <string name="agenda_settings_credit">クレジットカードの請求書を表示</string>
   <string name="agenda_settings_elecbill">電気とガスの請求書を表示</string>
   <string name="agenda_settings_loan">ローン返済の情報を表示</string>
-  <string name="agree">同意</string>
   <string name="alipay_LoginPassword">パスワードを入力してください</string>
   <string name="alipay_account">アカウント</string>
   <string name="alipay_agree">同意する</string>
@@ -1171,7 +1170,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="open_bluetooth">开启</string>
   <string name="open_bluetooth_now">蓝牙开启中...</string>
   <string name="open_bluetooth_tips">请开启蓝牙来允许\"手环\"连接到配件</string>
-  <string name="open_installed_app">開く</string>
   <string name="opened">On</string>
   <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_parent">Alipay</string>
@@ -1306,8 +1304,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="select_team_close">閉じる</string>
   <string name="select_team_confirm">送信</string>
   <string name="send_action_title">お気に入りに追加</string>
-  <string name="send_shortcut_failed">送信できませんでした</string>
-  <string name="send_shortcut_success">ホーム画面に設置しました</string>
   <string name="service_unavailiable">ネットワーク接続を確認して、もう一度お試しください</string>
   <string name="setting_address">Add frequent places</string>
   <string name="setting_authorization_canceled_dialog_cancel">キャンセル</string>
@@ -1523,7 +1519,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="upgrade_now_bottom">今すぐインストール</string>
   <string name="uploads_disabled">ファイルをアップロードできません</string>
   <string name="user_id">User ID: %s</string>
-  <string name="user_notice_title">注意</string>
   <string name="vr_pay_not_support">本次已创建的订单不支持VR支付，建议稍后进入订单列表支付。</string>
   <string name="walk">徒歩</string>
   <string name="weibo_name">New post</string>
@@ -1549,6 +1544,5 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="xspace_resolver_activity_title">アプリを選択</string>
   <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
   <string name="year_month_day_format">yyyy/MM/dd</string>
-  <string name="yellow_page_website">公式ウェブサイト</string>
   <string name="yesterday">昨日</string>
 </resources>

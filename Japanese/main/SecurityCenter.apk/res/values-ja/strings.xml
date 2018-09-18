@@ -482,8 +482,10 @@
   <string name="card_main_deepclean_wechat_action">"消去"</string>
   <string name="card_main_deepclean_wechat_summary">"空き領域を確保するためWeChatのキャッシュを消去する"</string>
   <string name="card_main_deepclean_wechat_title">"WeChatのキャッシュ"</string>
+  <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
   <string name="card_main_gamebooster_summary">"ゲームプレイ中の接続安定性を高めます"</string>
   <string name="card_main_gamebooster_title">Game speed booster</string>
+  <string name="card_main_hwtest_title">ハードウェア テスト</string>
   <string name="card_main_monthreport_action">"表示"</string>
   <string name="card_main_netcheck_action">"テスト"</string>
   <string name="card_main_netcheck_summary">"ネットワーク接続の問題をテストする"</string>
@@ -1710,7 +1712,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="read_all_sms">"すべてを既読にする"</string>
   <string name="receive_now">Receive</string>
   <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
-  <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
+  <string name="recently_reject_message_one">Rejected %1$s installation request</string>
   <string name="recommend_news">"おすすめの受信"</string>
   <string name="recommended">"おすすめ"</string>
   <string name="reject_all">Restrict all</string>
