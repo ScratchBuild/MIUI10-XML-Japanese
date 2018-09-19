@@ -8,7 +8,6 @@
   <string name="close_panel">"Quick ballを閉じる"</string>
   <string name="customize_entries">"ショートカットを選択"</string>
   <string name="enable_touch_assistant">"Quick ballを開く"</string>
-  <string name="enabled_for_pad_hint">Work when \"Block navigation buttons in landscape\" is turned on</string>
   <string name="function_settings">"ショートカットの設定"</string>
   <string name="handy_mode_default_to_close_whether_open">"片手モードはデフォルトでオフです。片手モードをオンにしますか？"</string>
   <string name="hide_touch_assistant">"自動的に非表示"</string>
