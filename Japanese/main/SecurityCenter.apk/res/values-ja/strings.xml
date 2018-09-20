@@ -501,18 +501,10 @@
   <string name="card_main_xspace_action">"作成"</string>
   <string name="card_main_xspace_summary">"任意のアプリのデュアルアプリを作成する"</string>
   <string name="card_main_xspace_title">"デュアルアプリ"</string>
-  <string name="card_sms_report">Report via SMS</string>
   <string name="card_tc_failed">"Couldn't calibrate"</string>
-  <string name="card_tc_failed_content">"Possible reasons:
- 1. Carriers respond slower at the beginning and at the end of a month. Try again in a couple of days.
- 2. A network request template is required when you calibrate for the first time. Connect to the network and try again.
- 3. Your carrier may not support sending text messages with the remaining data and phone balance. Contact your carrier to learn more.
- 4. There may be an error in the carrier data. Try carrier diagnostics to solve this.
- 5. Nothing seems to help? Tap \"Report via SMS\" to send your feedback to Xiaomi in a text message."</string>
   <string name="charging_text_battery_full_time">"充電開始から "</string>
   <string name="charging_text_battery_nearly_full">"ほぼ充電完了"</string>
   <string name="charging_text_battery_perfect">"充電完了"</string>
-  <string name="check_network_state">"ネットワーク診断"</string>
   <string name="choose">"選択"</string>
   <string name="clean_immediately">"消去"</string>
   <string name="cleaned">"消去しました"</string>
@@ -1038,7 +1030,6 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="label_callwait">Call waiting notification</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
-  <string name="later">"後で"</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Legal workdays</string>
   <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
@@ -1127,12 +1118,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="main_tobe_added_desc">Mobile data from ¥0.03/MB</string>
   <string name="main_today_used">Used today</string>
   <string name="main_toolbar_firewall">"データ使用量の制限"</string>
-  <string name="main_toolbar_internet_by_mobiledata">"モバイルデータ"</string>
-  <string name="main_toolbar_internet_by_pc_brige">"USBテザリング"</string>
-  <string name="main_toolbar_internet_by_wifi">"Wi-Fi"</string>
   <string name="main_toolbar_purchase">"チャージ"</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
-  <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">"自動起動するアプリを手動で追加"</string>
   <string name="manage_hybrid_permissions">"アプリのアクセス許可を管理"</string>
   <string name="managed_user_title">すべての仕事用アプリ</string>
@@ -1421,7 +1408,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="open_game">"開く"</string>
   <string name="open_now">"モバイルデータの使用をアプリに許可"</string>
   <string name="operator_diagnostic">"キャリア診断"</string>
-  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -2012,7 +1998,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="status_bar_network_flow_phone_balance">"   通話残高:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   購入 >"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   データプランを設定 >"</string>
-  <string name="status_bar_network_flow_today">今日: %1$s</string>
   <string name="still_retain_btn">Keep</string>
   <string name="suggest_app_tolock">Suggestions</string>
   <string name="suggest_app_tolock_masked">"非表示にする"</string>
@@ -2301,7 +2286,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_setting_fragment_button2_text">"保存"</string>
   <string name="traffic_setting_fragment_city">"都市"</string>
   <string name="traffic_setting_fragment_default">"選択してください"</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"二度と表示しない"</string>
   <string name="traffic_setting_fragment_operator">"キャリア"</string>
   <string name="traffic_setting_fragment_operator_setting">"キャリア設定"</string>
