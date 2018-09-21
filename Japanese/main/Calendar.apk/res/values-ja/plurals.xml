@@ -99,6 +99,10 @@
         <item quantity="other">%d営業日</item>
         <item quantity="one">%d営業日</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">通知は%d個まで設定できます</item>
+        <item quantity="one">通知は%d個まで設定できます</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">"%1$d日後"</item>
         <item quantity="one">"%1$d日後"</item>
