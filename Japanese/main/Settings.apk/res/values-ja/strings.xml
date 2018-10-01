@@ -4070,8 +4070,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
   <string name="security_encryption_rejected_via_home_manager">この機能はデモ版ではサポートされていません。</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
-  <string name="security_input">Security input</string>
-  <string name="security_input_hint">Using security keyboard enter password</string>
   <string name="security_input">セキュアキーボード</string>
   <string name="security_input_hint">パスワードの入力時にセキュアキーボードを使用する</string>
   <string name="security_keyguard_category_name">画面ロック</string>
