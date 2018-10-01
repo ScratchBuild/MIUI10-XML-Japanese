@@ -17,6 +17,11 @@
         <item>"縦向き表示"</item>
         <item>"横向き表示"</item>
     </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>常に確認</item>
+        <item>開く</item>
+        <item>閉じる</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>"最小"</item>
         <item>"小"</item>
@@ -86,10 +91,5 @@
         <item>None</item>
         <item>Rain</item>
         <item>Snow</item>
-    </string-array>
-    <string-array name="pref_tab_restore_array">
-        <item>常に確認</item>
-        <item>開く</item>
-        <item>閉じる</item>
     </string-array>
 </resources>

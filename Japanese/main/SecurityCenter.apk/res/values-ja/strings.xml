@@ -1232,8 +1232,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
-  <string name="midrop_post_notification_contentText">"Try Mi Drop. It's fast and ad-free."</string>
-  <string name="midrop_post_notification_contentTitle">Need to transfer files?</string>
+  <string name="midrop_post_notification_contentText">Try out Mi drop, with transfer speed upto 50M/s.</string>
+  <string name="midrop_post_notification_contentTitle">Files share?</string>
   <string name="mixed_need_to_confirm">Enter again to confirm</string>
   <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>

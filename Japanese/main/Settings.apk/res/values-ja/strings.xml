@@ -1827,6 +1827,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_manage_tittle">指紋</string>
   <string name="fingerprint_not_identified_msg">指紋を読み取れませんでした、パスワードを入力してください</string>
   <string name="fingerprint_not_recognized">認識されませんでした</string>
+  <string name="fingerprint_others_title">その他</string>
   <string name="fingerprint_payment">Fingerprint payments</string>
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
   <string name="fingerprint_swipe_for_notifications_summary">通知を確認するには、スマートフォンの背面にある指紋認証センサーを下にスワイプします。</string>
@@ -2008,6 +2009,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_add_fingerprint_put_finger_message">画面を押して振動を感じたら指を離します。数回繰り返してください。</string>
   <string name="gxzw_add_fingerprint_put_finger_title">押して振動後に持ち上げる</string>
   <string name="gxzw_add_fingerprint_title">指紋を追加</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Pulse</string>
+  <string name="gxzw_anim_rhythm">Rhythm</string>
+  <string name="gxzw_anim_title">Fingerprint animation</string>
   <string name="handy_mode">片手操作モード</string>
   <string name="handy_mode_enable">片手操作モード</string>
   <string name="handy_mode_size">画面サイズ</string>
@@ -2426,7 +2432,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_choose_your_pattern_header">パターンを設定</string>
   <string name="lockpassword_choose_your_pin_header">PINを設定</string>
   <string name="lockpassword_choose_your_pin_header_second_space">Second space用のPINを設定する</string>
-  <string name="lockpassword_choose_your_pin_title">4～16桁を入力</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">%d～%d桁を入力</string>
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
   <string name="lockpassword_confirm_passwords_dont_match">パスワードが一致しません</string>
   <string name="lockpassword_confirm_pins_dont_match">PINが一致しません</string>
@@ -2675,6 +2681,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="menu_use_uss">Ussを使用</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
+  <string name="mi_service">Mi Service</string>
   <string name="mi_service_app_detail">データ使用量の詳細</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_upi_settings">Mi Pay Account</string>
@@ -4063,6 +4070,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_encryption_progress_dialog_open">暗号化しています…</string>
   <string name="security_encryption_rejected_via_home_manager">この機能はデモ版ではサポートされていません。</string>
   <string name="security_encryption_title">ロック画面のパスワードを使用して暗号化デバイス</string>
+  <string name="security_input">Security input</string>
+  <string name="security_input_hint">Using security keyboard enter password</string>
   <string name="security_input">セキュアキーボード</string>
   <string name="security_input_hint">パスワードの入力時にセキュアキーボードを使用する</string>
   <string name="security_keyguard_category_name">画面ロック</string>
@@ -4895,7 +4904,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="unlock_set_unlock_password_title">パスワード</string>
   <string name="unlock_set_unlock_pattern_summary">端末のロックを解除するには指で簡単なパターンを入力する</string>
   <string name="unlock_set_unlock_pattern_title">パターン</string>
-  <string name="unlock_set_unlock_pin_summary">端末のロックを解除するには4～16桁の数字を入力する</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">端末のロックを解除するには%d～%d桁の数字を入力する</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">画面ロックを設定します</string>
   <string name="unlock_setup_wizard_fingerprint_details">画面ロックの設定を完了したら、[設定]&gt;[セキュリティ]で指紋を追加することもできます。</string>

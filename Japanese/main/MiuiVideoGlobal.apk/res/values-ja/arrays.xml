@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_streaming_quality">
+        <item>自動</item>
+        <item>低画質</item>
+        <item>標準</item>
+        <item>高画質</item>
+        <item>超号画質</item>
+    </string-array>
+</resources>

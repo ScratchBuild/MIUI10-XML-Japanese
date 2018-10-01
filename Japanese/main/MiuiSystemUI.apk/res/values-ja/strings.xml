@@ -448,7 +448,7 @@
   <string name="dock_forced_resizable">アプリは分割画面では動作しないことがあります。</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">分割画面はロック画面上ではサポートされていません。</string>
   <string name="dock_non_resizeble_failed_to_dock_text">アプリは分割画面をサポートしていません。</string>
-  <string name="drag_to_add_tiles">タイルを追加するにはドラッグしてください</string>
+  <string name="drag_to_add_tiles">アイテムを追加または並べ替えるには長押し</string>
   <string name="drag_to_remove_tiles">削除するにはここにドラッグ</string>
   <string name="drive_mode_tip">運転モードはオンです</string>
   <string name="drive_mode_tip_idle">運転モードはオンです</string>
@@ -1223,6 +1223,7 @@
   <string name="quick_settings_sync_label">同期</string>
   <string name="quick_settings_tethering_label">テザリング</string>
   <string name="quick_settings_time_label">時間</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">アイテムを追加するには、アイテムを長押ししたままパネルの上部にドラッグします。</string>
   <string name="quick_settings_user_label">このユーザー</string>
   <string name="quick_settings_user_new_user">新しいユーザー</string>
   <string name="quick_settings_user_title">ユーザー</string>
@@ -1250,7 +1251,7 @@
   <string name="recents_accessibility_split_screen_top">画面を上に分割</string>
   <string name="recents_app_info_button_label">アプリ情報</string>
   <string name="recents_caption_resize">新しいタスクレイアウトの選択</string>
-  <string name="recents_drag_hint_message">分割画面を使用するにはここにドラッグします</string>
+  <string name="recents_drag_hint_message">アプリを長押しして、ここにドラッグします。</string>
   <string name="recents_empty_message">最近のタスクはありません</string>
   <string name="recents_empty_message_dismissed_all">すべてのタスクを消去しました</string>
   <string name="recents_empty_message_multi_window">ホーム画面からアプリを開く</string>
