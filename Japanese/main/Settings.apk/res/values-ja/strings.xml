@@ -1004,6 +1004,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="checking_decryption">確認しています…</string>
   <string name="checking_find_device_status">Find deviceのステータスを確認します</string>
   <string name="checking_for_updates">アップデートをチェック中…</string>
+  <string name="child_mode_settings">ペアレンタルコントロール</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_a_card_to_reset">リセットするにはSIMカードを選択</string>
   <string name="choose_profile">プロファイルの選択</string>
@@ -1217,6 +1218,9 @@ This feature can be turned off in [Settings]"</string>
   <string name="daltonizer_mode_tritanomaly">第三色弱（青黄）</string>
   <string name="daltonizer_type">補正モード</string>
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
+  <string name="dangerous_option">High-risk developer options</string>
+  <string name="dangerous_option_hint">%1$s is enabled. Tap to change settings.</string>
+  <string name="dangerous_option_hint_title">High-risk feature enabled</string>
   <string name="dashboard_title">設定</string>
   <string name="data_limit">データ上限</string>
   <string name="data_saver_off">OFF</string>
@@ -2014,6 +2018,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
   <string name="gxzw_anim_title">Fingerprint animation</string>
+  <string name="gxzw_dialog_message">"To be able to use in-screen fingerprint sensor normally, don't use screen protectors. If you think that a screen protector is still necessary, choose among authorized compatible options."</string>
+  <string name="gxzw_dialog_not_show_again">次回から表示しない</string>
+  <string name="gxzw_dialog_ok">OK</string>
+  <string name="gxzw_dialog_title">About in-screen fingerprint sensor</string>
   <string name="handy_mode">片手操作モード</string>
   <string name="handy_mode_enable">片手操作モード</string>
   <string name="handy_mode_size">画面サイズ</string>
@@ -2715,6 +2723,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_super_resolution_desc">画像をより鮮明にする</string>
   <string name="miui_lab_super_resolution_title">超解像度</string>
   <string name="miui_master_clear_summary">端末のすべてのデータを消去します</string>
+  <string name="miui_optimization_disabled">MIUIの最適化をオフにする</string>
   <string name="miui_sos_audio_summary">緊急連絡先をピックアップした後にSOSメッセージを再生する</string>
   <string name="miui_sos_audio_title">SOS音声メッセージ</string>
   <string name="miui_sos_call_log_duration">通話時間</string>
@@ -4632,6 +4641,7 @@ PINが正しくない可能性があります。"</string>
   <string name="suw_back_button_label">戻る</string>
   <string name="suw_more_button_label">その他</string>
   <string name="suw_next_button_label">次へ</string>
+  <string name="switch_access_service_on">アクセスの切り替え</string>
   <string name="switch_off_text">OFF</string>
   <string name="switch_on_text">ON</string>
   <string name="switch_screen_button_order">ボタンの入れ替え</string>

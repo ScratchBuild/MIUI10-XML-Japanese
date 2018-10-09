@@ -161,6 +161,7 @@
   <string name="add_account_keywords">"アカウントを追加;メールアカウントを追加"</string>
   <string name="add_attachment">"添付ファイルを追加"</string>
   <string name="add_calendar">Remind</string>
+  <string name="add_file_exception">Add exception. Please try adding from other paths.</string>
   <string name="add_label">"フォルダを追加"</string>
   <string name="add_pre_message_attachments">"下書きに添付ファイルを追加しますか？"</string>
   <string name="add_pre_message_attachments_no">"追加しない"</string>

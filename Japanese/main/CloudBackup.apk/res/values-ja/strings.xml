@@ -48,10 +48,10 @@
   <string name="cloud_app_restore_wifi_prompt">Mi Cloudバックアップから復元する。</string>
   <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
   <string name="cloud_back_up_detail_discription">"お使いのデバイスがWi-Fiに接続されている時、以下のアイテムがMi Cloudにバックアップされます: 
-*\u0009\u0009\u0009\u0009アプリ、ホーム画面のレイアウト、壁紙 
-*\u0009\u0009\u0009\u0009アラーム、時計と時刻設定 
-*\u0009\u0009\u0009\u0009通知設定 
-*\u0009\u0009\u0009\u0009MIUIとシステム設定 
+*  アプリ、ホーム画面のレイアウト、壁紙
+*  アラーム、時計と時刻設定
+*  通知設定
+*  MIUIとシステム設定
 注意: インストールしたアプリのデータはMi Cloudにバックアップされません。"</string>
   <string name="cloud_back_up_frequence_choice_title">"バックアップのスケジュール"</string>
   <string name="cloud_back_up_frequence_long">7日毎</string>
@@ -117,6 +117,9 @@
   <string name="home_restore_error">ホーム画面を復元できませんでした</string>
   <string name="lack_of_storage">ストレージの空き領域が不足しています</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
+  <string name="load_backup_failed">バックアップの読み込みに失敗しました</string>
+  <string name="loading_user_backup">ユーザーバックアップを読み込み中…</string>
+  <string name="main_space">Main space</string>
   <string name="managespace_delete_backup">削除</string>
   <string name="menu_item_managespace">spaceの管理</string>
   <string name="menu_item_sort">"並べ替え"</string>
@@ -160,8 +163,8 @@
   <string name="restore_task_in_process">復元中…</string>
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
   <string name="retry">再試行</string>
-  <string name="self_phone">"この端末"</string>
-  <string name="self_phone_home">この端末: %s</string>
+  <string name="second_space">Second space</string>
+  <string name="self_device">"この端末: "</string>
   <string name="settings_backup">システム設定</string>
   <string name="size_unknown">不明なサイズ</string>
   <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
@@ -171,6 +174,7 @@
   <string name="title_alert_restore_error">復元できませんでした</string>
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
+  <string name="try_continue">続行するにはタップ</string>
   <string name="unsupported_home">最新のOSにアップデートしてください。</string>
   <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
 </resources>

@@ -844,9 +844,11 @@
   <string name="local_backup_password_toast_confirmation_mismatch">パスワードが一致しません。</string>
   <string name="local_backup_password_toast_success">新しいバックアップパスワードが設定されました</string>
   <string name="local_backup_password_toast_validation_failure">バックアップパスワードの設定に失敗しました</string>
+  <string name="lock_screen_carrier_airplane_mode_on">機内モード</string>
   <string name="lock_screen_date">M月d日 EEEE</string>
   <string name="lock_screen_date_12">M月d日 EEEE</string>
-  <string name="lock_screen_no_sim_card">SIMカードなし</string>
+  <string name="lock_screen_no_sim_card_emergency_only">緊急通報のみ</string>
+  <string name="lock_screen_no_sim_card_no_service">サービスなし</string>
   <string name="lock_wallpaper_enter">Enter</string>
   <string name="lock_wallpaper_learn_more">"その他"</string>
   <string name="lockscreen_access_pattern_area">Pattern area.</string>
@@ -1501,6 +1503,7 @@ EEEE"</string>
   <string name="torch_activity_hint">ロック画面で[icon]を長押しするとライトを点灯します</string>
   <string name="torch_activity_name">ライト</string>
   <string name="torch_closed">ライトをオフ</string>
+  <string name="torch_high_temperature_warning">お使いの端末が過熱状態です。ライトを使用できません。</string>
   <string name="torch_opened">ライトをオン</string>
   <string name="track_frame_time">GPUレンダリングのプロファイル作成</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
