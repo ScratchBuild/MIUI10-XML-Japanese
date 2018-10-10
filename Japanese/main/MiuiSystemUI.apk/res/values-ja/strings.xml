@@ -1364,6 +1364,7 @@
   <string name="snooze_option_30_min">30分</string>
   <string name="snooze_undo">元に戻す</string>
   <string name="snoozed_for_time">スヌーズ: %1$s</string>
+  <string name="sos_status_bar_summary">終了するにはタップ</string>
   <string name="speed_bump_explanation">緊急度の低い通知を下に表示</string>
   <string name="ssl_ca_cert_warning">"ネットワークが監視される
 場合があります"</string>
