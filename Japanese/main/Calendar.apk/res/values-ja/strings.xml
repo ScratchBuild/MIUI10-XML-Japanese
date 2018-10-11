@@ -4,19 +4,13 @@
   <string name="accessibility_all_day">"終日"</string>
   <string name="accessibility_pick_start_date">"開始日"</string>
   <string name="accessibility_pick_time_zone">"タイムゾーン"</string>
-  <string name="accessibility_reminder_time">"通知の時間"</string>
   <string name="accessibility_remove_attendee">"参加者を削除"</string>
   <string name="accessibility_repeats">"頻度"</string>
   <string name="accessibility_sync_cal">"カレンダーを同期"</string>
   <string name="account_and_calendar">"アカウント"</string>
-  <string name="accounts">"アカウントと同期"</string>
-  <string name="acct_not_synced">"このアカウントは同期されていないため、カレンダーが最新ではない可能性があります。"</string>
-  <string name="acessibility_selected_marker_description">"選択した予定"</string>
   <string name="action_bar_date_button_title">"日付を計算"</string>
-  <string name="action_bar_more_menu_view_description">"その他"</string>
   <string name="action_bar_return">"戻る"</string>
   <string name="action_text_card_manager">"チャンネル"</string>
-  <string name="action_text_today">"今日"</string>
   <string name="ad_card_connecting">"接続中"</string>
   <string name="ad_card_download_count">"%1$s人がダウンロード"</string>
   <string name="ad_card_download_count_million">"%1$s万人がダウンロード"</string>
@@ -33,10 +27,8 @@
   <string name="add_event">"予定を追加"</string>
   <string name="address">"住所"</string>
   <string name="agenda_month_empty_hint">"今日の予定はありません"</string>
-  <string name="agenda_today">"今日: %1$s"</string>
   <string name="agenda_tomorrow">"明日: %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
-  <string name="agenda_yesterday">"昨日: %1$s"</string>
   <string name="alarm_label">"閉じる"</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>
@@ -62,12 +54,6 @@
   <string name="birthday_term">"誕生日"</string>
   <string name="book_card_free">"無料"</string>
   <string name="book_card_rating_text">"|   %1$s 評価"</string>
-  <string name="button_day">"日"</string>
-  <string name="button_month">"月"</string>
-  <string name="button_week">"週"</string>
-  <string name="calculate_result">"結果"</string>
-  <string name="calendar_network_error">"ネットワークエラー"</string>
-  <string name="calendar_refresh">"更新"</string>
   <string name="can_not_create_long_event">"予定の名前が長すぎます"</string>
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
@@ -78,7 +64,6 @@
   <string name="card_detail_dialog_title">"購読を行いますか？"</string>
   <string name="card_detail_hint">"購読後、コンテンツは毎日更新されホームページに表示されます"</string>
   <string name="card_detail_title">"購読の詳細"</string>
-  <string name="card_manager">"購読の管理"</string>
   <string name="card_manager_no_data">"購読しているカードはありません :)"</string>
   <string name="card_title_change">"その他"</string>
   <string name="change_response_title">"出欠状況を変更"</string>
@@ -131,10 +116,8 @@
   <string name="date_time_fmt" formatted="false">%sの%s</string>
   <string name="date_today">" (今日)"</string>
   <string name="day_view_new_event_hint">"+予定を追加"</string>
-  <string name="delete_calendar">"購読解除"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
-  <string name="deleting_calendar">"解除中…"</string>
   <string name="description_calendar">"システムアプリ/カレンダー"</string>
   <string name="description_calendar_edit_event">"システムアプリ/カレンダー/予定"</string>
   <string name="directory_searching_fmt">"%sを検索中…"</string>
@@ -142,8 +125,6 @@
   <string name="does_not_repeat">"繰り返しなし"</string>
   <string name="done">"戻る"</string>
   <string name="download">"ダウンロード"</string>
-  <string name="download_finished">"ダウンロード完了"</string>
-  <string name="downloaded">"ダウンロード済み"</string>
   <string name="downloading">"ダウンロード中"</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
   <string name="edit_date_calculate_days_empty_hint">"日数を入力してください"</string>
@@ -154,8 +135,6 @@
   <string name="edit_event_birthday_import_from_contact">"連絡先から誕生日をインポート"</string>
   <string name="edit_event_birthday_name_empty_hint">"名前を入力"</string>
   <string name="edit_event_birthday_name_hint">"名前"</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
-  <string name="edit_event_birthday_reminder_time">"通知の時間"</string>
   <string name="edit_event_calendar_label">"カレンダー"</string>
   <string name="edit_event_choose_date">"日付を選択"</string>
   <string name="edit_event_confirm_message">"変更を破棄しますか？"</string>
@@ -208,7 +187,6 @@
   <string name="event_view">"予定を表示"</string>
   <string name="every_weekday">"平日（月～金）"</string>
   <string name="festival_detail_title">Festival</string>
-  <string name="force_touch_title_add_new_event">"新しい予定を追加"</string>
   <string name="free_day_default_banner_title">"良い休暇をお楽しみください！"</string>
   <string name="from_google_group_calendar">"Googleカレンダー"</string>
   <string name="gadget_no_events">"近日中の予定はありません"</string>
@@ -277,7 +255,6 @@
   <string name="limit_setting_label">车辆限行提醒设置</string>
   <string name="limit_setting_tips">开启并设置提醒后，你的爱车当天限行时你会收到日历的限行提醒。非数字尾号设置说明：%1$s</string>
   <string name="limit_setting_tips_url">"タップして表示"</string>
-  <string name="limit_tips_bar_title">点击设置限行通知提醒，爱车限行早知道</string>
   <string name="limit_today">"今日"</string>
   <string name="limit_tomorrow">"明日"</string>
   <string name="live_text">"ライブ"</string>
@@ -290,11 +267,9 @@
   <string name="login_failed_toast">"ログインできませんでした、更新してもう一度お試しください"</string>
   <string name="lunar_date">Lunar date</string>
   <string name="match_ed">"終了済"</string>
-  <string name="match_ing">"進行中"</string>
   <string name="match_not_started">"開始前"</string>
   <string name="match_select_activity_label">Select matches</string>
   <string name="menu_general_preferences">"全般設定"</string>
-  <string name="menu_preferences">"設定"</string>
   <string name="menu_reminder_preferences">"通知の設定"</string>
   <string name="missing_name">(No name)</string>
   <string name="missing_required_permission">"必要なアクセス許可が制限されています。"</string>
@@ -339,8 +314,6 @@
   <string name="movie_event_title">"映画："</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="new_event_description">"新規"</string>
-  <string name="new_event_dialog_label">"新しい予定"</string>
-  <string name="new_event_dialog_option">"新しい予定"</string>
   <string name="no_contact_birthday_hint">"インポートする誕生日がありません"</string>
   <string name="no_events_hint">"予定はありません"</string>
   <string name="no_network">"ネットワークに接続できません"</string>
@@ -349,13 +322,11 @@
   <string name="no_visiable_calendar_message">"カレンダーのアカウントを追加する必要があります。続行するには[アカウントの選択]をタップします。"</string>
   <string name="no_visiable_calendar_select_account">"アカウントを追加"</string>
   <string name="no_visiable_calendar_title">"カレンダーアカウントを追加"</string>
-  <string name="not_synced">"未同期"</string>
   <string name="online_reminder_header_text">"通知"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
   <string name="phone_num">"電話番号"</string>
   <string name="prefDialogTitle_vibrateWhen">"バイブレーション"</string>
-  <string name="pref_error_no_ringtone_select">"デフォルトの通知音"</string>
   <string name="pref_reminder_time">"通知の時間"</string>
   <string name="pref_title_alarm_remind">"アラーム通知"</string>
   <string name="pref_title_no_remind">"通知なし"</string>
@@ -377,7 +348,6 @@
   <string name="preferences_use_home_tz_title">"自宅のタイムゾーン"</string>
   <string name="preferences_week_start_day_dialog">"週の開始日"</string>
   <string name="preferences_week_start_day_title">"週の開始日"</string>
-  <string name="provided_ad">"スポンサー"</string>
   <string name="pull_to_refresh_hint">Pull to load events from %1$d</string>
   <string name="receive_net_mock_success">Net mock receive success</string>
   <string name="recommend_card_add">"今すぐ購読"</string>
@@ -416,12 +386,10 @@
   <string name="rest_day_indication">: )</string>
   <string name="saving_event">"予定を保存しました"</string>
   <string name="saving_event_with_guest">"更新を送信中…"</string>
-  <string name="search">"検索"</string>
   <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;予定;ミーティング;リマインダー;休暇;祝日;誕生日;2017;2018;Spring Festival;New Year's Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">ミーティング;リマインダー;予定</string>
   <string name="search_calendar_settings">カレンダー;予定;リマインダー</string>
   <string name="select_date">"日付を選択"</string>
-  <string name="select_synced_calendars_title">"カレンダーと同期"</string>
   <string name="setting_about_calendar_version">カレンダーバージョン:</string>
   <string name="setting_about_miui_version">MIUIバージョン:</string>
   <string name="setting_about_summary">バージョン:</string>
@@ -445,11 +413,8 @@
   <string name="subscribe_card_success">"正常に購読されました。詳細はホームページで確認してください。"</string>
   <string name="subscribe_card_success_for_homepage">"「%1$s」の購読に成功しました"</string>
   <string name="subscribe_channel_bottom_hint">—— Xiaomiカレンダー ——</string>
-  <string name="subscribe_channel_click_hint">"購読が必要です"</string>
-  <string name="subscribe_channel_footer_button">"購読の管理"</string>
   <string name="subscribe_channel_footer_desc">"登録した内容を表示、または購読を解除するための管理画面を開く"</string>
   <string name="subscribe_channel_footer_title">"購読済み"</string>
-  <string name="subscribe_channel_footer_view">"確認"</string>
   <string name="subscribe_channel_hint">"Subscribe to the services you like and receive daily updates on your home page.
 You can also add reminders so you don't miss anything important."</string>
   <string name="subscribe_channel_subscribe">"購読"</string>
@@ -457,7 +422,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="subscribe_channel_title">"チャンネル"</string>
   <string name="subscribing_card">"購読中"</string>
   <string name="swipe_up_guide_hint_text">"詳細を確認するには上にスワイプ"</string>
-  <string name="synced">"同期済み"</string>
   <string name="tab_title_agenda">"予定"</string>
   <string name="tab_title_day">"日"</string>
   <string name="tab_title_month">"月"</string>
@@ -467,8 +431,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="talk_back_read_date">%1$s (%2$s according to lunar calendar).</string>
   <string name="talk_back_setting">"設定"</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
-  <string name="template_week_num">"第%1$s週"</string>
-  <string name="text_day">日</string>
   <string name="text_year">年</string>
   <string name="ticket_card_date">%1$s月%2$s日</string>
   <string name="ticket_card_description">今日可预定</string>

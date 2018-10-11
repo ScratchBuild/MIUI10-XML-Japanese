@@ -589,7 +589,7 @@
   <string name="descx_quick_scan_cancel">"スキャンがキャンセルされました"</string>
   <string name="descx_quick_scan_preparation">"読み込み中…"</string>
   <string name="detail_app_button">"アプリ情報"</string>
-  <string name="details_subtitle">Use details</string>
+  <string name="details_subtitle">Usage details</string>
   <string name="device_manager_apply_step_1">Activate device administrator for this app?</string>
   <string name="device_manager_apply_step_2">"Activating device administrator for this app might lead to the exposure of your personal data.
 All data on your device might be erased and your Lock screen password might be reset."</string>
@@ -1232,8 +1232,8 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
   <string name="mi_service_traffic_detail">"フレームワークの詳細"</string>
   <string name="mian_page_primary_txt">"海外ローミング"</string>
-  <string name="midrop_post_notification_contentText">Try out Mi drop, with transfer speed upto 50M/s.</string>
-  <string name="midrop_post_notification_contentTitle">Files share?</string>
+  <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
+  <string name="midrop_post_notification_contentTitle">Need to share files?</string>
   <string name="mixed_need_to_confirm">Enter again to confirm</string>
   <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
@@ -1717,7 +1717,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="report_error">"メッセージを報告できませんでした"</string>
   <string name="report_only">"報告するメッセージを選択"</string>
   <string name="report_success">"メッセージを報告しました"</string>
-  <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+  <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
   <string name="report_warning_title">"注意"</string>
   <string name="reset_data_dialog_message">"この端末はお使いのMi Accountに関連付けられていないため、パスワードの復元やリセットはできません。すべての重要なデータをバックアップして、ファクトリーリセットを実行します。すべてのデータは完全に削除され、SDカードは工場出荷時の状態にフォーマットされます。"</string>
   <string name="reset_data_dialog_ok">"ファクトリーリセット"</string>
@@ -2128,7 +2128,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="tc_sms_report_receive_num">Recipient number</string>
   <string name="tc_sms_report_send_num">Carrier phone #</string>
   <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update.</string>
-  <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
+  <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
   <string name="tc_sms_report_tips_dialog_title">Data usage SMS</string>
   <string name="tc_sms_report_title">"データ使用量のバグを報告"</string>
   <string name="tc_sms_report_toast_text">"情報を取得中…"</string>
