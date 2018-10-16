@@ -281,6 +281,7 @@
   <string name="collage_margin_text">"余白"</string>
   <string name="collage_mirror">"反転"</string>
   <string name="collage_rotate">"回転"</string>
+  <string name="collage_select_image_range">Collages can contain 1-4 photos</string>
   <string name="collage_title_layout">"レイアウト"</string>
   <string name="collage_title_poster">"ポスター"</string>
   <string name="collaps_people">"非表示"</string>
@@ -526,6 +527,7 @@ Take more photos of your friends!"</string>
   <string name="finish_fill_baby">"作成"</string>
   <string name="flash_off">"フラッシュOFF"</string>
   <string name="flash_on">"フラッシュON"</string>
+  <string name="frame_not_support_image_ratio">"This aspect ratio isn't supported"</string>
   <string name="free_view_desc">"3Dビュー"</string>
   <string name="gallery_setting">"設定"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
@@ -694,6 +696,7 @@ Take more photos of your friends!"</string>
   <string name="operation_in_process">"処理中…"</string>
   <string name="operation_move_to_other_albums">"他のアルバムに移動"</string>
   <string name="operation_not_show_in_photos_tab">"[写真]に表示しない"</string>
+  <string name="operation_produce">Creativity</string>
   <string name="operation_projection">"キャスト"</string>
   <string name="operation_remove_face">"削除"</string>
   <string name="operation_remove_from_face_album">"アルバムから削除"</string>
@@ -735,9 +738,11 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_crop_and_rotate">"切り抜き"</string>
   <string name="photo_editor_crop_auto">"自動"</string>
+  <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
   <string name="photo_editor_crop_reset">"リセット"</string>
   <string name="photo_editor_doodle">"落書き"</string>
   <string name="photo_editor_filter">"フィルタ"</string>
+  <string name="photo_editor_frame">フレーム</string>
   <string name="photo_editor_label">"編集"</string>
   <string name="photo_editor_long_crop">"切り抜き"</string>
   <string name="photo_editor_miui_beauty">Beautify</string>
@@ -792,6 +797,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_talkback_redo">Redo</string>
   <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">"テキスト"</string>
+  <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
   <string name="photo_page_save_uri_image_fail">"ギャラリーに保存できませんでした"</string>
   <string name="photo_page_save_uri_image_ok">"写真をギャラリーに保存しました"</string>
   <string name="photo_print_menu_loading">"プラグインの読み込み中…"</string>
@@ -1001,6 +1007,7 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
   <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
+  <string name="select_image_operation">写真を追加中</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">"元のファイル (%s)"</string>
   <string name="send_file_beautify_failed">"共有できませんでした"</string>
@@ -1147,6 +1154,7 @@ Take more photos of your friends!"</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
   <string name="unpublish_succeeded">Album unpublished</string>
   <string name="unpublishing">"キャンセル中…"</string>
+  <string name="unsupport_video">"%s doesn't work with videos"</string>
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>
   <string name="user_agreement4">"プライバシーポリシー"</string>

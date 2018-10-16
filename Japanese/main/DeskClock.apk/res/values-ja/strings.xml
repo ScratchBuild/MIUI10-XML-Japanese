@@ -166,6 +166,10 @@
   <string name="timer_alarm_cancel_pad">"アラームを止めるには画面をタップ"</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">"タイマーは%d分後に消音します。"</string>
+  <string name="timer_alert_mute_off">タイマー停止時にアラームが鳴ります</string>
+  <string name="timer_alert_mute_on">タイマー停止時にアラームは鳴りません</string>
+  <string name="timer_alert_mute_remind">アラームを消音するにはタップ</string>
+  <string name="timer_alert_mute_switch">タイマー/アラームの消音を切り替え</string>
   <string name="timer_alert_type_beach">Beach</string>
   <string name="timer_alert_type_forest">Forest</string>
   <string name="timer_alert_type_mute">Default</string>
@@ -209,7 +213,7 @@
   <string name="volume_button_setting_title">"音量ボタン"</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">"時計なし"</string>
-  <string name="worldclock_input_hint_text">"都市を入力"</string>
+  <string name="worldclock_input_hint_text">"国または都市を検索"</string>
   <string name="worldclock_search_city">"都市を選択"</string>
   <string name="worldclock_title">"時計"</string>
   <string name="worldclock_world_time">"タイムゾーン"</string>

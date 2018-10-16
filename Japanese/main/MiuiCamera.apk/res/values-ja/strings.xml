@@ -11,6 +11,8 @@
   <string name="accessibility_beauty_switch_open">Beautify is on</string>
   <string name="accessibility_bokeh_normal">Front camera background blur is off</string>
   <string name="accessibility_bokeh_on">Front camera background blur is on</string>
+  <string name="accessibility_camera_lighting_close_panel">Closed lighting menu</string>
+  <string name="accessibility_camera_lighting_open_panel">Opened lighting menu</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">"前面と背面のカメラを切り替える"</string>
   <string name="accessibility_camera_picker_finish">Switched cameras successfully</string>
@@ -82,7 +84,7 @@
   <string name="cannot_connect_camera_twice">"カメラに接続できません。お使いの端末を再起動してください。"</string>
   <string name="cannot_connect_camera_volte_call">"ビデオ通話中です、後ほど再試行してください。"</string>
   <string name="cannot_move_warning_message">"写真を撮影中です、端末を静止したままにしてください"</string>
-  <string name="capture_back_pressed_hint">Touch again to exit</string>
+  <string name="capture_back_pressed_hint">終了するにはもう一度タップ</string>
   <string name="confirm_location_alert">"写真に位置情報を保存する"</string>
   <string name="confirm_location_message">"写真や動画に撮影場所の位置情報をタグ付けします。他のアプリは保存した画像と共にこの情報へアクセスできます。"</string>
   <string name="confirm_location_title">"写真に位置情報を保存しますか？"</string>
@@ -92,6 +94,7 @@
   <string name="confirm_restore_message">"カメラのデフォルト設定を復元しますか？"</string>
   <string name="confirm_restore_title">"デフォルト設定を復元"</string>
   <string name="dialog_ok">OK</string>
+  <string name="dialog_ok_time">OK (&lt;g id="NUMBER">%d&lt;/g>秒)</string>
   <string name="do_not_remind_me">"次回から表示しない"</string>
   <string name="dual_camera_lens_covered_toast">"レンズが覆われています。"</string>
   <string name="dual_camera_lowlight_toast">"Looks like it's too dark."</string>

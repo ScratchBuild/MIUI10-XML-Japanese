@@ -89,6 +89,11 @@
         <item>"男の子"</item>
         <item>"女の子"</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>移動</item>
+        <item>コピー</item>
+        <item>キャンセル</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>"父親"</item>
         <item>"母親"</item>

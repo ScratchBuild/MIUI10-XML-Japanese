@@ -76,6 +76,10 @@
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">最大%d枚まで写真を選択</item>
+        <item quantity="one">最大%d枚まで写真を選択</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d個のアイテムを選択済み</item>
         <item quantity="one">%d個のアイテムを選択済み</item>

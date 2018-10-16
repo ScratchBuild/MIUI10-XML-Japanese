@@ -106,6 +106,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 1.Tap the calibration button below to enter Camera interface
 2.Press Back button to exit the camera interface
 3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
+  <string name="cit_camera_fast_check_title">Camera fast test</string>
   <string name="cit_camera_sdcard_error">写真を撮影できません。SDカードがいっぱいです。</string>
   <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
   <string name="cit_charger_plugin_check_title">充電器(接続済み)</string>
@@ -277,6 +278,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_bluetooth_on">Enable Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Enter Bluetooth BR/EDR 2.480GHz Freq Test Mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter Bluetooth BR/EDR 2.402GHz Freq Test Mode</string>
+  <string name="cit_tool_bluetooth_tx_m">Enter Bluetooth BR/EDR 2.441GHz Freq Test Mode</string>
   <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>

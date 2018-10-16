@@ -29,6 +29,10 @@
   <string name="cancel_alarm_description">"リマインダーをキャンセル"</string>
   <string name="cloud_service_state_open_reminder">"Mi Cloudとの同期をオンにして、メモを同期します。"</string>
   <string name="cloud_trash_bin_title">"Mi Cloudのメモを削除"</string>
+  <string name="cta_confirm_cancel">許可しない</string>
+  <string name="cta_confirm_ok">許可</string>
+  <string name="cta_dialog_message">メモアプリが正常に動作するには、インターネットへの接続、音声の録音、および連絡先へのアクセス許可が必要です。許可しますか？</string>
+  <string name="cta_dialog_title">アクセス許可が必要</string>
   <string name="cta_reminder">メモアプリが正常に動作するには、インターネットへの接続、音声の録音、および連絡先へのアクセス許可が必要です。許可しますか？</string>
   <string name="date_time_picker_alarm_reminder">アラーム</string>
   <string name="date_time_picker_dialog_title">日付と時刻を設定</string>
