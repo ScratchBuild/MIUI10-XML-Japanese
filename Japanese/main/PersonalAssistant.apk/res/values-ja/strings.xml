@@ -27,7 +27,7 @@
   <string name="agenda_assistant_payment_day">支払い日</string>
   <string name="agenda_assistant_repayment_day">支払い日</string>
   <string name="agenda_assistant_tail_num">番号</string>
-  <string name="agenda_disclaimer">免責事項Disclaimer</string>
+  <string name="agenda_disclaimer">免責事項</string>
   <string name="agenda_disclaimer_content">This feature is provided by Alipay. Alipay shall bear all responsibility related to the services it provides. You can contact Alipay if you have any questions.</string>
   <string name="agenda_i_known">OK</string>
   <string name="agenda_need_install_alipay">Install Alipay before using this feature.</string>
@@ -71,8 +71,8 @@
   <string name="alipay_conn_check_alipay">• Alipayのネットワークアクセスが許可されています</string>
   <string name="alipay_conn_check_wifi">• Wi-Fiがオンになっています</string>
   <string name="alipay_conn_err_and_check">接続に失敗しました、ネットワーク設定を確認してください</string>
-  <string name="alipay_conn_reopen">• 重新开启网络设置</string>
-  <string name="alipay_continue_register">继续注册</string>
+  <string name="alipay_conn_reopen">• ネットワーク設定をもう一度開く</string>
+  <string name="alipay_continue_register">登録を続ける</string>
   <string name="alipay_country_1">アメリカ</string>
   <string name="alipay_country_1242">バハマ</string>
   <string name="alipay_country_1284">ヴァージン諸島(イギリス)</string>
