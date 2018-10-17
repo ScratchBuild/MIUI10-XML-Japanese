@@ -2037,6 +2037,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_permission">"不要な支払いを避け、個人データを保護する"</string>
   <string name="summary_permission_root">"お使いの端末はroot権限が取得されているようです。端末のセキュリティが損なわれる可能性があります。"</string>
   <string name="summary_power_optimizer">"電池残量が残り少ないと、端末のパフォーマンスが低下します"</string>
+  <string name="summary_rcs_switch">Send SMS to China Mobile users without incurring charges</string>
   <string name="summary_realname_verify">"利用者の身元を確認して、支払いをより安全にします。"</string>
   <string name="summary_restrict_data_usage">"このアプリのデータ使用量を制限しました。"</string>
   <string name="summary_show_notification">"キャッシュの消去、バッテリー残量の表示、通知シェードの通知を非表示にする"</string>
@@ -2208,6 +2209,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="title_permission_root">Root access</string>
   <string name="title_permission_yes">Permission manager on</string>
   <string name="title_power_optimizer">"バッテリーセーバー"</string>
+  <string name="title_rcs_switch">Turn on China Mobile Messaging</string>
   <string name="title_realname_verify">ID verification</string>
   <string name="title_reply">"コメント"</string>
   <string name="title_restrict_data_usage">"%sがインターネットに接続できませんか？"</string>
