@@ -109,6 +109,7 @@
   <string name="security_permission_denied_text">"アクセスが拒否されました"</string>
   <string name="security_permission_failed_text">"エラーが発生しました、後ほど再試行してください"</string>
   <string name="security_permission_network_failed_text">ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。</string>
+  <string name="security_permission_open_wifi_settings">Wi-Fi設定を開く</string>
   <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
   <string name="security_permission_xiaomi_account_missed_text">"Mi Account IDを入力"</string>

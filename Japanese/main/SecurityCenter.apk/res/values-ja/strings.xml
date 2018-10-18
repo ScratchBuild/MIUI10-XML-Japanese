@@ -872,6 +872,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gamebooster_main_activity_back">"戻る"</string>
   <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
+  <string name="gamebox_app_not_find">最初にアプリをインストールしてください。</string>
   <string name="gamebox_qq_not_find">Install QQ and try again.</string>
   <string name="gamebox_type_close">"表示しない"</string>
   <string name="gamebox_type_float">"ショートカットを固定"</string>
@@ -942,6 +943,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gs_game_shortcut">Improve your gaming experience</string>
   <string name="gs_gamebox">In-game shortcuts</string>
   <string name="gs_gamebox_detail">Show in-game shortcut panel</string>
+  <string name="gs_gamebox_slip">画面を下に押して開く</string>
   <string name="gs_only_self_start_for_list">"バックグラウンドプロセスを制限してゲームのためにバッテリーを節約する"</string>
   <string name="gs_open_game_booster">Boost speed</string>
   <string name="gs_open_game_booster_summary">Boost network speed for games</string>
