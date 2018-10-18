@@ -355,6 +355,8 @@
   <string name="cannot_get_download_url">获取不到安全服务下载地址</string>
   <string name="card_agenda_settings">設定</string>
   <string name="card_already_fly">離陸済み</string>
+  <string name="card_banner_close_never">次回から表示しない</string>
+  <string name="card_banner_close_tomorrow">明日に再通知する</string>
   <string name="card_book_all">All bookings</string>
   <string name="card_book_nodata">予約なし</string>
   <string name="card_bookall_flight">Plane tickets</string>
