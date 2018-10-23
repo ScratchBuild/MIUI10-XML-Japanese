@@ -4331,13 +4331,15 @@ PINが正しくない可能性があります。"</string>
   <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、及びショートカットはロック画面に表示されません</string>
   <string name="skip_step">スキップ</string>
   <string name="slider_app_open">アプリを開く</string>
-  <string name="slider_app_open_name">開く</string>
+  <string name="slider_app_open_name">%1$sを開く</string>
   <string name="slider_app_open_none">何もしない</string>
   <string name="slider_button_title">変更</string>
   <string name="slider_choose_app">アプリを選択</string>
   <string name="slider_game_tool_summary">ゲームをプレイ中、画面を下に押して使用可能なショートカットを表示する</string>
   <string name="slider_game_tool_tilte">ゲームのショートカット</string>
-  <string name="slider_global_summary">画面を下に押してカスタムアクションを実行する</string>
+  <string name="slider_global_summary_app">画面を下に押して、アプリを起動する</string>
+  <string name="slider_global_summary_drawer">画面を下に押して、ツールを起動する</string>
+  <string name="slider_global_summary_selfie">画面を下に押して、自撮りを撮影する</string>
   <string name="slider_global_title">スライダーのショートカット</string>
   <string name="slider_high_grade_summary">指定の状況で、画面を下に押した時にカスタムアクションを実行する</string>
   <string name="slider_high_grade_title">追加のスライダー設定</string>
@@ -4350,6 +4352,7 @@ PINが正しくない可能性があります。"</string>
   <string name="slider_title_zippo">ZIPPO</string>
   <string name="slider_tool_drawer">ツールを開く</string>
   <string name="slider_tool_none">何もしない</string>
+  <string name="slider_tool_none_summary">画面を下に押しても、何もしない</string>
   <string name="slider_video_tool_summary">動画の再生中、画面を下に押して使用可能なショートカットを表示する</string>
   <string name="slider_video_tool_title">ビデオのショートカット</string>
   <string name="slider_vocie_click_too_often">早過ぎます！しばらくしてからもう一度お試しください。</string>

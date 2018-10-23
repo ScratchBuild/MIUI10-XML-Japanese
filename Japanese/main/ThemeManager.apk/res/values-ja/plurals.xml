@@ -4,6 +4,10 @@
         <item quantity="other">"%1$d個のテーマで更新が利用可能です。"</item>
         <item quantity="one">"%1$d個のテーマで更新が利用可能です。"</item>
     </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s works</item>
+        <item quantity="one">%1$s work</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">"%1$d個のテーマで更新が利用可能です"</item>
         <item quantity="one">"%1$d個のテーマで更新が利用可能です"</item>

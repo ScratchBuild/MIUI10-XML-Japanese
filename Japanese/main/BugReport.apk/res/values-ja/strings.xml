@@ -16,6 +16,33 @@
   <string name="bugreport_dump_start_notification_title">"バグレポートを作成中…"</string>
   <string name="bugreport_tool_log_dumping_desc">"少しお待ちください"</string>
   <string name="bugreport_tool_log_dumping_title">"バグレポートを作成中"</string>
+  <string name="catch_full_log_action_cancel">キャンセル</string>
+  <string name="catch_full_log_action_complete">完了とアップロード</string>
+  <string name="catch_full_log_action_start">ログを生成</string>
+  <string name="catch_full_log_add_original_photo">写真を追加</string>
+  <string name="catch_full_log_add_photo">写真を追加</string>
+  <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
+  <string name="catch_full_log_dialog_confirm_text">ホーム画面に移動</string>
+  <string name="catch_full_log_dialog_content">"MIUI is generating a log. This might affect the overall productivity of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
+  <string name="catch_full_log_dump_hprof_failed">遅延ログを生成できませんでした</string>
+  <string name="catch_full_log_item_content_catch_direct">"Steps:
+1. Go back to the feature you want to report and reproduce it.
+2. Come back to this page and tap \"Finish and upload\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Steps:
+1. Tap \"Generate log\".
+2. Go back to the feature you want to report and reproduce it.
+3. Come back to this page and tap \"Finish and upload\"."</string>
+  <string name="catch_full_log_item_title_audio">Audio, sound recording, and call audio</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">遅延</string>
+  <string name="catch_full_log_item_title_gps">位置情報サービス</string>
+  <string name="catch_full_log_item_title_sensor">センサー</string>
+  <string name="catch_full_log_item_title_signal">電話、信号、モバイルネットワーク</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi と Drop</string>
+  <string name="catch_full_log_notification_content">ログに戻るにはタップ</string>
+  <string name="catch_full_log_notification_title">ログの生成中…</string>
+  <string name="catch_full_log_start_dump_hprof">遅延ログを生成</string>
+  <string name="catch_full_log_submit_directly">送信</string>
   <string name="close_feedback_main">"非表示"</string>
   <string name="cta_cancel">"キャンセル"</string>
   <string name="cta_confirm">OK</string>
@@ -292,12 +319,14 @@
   <string name="tab_title_preferences">"設定"</string>
   <string name="tab_title_report">"フィードバック"</string>
   <string name="title_answer_feedback_main">"回答が見つかりました！"</string>
+  <string name="title_catch_full_log">ログ</string>
   <string name="title_customer_service">"カスタマーサービス"</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">"その他のアプリ"</string>
   <string name="title_same_question_feedback_main">"MIUIフォーラム内での類似の問題"</string>
   <string name="title_system_app">"MIUIアプリ"</string>
+  <string name="toast_catch_full_log_catching">一度に1つのログしか生成できません。</string>
   <string name="toast_description_required">"説明を記述する必要があります"</string>
   <string name="toast_feedback_collect_store">"ログの収集中…"</string>
   <string name="toast_feedback_network_unavailable">"ネットワークに接続できません"</string>

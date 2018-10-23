@@ -1134,7 +1134,7 @@
   <string name="tty_mode_option_title">TTYモード</string>
   <string name="turn_off_dual_4g_failed">デュアル4Gをオフにできませんでした。</string>
   <string name="turn_on_dual_4g_failed">デュアル4Gをオンにできませんでした。</string>
-  <string name="turnover_mute_summary">"端末が画面を上向きにして水平に置いてある時、端末を裏返すと着信音をミュートできます。"</string>
+  <string name="turnover_mute_summary">"端末が画面を上向きにして水平に置いてある時、端末を裏返すと着信音をミュート、バイブレーションのオフ、通知ランプの点滅を停止することができます。"</string>
   <string name="turnover_mute_title">端末を裏返して着信音をミュート</string>
   <string name="undefined">未設定</string>
   <string name="unknown">通知不可能</string>

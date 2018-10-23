@@ -37,6 +37,7 @@
   <string name="component_category_finest_title">"全般"</string>
   <string name="component_category_more_title">"詳細"</string>
   <string name="component_title_ringtone">"着信音"</string>
+  <string name="component_title_settings_video_wallpaper">Wallpapers with special effects</string>
   <string name="component_title_video_wallpaper">Wallpaper movies</string>
   <string name="component_title_wallpaper">"壁紙"</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
@@ -442,6 +443,9 @@
   <string name="theme_component_title_wallpaper">"ホーム画面"</string>
   <string name="theme_current_using_has_update">"テーマの更新が利用可能"</string>
   <string name="theme_description_title_customized">"カスタム"</string>
+  <string name="theme_detail_tab_comment">コメント</string>
+  <string name="theme_detail_tab_recommend">おすすめ</string>
+  <string name="theme_detail_tab_theme">テーマ</string>
   <string name="theme_empty_redirect">"テーマに戻る"</string>
   <string name="theme_favorite_add_fail">"お気に入りに追加できませんでした"</string>
   <string name="theme_favorite_add_success">"お気に入りに追加しました"</string>
@@ -477,7 +481,7 @@
   <string name="title_component">"テーマのカスタマイズ"</string>
   <string name="title_my_audio_resource">My ringtones</string>
   <string name="title_my_miwallpaper_resource">My live wallpapers</string>
-  <string name="title_my_miwallpaper_video_file_resource">My video wallpapers</string>
+  <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
   <string name="title_system_audio_notification_resource">"システムの通知音"</string>
   <string name="title_system_audio_resource">"システムの着信音"</string>
