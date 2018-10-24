@@ -1603,6 +1603,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="empty_list_msg">サードパーティ製のアプリはインストールされていません。</string>
   <string name="enable_adb">USBデバッグ</string>
   <string name="enable_adb_summary">USB接続時はデバッグモードにする</string>
+  <string name="enable_atrace">ATraceをONにする</string>
+  <string name="enable_atrace_summary">ATraceを使用してカーネルイベントをキャプチャする</string>
   <string name="enable_compatibility">アプリを拡大/縮小</string>
   <string name="enable_freeform_support">フリーフォーム ウィンドウの有効化</string>
   <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
@@ -4463,6 +4465,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_notification_shade_shortcut">通知シェードのショートカット</string>
   <string name="status_bar_settings_notification_sound">通知音</string>
   <string name="status_bar_settings_notification_sound_custom">音を変更</string>
+  <string name="status_bar_settings_notification_style">通知スタイル</string>
   <string name="status_bar_settings_notification_use_app_icon">通知にアプリアイコンを使用</string>
   <string name="status_bar_settings_notification_vibrate">バイブレーション</string>
   <string name="status_bar_settings_peek_notification_icon">着信通知のアイコンを表示</string>

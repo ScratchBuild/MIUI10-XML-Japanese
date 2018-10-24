@@ -1320,7 +1320,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="note_call_none">"着信はありません"</string>
   <string name="note_list_none">"リストは空です"</string>
   <string name="note_sms_none">"メッセージはありません"</string>
-  <string name="notification_battery_consume_abnormal_summary">"直近の%1$d分間にバッテリーの%2$sが消費されました"</string>
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
   <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
   <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>

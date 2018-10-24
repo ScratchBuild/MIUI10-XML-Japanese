@@ -458,6 +458,8 @@
   <string name="empty_shade_text">通知はありません</string>
   <string name="enable_adb">USBデバッグ</string>
   <string name="enable_adb_summary">USB接続時はデバッグモードにする</string>
+  <string name="enable_atrace">ATraceをONにする</string>
+  <string name="enable_atrace_summary">ATraceを使用してカーネルイベントをキャプチャする</string>
   <string name="enable_bluetooth_confirmation_ok">ONにする</string>
   <string name="enable_bluetooth_message">タブレットでキーボードに接続するには、最初にBluetoothをONにする必要があります。</string>
   <string name="enable_bluetooth_title">BluetoothをONにしますか？</string>
