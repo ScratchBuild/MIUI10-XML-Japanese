@@ -1463,8 +1463,8 @@ EEEE"</string>
   <string name="structure_face_delete_data_dialog_msg_retry">再試行</string>
   <string name="structure_face_delete_data_dialog_title">カメラを起動できませんでした</string>
   <string name="structure_face_hardware_abnormal_btn">OK</string>
-  <string name="structure_face_hardware_abnormal_msg">"Can't record face data due to a laser error. Contact customer service to get help."</string>
-  <string name="structure_face_hardware_abnormal_title">レーザーエラー</string>
+  <string name="structure_face_hardware_abnormal_msg">ハードウェアエラーが発生しました。端末を再起動します。もし問題が解決しない場合は、400-100-5678に電話してサポートを入手してください。</string>
+  <string name="structure_face_hardware_abnormal_title">ハードウェアエラー</string>
   <string name="structure_face_modules_abnormal_btn">再起動</string>
   <string name="structure_face_modules_abnormal_msg">光学モジュールエラーのため顔データを記録できません。端末を再起動してもう一度お試しください。</string>
   <string name="structure_face_modules_abnormal_title">光学モジュールエラー</string>
@@ -1482,6 +1482,7 @@ EEEE"</string>
   <string name="structure_face_unlock_model_other_title">顔認識</string>
   <string name="structure_face_unlock_not_same_person">"You have to complete all the steps yourself. Don't switch places with anyone."</string>
   <string name="structure_face_unlock_really_person">"Looks like you've replaced your face with an object."</string>
+  <string name="structure_face_unlock_tof_covered">顔データを追加できませんでした。画面から顔を遠ざけてください。</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="system_ui_tuner">システムUI調整ツール</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>

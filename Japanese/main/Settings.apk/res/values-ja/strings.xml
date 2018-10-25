@@ -170,6 +170,7 @@
   <string name="allow_bind_app_widget_activity_allow_bind_title">ウィジェットの作成とアクセスの許可</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$sによるウィジェットの作成とデータへのアクセスを常に許可する</string>
   <string name="allow_data_usage_title">ローミング時にデータ使用を許可</string>
+  <string name="allow_device_id_access">アプリにデバイスIDの使用を許可</string>
   <string name="allow_mock_location">擬似ロケーションを許可</string>
   <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
@@ -1401,6 +1402,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
+  <string name="device_id">Device identification</string>
   <string name="device_info_label">端末情報</string>
   <string name="device_info_not_available">該当なし</string>
   <string name="device_info_settings">端末の状態</string>
@@ -3347,6 +3349,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_manage_bg_network">アプリのバックグラウンドネットワーク接続を管理する</string>
   <string name="pref_new_installed_preconfig_title">新しいアプリのデフォルト設定</string>
   <string name="pref_operational_key">ナビゲーションボタン</string>
+  <string name="pref_show_lunar_calendar_title">ロック画面に中国語(繁体字)のカレンダーを表示する</string>
   <string name="pref_title_lang_selection">言語の設定</string>
   <string name="pref_title_update_notification">データ使用の通知</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
@@ -3651,6 +3654,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="resetting_second_space_passwd">Second spaceのパスワードをリセット中</string>
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
+  <string name="restore_device_id_content">パーソナライズされたおすすめをリセットする</string>
+  <string name="restore_device_id_title">デバイスIDを復元する</string>
+  <string name="restore_dialog_content">デバイスIDを復元すると、あなた向けにパーソナライズされたおすすめがリセットされます。</string>
+  <string name="restore_dialog_positive">復元</string>
+  <string name="restore_dialog_title">リマインダー</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
   <string name="restrict_background_blacklisted">バックグラウンド データは無効になっています</string>
   <string name="restrict_bg_app">制限</string>
@@ -4453,7 +4461,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_enable_notification">通知を表示</string>
   <string name="status_bar_settings_expand_top_notification">Expand top notification</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on secure lock screen</string>
-  <string name="status_bar_settings_function_description">この機能について</string>
   <string name="status_bar_settings_long_click_sort">トグルスイッチを並べ替えるには長押し</string>
   <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_no_carrier">なし</string>
