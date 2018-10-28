@@ -1227,9 +1227,6 @@ This feature can be turned off in [Settings]"</string>
   <string name="daltonizer_mode_tritanomaly">第三色弱（青黄）</string>
   <string name="daltonizer_type">補正モード</string>
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
-  <string name="dangerous_option">High-risk developer options</string>
-  <string name="dangerous_option_hint">%1$s is enabled. Tap to change settings.</string>
-  <string name="dangerous_option_hint_title">High-risk feature enabled</string>
   <string name="dangerous_option_switch_title">Notify about high-risk features</string>
   <string name="dangerous_option">High-risk developer options</string>
   <string name="dangerous_option_hint">%1$s is enabled. Tap to change settings.</string>
