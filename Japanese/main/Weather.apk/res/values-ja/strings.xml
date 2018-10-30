@@ -14,7 +14,8 @@
   <string name="act_weather_find_city_no_result">"何も見つかりません"</string>
   <string name="act_weather_find_city_searching">"検索中…"</string>
   <string name="activity_find_city_dialog_cancel">"キャンセル"</string>
-  <string name="activity_find_city_dialog_message">"あなたがいる場所の天気を表示してみましょう"</string>
+  <string name="activity_find_city_dialog_message">Allow Weather to access your location to get accurate location info.</string>
+  <string name="activity_find_city_dialog_message_global">Allow Weather to access your location and switch to high accuracy location mode to get relevant location info.</string>
   <string name="activity_find_city_dialog_set">"設定"</string>
   <string name="activity_find_city_dialog_title">"位置情報アクセス"</string>
   <string name="activity_main_time_format">E</string>
@@ -30,8 +31,11 @@
   <string name="aqi_desc">Air Quality Index</string>
   <string name="aqi_detail_24_hours">"1時間ごとの予報"</string>
   <string name="aqi_detail_5_days">"5日間の予報"</string>
+  <string name="aqi_detail_co_unit">単位: mg/m³</string>
   <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_detail_unit">"単位: µg/m³"</string>
+  <string name="aqi_first_sub_desc_locate">Station: %1$s (%2$s away)</string>
+  <string name="aqi_first_sub_desc_no_locate">Average AQI in %1$s</string>
   <string name="aqi_publish_time">Updated %1$s</string>
   <string name="aqi_quality_ambient_air_quality">Air quality nearby</string>
   <string name="aqi_quality_co_desc">Carbon monoxide</string>
@@ -73,7 +77,7 @@
   <string name="content_desc_activity_main_more_settings">"その他の設定"</string>
   <string name="content_desc_back_button">"戻る"</string>
   <string name="content_desc_city_manage_del">削除</string>
-  <string name="content_desc_city_manage_edit">都市を管理</string>
+  <string name="content_desc_city_manage_edit">編集</string>
   <string name="content_desc_close_button">"閉じる"</string>
   <string name="content_desc_edit_city_manage">"都市を管理"</string>
   <string name="daily_forcast_no_stable_direction">"そよ風"</string>
@@ -85,16 +89,19 @@
   <string name="daily_forecast_detail">"予報の詳細"</string>
   <string name="daily_forecast_no_data">"気象情報の取得に失敗しました
 手動で更新を行うか、ネットワークの設定を確認してください"</string>
-  <string name="data_provided_by">Data provided by</string>
+  <string name="data_provided_by">Data provided in part by</string>
   <string name="edit_city">"都市を管理"</string>
   <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that this product will connect the network, collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
-  <string name="feedback_heavy_rain">"大雨"</string>
-  <string name="feedback_heavy_snow">"雪"</string>
-  <string name="feedback_light_rain">"小雨"</string>
+  <string name="feedback_cloudy">Cloudy</string>
+  <string name="feedback_foggy">Foggy</string>
+  <string name="feedback_haze">Haze</string>
+  <string name="feedback_moderate_rain">Rain</string>
+  <string name="feedback_moderate_snow">Snow</string>
   <string name="feedback_overcast">"曇り"</string>
+  <string name="feedback_report_privacy_msg">レポートにはあなたの位置情報が含まれます</string>
   <string name="feedback_result_fail_no_choice">"現在の天気を選択"</string>
   <string name="feedback_result_success">"送信が完了しました、ご提供ありがとうございます。"</string>
-  <string name="feedback_sand">"砂"</string>
+  <string name="feedback_sandy">Sandy</string>
   <string name="feedback_sunny">"晴れ"</string>
   <string name="first_start_network_title">"インターネット接続と位置情報アクセス"</string>
   <string name="hour_minute_time_format">HH:mm</string>

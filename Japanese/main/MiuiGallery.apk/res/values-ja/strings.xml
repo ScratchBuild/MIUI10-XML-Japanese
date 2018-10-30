@@ -706,6 +706,7 @@ Take more photos of your friends!"</string>
   <string name="operation_save">"保存"</string>
   <string name="operation_send">"送る"</string>
   <string name="operation_set_contact_photo">"連絡先の写真として設定"</string>
+  <string name="operation_set_slide_wallpaper">スライドショーの壁紙として設定</string>
   <string name="operation_set_wallpaper">"壁紙として設定"</string>
   <string name="operation_share">"共有"</string>
   <string name="operation_show_in_photos_tab">"[写真]に表示する"</string>
@@ -850,6 +851,7 @@ Take more photos of your friends!"</string>
   <string name="picker_image_will_download">"%d of the selected photos aren't on device. They will be downloaded."</string>
   <string name="picker_no_network_message">"ダウンロードするにはネットワークに接続してください"</string>
   <string name="picker_origin_need_download">"%1$d of the selected photos (%2$dMB) aren't on device. Download using mobile data?"</string>
+  <string name="picker_origin_request_progress_fail">"Couldn't download the original image due to a network error."</string>
   <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
   <string name="picker_title_format">Select %1$d to %2$d photos</string>
   <string name="picker_title_selection_format">Selected photos: %d</string>
@@ -1017,6 +1019,8 @@ Take more photos of your friends!"</string>
   <string name="send_secret_file_space_low">"ストレージに十分な空き領域がありません"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_baby_lock_wallpaper">"ロック画面の壁紙に設定"</string>
+  <string name="set_as_slide_wallpaper_description">この画像はサムネイルです、元のファイルをダウンロードしますか？</string>
+  <string name="set_as_slide_wallpaper_title">スライドショーの壁紙として設定</string>
   <string name="set_as_wallpaper_description">"この画像はサムネイルです、元のファイルをダウンロードしますか？"</string>
   <string name="set_as_wallpaper_title">"壁紙に設定"</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
