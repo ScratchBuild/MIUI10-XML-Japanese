@@ -273,9 +273,11 @@
   <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
+  <string name="passport_input_phone_password">電話番号(%s)のパスワードを入力してください</string>
   <string name="passport_input_vcode_hint">"認証コードを入力"</string>
   <string name="passport_input_voice_captcha_hint">"音声認証コードを入力"</string>
   <string name="passport_input_voice_hint">""音声認証コードを入力""</string>
+  <string name="passport_international_register_by_email">メールアドレスを使用してアカウントを作成</string>
   <string name="passport_instant_login">"ログイン"</string>
   <string name="passport_license_host_unreachable">"ネットワークに接続できません。 You can view this page at %s."</string>
   <string name="passport_license_info_collapse">"折りたたむ"</string>
@@ -368,6 +370,7 @@
   <string name="passport_skip_setup_account_title">Mi Cloudを使用しない？</string>
   <string name="passport_sms_send_success">Sent</string>
   <string name="passport_sms_verification_code_login">"SMSを使用してログイン"</string>
+  <string name="passport_sms_verification_code_login_or_register">SMSを使用してログインまたは登録</string>
   <string name="passport_sync_account_data">"アカウント情報を同期しています…"</string>
   <string name="passport_sync_account_data_failed_warning">"アカウント情報を同期をしています、Mi Account IDを使用してログインすることができます。電話番号またはメールアドレスでログインする場合は、同期が完了するまでお待ちください。"</string>
   <string name="passport_talkback_image_captcha">Image verification code</string>
