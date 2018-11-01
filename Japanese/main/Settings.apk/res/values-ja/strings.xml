@@ -2204,6 +2204,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_shortcuts_helper">キーボード ショートカット ヘルパー</string>
   <string name="keyboard_shortcuts_helper_summary">使用可能なショートカットを表示します</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
+  <string name="keyguard_notification_status_title">通知</string>
   <string name="keyguard_security_setting_others">その他</string>
   <string name="keyguard_security_setting_privacy_policy">プライバシーポリシー</string>
   <string name="keyguard_vertical_clock_title">Vertical clock</string>
