@@ -267,6 +267,7 @@
   <string name="mr_system_route_name">System</string>
   <string name="mr_user_route_category_name">Devices</string>
   <string name="need_update_app">すべての機能を使用するには、Mi Videoを更新してください</string>
+  <string name="network_connect_info">ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
   <string name="network_failed">ネットワークに接続できませんでした</string>
   <string name="next">次へ</string>
   <string name="no_recommend_data">no recommended video now</string>
@@ -311,6 +312,7 @@
   <string name="ovp_home_item_camera">Gallery</string>
   <string name="ovp_home_item_download">Downloads</string>
   <string name="ovp_home_item_folder">Files</string>
+  <string name="ovp_home_no_data_callback">情報を読み込めませんでした。下に引っ張って更新。</string>
   <string name="ovp_home_online_content_title">Online</string>
   <string name="ovp_info_video_loading">読み込み中…</string>
   <string name="ovp_load_playinfo_failure">情報を取得できませんでした</string>

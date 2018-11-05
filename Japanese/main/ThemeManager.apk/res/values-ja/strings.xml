@@ -7,6 +7,7 @@
   <string name="ad_app_is_downloading">ダウンロード中…</string>
   <string name="add_resource_detail_fail">"テーマを追加できません"</string>
   <string name="all_resources">"すべて"</string>
+  <string name="app_ad_title">Daily Recommendations</string>
   <string name="app_name">"テーマ"</string>
   <string name="apply_font_btn_exclude">"後で"</string>
   <string name="apply_font_btn_reboot">"再起動"</string>
@@ -132,6 +133,9 @@
   <string name="gift_used">"送信済み"</string>
   <string name="hide_free">"無料の%1$sを表示しない"</string>
   <string name="hide_incompatible">"互換性のない%1$sを表示しない"</string>
+  <string name="hide_pull_down_message">Hide trinket?</string>
+  <string name="hide_pull_down_negative">隠さない</string>
+  <string name="hide_pull_down_positive">隠す</string>
   <string name="home_apply_failured">"ホーム画面の壁紙を適用できません"</string>
   <string name="home_apply_success">"ホーム画面の壁紙を適用しました"</string>
   <string name="in_the_end">"これ以上アイテムはありません"</string>
@@ -170,6 +174,7 @@
   <string name="my_gifts_purchased">"購入済み"</string>
   <string name="my_gifts_received">"受取済み"</string>
   <string name="no_data">"ネットワークに接続できません"</string>
+  <string name="no_net_work_connection">ネットワーク設定を確認して、もう一度お試しください。</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="password_toggle_content_description">"パスワードの表示を切り替える"</string>
@@ -180,6 +185,9 @@
   <string name="provision_loading_tips">"読み込み中…"</string>
   <string name="provision_second_title">Select one of the several default themes</string>
   <string name="provision_title">"テーマを選択"</string>
+  <string name="pull_down_view_error_message">インターネット接続が見つかりませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
+  <string name="pull_down_view_refresh">更新</string>
+  <string name="pull_down_view_title">"What's new"</string>
   <string name="purchased_list">"購入済み"</string>
   <string name="purchased_list_current">Optimized themes</string>
   <string name="purchased_list_legacy">"従来のテーマ"</string>
@@ -192,6 +200,7 @@
   <string name="refresh_footer_release">"指を離して更新"</string>
   <string name="region_not_support">"ご利用の地域ではテーマがサポートされていません。"</string>
   <string name="reload">"再試行"</string>
+  <string name="request_time_out">リクエストがタイムアウトしました。もう一度お試しください。</string>
   <string name="resource_account_abnormal_state">"アカウントエラー。1～2分待ってから再試行してください。"</string>
   <string name="resource_account_fail_to_add">"アカウントが追加できません"</string>
   <string name="resource_account_login">"ログイン"</string>
@@ -393,6 +402,7 @@
   <string name="search_hint_header_text">Hot words</string>
   <string name="search_menu_title">"検索"</string>
   <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
+  <string name="server_internal_error">サーバーエラーが発生しました、しばらくしてからもう一度お試しください。</string>
   <string name="set_color_ring_back_tone">Set a custom ringback tone</string>
   <string name="settings">"設定"</string>
   <string name="shortcut_add">"アイコンを追加"</string>
@@ -402,6 +412,7 @@
   <string name="shortcut_title">"壁紙は気に入りましたか？"</string>
   <string name="show_free">"無料の%1$sを表示する"</string>
   <string name="show_incompatible">"互換性のない%1$sを表示する"</string>
+  <string name="swipe_find_more">上にスワイプ</string>
   <string name="system_precust">プリインストール済み</string>
   <string name="the_picture_is_not_support">"画像はサポートされていません"</string>
   <string name="the_picture_is_too_small">"画像が小さすぎます"</string>
@@ -508,6 +519,8 @@
   <string name="video_data_tips_message">"モバイルデータを使用すると追加料金が発生する場合があります。とにかく続けますか？"</string>
   <string name="video_data_tips_title">"データ使用量の警告"</string>
   <string name="video_silence_apply_success">Configured video without sound successfully</string>
+  <string name="vip_level_dialog_positive">OK</string>
+  <string name="vip_level_dialog_title">ヒント</string>
   <string name="wallpaper_apply">"適用"</string>
   <string name="wallpaper_crop">"切り抜く"</string>
   <string name="wallpaper_decoded_error">"壁紙を読み込むことができません"</string>
