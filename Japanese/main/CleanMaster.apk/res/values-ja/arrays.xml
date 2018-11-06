@@ -17,4 +17,8 @@
         <item>自動的に消去</item>
         <item>消去して通知</item>
     </string-array>
+    <string-array name="wechat_sort">
+        <item>日付順</item>
+        <item>サイズ順</item>
+    </string-array>
 </resources>

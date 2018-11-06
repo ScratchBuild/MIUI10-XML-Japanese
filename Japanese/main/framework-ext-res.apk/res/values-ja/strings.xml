@@ -171,5 +171,6 @@
   <string name="voice_input_error_other">"エラーが発生しました、しばらくしてからもう一度お試しください。"</string>
   <string name="wifi_assistant_wifi_no_internet">This WLAN network has no access to the internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">"詳細を表示するにはタップ"</string>
+  <string name="xspace_head">デュアルアプリ</string>
   <string name="xspace_resolver_activity_title">"アプリを選択"</string>
 </resources>

@@ -517,6 +517,7 @@
   <string name="rename_alert">"ファイルの拡張子を変更した場合、それを開くことができない場合があります。"</string>
   <string name="rename_alert2">"ファイルの拡張子を変更した場合、ファイルは非表示になります。"</string>
   <string name="rename_failed">"%1$sの名前を変更することはできません"</string>
+  <string name="rename_input_null">新しいファイル名を入力</string>
   <string name="repair_done">"復元済み"</string>
   <string name="repair_error">"復元できませんでした"</string>
   <string name="repair_file">Restore encrypted files</string>

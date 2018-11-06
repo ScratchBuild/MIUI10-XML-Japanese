@@ -8,6 +8,9 @@
   <string name="app_preload_policies_summary">"機械学習を用いて、ユーザーが使用する可能性がもっとも高いアプリを予測し、事前にリソースを読み込みます。"</string>
   <string name="app_preload_policies_title">AI pre-loading</string>
   <string name="appconfig_active_app_dialog_title">"アクティブなアプリの設定を管理"</string>
+  <string name="atrace_saved">正常に保存されました</string>
+  <string name="atrace_saving">ATraceログを保存中…</string>
+  <string name="atrace_start">ATraceログを記録中…</string>
   <string name="base_info">"基本情報"</string>
   <string name="cloud_addr_info">Cloud info</string>
   <string name="cloud_china_addr">Update Chinese server data</string>

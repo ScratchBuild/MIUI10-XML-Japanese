@@ -948,6 +948,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
   <string name="gs_performance_mode_detail">"シームレスなパフォーマンスを確保するためにCPU使用率を向上させる"</string>
   <string name="gs_sign_notification">"毎日午後8時にチェックインのリマインダーを表示"</string>
+  <string name="gs_slip_gamebox_detail">スライダーを使用してショートカットパネルを表示させます。クイック返信とスクリーンレコーダーが利用可能です。</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>間違ったキャリア？&lt;/U>&lt;/font>"</string>
   <string name="guide_operator_text">"現在のキャリア: "</string>
   <string name="guide_quck_open">"オンにする"</string>

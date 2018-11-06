@@ -71,6 +71,7 @@
   <string name="show_screen_touch_summary">白いドットを使用してジェスチャーを可視化する</string>
   <string name="sound_source">音源</string>
   <string name="sound_source_summary">システムサウンドまたはマイク</string>
+  <string name="sound_source_summary_without_system_sounds">マイクを使用または音声をミュートする</string>
   <string name="start">開始</string>
   <string name="start_recording">録画を開始</string>
   <string name="stop_by_second_space">スペースを切り替えると画面録画は停止します</string>

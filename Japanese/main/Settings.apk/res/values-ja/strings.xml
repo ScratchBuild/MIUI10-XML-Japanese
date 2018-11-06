@@ -874,6 +874,8 @@
   <string name="bootloader_status_unlocked">Unlocked</string>
   <string name="bootloader_status_unlocked_info">このデバイスはロック解除されています</string>
   <string name="bootloader_summary">USB経由で端末をフラッシュ</string>
+  <string name="bootloader_tips">Mi Accountを追加した後、ログアウトやファクトリーリセットを使用した設定の初期化、システムアプリのデータを消去したりしないでください。上記のいずれかを行った場合、アカウントを追加し直すまでデバイスのロックを解除することができなくなります。</string>
+  <string name="bootloader_tips_ok">OK</string>
   <string name="breathing_light_color_menu_title">LEDの色</string>
   <string name="breathing_light_color_summary">新しい通知を受信した時のLEDの色</string>
   <string name="breathing_light_freq_summary">新しい通知を受信した時に</string>

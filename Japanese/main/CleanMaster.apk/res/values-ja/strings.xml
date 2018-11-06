@@ -33,6 +33,10 @@
   <string name="apk_status_installed_old">"古いバージョン"</string>
   <string name="apk_status_uninstalled">"未インストール"</string>
   <string name="apk_title_alipay_plugin">"AliPayプラグイン"</string>
+  <string name="app_clean_group_document_recv">"受信したファイル"</string>
+  <string name="app_clean_group_document_send">"送信したファイル"</string>
+  <string name="app_clean_group_image_recv">"受信した画像"</string>
+  <string name="app_clean_group_image_send">"送信した画像"</string>
   <string name="app_description_content">クリーナーは端末上のゴミを見つけてストレージの空き領域を解放します。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。</string>
   <string name="app_description_title">クリーナーについて</string>
   <string name="app_name">JunkEngine</string>
@@ -203,6 +207,15 @@
   <string name="empty_title_residual">"残留ファイルはありません"</string>
   <string name="empty_title_video">"削除する動画はありません"​</string>
   <string name="engine_init">"初期化中…"</string>
+  <string name="facebook_clean_exit_confirm_cancel">スキャンを続行</string>
+  <string name="facebook_clean_exit_confirm_msg">Facebookのスキャンはまだ完了していません。今すぐスキャンを停止しますか？</string>
+  <string name="facebook_clean_exit_confirm_ok">停止</string>
+  <string name="facebook_clean_exit_confirm_title">スキャンを停止しますか？</string>
+  <string name="facebook_cleaner">Facebookクリーナー</string>
+  <string name="facebook_group_cache">キャッシュファイル</string>
+  <string name="facebook_group_gif">GIF</string>
+  <string name="facebook_group_image">画像</string>
+  <string name="facebook_group_video">動画</string>
   <string name="file">"ファイル"</string>
   <string name="file_not_found">"ファイルが見つかりません"</string>
   <string name="flow_rank_title">"データ使用量"</string>
@@ -555,10 +568,6 @@
   <string name="whatsapp_group_voice">"音声メッセージ"</string>
   <string name="whatsapp_group_wallpaper">"壁紙"</string>
   <string name="whatsapp_title">WhatsAppクリーナー</string>
-  <string name="whatsapp_type_document_recv">"受信したファイル"</string>
-  <string name="whatsapp_type_document_send">"送信したファイル"</string>
-  <string name="whatsapp_type_image_recv">"受信した画像"</string>
-  <string name="whatsapp_type_image_send">"送信した画像"</string>
   <string name="white_list_ad_header">"古いファイル: %d"</string>
   <string name="white_list_apk_header">"APKファイル: %d"</string>
   <string name="white_list_cache_header">"キャッシュされたファイル: %d"</string>
