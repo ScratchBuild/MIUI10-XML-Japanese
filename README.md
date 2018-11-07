@@ -7,8 +7,7 @@ XIAOMI.EU 多言語対応ROM 日本語翻訳リポジトリ
 
 ![Percentage of translated strings](https://img.shields.io/badge/translated-83%25-brightgreen.svg)
 [![commit activity the past year](https://img.shields.io/github/commit-activity/y/ScratchBuild/MIUI10-XML-Japanese.svg)](https://github.com/ScratchBuild/MIUI10-XML-Japanese/graphs/commit-activity)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/ScratchBuild/MIUI10-XML-Japanese.svg)](http://isitmaintained.com/project/ScratchBuild/MIUI10-XML-Japanese "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/ScratchBuild/MIUI10-XML-Japanese.svg)](http://isitmaintained.com/project/ScratchBuild/MIUI10-XML-Japanese "Percentage of issues still open")
+[![GitHub issues](https://img.shields.io/github/issues-raw/ScratchBuild/MIUI10-XML-Japanese.svg)](https://github.com/ScratchBuild/MIUI10-XML-Japanese/issues "GitHub issues")
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Latest XML changes from originals values to translate | 翻訳用のオリジナル値から最新のXML変更:
