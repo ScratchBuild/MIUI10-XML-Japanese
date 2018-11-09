@@ -4,6 +4,16 @@
         <item>ホームネットワーク</item>
         <item>すべてのネットワーク</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Googleアシスタントと会話する</item>
+        <item>Google検索を開く</item>
+        <item>背面カメラを開く</item>
+        <item>前面カメラを開く</item>
+        <item>直前のアプリを開く</item>
+        <item>ライトをオンにする</item>
+        <item>読書モードをオンにする</item>
+        <item>何もしない</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>毎日</item>
         <item>平日</item>

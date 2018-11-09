@@ -156,6 +156,13 @@
   <string name="agps_roaming_dia">ローミング時にA-GPSを使用するとモバイルデータ使用量が増加します。データ通信プランの限度を超過すると、ご契約中の通信キャリアに追加料金を請求される場合があります。</string>
   <string name="agps_roaming_dia_title">ローミング時にA-GPSを使用する</string>
   <string name="agps_roaming_summary">ローミング時にモバイルデータでA-GPSを使用する</string>
+  <string name="ai_button_title">Mi AIボタン</string>
+  <string name="ai_button_title_global">AIボタン</string>
+  <string name="ai_settings_double_click_category">AIボタンを二度押し</string>
+  <string name="ai_settings_double_click_title">二度押し</string>
+  <string name="ai_settings_long_click_category">AIボタンを長押し</string>
+  <string name="ai_settings_long_click_title">長押し</string>
+  <string name="ai_settings_single_press_des">Googleアシスタントと会話するにはAIボタンを押して、指を離すと端末が応答します。</string>
   <string name="airplane_mode">機内モード</string>
   <string name="alarm_ringtone_title">デフォルトのアラーム音</string>
   <string name="alarm_sound_dialog_title">アラーム音を選択</string>
@@ -2751,6 +2758,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_sos_call_log_sec">秒</string>
   <string name="miui_sos_call_log_stranger">不明な番号</string>
   <string name="miui_sos_call_log_summary">過去1時間の通話履歴を緊急連絡先に送信する</string>
+  <string name="miui_sos_call_log_time_unit">%1$d分%2$d秒</string>
   <string name="miui_sos_call_log_title">通話履歴を送信</string>
   <string name="miui_sos_call_warning_sim_unable">圏外です。SMSを送信できません。</string>
   <string name="miui_sos_calling_summary">お使いの端末は緊急連絡先に自動で電話をかけて、あらかじめ録音したSOSメッセージを再生します。メッセージの再生が終了した後、通話が終了します。最初の試行が成功すると、自動発信は停止します。</string>
@@ -4350,6 +4358,7 @@ PINが正しくない可能性があります。"</string>
   <string name="simulate_color_space">色空間シミュレート</string>
   <string name="single_key_use">シングルボタン</string>
   <string name="single_key_use_summary">他の2つのボタンに割り当てられている機能をホームボタンで使用する</string>
+  <string name="single_press_AI_button">AIボタンを押す</string>
   <string name="skip_anyway_button_label">スキップ</string>
   <string name="skip_label">スキップ</string>
   <string name="skip_lock_screen_confirm_msg">通知、音楽プレーヤーのコントロール、及びショートカットはロック画面に表示されません</string>
