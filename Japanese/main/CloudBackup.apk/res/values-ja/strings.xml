@@ -109,17 +109,17 @@
   <string name="download_meta_failed">データを読み込めませんでした。</string>
   <string name="download_settings">ホーム画面の設定をダウンロード中 %s%%</string>
   <string name="download_settings_fail">ホーム画面の設定をダウンロードできませんでした</string>
-  <string name="error_retry_later">失敗しました。もう一度お試しください。</string>
+  <string name="error_retry_later">操作を完了できませんでした。しばらくしてからもう一度お試しください。</string>
   <string name="error_unknown">"不明なエラー"</string>
   <string name="get_device_id_error">デバイスIDを取得できませんでした</string>
-  <string name="home_hint_global_launcher">Poco Home screen</string>
-  <string name="home_hint_other_launcher">Other Home screen</string>
+  <string name="home_hint_global_launcher">Poco Launcher</string>
+  <string name="home_hint_other_launcher">Other Launcher</string>
   <string name="home_restore_error">ホーム画面を復元できませんでした</string>
   <string name="lack_of_storage">ストレージの空き領域が不足しています</string>
   <string name="latest_backup_time_loading">読み込み中…</string>
-  <string name="load_backup_failed">バックアップの読み込みに失敗しました</string>
+  <string name="load_backup_failed">バックアップを読み込めませんでした</string>
   <string name="loading_user_backup">ユーザーバックアップを読み込み中…</string>
-  <string name="main_space">Main space</string>
+  <string name="main_space">First space</string>
   <string name="managespace_delete_backup">削除</string>
   <string name="menu_item_managespace">spaceの管理</string>
   <string name="menu_item_sort">"並べ替え"</string>
@@ -175,6 +175,6 @@
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
   <string name="try_continue">続行するにはタップ</string>
-  <string name="unsupported_home">最新のOSにアップデートしてください。</string>
+  <string name="unsupported_home">MIUIを最新版に更新してください。</string>
   <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
 </resources>

@@ -19,7 +19,7 @@
   <string name="catch_full_log_action_cancel">キャンセル</string>
   <string name="catch_full_log_action_complete">完了とアップロード</string>
   <string name="catch_full_log_action_start">ログを生成</string>
-  <string name="catch_full_log_add_original_photo">写真を追加</string>
+  <string name="catch_full_log_add_original_photo">元の画像または短い動画を追加</string>
   <string name="catch_full_log_add_photo">写真を追加</string>
   <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
   <string name="catch_full_log_dialog_confirm_text">ホーム画面に移動</string>
@@ -107,7 +107,7 @@
   <string name="feedback_report_remind_login_desc">"エンジニアがあなたに連絡できるよう、お使いのMi Accountにログインしてください。"</string>
   <string name="feedback_report_remind_login_desc2">"\"My reports\"でレポートの進捗状況を確認することができます。"</string>
   <string name="feedback_retest_label">"再現手順"</string>
-  <string name="feedback_select_images">"画像を追加"</string>
+  <string name="feedback_select_images">"画像または短い動画を追加"</string>
   <string name="feedback_select_modem_log">"モデムログを追加"</string>
   <string name="feedback_select_modem_log_not_select_desc">\"モデムログを追加\"を選択していません</string>
   <string name="feedback_select_modem_log_select_desc">\"モデムログを追加\"を選択しました</string>
@@ -321,6 +321,7 @@
   <string name="title_answer_feedback_main">"回答が見つかりました！"</string>
   <string name="title_catch_full_log">ログ</string>
   <string name="title_customer_service">"カスタマーサービス"</string>
+  <string name="title_first_aid">First aid</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes nearby</string>
   <string name="title_nonsystem_app">"その他のアプリ"</string>
@@ -337,7 +338,7 @@
   <string name="toast_fill_brackets">"いくつかの情報がレポートに不足しています"</string>
   <string name="toast_loading_app_id">"情報を取得中…"</string>
   <string name="toast_log_not_exists">"必要なログが削除されたか、存在しません"</string>
-  <string name="toast_log_too_large">"アップロードできません。ファイルが大きすぎます。"</string>
+  <string name="toast_log_too_large">"アップロードできません。ログが大きすぎます。"</string>
   <string name="toast_module_required">"アイテムを選択してください"</string>
   <string name="toast_network_unavailable">"送信できませんでした。ネットワークに接続できません。"</string>
   <string name="toast_pending_log_collection">"ログを取得中…"</string>
@@ -347,7 +348,7 @@
   <string name="toast_report_copied_to_clipboard">"レポートをクリップボードにコピーしました"</string>
   <string name="toast_report_sent_failed">"レポートを送信できません"</string>
   <string name="toast_report_sent_succeed">"レポートが送信されました"</string>
-  <string name="toast_screenshot_too_large">"10MBを超えるファイルはアップロードできません。"</string>
+  <string name="toast_screenshot_too_large">"10MBを超える画像または動画はアップロードできません。"</string>
   <string name="toast_third_packagename_required">"アプリ名を入力してください"</string>
   <string name="toast_title_required">"問題の説明を記述してください"</string>
   <string name="try_again">"再試行"</string>

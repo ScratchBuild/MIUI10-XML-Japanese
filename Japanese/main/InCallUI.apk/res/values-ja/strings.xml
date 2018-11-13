@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="antispam_local_marked">Local marked</string>
-  <string name="antispam_marked_count">Reported by %1$d MIUI users</string>
   <string name="antispam_notification_title">"不明な番号"</string>
   <string name="antispam_provider">Identified by %s</string>
   <string name="callFailed_cb_enabled">"通話制限中は発信できません"</string>
@@ -47,7 +46,6 @@
   <string name="call_recording_notification_message_sd_unmounted">"SDカードが取り外されました。"</string>
   <string name="call_recording_notification_title">"通話の録音を開始しました"</string>
   <string name="call_recording_notification_title_error">"通話を録音できませんでした"</string>
-  <string name="call_title_redialing_with_times">"リダイヤル %d回"</string>
   <string name="caller_manage_header">"グループ通話 %s"</string>
   <string name="can_not_use">"使用できません"</string>
   <string name="cancel">"キャンセル"</string>
@@ -78,7 +76,6 @@
   <string name="close_camera_failed">"カメラをオフにできませんでした"</string>
   <string name="close_camera_requesting">"カメラをオフにしています…"</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
-  <string name="conference_call_number">"%s人"</string>
   <string name="conference_call_recorder_title">"グループ通話"</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$sのグループ通話"</string>

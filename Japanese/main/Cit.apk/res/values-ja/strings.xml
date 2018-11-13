@@ -29,6 +29,7 @@ Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_audio_cali_TEMP">Temp:</string>
   <string name="cit_audio_cali_done">Calibration Done!</string>
   <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
+  <string name="cit_audio_cali_fast_test_title">Speaker amplifier calibration fast test</string>
   <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
   <string name="cit_audio_cali_playing">Check Calibrated Data</string>
   <string name="cit_audio_cali_summary">Calibrate Speaker PA</string>
@@ -120,6 +121,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_exit_test_summary">終了すると、関連するすべてのテキストデータが消去されます。</string>
   <string name="cit_exit_test_title">テストを終了</string>
   <string name="cit_fail">不合格</string>
+  <string name="cit_fast_screen_touch_check_title">Fast touch screen check test</string>
   <string name="cit_finger_check_title">指紋認証テスト(FPC)</string>
   <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
   <string name="cit_flash_life_check_title">Flash life</string>
