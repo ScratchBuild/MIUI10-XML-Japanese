@@ -72,6 +72,11 @@
   <string name="cast_unmute">ミュート解除</string>
   <string name="click_to_reload_more">Tap to load more</string>
   <string name="click_to_retry">再試行</string>
+  <string name="com_mixpanel_android_close">閉じる</string>
+  <string name="com_mixpanel_android_done">完了</string>
+  <string name="com_mixpanel_android_exit">終了</string>
+  <string name="com_mixpanel_android_logo">By Mixpanel</string>
+  <string name="com_mixpanel_android_notification_image">画像が表示されない</string>
   <string name="com_permission_desc">"Mi Videoは端末上の動画にアクセスできません。[設定]から権限を許可してください。"</string>
   <string name="com_permission_title">"アクセス許可が必要"</string>
   <string name="common_google_play_services_enable_button">有効にする</string>
@@ -121,6 +126,7 @@
   <string name="exo_controls_rewind_description">巻戻し</string>
   <string name="exo_controls_stop_description">停止</string>
   <string name="explore_on_mi_video">Find more on Mi Video</string>
+  <string name="failed_to_fetch_data">情報を読み込めませんでした。</string>
   <string name="finish">完了</string>
   <string name="for_you">For you</string>
   <string name="fw_loading">読み込み中…</string>

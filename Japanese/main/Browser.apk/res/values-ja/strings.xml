@@ -56,6 +56,8 @@
   <string name="action_menu_text_share">"共有"</string>
   <string name="action_menu_text_snapshot">"ページを保存"</string>
   <string name="action_menu_text_video">"ビデオ"</string>
+  <string name="action_menu_toast_incognito_off">シークレットモードをオフにする</string>
+  <string name="action_menu_toast_incognito_on">シークレットモードをオンにする</string>
   <string name="action_menu_toolbox">"ツール"</string>
   <string name="action_menu_useful_page">"ショートカットを追加"</string>
   <string name="action_menu_useful_page_added">"スタートページに追加しました"</string>
@@ -103,6 +105,7 @@
   <string name="agree_permissions_request">"許可"</string>
   <string name="alert_tips">"このサイトにはセキュリティ上のリスクがあります"</string>
   <string name="allow">"許可する"</string>
+  <string name="app_download_market_text">Miマーケットを使用して、より高速で安全なダウンロード</string>
   <string name="app_new_version">"このアプリの最新バージョンが既にインストールされています"</string>
   <string name="app_update_install">"アップデートをインストールする準備ができました。"</string>
   <string name="application_name">"ブラウザ"</string>
@@ -204,6 +207,7 @@
   <string name="contextmenu_dial_dot">"発信…"</string>
   <string name="contextmenu_download_image">"画像を保存"</string>
   <string name="contextmenu_download_image_as">"名前を付けて画像を保存"</string>
+  <string name="contextmenu_incognito">シークレットモード</string>
   <string name="contextmenu_manually_block_ad">"広告としてラベル付け"</string>
   <string name="contextmenu_map">"地図"</string>
   <string name="contextmenu_openlink">"リンクを開く"</string>
@@ -263,8 +267,11 @@
   <string name="document_download_background_btn">"バックグラウンドでダウンロード"</string>
   <string name="document_download_cancel_btn">"キャンセル"</string>
   <string name="document_download_failed">"ダウンロードできませんでした"</string>
+  <string name="document_download_immediate">すぐにダウンロード</string>
+  <string name="document_download_normal">標準ダウンロード</string>
   <string name="document_download_official">"公式版をダウンロード"</string>
   <string name="document_download_open_direct">"直接開く"</string>
+  <string name="document_download_recommending">Safe download(Recommending)</string>
   <string name="document_download_title">"ダウンロード中"</string>
   <string name="document_open_file">"%sを開く"</string>
   <string name="document_open_message">"あなたの読書体験を向上しセキュリティを確保するため、WPSのカスタマイズされたバージョンを使用します"</string>
@@ -275,10 +282,9 @@
   <string name="download_btn_select_none">"すべて選択を解除"</string>
   <string name="download_complete">"正常にダウンロードされました"</string>
   <string name="download_completed">"ダウンロード済み"</string>
-  <string name="download_dialog_file_length_hint_txt">"ファイルサイズ: "</string>
+  <string name="download_dialog_file_length_default_txt">読み込み中…</string>
   <string name="download_dialog_file_length_lessthan1kb">"1KB未満"</string>
   <string name="download_dialog_file_length_nolength_error_txt">"ダウンロードできませんでした"</string>
-  <string name="download_dialog_file_length_nolength_txt">"読み込み中…"</string>
   <string name="download_failed">"ダウンロードを完了できませんでした"</string>
   <string name="download_filter_all">"すべて"</string>
   <string name="download_filter_apk">APK</string>
@@ -882,6 +888,7 @@
   <string name="not_now">"後で"</string>
   <string name="not_remind_again">"この選択を記憶する"</string>
   <string name="notif_install_successful">"ダウンロード完了"</string>
+  <string name="novel_toast_hint">This website has been added to the bookshelf</string>
   <string name="ok">OK</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
   <string name="open_cloud_sync">"Mi Cloudとの同期をオンにする"</string>
@@ -949,8 +956,7 @@
   <string name="pref_extras_send_feedback">"フィードバックを送信"</string>
   <string name="pref_extras_title">"高度な設定"</string>
   <string name="pref_extras_title_version">"バージョン情報"</string>
-  <string name="pref_fling_on_border">"端からスワイプ"</string>
-  <string name="pref_fling_on_border_title_summary">"画面の左または右の端からスワイプ"</string>
+  <string name="pref_fling_gesture">スワイプジェスチャー</string>
   <string name="pref_font_size_category">"文字サイズ"</string>
   <string name="pref_force_userscalable">"拡大縮小設定の上書き"</string>
   <string name="pref_force_userscalable_summary">"サイトの拡大縮小設定を上書き"</string>
@@ -1003,12 +1009,12 @@
   <string name="pref_security_show_security_warning">"セキュリティ警告"</string>
   <string name="pref_security_show_security_warning_summary">"サイトの安全性に問題がある場合に警告を表示する"</string>
   <string name="pref_set_homepage_to">"設定先:"</string>
-  <string name="pref_slide_back_forward">スライドで 戻る または 進む</string>
   <string name="pref_tab_restore">起動時に最後に開いたページを復元する</string>
   <string name="pref_ua_string">"UA文字列"</string>
   <string name="pref_version_info">"バージョン情報"</string>
   <string name="pref_volume_key_action">"音量ボタンを使用してスクロールする"</string>
   <string name="progress_dialog_setting_wallpaper">"壁紙を設定しています…"</string>
+  <string name="publish_to_topic">トピックに公開する</string>
   <string name="pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="pull_to_refresh_release_label">"指を離して更新"</string>
   <string name="pwa_app_name">"ウェブアプリ"</string>
@@ -1210,6 +1216,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggestion_more_news">"その他のニュース"</string>
   <string name="suggestion_more_news_start_title_text">"関連ニュース"</string>
   <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
+  <string name="suggestion_sliding_item_more_text">続きを見る</string>
   <string name="suggestion_topic_subtitle_hyphen">Focus</string>
   <string name="suggestion_translation_more">VIEW MORE</string>
   <string name="switchText">"はい"</string>

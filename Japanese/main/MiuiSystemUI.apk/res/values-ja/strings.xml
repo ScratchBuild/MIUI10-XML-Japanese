@@ -1563,7 +1563,7 @@ EEEE"</string>
   <string name="unimportant_desc">すべての重要でない通知は、別のフォルダに表示されます。</string>
   <string name="unimportant_title">重要でない</string>
   <string name="unknown">不明</string>
-  <string name="unlock_camera_steady">Please keep steady</string>
+  <string name="unlock_camera_steady">端末を動かさないでください</string>
   <string name="unlock_failed">"内部エラー"</string>
   <string name="unlock_failed_face_not_found">"検出中"</string>
   <string name="unlock_label">ロック解除</string>
