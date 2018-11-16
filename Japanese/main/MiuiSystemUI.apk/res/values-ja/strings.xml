@@ -448,6 +448,7 @@
   <string name="dock_forced_resizable">アプリは分割画面では動作しないことがあります。</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">分割画面はロック画面上ではサポートされていません。</string>
   <string name="dock_non_resizeble_failed_to_dock_text">アプリは分割画面をサポートしていません。</string>
+  <string name="download_lock_wallpaper">Double tap to download Music</string>
   <string name="drag_to_add_tiles">アイテムを追加または並べ替えるには長押し</string>
   <string name="drag_to_remove_tiles">削除するにはここにドラッグ</string>
   <string name="drive_mode_tip">運転モードはオンです</string>

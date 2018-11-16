@@ -249,7 +249,7 @@
   <string name="micloud_privacy_cloud_off">同期はオフです</string>
   <string name="micloud_privacy_cloud_sync">Mi Cloudサービスを有効にする</string>
   <string name="micloud_privacy_explanation">Grant authorization to turn on Mi Cloud services</string>
-  <string name="micloud_privacy_licence_agreed">Mi Cloudのプライバシーポリシーに同意します。</string>
+  <string name="micloud_privacy_licence_agreed">Mi Cloudの&lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>プライバシーポリシー&lt;/u>&lt;/a>に同意します。</string>
   <string name="micloud_privacy_licence_privacy_policy">プライバシーポリシー</string>
   <string name="micloud_privacy_progress_content">Granting authorization…</string>
   <string name="micloud_privacy_warning_button">戻る</string>

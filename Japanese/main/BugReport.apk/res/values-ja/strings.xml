@@ -328,6 +328,7 @@
   <string name="title_same_question_feedback_main">"MIUIフォーラム内での類似の問題"</string>
   <string name="title_system_app">"MIUIアプリ"</string>
   <string name="toast_catch_full_log_catching">一度に1つのログしか生成できません。</string>
+  <string name="toast_catch_full_log_open_failed">ログの記録を開始できませんでした。</string>
   <string name="toast_description_required">"説明を記述する必要があります"</string>
   <string name="toast_feedback_collect_store">"ログの収集中…"</string>
   <string name="toast_feedback_network_unavailable">"ネットワークに接続できません"</string>

@@ -429,6 +429,7 @@
   <string name="corpus_hint_apps">アプリを検索</string>
   <string name="corpus_label_apps">アプリ</string>
   <string name="cta_desc">"It's ideal for shortcuts, info, and your favorite features"</string>
+  <string name="cta_dialog_miot_text_all">To ensure it can function normally, Mi Home might need to acquire your network, location, the authorization to turn on your Bluetooth, use your cellular network, microphone and read your contacts. Do you confirm?</string>
   <string name="cta_dialog_negative">終了</string>
   <string name="cta_dialog_positive">同意</string>
   <string name="cta_dialog_text_all">To use App vault, you should read and agree with %1$s\"User Agreement\" %2$s and %3$s \"Privacy Policy\" %4$s. The service also requires internet connection and access to the location services. The content catcher used by some services also requires internet connection. Agree?</string>
@@ -1064,7 +1065,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="miot_device_all_device">全部设备</string>
   <string name="miot_device_camera_size">%d個のカメラ</string>
   <string name="miot_device_cancel">取消</string>
-  <string name="miot_device_card_title">Mi Home</string>
+  <string name="miot_device_card_title">Mi home</string>
   <string name="miot_device_click_show_detail">点击了解智能家居</string>
   <string name="miot_device_click_show_img">画面を表示するにはタップ</string>
   <string name="miot_device_cta_and">と</string>

@@ -42,7 +42,7 @@
   <string name="hide_mode_desc"><font color="#000000">アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。</font></string>
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="high_temp_state">過熱状態</string>
-  <string name="high_temp_state_message">過熱制御のため、データ接続、テザリング、GPS、カメラ、その他の使用が制限されます</string>
+  <string name="high_temp_state_message">お使いの端末が過熱状態です。データ接続、テザリング、GPS、カメラなどの使用が制限されます。</string>
   <string name="hints_loading_text">"読み込み中…"</string>
   <string name="important_warning">"警告"</string>
   <string name="lasttime_applist_cloud">"更新されたアプリ:"</string>

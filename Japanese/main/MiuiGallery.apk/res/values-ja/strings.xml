@@ -98,7 +98,6 @@
   <string name="app_name">"ギャラリー"</string>
   <string name="app_name_view_picture">"写真を表示"</string>
   <string name="app_name_view_video">"動画を表示"</string>
-  <string name="apply">"適用"</string>
   <string name="assistant_page_label">"ストーリー"</string>
   <string name="associate_face_album">"アルバムを選択"</string>
   <string name="auto_backup_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
@@ -123,10 +122,6 @@
   <string name="baby_album_sharers_page_title">"家族と共有"</string>
   <string name="baby_birthday">"誕生日"</string>
   <string name="baby_face_desc">"赤ちゃんのアルバム"</string>
-  <string name="baby_lock_wallpaper">"ロック画面の壁紙"</string>
-  <string name="baby_lock_wallpaper_cancelled">"ロック画面の壁紙をデフォルトに切り替えました"</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">"現在の設定を適用しますか？"</string>
-  <string name="baby_lock_wallpaper_title">"赤ちゃんの画像をロック画面の壁紙として使用"</string>
   <string name="baby_name_cannot_empty">"名前を入力"</string>
   <string name="baby_name_cannot_start_with">"名前は'%s'で始めることはできません"</string>
   <string name="baby_name_contain_invalidate_char">"名前に'%s'を含めることはできません"</string>
@@ -194,7 +189,6 @@
   <string name="by_sms">"SMS"</string>
   <string name="camera_needs_auto_backup_tip">"カメラのアルバムはバックアップが必要です"</string>
   <string name="cancel">"キャンセル"</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">"ロック画面の壁紙をデフォルトに切り替えますか？"</string>
   <string name="cancel_download_btn_text">"停止する"</string>
   <string name="cancel_hint">"操作がキャンセルされました"</string>
   <string name="cannot_remove_creator">"作成者を削除できません"</string>
@@ -348,6 +342,11 @@
   <string name="disable_auto_upload_tip">"このアルバムのMi Cloudとの同期をオフにしますか？"</string>
   <string name="disable_auto_upload_title">"Mi Cloudとの同期をオフにする"</string>
   <string name="do_not_remind_me">"二度と表示しない"</string>
+  <string name="document_provider_guide_step_1">1. \"もっと\"ボタンをタップ。</string>
+  <string name="document_provider_guide_step_2">2. \"内部ストーレジを表示\"をタップ。</string>
+  <string name="document_provider_guide_step_3">3. サイドメニューのボタンをタップ。</string>
+  <string name="document_provider_guide_step_4">4. \"SDカード\"を選択。</string>
+  <string name="document_provider_guide_step_5">5. \"選択\"をタップ。</string>
   <string name="double_tap_to_higher_definition">Double tap again for the HD preview</string>
   <string name="download_canceled">"ダウンロードをキャンセルしました"</string>
   <string name="download_error_format">"%sをダウンロードできませんでした"</string>
@@ -451,6 +450,17 @@
   <string name="exit_video_play">"終了"</string>
   <string name="expand_desc">"その他"</string>
   <string name="expand_people">Show more people</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">ギャラリーは内部ストレージにアイテムを保存します。これは [設定] &gt; [ストレージ] &gt; [ストレージ設定] から変更することができます。</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">権限を許可できませんでした。</string>
+  <string name="ext_sdcard_guide_first_page_button_text">次へ</string>
+  <string name="ext_sdcard_guide_last_page_button_text">権限を許可する</string>
+  <string name="ext_sdcard_guide_text">ギャラリーにはSDカードへのアクセス許可が必要です。次の手順を実施してください:</string>
+  <string name="ext_sdcard_operation_failed_text">ギャラリーにはSDカードへのアクセス許可が必要です。</string>
+  <string name="ext_sdcard_operation_failed_title">操作を完了できませんでした</string>
+  <string name="ext_sdcard_permission_request_button_text">OK</string>
+  <string name="ext_sdcard_permission_request_reason">ギャラリーアプリがSDカードに保存されている写真や動画を編集または削除するには、SDカードへのアクセス許可が必要です。</string>
+  <string name="ext_sdcard_permission_request_title">ギャラリーにSDカードへのアクセスを許可する</string>
+  <string name="ext_sdcard_request_succeed_toast_text">"You're ready to rock!"</string>
   <string name="face_album_empty">"Not enough photos to recognize people.
 Take more photos of your friends!"</string>
   <string name="face_album_empty_syncing">Syncing data, come back in a while</string>
@@ -1018,7 +1028,6 @@ Take more photos of your friends!"</string>
   <string name="send_secret_file_failed">"共有できませんでした"</string>
   <string name="send_secret_file_space_low">"ストレージに十分な空き領域がありません"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
-  <string name="set_as_baby_lock_wallpaper">"ロック画面の壁紙に設定"</string>
   <string name="set_as_slide_wallpaper_description">この画像はサムネイルです、元のファイルをダウンロードしますか？</string>
   <string name="set_as_slide_wallpaper_title">スライドショーの壁紙として設定</string>
   <string name="set_as_wallpaper_description">"この画像はサムネイルです、元のファイルをダウンロードしますか？"</string>

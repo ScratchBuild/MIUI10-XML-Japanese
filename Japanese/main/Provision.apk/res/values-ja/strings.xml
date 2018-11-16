@@ -106,4 +106,5 @@ You must agree to our Terms of Service and Privacy Policy before you can use MIU
   <string name="voice_assist_desp">Say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
   <string name="voice_assist_title">Wake with voice</string>
   <string name="welcome">"ようこそ"</string>
+  <string name="zone_picker_title">タイムゾーンを選択</string>
 </resources>

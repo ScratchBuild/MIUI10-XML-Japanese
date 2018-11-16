@@ -6,6 +6,11 @@
   <string name="back_to_message_list">メッセージのリストへ戻る</string>
   <string name="button_close">閉じる</string>
   <string name="click_to_update">更新を確認するにはタップ</string>
+  <string name="cm_privacy_dialog_allow">同意</string>
+  <string name="cm_privacy_dialog_cancel">キャンセル</string>
+  <string name="cm_privacy_dialog_spannable_tips">プライバシーポリシー</string>
+  <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
+  <string name="cm_privacy_dialog_title">Attention</string>
   <string name="confirm_delete_conversation">この全スレッドを削除しますか？</string>
   <string name="confirm_delete_group_message">グループメッセージを削除しますか？</string>
   <string name="confirm_delete_locked_message">ロックされているこのメッセージを削除しますか？</string>
@@ -30,11 +35,12 @@
   <string name="hybrid_try_again">再試行</string>
   <string name="imageview_ad">Ad</string>
   <string name="menu_forward">転送</string>
-  <string name="menu_lock">スター</string>
-  <string name="menu_unlock">スターを外す</string>
+  <string name="menu_lock">お気に入りに追加</string>
+  <string name="menu_unlock">お気に入りから削除</string>
   <string name="message_details_title">メッセージの詳細</string>
   <string name="message_type_label">"タイプ: "</string>
   <string name="messaging">Messaging</string>
+  <string name="mx_message">Mi Message</string>
   <string name="packages_select_sim_cards_title">SIMカードを選択</string>
   <string name="received_label">"受信: "</string>
   <string name="repayment_network_error">ネットワークに問題が発生しました</string>
@@ -45,6 +51,7 @@
   <string name="sim2">SIM 2</string>
   <string name="smart_messages_network_allow_message">Mi Messageのサービスが正常に動作するには、インターネットへの接続が必要です。許可しますか？</string>
   <string name="smart_messages_network_allow_title">インターネット接続が必要です</string>
+  <string name="summary_pref_cm_smart_sms">Card templates, SMS service numbers, and more.</string>
   <string name="text_message">テキストメッセージ</string>
   <string name="updating">更新中…</string>
   <string name="view_message_details">詳細を表示</string>
