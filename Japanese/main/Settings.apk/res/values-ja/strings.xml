@@ -2,6 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">アカウント</string>
   <string name="about_ad_service_instructions">"広告サービスとプライバシーについて "</string>
+  <string name="about_phone_device_name_warning">端末名がスマートフォンのアプリに表示されます。また、Bluetooth デバイスに接続したり Wi-Fi アクセス ポイントを設定したりすると、他のユーザーも端末名を確認できるようになります。</string>
   <string name="about_phone_enter_xiaomi_net">詳細</string>
   <string name="about_settings">端末情報</string>
   <string name="about_settings_summary">端末情報、規約、バージョン情報</string>
@@ -95,6 +96,9 @@
   <string name="account_settings_menu_auto_sync_work">仕事データの自動同期</string>
   <string name="account_settings_title">アカウント</string>
   <string name="account_sync_settings_title">同期</string>
+  <string name="account_sync_summary_all_off">すべてのアイテムで同期が OFF</string>
+  <string name="account_sync_summary_all_on">すべてのアイテムで同期が ON</string>
+  <string name="account_sync_summary_some_on">%2$d 件中 %1$d 件のアイテムで同期が ON</string>
   <string name="activating">有効にしています…</string>
   <string name="active_device_admin_msg">デバイス管理者</string>
   <string name="active_input_method_subtypes">有効な入力方法</string>
@@ -147,6 +151,7 @@
   <string name="admin_profile_owner_user_message">管理者は、設定、アクセス許可、企業アクセス、ネットワークアクティビティ、端末の位置情報など、このユーザーに関連付けられているアプリとデータを監視および管理できます。</string>
   <string name="admin_support_more_info">その他の詳細</string>
   <string name="advanced_apps">詳細設定</string>
+  <string name="advanced_battery_graph_subtext">電池残量は端末の使用状況に基づく推定値です</string>
   <string name="advanced_battery_title">電池の使用状況の詳細</string>
   <string name="advanced_section_header">詳細設定</string>
   <string name="advanced_security_title">詳細設定</string>
@@ -169,6 +174,8 @@
   <string name="alarm_sound_title">アラーム音</string>
   <string name="alarm_stop">Turn off Silent mode when alarm goes off</string>
   <string name="alarm_stop_info">Silent mode will be turned off when alarm goes off</string>
+  <string name="alarm_template">%1$s</string>
+  <string name="alarm_template_far">%1$s</string>
   <string name="alarm_volume_option_title">アラームの音量</string>
   <string name="alarm_volume_title">アラーム</string>
   <string name="all_volume_title">音量</string>
@@ -178,6 +185,8 @@
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$sによるウィジェットの作成とデータへのアクセスを常に許可する</string>
   <string name="allow_data_usage_title">ローミング時にデータ使用を許可</string>
   <string name="allow_device_id_access">アプリにデバイスIDの使用を許可</string>
+  <string name="allow_interruption">割り込みの許可</string>
+  <string name="allow_interruption_summary">音やバイブレーションによる通知、または画面のポップアップ通知をアプリに許可します</string>
   <string name="allow_mock_location">擬似ロケーションを許可</string>
   <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
@@ -187,8 +196,12 @@
   <string name="always_running">"常に実行（%s）"</string>
   <string name="amber_alerts_summary">児童誘拐についての速報を受信する</string>
   <string name="amber_alerts_title">誘拐事件速報</string>
+  <string name="ambient_display_category_triggers">表示するタイミング</string>
   <string name="ambient_display_pickup_summary">通知をすばやく確認するには、スマートフォンを持ち上げます。</string>
   <string name="ambient_display_pickup_title">端末を持ち上げて通知をチェック</string>
+  <string name="ambient_display_screen_summary_always_on">常に ON / 電池使用量が増えます</string>
+  <string name="ambient_display_screen_summary_notifications">新しい通知</string>
+  <string name="ambient_display_screen_title">アンビエント表示</string>
   <string name="ambient_display_summary">通知をすばやく確認するには、画面をダブルタップします。</string>
   <string name="ambient_display_title">端末の画面をダブルタップして通知をチェック</string>
   <string name="android_beam_disabled_summary">NFCがOFFのため使用できません</string>
@@ -201,6 +214,8 @@
   <string name="android_beam_settings_title">Androidビーム</string>
   <string name="android_beam_tips">端末が接触していることを確認してビームしたいコンテンツをタップします</string>
   <string name="android_beam_witch_label">Androidビーム</string>
+  <string name="android_version_pending_update_summary">アップデートを利用できます</string>
+  <string name="android_version_summary">Android %1$s に更新済み</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="anti_spam">ブロックリスト</string>
   <string name="aod_close_color_inversion">この機能は色反転と同時に使用することはできません。最初に色反転をオフにしてください。</string>
@@ -236,6 +251,7 @@
   <string name="apn_type">APNタイプ</string>
   <string name="apn_user">ユーザー名</string>
   <string name="app_backup">バックアップ</string>
+  <string name="app_cellular_data_usage">アプリのデータ使用量</string>
   <string name="app_detail">詳細</string>
   <string name="app_data_usage">アプリのデータ使用量</string>
   <string name="app_disable_dlg_positive">アプリを無効にする</string>
@@ -307,6 +323,7 @@
   <string name="app_special_disable_dlg_text">このアプリを無効にすると、他のアプリが意図されたとおりに動作しなくなる可能性があります。データも削除されます。</string>
   <string name="app_special_disable_dlg_title">データを削除し、アプリを無効にしますか？</string>
   <string name="app_switch_key">履歴</string>
+  <string name="app_usage_cycle">アプリのデータ使用量のサイクル</string>
   <string name="app_usage_preference">アプリの使用状況の設定</string>
   <string name="app_version">バージョン</string>
   <string name="app_wifi">Wi-Fi</string>
@@ -324,6 +341,7 @@
   <string name="applications_settings">ユーザーアプリ</string>
   <string name="applications_settings_header">アプリの設定</string>
   <string name="applications_settings_summary">アプリの管理やクイック起動ショートカットのセットアップ</string>
+  <string name="apply">適用</string>
   <string name="apply_fingerprint_to_category_title">指紋認証の適用</string>
   <string name="apply_now_button_text">アップデート</string>
   <string name="apply_password_to_category_title">ロック解除を要求</string>
@@ -359,6 +377,7 @@
   <string name="audio_list_loading">読み込み中…</string>
   <string name="audio_profile_settings_title">音楽プロファイル</string>
   <string name="audio_record_proc_title">ノイズキャンセル</string>
+  <string name="auto_brightness_description">画面の明るさは環境やアクティビティに応じて自動的に調整されます。スライダーを手動で動かして、明るさの自動調節機能に設定を学習させることもできます。</string>
   <string name="auto_brightness_disclaimer">周囲に合わせて明るさを最適化します。この機能が ON の場合でも、一時的に明るさを調整できます。</string>
   <string name="auto_brightness_high_title">高</string>
   <string name="auto_brightness_low_title">低</string>
@@ -414,10 +433,12 @@
   <string name="automatic_storage_manager_freed_bytes">計 %1$s が利用可能になりました
 
 最終実行: %2$s"</string>
+  <string name="automatic_storage_manager_master_switch_title">スマート ストレージの使用</string>
   <string name="automatic_storage_manager_preference_title">スマート ストレージ</string>
   <string name="automatic_storage_manager_settings">ストレージの管理</string>
   <string name="automatic_storage_manager_text">ストレージの空き容量が少なくなったときに、バックアップ済みの写真や動画を削除します。削除した後でも引き続き Google フォトで確認できます。</string>
   <string name="available_size">空き容量： %s</string>
+  <string name="available_via_carrier">%1$s 経由で使用可能</string>
   <string name="available_via_passpoint">%1$s経由で使用可能</string>
   <string name="average_memory_use">平均メモリ使用</string>
   <string name="average_used">平均使用（%%）</string>
@@ -425,11 +446,17 @@
   <string name="awake">端末使用時間</string>
   <string name="back_button">戻る</string>
   <string name="back_key">戻る</string>
+  <string name="background_activity_disabled_dialog_text">"このアプリは、電池の最適化が設定されていないため、制限することはできません。
+
+このアプリを制限するには、電池の最適化を ON にしてください。"</string>
   <string name="background_activity_summary">バックグラウンドでのアプリの実行を許可</string>
   <string name="background_activity_summary_disabled">バックグラウンドでのアプリの実行は許可されません</string>
+  <string name="background_activity_summary_whitelisted">バックグラウンドでの使用を制限できません</string>
   <string name="background_activity_summary_off">使用していないときはアプリのバックグラウンド アクティビティが制限されます</string>
   <string name="background_activity_summary_on">使用していないときはアプリをバックグラウンドで実行できます</string>
   <string name="background_activity_title">バックグラウンド アクティビティ</string>
+  <string name="background_activity_warning_dialog_text">アプリのバックグラウンド アクティビティを制限すると、アプリが正常に機能しないことがあります</string>
+  <string name="background_activity_warning_dialog_title">バックグラウンド アクティビティの制限</string>
   <string name="background_check_pref">バックグラウンド チェック</string>
   <string name="background_check_title">バックグラウンドへのフルアクセス</string>
   <string name="background_data">バックグラウンドデータ</string>
@@ -458,12 +485,20 @@
   <string name="baseband_version">ベースバンドバージョン</string>
   <string name="batch_delete_saved_network">選択したネットワーク（%s）を削除しますか？</string>
   <string name="batch_delete_saved_networks">選択したすべてのネットワークを削除</string>
+  <string name="battery_abnormal_apps_summary">%1$d 個のアプリの動作に問題があります</string>
+  <string name="battery_abnormal_details_title">電池を消費しているアプリ</string>
+  <string name="battery_abnormal_location_summary">位置情報を頻繁にリクエストしています</string>
+  <string name="battery_abnormal_wakelock_summary">端末がスリープ状態に移行しないようにします</string>
+  <string name="battery_abnormal_wakeup_alarm_summary">バックグラウンドで端末をスリープ状態から復帰させています</string>
   <string name="battery_action_app_details">アプリ情報</string>
   <string name="battery_action_app_settings">アプリの設定</string>
   <string name="battery_action_bluetooth">Bluetoothの設定</string>
   <string name="battery_action_display">画面の設定</string>
   <string name="battery_action_stop">強制停止</string>
   <string name="battery_action_wifi">Wi-Fiの設定</string>
+  <string name="battery_active_for">^1アクティブ</string>
+  <string name="battery_auto_restriction_summary">アプリの電池使用量が多いかどうかを検出します</string>
+  <string name="battery_auto_restriction_title">バッテリー マネージャの使用</string>
   <string name="battery_desc_apps">アプリの電池使用量</string>
   <string name="battery_desc_bluetooth">Bluetoothの電池使用量</string>
   <string name="battery_desc_camera">カメラの電池使用量</string>
@@ -485,6 +520,7 @@
   <string name="battery_detail_since_full_charge">前回のフル充電以降の内訳</string>
   <string name="battery_details_title">電池の使用状況</string>
   <string name="battery_footer_summary">電池の使用状況データは概算値であり、使用状況によって変わります</string>
+  <string name="battery_full_charge_last">フル充電での推定使用時間</string>
   <string name="battery_history_days">%1$d日%2$d時間%3$d分%4$d秒</string>
   <string name="battery_history_days_no_seconds">%1$d日%2$d時間%3$d分</string>
   <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
@@ -534,16 +570,25 @@
   <string name="battery_level_title">電池残量</string>
   <string name="battery_light_summary">充電中は通知LEDを点灯します</string>
   <string name="battery_light_title">充電中に点灯</string>
+  <string name="battery_manager_off">OFF</string>
+  <string name="battery_manager_on">使用頻度の低いアプリの電池使用を制限しています</string>
   <string name="battery_msg_unaccounted">電池使用量は消費電力の概算であり、電池を消費するすべてのソースが含まれているわけではありません。「その他」は、算出された概算消費電力と実際に確認された電池消費量との差です。</string>
   <string name="battery_overall_usage">電池使用量全体の %1$s</string>
   <string name="battery_percentage">電池残量</string>
   <string name="battery_percentage_description">ステータスバーに電池残量を表示する</string>
   <string name="battery_power_management">電源管理</string>
   <string name="battery_saver">バッテリーセーバー</string>
+  <string name="battery_saver_auto_title">自動的に ON</string>
+  <string name="battery_saver_button_turn_off">今すぐ OFF にする</string>
+  <string name="battery_saver_button_turn_on">今すぐ ON にする</string>
   <string name="battery_saver_desc_turn_on_auto_never">自動的にONにしない</string>
   <string name="battery_saver_desc_turn_on_auto_pct">電池残量が%1$sになったら自動的にONにする</string>
-  <string name="battery_saver_off_summary">OFF / %1$s</string>
-  <string name="battery_saver_on_summary">ON / %1$s</string>
+  <string name="battery_saver_master_switch_title">バッテリー セーバーの使用</string>
+  <string name="battery_saver_off_scheduled_summary">%1$s で ON になります</string>
+  <string name="battery_saver_off_summary">OFF</string>
+  <string name="battery_saver_on_summary">ON</string>
+  <string name="battery_saver_seekbar_title">しきい値: %1$s</string>
+  <string name="battery_saver_seekbar_title_placeholder">ON にする</string>
   <string name="battery_saver_turn_on_automatically_never">使用しない</string>
   <string name="battery_saver_turn_on_automatically_pct">電池残量%1$d%%</string>
   <string name="battery_saver_turn_on_automatically_title">自動的にON</string>
@@ -571,13 +616,45 @@
   <string name="battery_sugg_display">画面の明るさを下げたり画面消灯までの時間を短くしたりします</string>
   <string name="battery_sugg_radio">電波が届かない場所では機内モードに切り替えて電池を節約します。</string>
   <string name="battery_sugg_wifi">未使用時または圏外のときWi-FiをOFFにします</string>
+  <string name="battery_suggestion_title">スマートフォンの電池寿命の改善</string>
   <string name="battery_summary">前回のフル充電から%1$d%%使用しています</string>
-  <string name="battery_used_by">%1$s: %2$s</string>
+  <string name="battery_tip_dialog_message">"スマートフォンの電池使用量が通常より多いため、予想より早く電池がなくなる可能性があります。
+
+フル充電以降に使用した上位 %1$d 個のアプリ:"</string>
+  <string name="battery_tip_dialog_summary_message">"アプリの電池使用量は正常です。アプリが電池を使いすぎる場合は、対処可能なおすすめの方法がスマートフォンに表示されます。
+
+電池の残量が少なくなったら、いつでもバッテリー セーバーを ON にできます。"</string>
+  <string name="battery_tip_early_heads_up_done_summary">一部の機能が制限される可能性があります</string>
+  <string name="battery_tip_early_heads_up_done_title">バッテリー セーバー ON</string>
+  <string name="battery_tip_early_heads_up_summary">電池が通常より早くなくなる可能性があります</string>
+  <string name="battery_tip_early_heads_up_title">バッテリー セーバーを ON にしてください</string>
+  <string name="battery_tip_high_usage_summary">もうすぐ電池がなくなります</string>
+  <string name="battery_tip_high_usage_title">スマートフォンの電池使用量が通常より多くなっています</string>
+  <string name="battery_tip_low_battery_summary">電池の残量が減っています</string>
+  <string name="battery_tip_low_battery_title">電池残量の低下</string>
+  <string name="battery_tip_restrict_app_dialog_message">「%1$s」によるバックグラウンドでの電池使用を停止すると、電池が長持ちします。制限したアプリは正常に動作しないことがあります。また、通知が遅れる可能性もあります。</string>
+  <string name="battery_tip_restrict_app_dialog_ok">制限</string>
+  <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"このアプリによるバックグラウンドでの電池使用を停止すると、電池が長持ちします。制限したアプリは正常に動作しないことがあります。また、通知が遅れる可能性もあります。
+
+アプリ:"</string>
+  <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"このアプリによるバックグラウンドでの電池使用を停止すると、電池が長持ちします。制限したアプリは正常に動作しないことがあります。また、通知が遅れる可能性もあります。
+
+アプリ:
+%1$s."</string>
+  <string name="battery_tip_smart_battery_summary">バッテリー セーバー を ON にしてください</string>
+  <string name="battery_tip_smart_battery_title">スマートフォンの電池寿命の改善</string>
+  <string name="battery_tip_summary_summary">スマートフォンのバックグラウンドでの電池使用量は正常です</string>
+  <string name="battery_tip_summary_title">アプリは正常に実行されています</string>
+  <string name="battery_tip_unrestrict_app_dialog_cancel">キャンセル</string>
+  <string name="battery_tip_unrestrict_app_dialog_message">このアプリはバックグラウンドで電池を使用するため、電池が予想より早くなくなる可能性があります。</string>
+  <string name="battery_tip_unrestrict_app_dialog_ok">削除</string>
+  <string name="battery_tip_unrestrict_app_dialog_title">制限を解除しますか？</string>
   <string name="battery_used_for">^1使用</string>
   <string name="bearer">ベアラー</string>
-  <string name="billing_cycle">請求期間</string>
-  <string name="billing_cycle_fragment_summary">%1$s 日から月単位で請求</string>
-  <string name="billing_cycle_summary">月単位の請求期間の開始日は、毎月 %1$s 日です</string>
+  <string name="billing_cycle">データの警告と制限</string>
+  <string name="billing_cycle_fragment_summary">毎月 %1$s 日</string>
+  <string name="billing_cycle_less_than_one_day_left">残り 1 日未満</string>
+  <string name="billing_cycle_none_left">残り時間なし</string>
   <string name="bind_xiaomi_account_confirm">追加</string>
   <string name="bind_xiaomi_account_dialog_summery">Mi Account %s を追加しようとしています。パスワードを忘れた場合、このアカウントを使用してパスワードをリセットすることができます。</string>
   <string name="bind_xiaomi_account_success">Mi Accountが正常に追加されました</string>
@@ -600,6 +677,8 @@
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
+  <string name="bluetooth_active_battery_level">有効、電池 %1$s</string>
+  <string name="bluetooth_active_no_battery_level">有効</string>
   <string name="bluetooth_advanced_titlebar">Bluetooth詳細設定</string>
   <string name="bluetooth_ask_disablement">「%1$s」が Bluetooth を OFF にしようとしています</string>
   <string name="bluetooth_ask_disablement_no_name">アプリが Bluetooth を OFF にしようとしています</string>
@@ -619,17 +698,22 @@
   <string name="bluetooth_ask_lasting_discovery_no_name">アプリが他の Bluetooth デバイスにこのスマートフォンを表示しようとしています。これは後から Bluetooth の設定で変更できます。</string>
   <string name="bluetooth_ask_start_broadcast">%1$sがBluetoothブロードキャストをONにして付近の他のデバイスと通信しようとしています。これは後からBluetoothの設定で変更できます。</string>
   <string name="bluetooth_auto_connect">自動接続</string>
+  <string name="bluetooth_battery_level">電池 %1$s</string>
   <string name="bluetooth_broadcasting">ブロードキャスト</string>
   <string name="bluetooth_broadcasting_explaination">"この機能をONにすると、端末が付近の他のデバイスと通信できるようになります。 
 
 ブロードキャストでは省電力のBluetooth信号を使用します。"</string>
   <string name="bluetooth_confirm_passkey_msg">次のデバイスをペアに設定する場合:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>次のパスキーが表示されていることを確認してください:&lt;br>&lt;b>%2$s&lt;/b></string>
+  <string name="bluetooth_connect_failed">接続できませんでした。もう一度お試しください。</string>
   <string name="bluetooth_connect_specific_profiles_title">接続先...</string>
-  <string name="bluetooth_connected">接続</string>
+  <string name="bluetooth_connected">接続済み: %1$s</string>
+  <string name="bluetooth_connected_battery_level">接続済み、電池残量 %1$s: %2$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">複数のデバイスに接続しました</string>
   <string name="bluetooth_connected_no_a2dp">接続済み（メディアを除く）</string>
   <string name="bluetooth_connected_no_headset">接続済み（電話を除く）</string>
+  <string name="bluetooth_connected_no_headset_battery_level">接続済み（電話なし）、電池残量 %1$s: %2$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアを除く）</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">接続済み（電話、メディアなし）、電池残量 %1$s: %2$s</string>
   <string name="bluetooth_connected_no_map">接続済み（メッセージへのアクセスなし）</string>
   <string name="bluetooth_connecting">接続中...</string>
   <string name="bluetooth_connecting_error_message">%1$sに接続できませんでした。</string>
@@ -651,10 +735,17 @@
   <string name="bluetooth_device_context_pair_connect">ペアに設定して接続</string>
   <string name="bluetooth_device_context_unpair">ペアを解除</string>
   <string name="bluetooth_device_details">端末の設定</string>
+  <string name="bluetooth_device_mac_address">端末の Bluetooth アドレス: %1$s</string>
   <string name="bluetooth_device_misc_title">たまに使用するBluetooth端末</string>
   <string name="bluetooth_device_name">端末名</string>
+  <string name="bluetooth_device_name_summary">他の端末には「^1」として表示されます</string>
   <string name="bluetooth_device_searchable">Discoverable</string>
   <string name="bluetooth_devices">Bluetooth端末</string>
+  <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP ハードウェア オフロードの無効化</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">キャンセル</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">再起動</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">この設定を変更するには、端末の再起動が必要です。</string>
+  <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">端末を再起動しますか？</string>
   <string name="bluetooth_disable_absolute_volume">絶対音量を無効にする</string>
   <string name="bluetooth_disable_absolute_volume_summary">リモート端末で音量に関する問題（音量が大きすぎる、制御できないなど）が発生した場合に、Bluetooth の絶対音量の機能を無効にする。</string>
   <string name="bluetooth_disable_profile_message">次のプロファイルが無効になります:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>対象デバイス:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -662,6 +753,7 @@
   <string name="bluetooth_disabled">他の端末には非表示</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$sはメディアの音声から切断されます。</string>
   <string name="bluetooth_disconnect_all_profiles">この操作を行うと、次のデバイスとの接続が切断されます:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="bluetooth_disconnect_dialog_ok">接続を解除</string>
   <string name="bluetooth_disconnect_headset_profile">%1$sはハンズフリー音声デバイスから切断されます。</string>
   <string name="bluetooth_disconnect_hid_profile">%1$sは入力デバイスから切断されます。</string>
   <string name="bluetooth_disconnect_pan_nap_profile">この携帯端末のインターネット接続の共有から%1$sを切断します。</string>
@@ -686,8 +778,15 @@
   <string name="bluetooth_enter_passkey_msg">ペア設定コードを入力してからReturnキーまたはEnterキーを押してください</string>
   <string name="bluetooth_enter_passkey_other_device">もう一方のデバイスでも、このパスキーの入力が必要な場合があります。</string>
   <string name="bluetooth_enter_pin_other_device">もう一方のデバイスでも、このPINの入力が必要な場合があります。</string>
+  <string name="bluetooth_footer_mac_message">スマートフォンの Bluetooth アドレス: %1$s</string>
   <string name="bluetooth_headset_profile_summary_connected">携帯電話の音声に接続</string>
   <string name="bluetooth_headset_profile_summary_use_for">携帯電話の音声に使用</string>
+  <string name="bluetooth_hearing_aid_profile_summary_connected">補聴器に接続済み</string>
+  <string name="bluetooth_hearing_aid_profile_summary_use_for">補聴器に使用</string>
+  <string name="bluetooth_hearingaid_left_battery_level">左側 - 電池 %1$s</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">左側の補聴器とペア設定しています…</string>
+  <string name="bluetooth_hearingaid_right_battery_level">右側 - 電池 %1$s</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">右側の補聴器とペア設定しています…</string>
   <string name="bluetooth_hid_profile_summary_connected">入力デバイスに接続されています</string>
   <string name="bluetooth_hid_profile_summary_use_for">入力に使用</string>
   <string name="bluetooth_incoming_pairing_msg">発信元:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>このデバイスをペアに設定しますか？</string>
@@ -701,6 +800,8 @@
   <string name="bluetooth_map_profile_summary_connected">地図に接続済み</string>
   <string name="bluetooth_map_profile_summary_use_for">地図に使用</string>
   <string name="bluetooth_map_request">メッセージへのアクセスのリクエスト</string>
+  <string name="bluetooth_max_connected_audio_devices_dialog_title">接続できる Bluetooth オーディオ デバイス数の上限の選択</string>
+  <string name="bluetooth_max_connected_audio_devices_string">接続できる Bluetooth オーディオ デバイスの上限</string>
   <string name="bluetooth_menu_advanced">詳細設定</string>
   <string name="bluetooth_name_not_set">名前が設定されていない場合、アカウント名を使用する</string>
   <string name="bluetooth_no_devices_found">周辺にBluetoothデバイスが見つかりません</string>
@@ -708,11 +809,15 @@
   <string name="bluetooth_notif_message">タップして%1$sをペアに設定</string>
   <string name="bluetooth_notif_ticker">Bluetoothペア設定リクエスト</string>
   <string name="bluetooth_notif_title">ペア設定リクエスト</string>
+  <string name="bluetooth_off_footer">他のデバイスに接続するには Bluetooth を ON にしてください。</string>
   <string name="bluetooth_on_time">Wi-FiをONにしている時間</string>
+  <string name="bluetooth_on_while_driving_pref">運転時に Bluetooth を使用</string>
+  <string name="bluetooth_on_while_driving_summary">運転時に自動的に Bluetooth を ON にする</string>
   <string name="bluetooth_only_visible_to_paired_devices">ペア設定したデバイスにのみ表示</string>
   <string name="bluetooth_opp_profile_summary_connected">ファイル転送サーバーに接続</string>
   <string name="bluetooth_opp_profile_summary_not_connected">ファイル転送サーバーに接続しない</string>
   <string name="bluetooth_opp_profile_summary_use_for">ファイル転送に使用</string>
+  <string name="bluetooth_paired_device_title">端末</string>
   <string name="bluetooth_pairing">ペアとして設定中...</string>
   <string name="bluetooth_pairing_accept">ペア設定する</string>
   <string name="bluetooth_pairing_accept_all_caps">ペア設定する</string>
@@ -724,7 +829,9 @@
   <string name="bluetooth_pairing_dialog_title">このデバイスをペアに設定</string>
   <string name="bluetooth_pairing_error_message">%1$sをペアに設定できません。</string>
   <string name="bluetooth_pairing_key_msg">ペア設定コード</string>
+  <string name="bluetooth_pairing_page_title">新しいデバイスとペア設定</string>
   <string name="bluetooth_pairing_pin_error_message">PINまたはパスキーが正しくないため、%1$sをペアに設定できませんでした。</string>
+  <string name="bluetooth_pairing_pref_title">新しいデバイスとペア設定する</string>
   <string name="bluetooth_pairing_rejected_error_message">ペア設定が%1$sに拒否されました。</string>
   <string name="bluetooth_pairing_request">Bluetoothのペア設定リクエスト</string>
   <string name="bluetooth_pairing_shares_phonebook">連絡先や通話履歴へのアクセスを許可する</string>
@@ -738,9 +845,11 @@
   <string name="bluetooth_phonebook_request">電話帳へのアクセスのリクエスト</string>
   <string name="bluetooth_pin_values_hint">通常は0000または1234です</string>
   <string name="bluetooth_pin_values_hint_16_digits">16桁の数字を入力してください</string>
+  <string name="bluetooth_pref_summary">スマートフォンが付近の Bluetooth デバイスと通信することを許可する</string>
   <string name="bluetooth_preference_connected_devices">接続済みデバイス</string>
   <string name="bluetooth_preference_device_settings">デバイスの設定</string>
   <string name="bluetooth_preference_found_devices">使用可能なデバイス</string>
+  <string name="bluetooth_preference_found_media_devices">使用可能なデバイス</string>
   <string name="bluetooth_preference_no_found_devices">利用可能なデバイスがありません</string>
   <string name="bluetooth_preference_paired_devices">ペアリングされたデバイス</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">連絡先と通話履歴</string>
@@ -755,8 +864,9 @@
   <string name="bluetooth_profile_details">プロファイル設定</string>
   <string name="bluetooth_profile_dun">ダイヤルアップネットワークへのアクセスに使用</string>
   <string name="bluetooth_profile_headset">電話の音声</string>
+  <string name="bluetooth_profile_hearing_aid">補聴器</string>
   <string name="bluetooth_profile_hid">入力デバイス</string>
-  <string name="bluetooth_profile_map">メッセージへのアクセスに使用</string>
+  <string name="bluetooth_profile_map">テキストメッセージ</string>
   <string name="bluetooth_profile_opp">ファイル転送</string>
   <string name="bluetooth_profile_pan">インターネットアクセス</string>
   <string name="bluetooth_profile_pan_nap">インターネット接続の共有に使用</string>
@@ -773,6 +883,9 @@
   <string name="bluetooth_sap_profile_summary_use_for">SIMアクセスに使用</string>
   <string name="bluetooth_sap_request">SIMアクセスリクエスト</string>
   <string name="bluetooth_scan_for_devices">端末をスキャン</string>
+  <string name="bluetooth_scanning_on_info_message">"Bluetooth を ON にすると、端末が付近の Bluetooth デバイスと通信できます。
+
+端末の利便性向上のため、アプリやサービスは、Bluetooth が OFF の場合でも、いつでも付近のデバイスをスキャンできます。この設定は、位置情報を使用する機能やサービスの改善などに役立ちます。この設定は"&lt;annotation id="link">スキャンの設定&lt;/annotation>で変更できます。</string>
   <string name="bluetooth_search_for_devices">更新</string>
   <string name="bluetooth_searching_for_devices">検索中...</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">サンプルあたりの Bluetooth オーディオ ビット</string>
@@ -795,6 +908,8 @@
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">接続、端末名、検出の許可を設定する</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
+  <string name="bluetooth_show_devices_without_names">Bluetooth デバイスを名前なしで表示</string>
+  <string name="bluetooth_show_devices_without_names_summary">Bluetooth デバイスを名前なしで（MAC アドレスのみで）表示します</string>
   <string name="bluetooth_show_received_files">受信済みファイルを表示</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">コンピューター</string>
@@ -811,6 +926,7 @@
   <string name="bluetooth_tethering_off_subtext">この携帯端末のインターネット接続を共有しない</string>
   <string name="bluetooth_tethering_off_subtext_config">この%1$dのインターネット接続を共有中</string>
   <string name="bluetooth_tethering_overflow_error">テザリングできるデバイスは%1$d個までです。</string>
+  <string name="bluetooth_tethering_subtext">スマートフォンのインターネット接続を Bluetooth で共有</string>
   <string name="bluetooth_turning_off">BluetoothをOFFにしています...</string>
   <string name="bluetooth_turning_on">BluetoothをONにしています...</string>
   <string name="bluetooth_unlock_add_device">デバイスを追加</string>
@@ -834,6 +950,9 @@
   <string name="bluetooth_unlock_title">Bluetoothデバイスでロック解除</string>
   <string name="bluetooth_unlock_turned_off">OFF</string>
   <string name="bluetooth_unlock_turned_on">ON</string>
+  <string name="bluetooth_unpair_dialog_body">このスマートフォンと %1$s とのペア設定を解除します</string>
+  <string name="bluetooth_unpair_dialog_forget_confirm_button">このデバイスとのペア設定を解除</string>
+  <string name="bluetooth_unpair_dialog_title">このデバイスとのペア設定を解除しますか？</string>
   <string name="bluetooth_untether_blank">%1$sのテザリングを解除します。</string>
   <string name="bluetooth_visibility_timeout">表示のタイムアウト</string>
   <string name="bluetooth_wake">Bluetoothオーディオでスリープ解除</string>
@@ -947,6 +1066,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="call_settings_primary_user_only">First space用の通話設定を変更する</string>
   <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
   <string name="call_settings_title">通話</string>
+  <string name="call_volume_option_title">通話音量</string>
   <string name="calls_title">通話</string>
   <string name="camera_double_tap_power_gesture_desc">画面のロックを解除せずにカメラをすばやく開きます</string>
   <string name="camera_double_tap_power_gesture_title">電源ボタンを2回押してカメラを起動する</string>
@@ -965,6 +1085,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="camera_key_action_shortcut_wake">端末をロック</string>
   <string name="camera_key_action_title">Mi Button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
+  <string name="camera_laser_sensor_switch">カメラのレーザー センサー</string>
   <string name="camera_rear">リア %s</string>
   <string name="cancel">キャンセル</string>
   <string name="cancel_action">キャンセル</string>
@@ -993,14 +1114,21 @@ This feature can be turned off in [Settings]"</string>
   <string name="captioning_typeface">フォントファミリー</string>
   <string name="captioning_window_color">字幕ウィンドウの色</string>
   <string name="captioning_window_opacity">字幕ウィンドウの透明度</string>
+  <string name="carrier">携帯通信会社</string>
+  <string name="carrier_and_update_now_text">更新: ^1、たった今</string>
+  <string name="carrier_and_update_text">更新: ^1、^2 前</string>
   <string name="carrier_enabled">APNの有効/無効</string>
   <string name="carrier_enabled_summaryOff">APNは無効です</string>
   <string name="carrier_enabled_summaryOn">APNは有効です</string>
+  <string name="carrier_provisioning">携帯通信会社のプロビジョニング情報</string>
   <string name="category_personal">個人用</string>
   <string name="category_work">仕事用</string>
   <string name="cdma_security_settings_summary">現在地、画面のロック解除、認証情報ストレージのロックを設定します</string>
   <string name="cell_broadcast_settings">緊急警報</string>
+  <string name="cell_data_limit">データ上限: ^1</string>
   <string name="cell_data_template">モバイルデータ使用量 %1$s</string>
+  <string name="cell_data_warning">データ警告: ^1</string>
+  <string name="cell_data_warning_and_limit">データ警告: ^1 / データ上限: ^2</string>
   <string name="cell_warning_and_limit">%1$s データ警告 / %2$s データ上限</string>
   <string name="cell_warning_only">%1$s データ警告</string>
   <string name="cellular_data_summary">モバイルネットワークでのデータ使用を許可</string>
@@ -1011,6 +1139,10 @@ This feature can be turned off in [Settings]"</string>
   <string name="change_security_lock">ロック解除する他の方法を試す</string>
   <string name="change_storage">ストレージの変更</string>
   <string name="change_theme_reboot">テーマを変更するには再起動が必要です。</string>
+  <string name="change_wifi_state_app_detail_summary">このアプリが Wi-Fi の ON / OFF 切り替え、Wi-Fi ネットワークのスキャンと接続、ネットワークの追加と削除、ローカル専用アクセス ポイントの起動を行うことを許可します</string>
+  <string name="change_wifi_state_app_detail_switch">Wi-Fi の管理をアプリに許可</string>
+  <string name="change_wifi_state_title">Wi-Fi の管理</string>
+  <string name="channel_group_notifications_off_desc">リクエストに従い、このグループの通知はこの端末には表示されません</string>
   <string name="channel_notifications_off_desc">Android により、この通知のカテゴリはこの端末には表示されません</string>
   <string name="charge_length_format">%1$s前</string>
   <string name="charging_sounds_title">充電中の音</string>
@@ -1041,7 +1173,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="clear_failed_dlg_text">アプリのデータを消去できませんでした。</string>
   <string name="clear_failed_dlg_title">データのクリア</string>
   <string name="clear_uri_btn_text">アクセスをクリア</string>
-  <string name="clear_user_data_text">データを消去</string>
+  <string name="clear_user_data_text">ストレージを消去</string>
   <string name="close_aod">この機能は\"常時オンモード\"と組み合わせることはできません。最初に\"常時オンモードを\"オフにしてください。</string>
   <string name="close_app">現在のアプリを閉じる</string>
   <string name="close_demo_mode">キャンセル</string>
@@ -1068,6 +1200,13 @@ This feature can be turned off in [Settings]"</string>
   <string name="color_gray">グレー</string>
   <string name="color_green">緑</string>
   <string name="color_magenta">マゼンタ</string>
+  <string name="color_mode_option_automatic">自動</string>
+  <string name="color_mode_option_boosted">ブースト</string>
+  <string name="color_mode_option_natural">ナチュラル</string>
+  <string name="color_mode_option_saturated">ビビッド</string>
+  <string name="color_mode_summary_automatic">鮮明な色と正確な色の間で調整</string>
+  <string name="color_mode_summary_natural">正確な色のみを使用</string>
+  <string name="color_mode_title">カラー</string>
   <string name="color_none">なし</string>
   <string name="color_orange">オレンジ</string>
   <string name="color_purple">パープル</string>
@@ -1075,6 +1214,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="color_temperature">寒色の色温度</string>
   <string name="color_temperature_desc">寒色の表示色を使用します</string>
   <string name="color_temperature_toast">色の変更を適用するには、画面を OFF にしてください</string>
+  <string name="color_theme">色のテーマ</string>
   <string name="color_title">カラー</string>
   <string name="color_unspecified">デフォルト</string>
   <string name="color_white">白</string>
@@ -1083,14 +1223,19 @@ This feature can be turned off in [Settings]"</string>
   <string name="complete_parameters">すべてのスペック</string>
   <string name="complete_settings">一般設定</string>
   <string name="computing_size">計算中...</string>
-  <string name="condition_airplane_summary">Wi-Fi、Bluetooth、モバイル ネットワークが OFF になっています。電話の発信やインターネットへの接続はできません。</string>
+  <string name="condition_airplane_summary">機内モードが ON になると、Wi‑Fi、Bluetooth、モバイル ネットワークが OFF になります。Wi‑Fi と Bluetooth は ON に戻すことができます。</string>
   <string name="condition_airplane_title">機内モードが ON</string>
-  <string name="condition_battery_summary">パフォーマンスが制限されています。位置情報サービスとバックグラウンド データは OFF です。</string>
+  <string name="condition_battery_summary">バッテリー セーバーが有効になると、一部の端末機能が OFF になるほか、アプリが制限されます</string>
   <string name="condition_battery_title">バッテリー セーバー ON</string>
   <string name="condition_bg_data_summary">"バックグラウンド  データは Wi-Fi 接続時のみ利用できます。Wi-Fi に接続できない場合、一部のアプリやサービスに影響する可能性があります。"</string>
   <string name="condition_bg_data_title">データセーバー ON</string>
   <string name="condition_cellular_summary">インターネットは Wi-Fi 接続時のみ利用できます</string>
   <string name="condition_cellular_title">モバイルデータ OFF</string>
+  <string name="condition_device_muted_action_turn_on_sound">通知音を ON にする</string>
+  <string name="condition_device_muted_summary">着信音と通知音をミュートします</string>
+  <string name="condition_device_muted_title">スマートフォンをミュートに設定</string>
+  <string name="condition_device_vibrate_summary">着信と通知をスマートフォンのバイブレーションで知らせます</string>
+  <string name="condition_device_vibrate_title">スマートフォンをバイブレーションに設定</string>
   <string name="condition_expand_hide">隠す</string>
   <string name="condition_expand_show">表示</string>
   <string name="condition_hotspot_summary">ポータブル Wi-Fi アクセス ポイント（%1$s）が有効です。この端末では Wi-Fi が OFF になっています。</string>
@@ -1101,7 +1246,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="condition_turn_on">ON にする</string>
   <string name="condition_work_summary">仕事用プロファイルに関連するアプリ、バックグラウンド同期などの機能が OFF になっています。</string>
   <string name="condition_work_title">仕事用プロファイルが OFF</string>
-  <string name="condition_zen_title">夜間モードが ON (%1$s)</string>
+  <string name="condition_zen_title">マナーモード ON</string>
   <string name="config_charging_function_name">充電中</string>
   <string name="config_list_label">構成済みネットワーク</string>
   <string name="config_mass_storage_function_name">マスストレージ</string>
@@ -1133,8 +1278,21 @@ This feature can be turned off in [Settings]"</string>
   <string name="connect_mode">接続タイプ</string>
   <string name="connect_to_internet">ネットワークに接続</string>
   <string name="connected">接続済み</string>
-  <string name="connected_devices_dashboard_summary">Bluetooth、キャスト、NFC</string>
+  <string name="connected_device_add_device_summary">ペア設定できるよう Bluetooth が ON になります</string>
+  <string name="connected_device_add_device_title">端末の追加</string>
+  <string name="connected_device_available_call_title">利用可能な通話デバイス</string>
+  <string name="connected_device_available_media_title">利用可能なメディア デバイス</string>
+  <string name="connected_device_connected_title">現在接続されている端末</string>
+  <string name="connected_device_connections_title">接続の設定</string>
+  <string name="connected_device_previously_connected_title">以前接続されていたデバイス</string>
+  <string name="connected_device_saved_title">保存済みの端末</string>
+  <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
+  <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth、NFC</string>
+  <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth、運転モード</string>
+  <string name="connected_devices_dashboard_summary">Bluetooth、運転モード、NFC</string>
   <string name="connected_devices_dashboard_title">接続済みの端末</string>
+  <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+  <string name="connected_via_carrier">%1$s 経由で接続済み</string>
   <string name="connected_via_network_scorer">%1$s 経由で自動的に接続しています</string>
   <string name="connected_via_network_scorer_default">ネットワーク評価プロバイダ経由で自動的に接続しています</string>
   <string name="connected_via_passpoint">%1$s経由で接続しました</string>
@@ -1162,6 +1320,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="credential_storage_type">ストレージのタイプ</string>
   <string name="credential_storage_type_hardware">ハードウェア式</string>
   <string name="credential_storage_type_software">ソフトウェアのみ</string>
+  <string name="credentials_configure_lock_screen_button">ロックを設定</string>
   <string name="credentials_configure_lock_screen_hint">認証情報ストレージを使用するには、画面ロックのPINまたはパスワードを設定する必要があります。</string>
   <string name="credentials_enabled">認証情報ストレージが有効になりました。</string>
   <string name="credentials_erased">認証情報ストレージを消去</string>
@@ -1237,13 +1396,20 @@ This feature can be turned off in [Settings]"</string>
   <string name="daltonizer_type">補正モード</string>
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
   <string name="dangerous_option_switch_title">Notify about high-risk features</string>
+  <string name="dark_ui_mode">夜間モード</string>
+  <string name="dark_ui_mode_title">夜間モードの設定</string>
+  <string name="dashboard_suggestion_condition_footer_content_description">折りたたむ</string>
   <string name="dangerous_option">High-risk developer options</string>
   <string name="dangerous_option_hint">%1$s is enabled. Tap to change settings.</string>
   <string name="dangerous_option_hint_title">High-risk feature enabled</string>
   <string name="dashboard_title">設定</string>
   <string name="data_limit">データ上限</string>
+  <string name="data_overusage">^1 超過</string>
+  <string name="data_remaining">あと ^1</string>
+  <string name="data_roaming_enable_mobile">ローミング</string>
   <string name="data_saver_off">OFF</string>
   <string name="data_saver_on">ON</string>
+  <string name="data_saver_switch_title">データセーバーを使用</string>
   <string name="data_saver_title">データセーバー</string>
   <string name="data_size_label">データ</string>
   <string name="data_summary_format">%1$s使用（%2$s以降）</string>
@@ -1309,11 +1475,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="data_usage_menu_show_wifi">Wi-Fiを表示する</string>
   <string name="data_usage_menu_sim_cards">SIMカード</string>
   <string name="data_usage_menu_split_4g">4G使用を別にする</string>
+  <string name="data_usage_metered_auto">自動</string>
   <string name="data_usage_metered_body">バックグラウンドデータが制限されている場合、従量制のネットワークはモバイルデータと同様に扱われます。これらのネットワークを使用して大量のダウンロードが行われる前に、アプリが警告を表示することがあります。</string>
   <string name="data_usage_metered_mobile">モバイルネットワーク</string>
+  <string name="data_usage_metered_no">定額制</string>
   <string name="data_usage_metered_title">ネットワーク制限</string>
   <string name="data_usage_metered_wifi">従量制のWi‑Fiネットワーク</string>
   <string name="data_usage_metered_wifi_disabled">従量制のネットワークを選択するにはWi‑FiをONにします。</string>
+  <string name="data_usage_metered_yes">従量制</string>
   <string name="data_usage_pick_cycle_day">毎月データ使用サイクルをリセットする日:</string>
   <string name="data_usage_received_sent">%1$s受信、%2$s送信</string>
   <string name="data_usage_restrict_background">バックグラウンドのモバイルデータを制限すると、アプリやサービスによっては、Wi-Fi未接続時に機能しない場合があります。</string>
@@ -1334,21 +1503,34 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="data_usage_tab_mobile">モバイル</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_template">%1$s 使用（%2$s）</string>
+  <string name="data_usage_title">メインデータ</string>
   <string name="data_usage_total_during_range">%2$s: 約%1$s使用</string>
   <string name="data_usage_total_during_range_mobile">%2$s: 約%1$s使用（携帯端末での記録。携帯通信会社の利用明細は異なる場合があります）</string>
   <string name="data_usage_uninstalled_apps">削除したアプリケーション</string>
   <string name="data_usage_uninstalled_apps_users">削除されたアプリとユーザー</string>
   <string name="data_usage_warning_editor_title">データ使用の警告の設定</string>
+  <string name="data_usage_wifi_format">Wi‑Fi で ^1 使用</string>
+  <string name="data_usage_wifi_title">Wi‑Fi データ</string>
+  <string name="data_used">^1 使用</string>
+  <string name="data_used_formatted">^1 ^2 使用</string>
+  <string name="data_warning">データ警告</string>
+  <string name="data_warning_footnote">データ警告とデータ上限はお使いの端末で測定されます。結果は携帯通信会社のデータとは異なることがあります。</string>
   <string name="date_and_time">日付と時刻</string>
   <string name="date_and_time_settings_summary">日付、時刻、タイムゾーン、フォーマットを設定する</string>
   <string name="date_and_time_settings_title">日付と時刻</string>
   <string name="date_and_time_settings_title_setup_wizard">日時の設定</string>
   <string name="date_picker_title">日付</string>
   <string name="date_time_24hour">24時間表示</string>
+  <string name="date_time_24hour_auto">24 時間表示を自動設定</string>
+  <string name="date_time_24hour_auto_summary">ユーザーの言語 / 地域のデフォルトを使用</string>
   <string name="date_time_24hour_title">24時間表示</string>
   <string name="date_time_auto">日付と時刻の自動設定</string>
   <string name="date_time_auto_summaryOff">ネットワークから提供された時刻を使用する</string>
   <string name="date_time_auto_summaryOn">ネットワークから提供された時刻を使用する</string>
+  <string name="date_time_search_region">地域を検索します</string>
+  <string name="date_time_select_fixed_offset_time_zones">UTC オフセットの選択</string>
+  <string name="date_time_select_region">地域</string>
+  <string name="date_time_select_zone">タイムゾーン</string>
   <string name="date_time_date_format">日付形式の選択</string>
   <string name="date_time_date_format_title">日付形式</string>
   <string name="date_time_set_date">日付設定</string>
@@ -1356,6 +1538,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="date_time_set_time">時刻設定</string>
   <string name="date_time_set_time_title">時刻</string>
   <string name="date_time_set_timezone">タイムゾーンの選択</string>
+  <string name="date_time_set_timezone_in_region">タイムゾーン（%1$s）</string>
   <string name="date_time_set_timezone_title">タイムゾーン</string>
   <string name="date_time_settings">日付と時刻</string>
   <string name="day_of_week">曜日</string>
@@ -1374,6 +1557,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="debug_networking_category">ネットワーク</string>
   <string name="debug_view_attributes">表示属性検査を有効にする</string>
   <string name="decline_remote_bugreport_action">共有しない</string>
+  <string name="decryption_settings_summary">スマートフォンが暗号化されていません</string>
   <string name="default_admin_support_msg">この操作は無効になっています。詳しくは、組織の管理者にお問い合わせください。</string>
   <string name="delete">削除</string>
   <string name="delete_fingerprint_confirm_msg">指紋認証を削除しますか？</string>
@@ -1395,6 +1579,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="details_title">使用状況の詳細</string>
   <string name="dev_logpersist_clear_warning_message">Google が常駐ロガーで監視していない場合、端末上のログデータを消去する必要があります。</string>
   <string name="dev_logpersist_clear_warning_title">ログの永続ストレージを消去しますか？</string>
+  <string name="dev_settings_disabled_warning">まず開発者向けオプションを有効にしてください。</string>
   <string name="dev_settings_warning_message">これらの設定は開発専用に設計されています。そのため端末や端末上のアプリが故障したり正常に動作しなくなったりする恐れがあります。</string>
   <string name="dev_settings_warning_title">開発用の設定を許可しますか？</string>
   <string name="developer_smallest_width">最小幅</string>
@@ -1415,6 +1600,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_camera">カメラ</string>
   <string name="device_cellular_network">モバイル ネットワークのスキャン</string>
   <string name="device_complete_parameters">すべてのスペック</string>
+  <string name="device_details_title">端末の詳細</string>
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
@@ -1445,10 +1631,22 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_status_activity_title">端末の状態</string>
   <string name="device_status_summary">電話番号、電波状態など</string>
   <string name="device_total_memory">合計容量</string>
+  <string name="device_usage_list_summary">フル充電以降の端末の電池使用状況</string>
+  <string name="devices_title">端末</string>
   <string name="dial_application_title">ダイヤル</string>
   <string name="dial_pad_tones_title">ダイヤルパッドの操作音</string>
+  <string name="dialog_background_check_message">"%1$s によりスリープ状態に移行しないため、スマートフォンで電池を正常に管理できません。
+
+%1$s を停止してバックグラウンドで実行できないようにすることで、問題が解消するか試してみることができます。"</string>
+  <string name="dialog_background_check_ok">OFF にする</string>
+  <string name="dialog_background_check_title">バックグラウンドでの使用を OFF にしてアプリを停止しますか？</string>
   <string name="dialog_chose_item">表示する項目を選択</string>
   <string name="dialog_content_login">アップデートのためにMiアカウントにログインしますか？</string>
+  <string name="dialog_location_message">"使用中でないときに %1$s が位置情報のリクエストを繰り返しているため、スマートフォンで電池を正常に管理できません。
+
+この問題を解決するには、このアプリでの位置情報の利用を OFF にします。"</string>
+  <string name="dialog_location_ok">OFF にする</string>
+  <string name="dialog_location_title">位置情報を OFF にしますか？</string>
   <string name="dialog_no">いいえ</string>
   <string name="dialog_restrict_all_mobile_summary">設定後、すべてのアプリでモバイルデータ接続(%s)が制限されます。</string>
   <string name="dialog_restrict_all_mobile_title">モバイルデータ接続(%s)を制限する</string>
@@ -1456,6 +1654,18 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dialog_restrict_all_wlan_title">Wi-Fi接続を制限する</string>
   <string name="dialog_restrict_negative">制限する</string>
   <string name="dialog_restrict_positive">キャンセル</string>
+  <string name="dialog_stop_message">"%1$s によりスリープ状態に移行しないため、スマートフォンで電池を正常に管理できません。
+
+アプリを停止して、問題が解消するか試してみることができます。
+
+問題が解消しない場合、電池を長持ちさせるにはアプリのアンインストールが必要になる可能性があります。"</string>
+  <string name="dialog_stop_message_wakeup_alarm">"%1$s によりスリープ状態に移行しないため、スマートフォンで電池を正常に管理できません。
+
+%1$s を停止して、問題が解消するか試してみることができます。
+
+問題が解消しない場合、電池を長持ちさせるにはアプリのアンインストールが必要になる可能性があります。"</string>
+  <string name="dialog_stop_ok">アプリを停止する</string>
+  <string name="dialog_stop_title">アプリを停止しますか？</string>
   <string name="dialog_not_show_again">次回から表示しない</string>
   <string name="dialog_title_color_calibration">色補正プリセット</string>
   <string name="dialog_title_font_size">フォントサイズ</string>
@@ -1463,6 +1673,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="dialog_title_login">Miアカウントにログインしてください</string>
   <string name="dialog_yes">はい</string>
   <string name="direct_boot_unaware_dialog_message">注: 再起動後、スマートフォンのロックを解除するまでこのアプリを起動することはできません</string>
+  <string name="directory_access">ディレクトリへのアクセス</string>
   <string name="disableNetwork">ネットワークを無効</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面レンダリングに常にGPUを使用する</string>
@@ -1482,6 +1693,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disabled_by_policy_title_outgoing_calls">発信は許可されていません</string>
   <string name="disabled_by_policy_title_screen_capture">スクリーンショットは許可されていません</string>
   <string name="disabled_by_policy_title_sms">SMS は許可されていません</string>
+  <string name="disabled_by_policy_title_suspend_packages">このアプリを開くことはできません</string>
+  <string name="disabled_by_policy_title_turn_off_backups">バックアップを無効にすることはできません</string>
+  <string name="disabled_dependent_setting_summary">別の設定に依存しています</string>
+  <string name="disabled_for_user_setting_summary">現在のユーザーは設定を変更できません</string>
   <string name="disabled_low_ram_device">この機能はお使いの端末では利用できません</string>
   <string name="disconnect">切断</string>
   <string name="disconnected">切断されています</string>
@@ -1490,6 +1705,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="display_auto_rotate_stay_in_landscape">横向きで固定</string>
   <string name="display_auto_rotate_stay_in_portrait">縦向きで固定</string>
   <string name="display_auto_rotate_title">画面の内容を回転</string>
+  <string name="display_category_title">表示</string>
+  <string name="display_cutout_emulation">カットアウトがあるディスプレイのシミュレート</string>
+  <string name="display_cutout_emulation_keywords">ディスプレイ カットアウト, ノッチ</string>
+  <string name="display_cutout_emulation_none">なし</string>
   <string name="display_font_size_label">フォントサイズ:</string>
   <string name="display_label">画面</string>
   <string name="display_order_text">並べ替え:</string>
@@ -1585,16 +1804,21 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="done">完了</string>
   <string name="done_button">完了</string>
   <string name="double_click_power_key">電源ボタンを2回押す</string>
+  <string name="double_tap_power_for_camera_suggestion_title">カメラをすばやく起動</string>
   <string name="double_tap_power_for_camera_summary">カメラをすばやく起動するには、電源ボタンを 2 回押します。どの画面からでも操作できます。</string>
   <string name="double_tap_power_for_camera_title">カメラの起動</string>
   <string name="double_twist_for_camera_mode_title">カメラの切り替え</string>
+  <string name="double_twist_for_camera_suggestion_title">自撮り写真をすばやく撮影</string>
   <string name="download_current_rom">MIUIの最新版を取得する</string>
   <string name="downloading_description">ダウンロード中…</string>
+  <string name="doze_always_on_summary">時刻、通知アイコンなどの情報を表示します。電池使用量が増えます。</string>
+  <string name="doze_always_on_title">常に ON</string>
   <string name="doze_summary">端末を取り上げたとき、または通知を受信したときにスリープ状態から復帰</string>
-  <string name="doze_title">アンビエント表示</string>
+  <string name="doze_title">新しい通知</string>
   <string name="draw_overlay">他のアプリの上に重ねて描画</string>
   <string name="draw_overlay_title">他のアプリの上に重ねて描画できるアプリ</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
+  <string name="eab_provisioned_switch_string">EAB / プレゼンス プロビジョニング有効</string>
   <string name="edge_mode_back">戻る</string>
   <string name="edge_mode_back_summary">戻るにはお使いの端末のエッジをダブルタップします</string>
   <string name="edge_mode_clean">システムキャッシュをクリアする</string>
@@ -1608,15 +1832,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="edge_mode_screenshot_summary">両方のエッジをダブルタップするとスクリーンショットを撮ります</string>
   <string name="edit_rule">ルールを編集</string>
   <string name="edit_rules">編集</string>
-  <string name="emergency_address_summary">Wi-Fi を使用して 110 に電話した場合に、緊急サービスが現在地として使用する住所</string>
-  <string name="emergency_address_title">緊急対応の住所の更新</string>
+  <string name="emergency_address_summary">Wi‑Fi を使用して緊急通報を行った場合に、現在地として使用されます</string>
+  <string name="emergency_address_title">緊急対応の住所</string>
   <string name="emergency_info_summary">%1$sの情報と連絡先</string>
   <string name="emergency_info_title">緊急時情報</string>
   <string name="emergency_sos_title">緊急SOS</string>
   <string name="emergency_tone_alert">アラート</string>
   <string name="emergency_tone_silent">マナーモード</string>
   <string name="emergency_tone_summary">緊急通報時の動作を設定します</string>
-  <string name="emergency_tone_title">緊急時の音</string>
+  <string name="emergency_tone_title">緊急通報信号</string>
   <string name="emergency_tone_vibrate">バイブレーション</string>
   <string name="empty_list_msg">サードパーティ製のアプリはインストールされていません。</string>
   <string name="enable_adb">USBデバッグ</string>
@@ -1626,6 +1850,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_compatibility">アプリを拡大/縮小</string>
   <string name="enable_freeform_support">フリーフォーム ウィンドウの有効化</string>
   <string name="enable_freeform_support_summary">外部のフリーフォーム ウィンドウのサポートを有効にします。</string>
+  <string name="enable_gnss_raw_meas_full_tracking">GNSS 計測の完全な実行</string>
+  <string name="enable_gnss_raw_meas_full_tracking_summary">デューティ サイクリングを無効にした状態で、すべての GNSS コンステレーションと頻度をトラッキングします</string>
+  <string name="enable_gpu_debug_layers">GPU デバッグレイヤの有効化</string>
+  <string name="enable_gpu_debug_layers_summary">デバッグアプリに GPU デバッグレイヤの読み込みを許可</string>
   <string name="enable_mobile_data_when_opening_hotspot">モバイルデータもオンにしますか？</string>
   <string name="enable_multi_window">マルチウィンドウモード</string>
   <string name="enable_multi_window_summary">複数のアクティビティを同時に画面上に表示する</string>
@@ -1698,8 +1926,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enterprise_privacy_always_on_vpn_personal">個人プロフィールで常時接続 VPN は ON です</string>
   <string name="enterprise_privacy_always_on_vpn_work">仕事用プロファイルで常時接続 VPN は ON です</string>
   <string name="enterprise_privacy_apps_count_estimation_info">アプリの数は推定値です。Play ストア以外からインストールしたアプリが含まれていないことがあります。</string>
+  <string name="enterprise_privacy_backups_enabled">この端末のデータはバックアップされます</string>
   <string name="enterprise_privacy_bug_reports">最新のバグレポート</string>
   <string name="enterprise_privacy_ca_certs">信頼できる認証情報</string>
+  <string name="enterprise_privacy_ca_certs_device">信頼できる認証情報</string>
+  <string name="enterprise_privacy_ca_certs_personal">個人用プロファイル内の信頼できる認証情報</string>
+  <string name="enterprise_privacy_ca_certs_work">仕事用プロファイル内の信頼できる認証情報</string>
   <string name="enterprise_privacy_camera_access">カメラの権限</string>
   <string name="enterprise_privacy_device_access_category">この端末へのアクセス</string>
   <string name="enterprise_privacy_enterprise_data">メールアドレスやカレンダーなど、仕事用アカウントと関連付けられたデータ</string>
@@ -1752,6 +1984,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="erase_application">アプリを消去する</string>
   <string name="erase_application_description">ダウンロードアプリを消去する</string>
   <string name="erase_data">消去</string>
+  <string name="erase_esim_storage">eSIM を消去する</string>
+  <string name="erase_esim_storage_description">スマートフォン上の eSIM をすべて消去します。この操作でモバイル サービス プランがキャンセルされることはありません。</string>
   <string name="erase_external_storage">SDカード内データを消去</string>
   <string name="erase_external_storage_description">SDカード内の全データ（音楽、画像など）を消去します</string>
   <string name="erase_internal_storage">保存されているコンテンツを消去する</string>
@@ -1762,6 +1996,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="erase_sd_data">疑似SDカードをフォーマット</string>
   <string name="erase_sd_data_description">フォーマットを行うと、SDカード上のすべてのデータが消去されます</string>
   <string name="erase_sure">個人データ</string>
+  <string name="error_adding_apn_type">携帯通信会社により、タイプ %s の APN の追加は許可されていません。</string>
   <string name="error_apn_empty">APNは必ず指定してください。</string>
   <string name="error_mcc_not3">MCC欄は3桁で指定してください。</string>
   <string name="error_mnc_not23">MNC欄は2桁か3桁で指定してください。</string>
@@ -1773,6 +2008,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="ethernet_data_template">%1$s イーサネット データ</string>
   <string name="ethernet_data_usage">イーサネット データ使用量</string>
   <string name="every_day">毎日</string>
+  <string name="expand_button_title">詳細設定</string>
   <string name="experimental_category_title">試験運用機能</string>
   <string name="experimental_preference">（試験運用）</string>
   <string name="extended_power_menu">拡張電源メニュー</string>
@@ -1795,6 +2031,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="failed_to_shut_down_find_device_title">"オフにできませんでした"</string>
   <string name="fallback_home_title">読み込み中…</string>
   <string name="fcc_equipment_id">装置ID</string>
+  <string name="feature_flags_dashboard_title">Feature flags</string>
   <string name="file_privacy_password_role_instruction">プライベートなファイルはここに保存されます。</string>
   <string name="filter">フィルタ</string>
   <string name="filter_all_apps">すべてのアプリ</string>
@@ -1831,12 +2068,15 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_and_password_entrance_title">画面ロックと指紋認証</string>
   <string name="fingerprint_apply_to_privacy_password">プライバシー保護パスワード</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、メモ、およびアプリを保護します。</string>
+  <string name="fingerprint_delete_message">この指紋を削除しますか？</string>
+  <string name="fingerprint_delete_title">「%1$s」の削除</string>
   <string name="fingerprint_enable_keyguard_toggle_title">画面ロック</string>
   <string name="fingerprint_enroll_button_add">別の指紋を登録</string>
   <string name="fingerprint_enroll_button_next">次へ</string>
   <string name="fingerprint_first_open_screen_password_face_tittle">顔 (初めにロック画面のパスワードを設定する)</string>
   <string name="fingerprint_first_open_screen_password_tittle">指紋 (初めにロック画面のパスワードを設定する)</string>
   <string name="fingerprint_for_keyguard_disabled">指紋認証はセキュリティ設定によって無効にされています。</string>
+  <string name="fingerprint_gesture_screen_title">指紋センサーのスワイプ</string>
   <string name="fingerprint_identify_input_password_msg">パスワードを入力</string>
   <string name="fingerprint_identify_msg">指紋を読み取り中…</string>
   <string name="fingerprint_identify_try_again_msg">指紋を読み取れませんでした、再度試してください</string>
@@ -1857,6 +2097,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fingerprint_others_title">その他</string>
   <string name="fingerprint_payment">Fingerprint payments</string>
   <string name="fingerprint_removal_failed">指紋認証を削除できませんでした、再度試してください</string>
+  <string name="fingerprint_swipe_for_notifications_suggestion_title">通知をすばやく確認</string>
   <string name="fingerprint_swipe_for_notifications_summary">通知を確認するには、スマートフォンの背面にある指紋認証センサーを下にスワイプします。</string>
   <string name="fingerprint_swipe_for_notifications_title">指紋センサーをスワイプして通知を表示</string>
   <string name="fingerprint_unlock_set_unlock_password">指紋 + パスワード</string>
@@ -2010,6 +2251,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="game_storage_settings">ゲーム</string>
   <string name="gesture_preference_summary">簡単な操作でスマートフォンを管理できます</string>
   <string name="gesture_preference_title">動作</string>
+  <string name="gesture_prevent_ringing_screen_title">着信音を停止</string>
+  <string name="gesture_prevent_ringing_sound_title">着信音ミュート用のショートカット</string>
+  <string name="gesture_prevent_ringing_title">電源ボタンと音量大ボタンを同時に押す</string>
   <string name="gesture_wakeup_title">画面をダブルタップしてスリープ解除</string>
   <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
   <string name="getConnectionInfo">接続情報の取得</string>
@@ -2115,10 +2359,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="ime_security_warning">この入力方法を選択すると、すべての入力内容の収集をアプリ（%1$s）に許可することになります。これにはパスワードやクレジットカード番号などの個人情報も含まれます。この入力方法を使用しますか？</string>
   <string name="imei_information_summary">IMEI関連情報</string>
   <string name="imei_information_title">IMEI情報</string>
+  <string name="imei_multi_sim">IMEI（SIM スロット %1$d）</string>
   <string name="immediately_destroy_activities">アクティビティを保持しない</string>
   <string name="immediately_destroy_activities_summary">ユーザーが離れたアクティビティを直ちに破棄する</string>
   <string name="ims_reg_required_off">IMS登録をOFFにする必要があります</string>
   <string name="ims_reg_required_on">IMS登録をONにする必要があります</string>
+  <string name="ims_reg_status_not_registered">未登録</string>
+  <string name="ims_reg_status_registered">登録済み</string>
+  <string name="ims_reg_title">IMS 登録ステータス</string>
   <string name="inactive_app_active_summary">有効。タップすると切り替わります。</string>
   <string name="inactive_app_inactive_summary">無効。タップすると切り替わります。</string>
   <string name="inactive_apps_title">無効なアプリ</string>
@@ -2229,16 +2477,24 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_accounts">アカウント</string>
   <string name="keywords_airplane">機内モード;機内;Fly</string>
   <string name="keywords_all_apps">アプリ ダウンロード アプリケーション システム</string>
+  <string name="keywords_ambient_display">通知の着信</string>
+  <string name="keywords_ambient_display_screen">アンビエント表示, ロック画面表示</string>
+  <string name="keywords_android_version">Android セキュリティ パッチ レベル, ベースバンド バージョン, カーネル バージョン</string>
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">アプリ、権限、セキュリティ</string>
+  <string name="keywords_assist_gesture_launch">gesture</string>
+  <string name="keywords_assist_input">default, assistant</string>
   <string name="keywords_auto_rotate">回転;画面を回転;Orientation;Screen orientation;Portrait mode;Landscape mode;vertical;horizontal</string>
   <string name="keywords_backup">バックアップ</string>
   <string name="keywords_battery">電源</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
+  <string name="keywords_bluetooth_settings">connected, device, headphones, headset, speaker, wireless, pair, earbuds, music, media</string>
+  <string name="keywords_change_wifi_state">wifi, wi-fi, toggle, control</string>
   <string name="keywords_color_mode">鮮やか、RGB、sRGB、色、自然、標準</string>
   <string name="keywords_color_temperature">色温度 D65 D73 白 黄 青 ウォーム クール</string>
   <string name="keywords_data">4G;3G;データ;モバイルデータ;Cellular data;通信量;Mobile internet</string>
   <string name="keywords_date_and_time">時計</string>
+  <string name="keywords_directory_access">directory access</string>
   <string name="keywords_display">画面 タッチスクリーン</string>
   <string name="keywords_display_auto_brightness">暗くする 画面 タッチスクリーン</string>
   <string name="keywords_display_brightness_level">暗くする 画面 タッチスクリーン</string>
@@ -2285,8 +2541,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_wifi">wifi wi-fi ネットワーク 接続</string>
   <string name="keywords_wifi_calling">wifi、Wi-Fi、通話、発信</string>
   <string name="keywords_write_settings">書き込み 変更 システム設定</string>
-  <string name="label_mi_stats">Mi analytics</string>
   <string name="label_global_roaming_settings">ローミング設定</string>
+  <string name="label_mi_stats">Mi analytics</string>
+  <string name="language_empty_list_user_restricted">端末の言語を変更する権限がありません。</string>
+  <string name="language_input_gesture_title">言語、入力とジェスチャー</string>
   <string name="language_keyboard_settings_title">言語と入力</string>
   <string name="language_picker_title">言語</string>
   <string name="language_settings">言語と入力</string>
@@ -2300,6 +2558,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_defaults_none">既定の設定なし</string>
   <string name="launch_defaults_some">一部デフォルトを設定</string>
   <string name="launch_google_search">Googleアシスタントを起動</string>
+  <string name="launch_instant_app">開く</string>
+  <string name="launch_mdp_app_text">プランを表示</string>
   <string name="launch_recents">履歴を起動</string>
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
   <string name="launch_wifi_text">詳細を表示</string>
@@ -2320,6 +2580,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="layout_size_normal_text">Small</string>
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra small</string>
+  <string name="learn_more">詳細</string>
   <string name="led_colors_summary">通知</string>
   <string name="led_frequence_summary">点滅の間隔を設定する</string>
   <string name="led_pulse_summary">新しい通知を受信した時に点滅させる</string>
@@ -2402,6 +2663,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="location_scanning_screen_title">スキャン</string>
   <string name="location_scanning_wifi_always_scanning_description">位置情報の精度を向上させるため、システムのアプリやサービスがいつでもWi‑Fiネットワークを検出できるようにします</string>
   <string name="location_scanning_wifi_always_scanning_title">Wi‑Fiのスキャン</string>
+  <string name="location_settings_master_switch_title">位置情報の使用</string>
   <string name="location_settings_title">位置情報</string>
   <string name="location_sources_heading">位置情報源</string>
   <string name="location_street_level">携帯端末でGPSを使用して現在地を特定することをアプリに許可する</string>
@@ -2409,7 +2671,22 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_after_timeout">自動ロック</string>
   <string name="lock_after_timeout_summary">スリープ開始から%1$s</string>
   <string name="lock_after_timeout_summary_with_exception">スリープ開始から%1$s（%2$sがロック解除を管理している場合を除く）</string>
+  <string name="lock_failed_attempts_before_wipe">もう一度お試しください。入力回数: %1$d/%2$d 回</string>
+  <string name="lock_failed_attempts_now_wiping_device">間違えた回数が上限を超えました。この端末のデータは削除されます。</string>
+  <string name="lock_failed_attempts_now_wiping_dialog_dismiss">閉じる</string>
+  <string name="lock_failed_attempts_now_wiping_profile">間違えた回数が上限を超えました。この仕事用プロファイルと関連データが削除されます。</string>
+  <string name="lock_failed_attempts_now_wiping_user">間違えた回数が上限を超えました。このユーザーが削除されます。</string>
   <string name="lock_immediately_summary_with_exception">スリープの開始直後（%1$sがロック解除を管理している場合を除く）</string>
+  <string name="lock_last_attempt_before_wipe_warning_title">データが削除されます</string>
+  <string name="lock_last_password_attempt_before_wipe_device">パスワードをあと 1 回間違えると、この端末のデータは削除されます</string>
+  <string name="lock_last_password_attempt_before_wipe_profile">パスワードをあと 1 回間違えると、仕事用プロファイルと関連データが削除されます</string>
+  <string name="lock_last_password_attempt_before_wipe_user">パスワードをあと 1 回間違えると、このユーザーが削除されます</string>
+  <string name="lock_last_pattern_attempt_before_wipe_device">パターンをあと 1 回間違えると、この端末のデータは削除されます</string>
+  <string name="lock_last_pattern_attempt_before_wipe_profile">パターンをあと 1 回間違えると、仕事用プロファイルと関連データが削除されます</string>
+  <string name="lock_last_pattern_attempt_before_wipe_user">パターンをあと 1 回間違えると、このユーザーが削除されます</string>
+  <string name="lock_last_pin_attempt_before_wipe_device">PIN をあと 1 回間違えると、この端末のデータは削除されます</string>
+  <string name="lock_last_pin_attempt_before_wipe_profile">PIN をあと 1 回間違えると、仕事用プロファイルと関連データが削除されます</string>
+  <string name="lock_last_pin_attempt_before_wipe_user">PIN をあと 1 回間違えると、このユーザーが削除されます</string>
   <string name="lock_profile_wipe_attempts">もう一度お試しください。入力回数: %1$d/%2$d</string>
   <string name="lock_profile_wipe_content">入力回数が上限を超えました。仕事用プロファイルと関連データはこの端末から削除されます。</string>
   <string name="lock_profile_wipe_dismiss">閉じる</string>
@@ -2437,6 +2714,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
   <string name="lock_settings">ロック画面とパスワード</string>
   <string name="lock_settings_common_title">端末のセキュリティ</string>
+  <string name="lock_settings_picker_fingerprint_added_security_message">セキュリティを強化するには、予備の画面ロックを設定してください</string>
   <string name="lock_settings_picker_fingerprint_message">予備の画面ロック方式を選択してください</string>
   <string name="lock_settings_picker_settings">ロック画面を設定</string>
   <string name="lock_settings_picker_title">画面ロックを選択</string>
@@ -2457,39 +2735,59 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_settings_with_fingerprint">画面ロックと指紋認証</string>
   <string name="lock_setup">設定が完了しました。</string>
   <string name="lock_sounds_enable_title">画面ロック時の音</string>
+  <string name="lockdown_settings_summary">Smart Lock、指紋認証によるロック解除、ロック画面上の通知を無効にする電源ボタン オプションを表示します</string>
+  <string name="lockdown_settings_title">ロックダウン オプションの表示</string>
+  <string name="locked_work_profile_notification_title">仕事用プロファイルのロック時</string>
   <string name="lockpassword_cancel_label">キャンセル</string>
   <string name="lockpassword_choose_for_second_user">Second space用のパスワードを設定</string>
   <string name="lockpassword_choose_lock_generic_header">画面ロックの選択</string>
   <string name="lockpassword_choose_your_password_header">パスワードを設定</string>
+  <string name="lockpassword_choose_your_password_header_for_fingerprint">指紋認証にはパスワードが必要です</string>
+  <string name="lockpassword_choose_your_password_message">セキュリティ強化のため、パスワードを設定してください</string>
   <string name="lockpassword_choose_your_password_second_space">"Second space用のPINを設定する。
 このPINにはFirst spaceのPINと
 同じ桁数を含める必要があります。"</string>
   <string name="lockpassword_choose_your_pattern_header">パターンを設定</string>
+  <string name="lockpassword_choose_your_pattern_header_for_fingerprint">指紋認証にはパターンが必要です</string>
+  <string name="lockpassword_choose_your_pattern_message">セキュリティ強化のため、パターンを設定してください</string>
   <string name="lockpassword_choose_your_pin_header">PINを設定</string>
+  <string name="lockpassword_choose_your_pin_header_for_fingerprint">指紋認証には PIN が必要です</string>
   <string name="lockpassword_choose_your_pin_header_second_space">Second space用のPINを設定する</string>
+  <string name="lockpassword_choose_your_pin_message">セキュリティ強化のため、PIN を設定してください</string>
   <string name="lockpassword_choose_your_pin_title" formatted="false">%d～%d桁を入力</string>
+  <string name="lockpassword_choose_your_screen_lock_header">画面ロックの設定</string>
+  <string name="lockpassword_clear_label">消去</string>
   <string name="lockpassword_confirm_for_second_user">Second spaceのパスワードを確認</string>
+  <string name="lockpassword_confirm_label">確認</string>
   <string name="lockpassword_confirm_passwords_dont_match">パスワードが一致しません</string>
   <string name="lockpassword_confirm_pins_dont_match">PINが一致しません</string>
   <string name="lockpassword_confirm_workspace_password">"Work spaceのパスワードを確認"</string>
   <string name="lockpassword_confirm_your_lock_password_header">パスワードを確認</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">解除パターンを確認</string>
+  <string name="lockpassword_confirm_your_password_details_frp">スマートフォンは出荷時の設定にリセットされました。使用するには、以前のパスワードを入力してください。</string>
   <string name="lockpassword_confirm_your_password_generic">続行するには、パスワードを入力してください。</string>
   <string name="lockpassword_confirm_your_password_generic_profile">続行するには仕事用のパスワードを入力してください。</string>
   <string name="lockpassword_confirm_your_password_header">パスワードを確認</string>
+  <string name="lockpassword_confirm_your_password_header_frp">パスワードの確認</string>
+  <string name="lockpassword_confirm_your_pattern_details_frp">スマートフォンは出荷時の設定にリセットされました。使用するには、以前のパターンを入力してください。</string>
   <string name="lockpassword_confirm_your_pattern_generic">続行するには、解除パターンを入力してください。</string>
   <string name="lockpassword_confirm_your_pattern_generic_profile">続行するには仕事用のパターンを使用してください。</string>
   <string name="lockpassword_confirm_your_pattern_header">パターンの確認</string>
+  <string name="lockpassword_confirm_your_pattern_header_frp">パターンの確認</string>
+  <string name="lockpassword_confirm_your_pin_details_frp">スマートフォンは出荷時の設定にリセットされました。使用するには、以前の PIN を入力してください。</string>
   <string name="lockpassword_confirm_your_pin_generic">続行するには、PINコードを入力してください。</string>
   <string name="lockpassword_confirm_your_pin_generic_profile">続行するには仕事用の PIN を入力してください。</string>
   <string name="lockpassword_confirm_your_pin_header">PINの確認</string>
+  <string name="lockpassword_confirm_your_pin_header_frp">PIN の確認</string>
   <string name="lockpassword_confirm_your_private_password_header">パスワードを確認</string>
   <string name="lockpassword_confirm_your_private_pattern_header">解除パターンを確認</string>
   <string name="lockpassword_continue_label">次へ</string>
+  <string name="lockpassword_draw_your_pattern_again_header">パターンを再入力</string>
   <string name="lockpassword_illegal_character">パスワードに無効な文字が含まれています。</string>
   <string name="lockpassword_invalid_password">パスワードが正しくありません</string>
   <string name="lockpassword_invalid_pin">PINが正しくありません</string>
   <string name="lockpassword_ok_label">OK</string>
+  <string name="lockpassword_password_blacklisted_by_admin">一般的なパスワードは IT 管理者によってブロックされています。別のパスワードをお試しください。</string>
   <string name="lockpassword_password_recently_used">最近使用したパスワードは使用できません。</string>
   <string name="lockpassword_password_requires_alpha">パスワードには英字が1文字以上必要です。</string>
   <string name="lockpassword_password_requires_digit">パスワードには数字が1つ以上必要です。</string>
@@ -2498,6 +2796,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockpassword_password_too_long">パスワードは%d文字未満で指定してください。</string>
   <string name="lockpassword_password_too_short">パスワードを%d文字以上で入力してください</string>
   <string name="lockpassword_pattern_set_toast">パターンが設定されました</string>
+  <string name="lockpassword_pin_blacklisted_by_admin">一般的な PIN は IT 管理者によってブロックされています。別の PIN をお試しください。</string>
   <string name="lockpassword_pin_contains_non_digits">PINに使用できるのは数字のみです。</string>
   <string name="lockpassword_pin_no_sequential_digits">一連の数字を昇順や降順にしたり、繰り返したりすることはできません</string>
   <string name="lockpassword_pin_recently_used">最近使用したPINは使用できません。</string>
@@ -2563,6 +2862,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="long_press_menu_key_when_lock">ロック時にメニューボタンを長押し</string>
   <string name="long_press_power_key_half_of_second">電源ボタンを0.5秒間押し続けると、Googleアシスタントがオンになります</string>
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
+  <string name="lost_internet_access_cancel">Wi‑Fi を継続</string>
+  <string name="lost_internet_access_persist">次回から表示しない</string>
+  <string name="lost_internet_access_switch">モバイルデータに切り替え</string>
+  <string name="lost_internet_access_text">Wi-Fi の接続状況が悪い場合にモバイル ネットワークに切り替えることができます。データ使用量について請求が発生することがあります。</string>
+  <string name="lost_internet_access_title">Wi-Fi はインターネットに接続していません</string>
   <string name="lte_4g_settings_4gdisable_summary">4Gが無効です</string>
   <string name="lte_4g_settings_4genable_summary">4Gが有効です</string>
   <string name="lte_4g_settings_disable">機内モードを使用中か、SIMカードの準備ができていません</string>
@@ -2625,6 +2929,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_desc_erase_external_storage">"
 
 音楽、画像、その他のユーザーデータを消去するには、"<b>SDカード</b>を消去する必要があります。</string>
+  <string name="master_clear_desc_no_cancel_mobile_plan">"
+
+この操作を行っても、ご利用のモバイル サービス プランはキャンセルされません。"</string>
   <string name="master_clear_erase_application_progress">アプリを消去中…</string>
   <string name="master_clear_failed">System Clearサービスが利用できないため、リセットされませんでした。</string>
   <string name="master_clear_final_button_text">すべて消去</string>
@@ -2636,6 +2943,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="master_clear_personal_data_sdcard">すべての個人情報とコンテンツを消去しますか？この操作は元に戻すことができません！</string>
   <string name="master_clear_progress_text">お待ちください...</string>
   <string name="master_clear_progress_title">消去中</string>
+  <string name="master_clear_short_title">全データを消去（出荷時リセット）</string>
   <string name="master_clear_summary">携帯端末内のすべてのデータを消去する</string>
   <string name="master_clear_title">データの初期化</string>
   <string name="max_aspect_settings_all_app_display_loading">読み込み中…</string>
@@ -2645,10 +2953,16 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="media_button">メディアボタン</string>
   <string name="media_category">メディア</string>
   <string name="media_feedback_enable_title">音楽に合わせて振動</string>
+  <string name="media_out_summary_ongoing_call_state">通話中は利用できません</string>
+  <string name="media_output_default_summary">この端末</string>
+  <string name="media_output_summary">スマートフォン</string>
+  <string name="media_output_summary_unavailable">利用できません</string>
+  <string name="media_output_title">メディアの再生先</string>
   <string name="media_volume_option_title">メディアの音量</string>
   <string name="media_volume_summary">音楽や動画の再生音量</string>
   <string name="media_volume_title">メディア</string>
   <string name="medium_font">中</string>
+  <string name="meid_multi_sim">MEID（SIM スロット %1$d）</string>
   <string name="mem_details_title">メモリ情報</string>
   <string name="mem_state_subtitle">メモリのステータス</string>
   <string name="mem_use_free_type">未使用</string>
@@ -2821,6 +3135,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="model_info">モデル</string>
   <string name="model_name">モデル名</string>
   <string name="model_number">モデル番号</string>
+  <string name="model_summary">モデル: %1$s</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>
   <string name="move_app">移動</string>
@@ -2928,6 +3243,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mvno_type">MVNOの種類</string>
   <string name="my_device">My device</string>
   <string name="my_device_disclaimer">Note: Hardware info, including CPU, battery capacity, screen size and resolution, and camera, is provided by Xiaomi labs, designers, and suppliers.</string>
+  <string name="my_device_info_account_preference_title">アカウント</string>
+  <string name="my_device_info_device_name_preference_title">端末名</string>
   <string name="n_cacrts">CA証明書%d件</string>
   <string name="navigation_guide_app_summary">画面上部の端から左または右にスワイプする</string>
   <string name="navigation_guide_app_title">アプリのアクションをトリガーする</string>
@@ -2957,6 +3274,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="network_changed_noti_summary">モバイルデータを使用</string>
   <string name="network_changed_noti_title">Wi-Fiから切断しました</string>
   <string name="network_control">アプリの設定を表示</string>
+  <string name="network_dashboard_summary_data_usage">データ使用量</string>
+  <string name="network_dashboard_summary_hotspot">アクセス ポイント</string>
+  <string name="network_dashboard_summary_mobile">モバイル</string>
   <string name="network_dashboard_summary">Wi-Fi接続、モバイルデータ、データ使用量、テザリング</string>
   <string name="network_dashboard_title">ネットワークとインターネット</string>
   <string name="network_detail">%sネットワークの詳細</string>
@@ -2982,6 +3302,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="networks_title">Cellular networks</string>
   <string name="never">Never</string>
   <string name="new_backup_pw_prompt">フルバックアップ用の新しいパスワードをここに入力してください</string>
+  <string name="new_device_suggestion_summary">新しいスマートフォンの使い方をご紹介します</string>
+  <string name="new_device_suggestion_title">"What's new and exciting?"</string>
   <string name="new_password_to_new_fingerprint_dialog_msg">デバイスのロックを解除するための指紋を追加する。</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">キャンセル</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">追加</string>
@@ -3038,6 +3360,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="no_application">なし</string>
   <string name="no_applications">アプリはありません。</string>
   <string name="no_battery_summary">前回のフル充電から電池を使用していません</string>
+  <string name="no_carrier_update_now_text">更新: たった今</string>
+  <string name="no_carrier_update_text">更新: ^2 前</string>
   <string name="no_connected_devices">接続されたデバイスはありません</string>
   <string name="no_data_usage">データ通信の使用はありません</string>
   <string name="no_device_admins">有効なデバイス管理者がいません</string>
@@ -3071,20 +3395,26 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_breathing_light_freq_title">通知LEDを点滅させる</string>
   <string name="notification_channel_badge_title">通知ドットの表示</string>
   <string name="notification_channel_sound_title">音</string>
+  <string name="notification_channel_summary_default">重要度: 高</string>
+  <string name="notification_channel_summary_high">重要度: 緊急</string>
+  <string name="notification_channel_summary_low">重要度: 中</string>
+  <string name="notification_channel_summary_min">重要度: 低</string>
   <string name="notification_channel_title">通知のカテゴリ</string>
   <string name="notification_channels">通知のカテゴリ</string>
   <string name="notification_channels_other">その他</string>
   <string name="notification_content_block_summary">シェードにも周辺端末にも通知を表示しない</string>
   <string name="notification_content_block_title">通知の表示</string>
+  <string name="notification_group_title">通知のカテゴリ グループ</string>
   <string name="notification_importance_blocked">ブロック: 今後はこの通知を表示しない</string>
   <string name="notification_importance_default">標準: 通知を音声で知らせる</string>
   <string name="notification_importance_high">高: 画面に数秒間表示し、音も許可する</string>
+  <string name="notification_importance_high_silent">ポップアップ</string>
   <string name="notification_importance_low">低: この通知をマナーモードで表示する</string>
   <string name="notification_importance_max">緊急: 通知リストの先頭に表示し、画面に数秒間表示し、音声でも知らせる</string>
   <string name="notification_importance_min">最低: 通知リストの末尾にマナーモードで表示する</string>
   <string name="notification_importance_none">未設定</string>
-  <string name="notification_importance_title">重要度</string>
-  <string name="notification_importance_unspecified">アプリは通知ごとに重要度を判断します</string>
+  <string name="notification_importance_title">動作</string>
+  <string name="notification_importance_unspecified">音の許可</string>
   <string name="notification_listener_disable_warning_cancel">キャンセル</string>
   <string name="notification_listener_disable_warning_confirm">無効にする</string>
   <string name="notification_listener_security_warning_summary">%1$sはシステムやインストール済みのアプリが投稿した通知をすべて読み取ることができます。通知には、連絡先名などの個人情報やユーザーに送信されたメールの本文が含まれる場合があります。また、これらの通知を非表示にしたり、通知内の操作ボタンをタップしたりすることもできます。</string>
@@ -3127,9 +3457,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_sound_dialog_title">デフォルトの通知音</string>
   <string name="notification_sound_title">デフォルトの通知音</string>
   <string name="notification_suggestion_summary">通知内容を表示または非表示にする</string>
-  <string name="notification_suggestion_title">ロック画面の通知を制御する</string>
+  <string name="notification_suggestion_title">ロック画面に表示される情報の管理</string>
   <string name="notification_summary_level">レベル %d</string>
   <string name="notification_summary_none">すべてのアプリが通知を送信できます</string>
+  <string name="notification_switch_label">通知の表示</string>
   <string name="notification_unknown_sound_title">アプリの通知音</string>
   <string name="notification_update_new_version">更新が利用可能</string>
   <string name="notification_update_now">今すぐ更新</string>
@@ -3138,20 +3469,26 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_volume_title">通知</string>
   <string name="notifications_disabled">ブロック</string>
   <string name="notifications_enabled">標準</string>
+  <string name="notifications_enabled_with_info">ON / %1$s</string>
   <string name="notifications_hidden">ロック画面に表示しない</string>
   <string name="notifications_label">通知</string>
   <string name="notifications_no_peeking">重要な通知をポップアップしない</string>
   <string name="notifications_partly_blocked">%2$d 件中 %1$d 件のカテゴリが OFF</string>
   <string name="notifications_priority">夜間モードの設定を上書き</string>
   <string name="notifications_redacted">ロック画面にプライベートな内容を表示しない</string>
+  <string name="notifications_sent_daily">1 日あたり %1$s 件以下</string>
+  <string name="notifications_sent_never">なし</string>
+  <string name="notifications_sent_weekly">1 週間あたり %1$s 件以下</string>
   <string name="notifications_silenced">マナーモード</string>
   <string name="notifications_sensitive">プライベートな内容の非表示</string>
+  <string name="notifications_title">通知</string>
   <string name="notify_connect">中国移動WIFIへの接続確認</string>
   <string name="notify_connect_summary">中国移動WIFI(CMCC)へのアクセス時にプロンプトを表示</string>
   <string name="now">今すぐ再起動</string>
   <string name="nsd_quick_toggle_summary">別の端末上のアプリにこの端末上のアプリを検出することを許可する</string>
   <string name="nsd_quick_toggle_title">ネットワークサービスの検出</string>
   <string name="number_of_device_admins_none">アクティブなアプリはありません</string>
+  <string name="oem_lock_info_message">端末保護機能を有効にするには、端末を再起動してください。</string>
   <string name="oem_radio_info_label">OEM固有の情報/設定</string>
   <string name="oem_unlock_enable">OEMロック解除</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">ブートローダーは既にロック解除されています</string>
@@ -3189,6 +3526,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="operator_warning">端末で記録されるデータ使用量と携帯通信会社のデータ使用量は異なる場合があります。</string>
   <string name="optimization_cancel">キャンセル</string>
   <string name="ota_disable_automatic_update">自動システム アップデート</string>
+  <string name="ota_disable_automatic_update_summary">端末の再起動時にアップデートを適用する</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
   <string name="other_personal_settings">個人設定</string>
@@ -3254,7 +3592,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_page2_title">プレビュー</string>
   <string name="page_layout_small_title">XS</string>
   <string name="page_tab_title_summary">すべて</string>
-  <string name="page_tab_title_support">サポート</string>
+  <string name="page_tab_title_support">ヒントとサポート</string>
   <string name="paper_mode_auto_twilight_summary">日没後、自動的に読書モードに切り替える</string>
   <string name="paper_mode_auto_twilight_title">"Good night's read"</string>
   <string name="paper_mode_customize_time_summary">指定した時間の間、読書モードを有効にする</string>
@@ -3336,11 +3674,16 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_charging_duration_usb">%1$d%% - フル充電まで%2$s（USB経由）</string>
   <string name="power_charging_duration_wireless">%1$d%% - フル充電まで%2$s（ワイヤレス）</string>
   <string name="power_checker">パワーチェッカー</string>
+  <string name="power_discharge_by">電池切れの推定時間: %1$s（%2$s）</string>
+  <string name="power_discharge_by_enhanced">電池切れの推定時間: %1$s（使用状況に基づく）（%2$s）</string>
+  <string name="power_discharge_by_only">電池切れの推定時間: %1$s</string>
+  <string name="power_discharge_by_only_enhanced">電池切れの推定時間: %1$s（使用状況に基づく）</string>
   <string name="power_discharge_remaining">残り%1$s</string>
   <string name="power_discharging_duration">%1$d%% - 残り約%2$s</string>
   <string name="power_flashlight">ライト</string>
   <string name="power_hide_mode_summary">アプリのバックグラウンドプロセス、Wi-Fiおよびモバイルデータ接続、GPSの使用を制限することでバッテリーを節約します</string>
   <string name="power_hide_mode_title">アプリの電池使用量を管理</string>
+  <string name="power_high_usage_title">使用量が多いアイテム</string>
   <string name="power_idle">アイドル状態</string>
   <string name="power_key_how_power_force_off">デバイスを強制的に再起動する方法</string>
   <string name="power_key_how_power_force_off_detail">デバイスが再起動するまで電源ボタンを押し続けます</string>
@@ -3358,7 +3701,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_phone">通話</string>
   <string name="power_remaining_charging_duration_only">フル充電まであと %1$s</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
+  <string name="power_remaining_duration_only_enhanced">残り時間: 約 %1$s（使用状況に基づく）</string>
   <string name="power_remaining_duration_only_short">あと%1$s</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">スマートフォンの電源がもうすぐ切れます</string>
+  <string name="power_remaining_duration_shutdown_imminent">スマートフォンの電源がもうすぐ切れます（%1$s）</string>
+  <string name="power_remaining_less_than_duration">残り時間: %1$s未満（%2$s）</string>
+  <string name="power_remaining_less_than_duration_only">残り時間: %1$s未満</string>
+  <string name="power_remaining_more_than_subtext">残り時間: %1$s以上（%2$s）</string>
+  <string name="power_remaining_only_more_than_subtext">残り時間: %1$s以上</string>
   <string name="power_screen">画面</string>
   <string name="power_settings_title">システムパフォーマンス</string>
   <string name="power_unaccounted">その他</string>
@@ -3383,6 +3733,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="pref_operational_key">ナビゲーションボタン</string>
   <string name="pref_show_lunar_calendar_title">ロック画面に中国語(繁体字)のカレンダーを表示する</string>
   <string name="pref_title_lang_selection">言語の設定</string>
+  <string name="pref_title_network_details">ネットワークの詳細</string>
   <string name="pref_title_update_notification">データ使用の通知</string>
   <string name="pref_volume_launch_camera_summary">"音量[－]ボタンを2回押すとカメラを起動します"</string>
   <string name="pref_volume_launch_camera_title">高速カメラ起動</string>
@@ -3413,11 +3764,18 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="premium_sms_access">Premium SMS access</string>
   <string name="premium_sms_none">No installed apps have requested Premium SMS access</string>
   <string name="premium_sms_warning">Premium SMS may cost you money and will add up to your carrier bills. If you enable permission for an app, you will be able to send premium SMS using that app.</string>
+  <string name="prevent_ringing_option_mute">ミュート</string>
+  <string name="prevent_ringing_option_mute_summary">ON（ミュート）</string>
+  <string name="prevent_ringing_option_none">何もしない</string>
+  <string name="prevent_ringing_option_none_summary">OFF</string>
+  <string name="prevent_ringing_option_vibrate">バイブレーション</string>
+  <string name="prevent_ringing_option_vibrate_summary">ON（バイブ）</string>
   <string name="preview_page_indicator_content_description">プレビュー、%1$d ページ（%2$d ページ中）</string>
   <string name="preview_pager_content_description">プレビュー</string>
   <string name="print_blocked_state_title_template">%1$sをブロックしました</string>
   <string name="print_cancel">キャンセル</string>
   <string name="print_cancelling_state_title_template">%1$sをキャンセルしています</string>
+  <string name="print_configuring_state_title_template">%1$s を設定しています</string>
   <string name="print_failed_state_title_template">プリンタエラー: %1$s</string>
   <string name="print_feature_state_off">OFF</string>
   <string name="print_feature_state_on">ON</string>
@@ -3513,6 +3871,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="privacy_relative">プライバシー</string>
   <string name="privacy_settings">バックアップとリセット</string>
   <string name="privacy_settings_title">バックアップとリセット</string>
+  <string name="private_dns_help_message">プライベート DNS 機能の&lt;annotation id="url">詳細を見る&lt;/annotation></string>
+  <string name="private_dns_mode_off">OFF</string>
+  <string name="private_dns_mode_opportunistic">自動</string>
+  <string name="private_dns_mode_provider">プライベート DNS プロバイダのホスト名</string>
+  <string name="private_dns_mode_provider_failure">接続できませんでした</string>
+  <string name="private_dns_mode_provider_hostname_hint">DNS プロバイダのホスト名を入力</string>
   <string name="private_gallery_need_to_unlock">パスワードが必要:</string>
   <string name="private_gallery_recording_intro_header">ロック解除パターンを入力:</string>
   <string name="private_gallery_reset_by_account">パスワードをリセットするには、Miアカウントにログインしてください</string>
@@ -3603,6 +3967,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_data_attempts_label">データの試行:</string>
   <string name="radio_info_data_successes_label">データ成功:</string>
   <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
+  <string name="radio_info_dl_kbps">DL 帯域幅（kbps）:</string>
   <string name="radio_info_gprs_service_label">GPRSサービス:</string>
   <string name="radio_info_gsm_disconnects_label">GSM切断:</string>
   <string name="radio_info_gsm_service_label">GSMサービス:</string>
@@ -3611,6 +3976,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_neighboring_location_label">近くのCID:</string>
   <string name="radio_info_network_type_label">ネットワークの種類</string>
   <string name="radio_info_phone_number_label">電話番号:</string>
+  <string name="radio_info_phy_chan_config">LTE の物理チャネル設定:</string>
   <string name="radio_info_ping_hostname">ホスト名 (www.google.co.jp) のPing:</string>
   <string name="radio_info_ping_ipaddr">IPアドレスのPing:</string>
   <string name="radio_info_ppp_received_label">PPP受信:</string>
@@ -3624,6 +3990,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="radio_info_smsc_refresh_label">更新</string>
   <string name="radio_info_smsc_update_label">更新</string>
   <string name="radio_info_toggle_dns_check_label">DNSチェックを切り替え</string>
+  <string name="radio_info_ul_kbps">UL 帯域幅（kbps）:</string>
   <string name="radio_info_voice_network_type_label">音声ネットワークの種類:</string>
   <string name="rank_title">ランキング</string>
   <string name="rarely_running">たまに実行（%s）</string>
@@ -3632,8 +3999,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="really_remove_account_title">アカウントを削除しますか？</string>
   <string name="rebootiing_for_updates">再起動中…</string>
   <string name="receiver_clean">空き容量を確保</string>
+  <string name="recent_app_category_title">最近開いたアプリ</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
+  <string name="recent_notifications">通知を最近送信したアプリ</string>
+  <string name="recent_notifications_see_all_title">過去 7 日間をすべて表示</string>
   <string name="recommend_item_1">スマートフォンケース</string>
   <string name="recommend_item_2">スマートバンド(Mi Band)</string>
   <string name="recommend_item_3">モバイルバッテリー(Power bank)</string>
@@ -3665,7 +4035,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
 
 アプリのデータが失われることはありません。"</string>
   <string name="reset_app_preferences_title">設定をリセットしますか？</string>
+  <string name="reset_dashboard_summary">ネットワーク、アプリ、または端末をリセットできます</string>
   <string name="reset_dashboard_title">リセット</string>
+  <string name="reset_esim_desc">スマートフォン上の eSIM をすべて消去します。eSIM をもう一度ダウンロードする場合は、ご利用の携帯通信会社にお問い合わせください。この操作でモバイル サービスプランがキャンセルされることはありません。</string>
+  <string name="reset_esim_error_msg">エラーのため、eSIM をリセットできません。</string>
+  <string name="reset_esim_error_title">eSIM のリセットエラー</string>
+  <string name="reset_esim_title">eSIM もリセットする</string>
   <string name="reset_legacy_password_settings_preface_text">ロック画面のパスワードをリセットする必要があります</string>
   <string name="reset_network_button_text">設定をリセット</string>
   <string name="reset_network_category">この操作により、すべてのネットワーク設定がリセットされます:</string>
@@ -3695,6 +4070,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="restrict_background_blacklisted">バックグラウンド データは無効になっています</string>
   <string name="restrict_bg_app">制限</string>
   <string name="restrict_max_aspect_ratio_title">これらのアプリはフルスクリーンモードではうまく動作しません</string>
+  <string name="restricted_app_detail_footer">このアプリがバックグラウンドで電池を使用していました。制限したアプリは正常に動作しないことがあります。また、通知が遅れる可能性もあります。</string>
+  <string name="restricted_app_title">制限されたアプリ</string>
+  <string name="restricted_false_label">アプリのバックグラウンドでの電池使用可</string>
+  <string name="restricted_true_label">制限</string>
   <string name="restriction_bluetooth_config_summary">Bluetoothのペア設定や設定の変更を許可する</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">アプリに位置情報の使用を許可する</string>
@@ -3784,6 +4163,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_monochrome_mode_local_summary">選択したアプリでモノクロモードを使用する</string>
   <string name="screen_monochrome_mode_local_title">選択したアプリ</string>
   <string name="screen_monochrome_mode_off_apps_title">モノクロモードを使用しない</string>
+  <string name="screen_monochrome_mode_range_title">Range</string>
   <string name="screen_monochrome_mode_set_apps_title">モノクロモードのアプリ</string>
   <string name="screen_monochrome_mode_summary">モノクロモードに切り替えてバッテリーの寿命を延ばす</string>
   <string name="screen_monochrome_mode_title">モノクロモード</string>
@@ -4175,6 +4555,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="security_status">セキュリティーの状態</string>
   <string name="security_status_title">セキュリティーの状態</string>
   <string name="security_update">セキュリティーの更新</string>
+  <string name="see_all_apps_title">%1$d 個のアプリをすべて表示</string>
   <string name="see_all">すべて表示</string>
   <string name="see_less">一部を表示</string>
   <string name="select_all">すべて選択</string>
@@ -4185,6 +4566,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="select_logd_size_title">ログバッファのサイズ</string>
   <string name="select_logpersist_dialog_title">端末上に永続的に保存するログバッファを選択</string>
   <string name="select_logpersist_title">ログデータを端末上に永続的に保存</string>
+  <string name="select_private_dns_configuration_dialog_title">プライベート DNS モードを選択</string>
+  <string name="select_private_dns_configuration_title">プライベート DNS</string>
   <string name="select_sim_card">SIMカードを選択</string>
   <string name="select_sim_for_calls">通話に使用するSIMを選択してください</string>
   <string name="select_sim_for_data">データに使用するSIMを選択してください</string>
@@ -4243,6 +4626,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="setup_fingerprint_enroll_finish_message">指紋センサーに触れるだけで端末を復帰させてロックを解除できます。</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">このアイコンが表示されている場合は指紋を利用できます。</string>
   <string name="setup_fingerprint_enroll_finish_secondary_message">設定を変更するには、[設定]&gt;[セキュリティ]&gt;[指紋]に移動します。</string>
+  <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">指紋の設定にかかる時間は 1～2 分です。スキップした場合は、後で設定から指紋を追加できます。</string>
+  <string name="setup_fingerprint_enroll_skip_title">指紋の設定をスキップしますか？</string>
+  <string name="setup_lock_settings_options_button_label">画面ロックの方法</string>
+  <string name="setup_lock_settings_options_dialog_title">画面ロックの方法</string>
   <string name="setup_lock_settings_picker_fingerprint_message">指紋は、複雑なパターン、PIN、パスワードよりも安全面で劣る可能性があります。バックアップのロック画面を設定して安全を確保してください。</string>
   <string name="setup_lock_settings_picker_message">このスマートフォンが他人に無断で使用されるのを防ぐには、端末保護機能を有効にします。利用する画面ロックを選択してください。</string>
   <string name="setup_lock_settings_picker_title">スマートフォンの保護</string>
@@ -4257,6 +4644,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="share_remote_bugreport_dialog_message">IT 管理者からこの端末のトラブルシューティングに役立てるためバグレポートを共有するようリクエストがありました。アプリやデータが共有され、端末の動作が一時的に遅くなる場合があります。</string>
   <string name="share_remote_bugreport_dialog_message_finished">IT 管理者からこの端末のトラブルシューティングに役立てるためバグレポートを共有するようリクエストがありました。アプリやデータが共有されることがあります。</string>
   <string name="share_remote_bugreport_dialog_title">バグレポートを共有しますか？</string>
+  <string name="share_this_wifi">Extend WLAN coverage</string>
   <string name="sharing_remote_bugreport_dialog_message">このバグレポートを IT 管理者と共有しています。詳しくは、IT 管理者にお問い合わせください。</string>
   <string name="short_summary_font_size">テキストのサイズを変更します</string>
   <string name="show_all_anrs">すべてのANRを表示</string>
@@ -4270,6 +4658,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_dev_on">これでデベロッパーになりました！</string>
   <string name="show_fc">強制終了したアプリ</string>
   <string name="show_fc_summary">強制終了したアプリを表示</string>
+  <string name="show_first_crash_dialog">クラッシュ ダイアログを常に表示</string>
+  <string name="show_first_crash_dialog_summary">アプリのクラッシュが発生するごとにダイアログを表示します</string>
   <string name="show_hw_layers_updates">ハードウェア層情報を表示</string>
   <string name="show_hw_layers_updates_summary">ハードウェア層が更新されると緑を表示する</string>
   <string name="show_hw_screen_updates">GPU表示の更新を表示</string>
@@ -4279,6 +4669,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="show_magnifier_when_input">テキスト拡大鏡</string>
   <string name="show_menu">"メニューを表示"</string>
   <string name="show_non_rect_clip">非矩形クリップ操作をデバッグ</string>
+  <string name="show_notification_channel_warnings">通知チャネルの警告を表示</string>
+  <string name="show_notification_channel_warnings_summary">アプリから有効なチャネルのない通知が投稿されたときに画面上に警告を表示します</string>
+  <string name="show_operator_name_summary">ステータスバーにネットワーク名を表示する</string>
+  <string name="show_operator_name_title">ネットワーク名</string>
   <string name="show_owner_info_on_lockscreen_label">ロック画面に所有者情報を表示</string>
   <string name="show_password">パスワードを表示する</string>
   <string name="show_profile_info_on_lockscreen_label">ロック画面にプロファイル情報を表示</string>
@@ -4351,6 +4745,8 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_other_call_settings">その他の通話設定</string>
   <string name="sim_outgoing_call_title">発信用のSIM</string>
   <string name="sim_pin_change">SIM PINの変更</string>
+  <string name="sim_pin_disable_failed">PINを無効にできません。</string>
+  <string name="sim_pin_enable_failed">PINを有効にできません。</string>
   <string name="sim_pin_toggle">SIMカードをロック</string>
   <string name="sim_pins_dont_match">PINが一致しません</string>
   <string name="sim_pref_divider">優先SIM:</string>
@@ -4359,12 +4755,14 @@ PINが正しくない可能性があります。"</string>
   <string name="sim_radio_off">Off</string>
   <string name="sim_reenter_new">新しいPINを再入力</string>
   <string name="sim_select_card">SIMカードを選択</string>
+  <string name="sim_selection_channel_title">SIM の選択</string>
   <string name="sim_selection_required_pref">選択してください</string>
   <string name="sim_settings_title">SIMカード</string>
   <string name="sim_setup_wizard_title">SIMカード</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIMが空です</string>
   <string name="sim_status_title">SIMのステータス</string>
+  <string name="sim_status_title_sim_slot">SIM ステータス（SIM スロット %1$d）</string>
   <string name="simulate_color_space">色空間シミュレート</string>
   <string name="single_key_use">シングルボタン</string>
   <string name="single_key_use_summary">他の2つのボタンに割り当てられている機能をホームボタンで使用する</string>
@@ -4409,6 +4807,10 @@ PINが正しくない可能性があります。"</string>
   <string name="slot_status_title">IMEI情報</string>
   <string name="small_font">小</string>
   <string name="smallwindow_smartcover_title">小窓のフロントカバー</string>
+  <string name="smart_battery_footer">"Battery Manager で使用頻度の低いアプリの電池使用を制限すると、電池が長持ちします。時間の経過とともに、スマートフォンがアプリの使用状況を学習します。このアプリの通知は遅れることがあります。"</string>
+  <string name="smart_battery_manager_title">Battery Manager</string>
+  <string name="smart_battery_summary">使用頻度の低いアプリの電池使用を制限します</string>
+  <string name="smart_battery_title">Manage apps automatically</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">スマートカバーモード</string>
   <string name="smartcover_sensitive_summary">スマートカバーを使用して端末をロックまたはロック解除する</string>
   <string name="smartcover_sensitive_title">スマートカバー</string>
@@ -4424,6 +4826,8 @@ PINが正しくない可能性があります。"</string>
   <string name="sort_avg_use">平均使用で並べ替え</string>
   <string name="sort_max_use">最大使用で並べ替え</string>
   <string name="sort_order_alpha">名前順</string>
+  <string name="sort_order_frequent_notification">通知件数の多い順</string>
+  <string name="sort_order_recent_notification">新しい順</string>
   <string name="sort_order_size">サイズ順</string>
   <string name="sos_privacy_and_content_policy">User Agreement and Privacy Policy</string>
   <string name="sos_privacy_dialog_button_cancel">Cancel</string>
@@ -4444,6 +4848,13 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="sound_stereo_mode_title">ステレオサウンド</string>
   <string name="sound_vibrate_settings">音量とバイブレーション</string>
   <string name="special_access">特別なアクセス</string>
+  <string name="speed_label_fast">速い</string>
+  <string name="speed_label_medium">普通</string>
+  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_slow">遅い</string>
+  <string name="speed_label_very_fast">非常に速い</string>
+  <string name="speed_label_very_slow">とても遅い</string>
+  <string name="spell_checker_master_switch_title">スペルチェックの使用</string>
   <string name="spell_checker_not_selected">選択していません</string>
   <string name="spellchecker_language">言語</string>
   <string name="spellchecker_quick_settings">設定</string>
@@ -4465,6 +4876,7 @@ This feature needs permissions to access your location, use mobile networks, and
 これは、信頼できる認証情報が端末にインストールされているためです。"</string>
   <string name="standard">マナー</string>
   <string name="standard_info">着信と通知は消音されます</string>
+  <string name="standby_bucket_summary">"アプリ スタンバイ状態:  %s"</string>
   <string name="start_silent_mode">マナーモードをオンにする</string>
   <string name="starting_android">Androidを起動しています</string>
   <string name="status_awaiting_tap">書き込むにはタグをタップしてください...</string>
@@ -4535,12 +4947,15 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="status_bar_style_list">結合表示</string>
   <string name="status_bar_style_page">分割表示</string>
   <string name="status_bt_address">Bluetoothアドレス</string>
+  <string name="status_data_network_type">モバイルデータ ネットワークの種類</string>
   <string name="status_data_state">モバイルネットワークの状態</string>
   <string name="status_failed_to_write">NFCタグにデータを書き込めません。問題が解決しない場合は別のタグをお試しください。</string>
   <string name="status_invalid_password">パスワードが無効です。もう一度お試しください。</string>
   <string name="status_latest_area_info">携帯通信会社の情報</string>
   <string name="status_network_type">モバイルネットワークの種類</string>
   <string name="status_number">電話番号</string>
+  <string name="status_number_sim_slot">電話番号（SIM スロット %1$d）</string>
+  <string name="status_number_sim_status">SIM の電話番号</string>
   <string name="status_operator">ネットワーク</string>
   <string name="status_prl_version">PRLバージョン:</string>
   <string name="status_roaming">ローミング</string>
@@ -4555,6 +4970,7 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="status_tag_not_writable">NFCタグに書き込めません。別のタグを使用してください。</string>
   <string name="status_unavailable">不明</string>
   <string name="status_up_time">稼働時間</string>
+  <string name="status_voice_network_type">モバイル音声ネットワークの種類</string>
   <string name="status_wifi_mac_address">Wi-Fi MACアドレス</string>
   <string name="status_wimax_mac_address">4G MACアドレス</string>
   <string name="status_write_success">書き込み完了</string>
@@ -4654,6 +5070,11 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="storage_wizard_format_confirm_public_title">外部ストレージとしてフォーマット</string>
   <string name="storage_wizard_format_confirm_third_body">^1はフォーマットされています</string>
   <string name="storage_wizard_format_confirm_title">内部ストレージとしてフォーマット</string>
+  <string name="storage_wizard_format_confirm_v2_action">^1をフォーマット</string>
+  <string name="storage_wizard_format_confirm_v2_body">"アプリ、ファイル、メディアを保存するには、この ^1をフォーマットする必要があります。
+
+フォーマットを行うと ^2の既存のコンテンツは消去されます。コンテンツの喪失を防ぐため、別の ^3またはデバイスにバックアップしてください。"</string>
+  <string name="storage_wizard_format_confirm_v2_title">この ^1のフォーマット</string>
   <string name="storage_wizard_format_progress_body">フォーマット中は^1を取り外さないでください。</string>
   <string name="storage_wizard_format_progress_title">^1をフォーマット中…</string>
   <string name="storage_wizard_init_external_summary">写真などのメディアを端末間で移動するために使用します。</string>
@@ -4661,6 +5082,15 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="storage_wizard_init_internal_summary">アプリや写真などすべてのデータをこの端末のみに保存するために使用します。他の端末で使用できないようにするためにフォーマットが必要です。</string>
   <string name="storage_wizard_init_internal_title">内部ストレージとして使用</string>
   <string name="storage_wizard_init_title">^1のセットアップ</string>
+  <string name="storage_wizard_init_v2_external_action">外部ストレージ</string>
+  <string name="storage_wizard_init_v2_external_summary">端末間でファイルやメディアを移動するため</string>
+  <string name="storage_wizard_init_v2_external_title">外部ストレージとして使用</string>
+  <string name="storage_wizard_init_v2_internal_action">スマートフォンのストレージ</string>
+  <string name="storage_wizard_init_v2_internal_summary">このスマートフォンのアプリ、ファイル、メディアのみ</string>
+  <string name="storage_wizard_init_v2_internal_title">追加のスマートフォン ストレージとして使用</string>
+  <string name="storage_wizard_init_v2_later">後でセットアップ</string>
+  <string name="storage_wizard_init_v2_or">または</string>
+  <string name="storage_wizard_init_v2_title">この ^1の使用目的</string>
   <string name="storage_wizard_migrate_body">"写真、ファイル、一部のアプリをこの新しい^1に移動できます。
 
 移動には約^2かかります。これにより内部ストレージの空き容量が^3増えます。移動中は一部のアプリが使用できなくなります。"</string>
@@ -4674,7 +5104,18 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="storage_wizard_migrate_later">後で移動</string>
   <string name="storage_wizard_migrate_now">今すぐ移動</string>
   <string name="storage_wizard_migrate_progress_title">データを移動中…</string>
+  <string name="storage_wizard_migrate_progress_v2_title">コンテンツを移動中…</string>
   <string name="storage_wizard_migrate_title">データを新しいストレージに移動</string>
+  <string name="storage_wizard_migrate_v2_body">"ファイル、メディア、一部のアプリをこの ^1に移動できます。
+
+この移動により、スマートフォンの空き容量が ^2 増えます。この処理にはおよそ ^3かかります。"</string>
+  <string name="storage_wizard_migrate_v2_checklist">移動中:</string>
+  <string name="storage_wizard_migrate_v2_checklist_apps">一部のアプリを使用できなくなります</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">このスマートフォンを充電器に接続したままにします</string>
+  <string name="storage_wizard_migrate_v2_checklist_media">^1を取り外さないでください</string>
+  <string name="storage_wizard_migrate_v2_later">後で移動</string>
+  <string name="storage_wizard_migrate_v2_now">コンテンツを移動</string>
+  <string name="storage_wizard_migrate_v2_title">^1へコンテンツを移動しますか？</string>
   <string name="storage_wizard_move_confirm_body">"^1とそのデータは数秒で^2に移動できます。移動が完了するまでこのアプリは使用できません。
 
 移動中に^2を取り外さないでください。"</string>
@@ -4684,16 +5125,30 @@ This feature needs permissions to access your location, use mobile networks, and
 この端末の^2アプリは移動が完了するまで使用できません。"</string>
   <string name="storage_wizard_move_progress_cancel">移動をキャンセル</string>
   <string name="storage_wizard_move_progress_title">"^1を移動中…"</string>
+  <string name="storage_wizard_move_unlock">データを移行するには、ユーザー（^1）のロック解除が必要です。</string>
   <string name="storage_wizard_ready_external_body">"^1を写真などのメディアの保存に使用する準備が整いました。"</string>
   <string name="storage_wizard_ready_internal_body">"新しい^1は正常に動作しています。
 
 写真、ファイル、アプリなどのデータをこの端末に移動するには[設定]&gt;[ストレージ]に移動してください。"</string>
   <string name="storage_wizard_ready_title">"^1の準備が整いました"</string>
+  <string name="storage_wizard_ready_v2_external_body">コンテンツを ^1に移動できます</string>
+  <string name="storage_wizard_ready_v2_internal_body">^1にコンテンツを移動するには、[&lt;b>設定とストレージ&lt;/b>] にアクセスしてください</string>
+  <string name="storage_wizard_ready_v2_internal_moved_body">"コンテンツを ^1に移動しました。
+
+この ^2を管理するには、["&lt;b>設定とストレージ&lt;/b>] にアクセスしてください。</string>
   <string name="storage_wizard_slow_body">"この^1は速度が遅いようです。
 
 続行することはできますが、この場所に移動したアプリはスムーズに動作しない恐れがあります。また、データの転送に時間がかかる可能性があります。
 
 快適にご利用いただくには、高速の^1を使用することをご検討ください。"</string>
+  <string name="storage_wizard_slow_v2_body">"この ^1は引き続き使用できますが、パフォーマンスが低下する可能性があります。
+
+この ^2に保存されているアプリが正しく動作しなかったり、コンテンツの転送に時間がかかったりすることがあります。
+
+より高速の ^3を使用するか、この ^4を外部ストレージとしてご使用ください。"</string>
+  <string name="storage_wizard_slow_v2_continue">続行</string>
+  <string name="storage_wizard_slow_v2_start_over">最初からやり直す</string>
+  <string name="storage_wizard_slow_v2_title">^1のパフォーマンス低下</string>
   <string name="storageuse_settings_summary">アプリのストレージ使用状況を表示する</string>
   <string name="storageuse_settings_title">ストレージ使用状況</string>
   <string name="strict_mode">厳格モードを有効にする</string>
@@ -4710,6 +5165,8 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="suggestion_additional_fingerprints_summary">別の指紋でロック解除する</string>
   <string name="suggestion_for_phone_recycled">別の電話番号を追加</string>
   <string name="suggestion_remove">削除</string>
+  <string name="suggestions_more_title">他 %1$d 件</string>
+  <string name="suggestions_summary">他 %1$d 件</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
   <string name="super_resolution_access_title">Accessible apps</string>
@@ -4774,6 +5231,10 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="system_storage">システムストレージ</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
   <string name="system_update_settings_list_item_title">システムアップデート</string>
+  <string name="systemui_theme_dark">ダーク</string>
+  <string name="systemui_theme_light">ライト</string>
+  <string name="systemui_theme_wallpaper">自動（壁紙に基づく）</string>
+  <string name="take_call_on_title">通話するデバイス</string>
   <string name="talkback_summary">主に視覚障害者を対象としたスクリーンリーダー ツールです</string>
   <string name="talkback_watermark_enable">TalkBack watermark</string>
   <string name="tap_to_wake">タップしてスリープ解除</string>
@@ -4810,6 +5271,8 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="tether_settings_title_usb_bluetooth">テザリング</string>
   <string name="tether_settings_title_wifi">ポータブルアクセスポイント</string>
   <string name="tether_share_qrcode_title">QRコードを共有</string>
+  <string name="tethering_hardware_offload">テザリング時のハードウェア アクセラレーション</string>
+  <string name="tethering_hardware_offload_summary">テザリング時にハードウェア アクセラレーションを使用します（使用可能な場合）</string>
   <string name="tethering_help_button_text">ヘルプ</string>
   <string name="tethering_help_dialog_text">"<b>USBテザリング</b>
 Android端末をUSBケーブルでコンピューターにつなぐことで、端末のインターネット接続をコンピューターと共有することができます。
@@ -4832,6 +5295,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="thememanager_not_found">テーマを開くことができません。アプリがインストールされているか確認してください。</string>
   <string name="three_gesture_down">三本指で下にスライド</string>
   <string name="time_picker_title">時間</string>
+  <string name="time_spent_in_app_pref_title">アプリを利用した時間</string>
+  <string name="time_unit_just_now">たった今</string>
   <string name="time_zone_auto_stub">タイムゾーンを選択</string>
   <string name="timed_titlei">Timer %d</string>
   <string name="timer_switch_settings_title">設定した時刻に電源をオンまたはオフにする</string>
@@ -4874,6 +5339,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="traffic_none">None</string>
   <string name="transition_animation_scale_title">トランジションアニメスケール</string>
   <string name="translation_contributors_title">翻訳に貢献してくれた人たち</string>
+  <string name="trigger_carrier_provisioning">携帯通信会社のプロビジョニングをトリガー</string>
   <string name="trust_agent_disabled_device_admin">管理者によって無効にされています</string>
   <string name="trusted_credentials">信頼できる認証情報</string>
   <string name="trusted_credentials_disable_confirmation">システムのCA証明書を無効にしますか？</string>
@@ -4953,6 +5419,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="uninstall_xspace_app_dlg_title">デュアルアプリをアンインストールしますか？</string>
   <string name="unknown">不明</string>
   <string name="unknown_app">不明なアプリ</string>
+  <string name="unknown_unavailability_setting_summary">設定を使用できません</string>
   <string name="unlock_change_lock_password_title">ロック解除パスワードの変更</string>
   <string name="unlock_change_lock_pattern_title">ロック解除パターンの変更</string>
   <string name="unlock_change_lock_pin_title">PINの変更</string>
@@ -5052,6 +5519,11 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_charging_summary">パソコンとのすべてのデータ転送を無効にしてUSBポート経由で端末を充電します</string>
   <string name="usb_charging_title">充電のみ</string>
   <string name="usb_connection_category">次で接続:</string>
+  <string name="usb_control_device">この端末</string>
+  <string name="usb_control_host">接続済みの端末</string>
+  <string name="usb_control_title">USB の管理</string>
+  <string name="usb_default_info">別の端末が接続されてスマートフォンのロックが解除されると、この設定が適用されます。信頼できる端末にのみ接続してください。</string>
+  <string name="usb_default_label">デフォルトの USB 設定</string>
   <string name="usb_eject">USBストレージを取り出す</string>
   <string name="usb_eject_summary">USBストレージのマウント解除（安全な取り外し）</string>
   <string name="usb_format">USBストレージのフォーマット</string>
@@ -5070,6 +5542,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_msd_title">大容量記憶デバイス</string>
   <string name="usb_mtp_summary">Windowsから、またはMacでAndroid File Transfer（www.android.com/filetransfer）を使用してメディアファイルを転送できます</string>
   <string name="usb_mtp_title">メディアデバイス（MTP）</string>
+  <string name="usb_preference">USB の設定</string>
   <string name="usb_ptp_summary">カメラソフトやMTP非対応パソコンからファイルを転送できるようにします</string>
   <string name="usb_ptp_title">カメラ（PTP）</string>
   <string name="usb_summary_MIDI">この端末を MIDI として利用する</string>
@@ -5077,6 +5550,10 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_summary_file_transfers">ファイルを転送する</string>
   <string name="usb_summary_photo_transfers">写真を転送する（PTP）</string>
   <string name="usb_summary_power_only">給電する</string>
+  <string name="usb_summary_tether">USB テザリング</string>
+  <string name="usb_summary_tether_power">USB テザリングと給電</string>
+  <string name="usb_switching">切り替えています...</string>
+  <string name="usb_switching_failed">切り替えができませんでした</string>
   <string name="usb_tethering_active_subtext">テザリングしました</string>
   <string name="usb_tethering_available_subtext">USB接続済み、テザリングするには選択</string>
   <string name="usb_tethering_button_text">USBテザリング</string>
@@ -5100,6 +5577,10 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usb_use_power_only_desc">接続されている他のデバイスを充電する</string>
   <string name="use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
   <string name="use_location_title">位置情報とGoogle検索</string>
+  <string name="use_open_wifi_automatically_summary">高品質の公共ネットワークに自動的に接続する</string>
+  <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">この機能を使用するには、対応するネットワーク評価プロバイダを選択してください</string>
+  <string name="use_open_wifi_automatically_summary_scoring_disabled">この機能を使用するには、ネットワーク評価プロバイダを選択してください</string>
+  <string name="use_open_wifi_automatically_title">オープン ネットワークに接続する</string>
   <string name="use_personalized_ad_service">パーソナライズされた広告を提案</string>
   <string name="use_personalized_ad_service_summary">おすすめ機能がオフになっている場合でも、オンの時と同程度の広告が表示されますが、あなたの行動データや個人情報に基づいたものではありません。</string>
   <string name="use_privacy_password_immediate">使用する</string>
@@ -5215,6 +5696,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="vibrate_in_silent_title">マナーモード時のバイブレーション</string>
   <string name="vibrate_input_devices">バイブレーションの使用</string>
   <string name="vibrate_input_devices_summary">接続時に、バイブレーションをゲーム用コントローラにリダイレクトします。</string>
+  <string name="vibrate_on_touch_summary">タップ、キー操作などの触覚フィードバック</string>
   <string name="vibrate_on_touch_title">タッチ操作バイブ</string>
   <string name="vibrate_when_ringing_title">着信時もバイブレーションON</string>
   <string name="vip_list">すべての着信を許可</string>
@@ -5258,6 +5740,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="virus_scanner_title">ウイルススキャナー</string>
   <string name="virus_scanner_update_lib">ウイルス定義を更新</string>
   <string name="vision_settings_description">この端末を必要に応じてカスタマイズできます。このユーザー補助機能は後から [設定] で変更できます。</string>
+  <string name="vision_settings_suggestion_title">フォントサイズを変更する</string>
   <string name="vision_settings_title">視力の設定</string>
   <string name="voice_category">音声</string>
   <string name="voice_helper_title">音声アシスタント</string>
@@ -5376,18 +5859,30 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wallpaper_lockscreen">ロック画面</string>
   <string name="wallpaper_settings_fragment_title">壁紙の選択先:</string>
   <string name="wallpaper_settings_title">壁紙</string>
+  <string name="wallpaper_suggestion_summary">画面のカスタマイズ</string>
+  <string name="wallpaper_suggestion_title">壁紙を変更する</string>
+  <string name="wapi_all_sel_mode">選択</string>
   <string name="wapi_auto_sel_cert">自動的に選択</string>
   <string name="wapi_auto_sel_cert_fail">証明書を自動的に選択できません。リストから証明書を選択し、接続してください。</string>
-  <string name="wapi_cert_is_not_selected">最初に証明書を選択してください</string>
+  <string name="wapi_cert_is_not_exist">利用可能な証明書がありません。最初に1つ追加します。</string>
+  <string name="wapi_cert_is_not_selected">最初に証明書を選択</string>
+  <string name="wapi_cert_manage_error">"WAPI証明書を設定できませんでした。</string>
   <string name="wapi_cert_manage_summary">WAPI証明書を追加または削除する</string>
   <string name="wapi_cert_manage_title">WAPI証明書の管理</string>
+  <string name="wapi_cert_roaming">接続中…</string>
   <string name="wapi_cert_select">WAPI証明書</string>
   <string name="wapi_no">いいえ</string>
   <string name="wapi_no_vaild_cert">必要な証明書がインストールされていないようです。今すぐインストールしますか？</string>
   <string name="wapi_password_empty">パスワードを入力</string>
+  <string name="wapi_password_hex_format_add">You must use an even number of hexadecimal characters</string>
   <string name="wapi_password_hex_format_invalid">無効なパスワード形式</string>
   <string name="wapi_password_hex_length_invalid">16進数の数は偶数でなければなりません。</string>
+  <string name="wapi_password_is_empty">"Password can't be blank"</string>
+  <string name="wapi_password_is_not_hex_format">Invalid hexadecimal characters</string>
   <string name="wapi_password_length_invalid">パスワードは8～64桁の文字列でなければなりません。</string>
+  <string name="wapi_password_length_is_max">Password can be up to 64 characters long</string>
+  <string name="wapi_password_length_is_min">Password must be at least 8 characters long</string>
+  <string name="wapi_password_length_is_min_to_max">Password must contain 8-64 characters</string>
   <string name="wapi_psk_type">パスワードの種類</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">16進数</string>
@@ -5435,9 +5930,12 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_allow_scan_with_traffic_summary">インターフェースのデータトラフィック量に基づいたWi-Fiローミングスキャンを許可するかしないかを設定できます</string>
   <string name="wifi_and_mobile_skipped_message">警告: [Wi‑Fi]をスキップすると、携帯電話はインターネットに接続されず最初のダウンロードやアップデートを行えません。</string>
   <string name="wifi_ap_band_config">AP帯域幅を選択</string>
-  <string name="wifi_ap_choose_2G">2.4GHz</string>
-  <string name="wifi_ap_choose_5G">5GHz</string>
+  <string name="wifi_ap_band_select_one">Wi‑Fi アクセス ポイントの帯域幅を少なくとも 1 つ選択してください。</string>
+  <string name="wifi_ap_choose_2G">2.4 GHz 帯</string>
+  <string name="wifi_ap_choose_5G">5.0 GHz 帯</string>
+  <string name="wifi_ap_choose_auto">自動</string>
   <string name="wifi_api_test">Wi-Fiネットワーク API</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">アクセス ポイントが一時的にいっぱいです</string>
   <string name="wifi_assistant">Wi-Fiアシスタント</string>
   <string name="wifi_assistant_auto_confirm_data_message">This WLAN network has no access to the internet. Your device will use mobile data instead. You can turn off WLAN assistant in the Settings.</string>
   <string name="wifi_assistant_confirm_always">次回から表示しない</string>
@@ -5462,6 +5960,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_auto_connect">自動接続</string>
   <string name="wifi_auto_connect_type_summary">ネットワーク接続の種類を選択してください</string>
   <string name="wifi_auto_connect_type_title">自動接続の種類</string>
+  <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
   <string name="wifi_automatically_connect_summary">Wi-Fiアシスタントが高品質と判断したWi-Fiオープンネットワークに自動的に接続する</string>
   <string name="wifi_automatically_connect_title">Wi-Fiオープンネットワークを自動的に使用</string>
   <string name="wifi_automatically_manage_summary">%1$sを使ってWi‑Fi接続を管理する</string>
@@ -5470,12 +5969,23 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_avoid_poor_network_detection_summary">インターネット接続が安定したネットワークのみ使用する</string>
   <string name="wifi_calling_mode_dialog_title">Wi-Fi通話モード</string>
   <string name="wifi_calling_mode_title">発信の設定</string>
+  <string name="wifi_calling_not_supported">%1$s は Wi-Fi 通話に対応していません</string>
   <string name="wifi_calling_off_explanation">Wi-Fi発信をONにすると、ユーザーの設定と信号の強度に応じて、スマートフォンからWi-Fiネットワークか携帯通信会社ネットワークのいずれかを経由して通話をルーティングできるようになります。この機能をONにする場合は、事前に料金などの条件について携帯通信会社にご確認ください。</string>
+  <string name="wifi_calling_pref_managed_by_carrier">この設定は携帯通信会社によって管理されています</string>
+  <string name="wifi_calling_roaming_mode_dialog_title">ローミング設定</string>
+  <string name="wifi_calling_roaming_mode_title">ローミング設定</string>
+  <string name="wifi_calling_settings_activation_instructions">Wi-Fi 通話を有効にしてください</string>
   <string name="wifi_calling_settings_title">Wi-Fi通話</string>
   <string name="wifi_calling_suggestion_summary">モバイル ネットワークの代わりに Wi-Fi を使用できます</string>
   <string name="wifi_calling_suggestion_title">Wi-Fi 通話の有効化</string>
+  <string name="wifi_calling_turn_on">Wi-Fi 通話を ON にしてください</string>
   <string name="wifi_cancel">キャンセル</string>
+  <string name="wifi_cant_connect">接続できません</string>
+  <string name="wifi_cant_connect_to_ap">「%1$s」に接続できません</string>
+  <string name="wifi_carrier_connect">携帯通信会社の Wi‑Fi ネットワーク</string>
+  <string name="wifi_carrier_content">%1$s 経由で接続</string>
   <string name="wifi_certificate">証明書</string>
+  <string name="wifi_check_password_try_again">パスワードを確認して、もう一度お試しください</string>
   <string name="wifi_click_login_wlan">ログインまたは許可が必要です</string>
   <string name="wifi_click_share_wlan">タップしてパスワードを共有</string>
   <string name="wifi_config_info">Wi-Fiネットワーク設定</string>
@@ -5488,15 +5998,22 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_connect_cmcc_dialog_not_remind">二度と表示しない</string>
   <string name="wifi_connect_cmcc_dialog_title">中国移動通信に接続しました</string>
   <string name="wifi_connect_failed_message">携帯端末からこのWi-Fiネットワークに接続できませんでした。</string>
+  <string name="wifi_connected_mac_randomization">接続先 MAC のランダム化</string>
+  <string name="wifi_connected_mac_randomization_summary">Wi-Fi ネットワーク接続時の MAC アドレスのランダム化</string>
   <string name="wifi_connected_no_internet">接続先はインターネットに接続されていない</string>
   <string name="wifi_connection_management">Manage WLAN connections</string>
   <string name="wifi_context_menu_change_password">パスワードを変更</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI証明書を変更</string>
   <string name="wifi_context_menu_connect">ネットワークに接続</string>
   <string name="wifi_context_menu_forget">ネットワークへの接続を解除</string>
+  <string name="wifi_coverage_extend">Turn on WLAN coverage extension</string>
+  <string name="wifi_coverage_extend_summary">Extend WLAN coverage using hotspot</string>
   <string name="wifi_data_template">%1$s Wi-Fi データ</string>
   <string name="wifi_data_usage">Wi-Fi データ使用量</string>
   <string name="wifi_datanetwork_switch_not_remind">二度と表示しない</string>
+  <string name="wifi_details_ipv6_address_header">IPv6 アドレス</string>
+  <string name="wifi_details_subnet_mask">サブネット マスク</string>
+  <string name="wifi_details_title">ネットワークの詳細</string>
   <string name="wifi_dialog_remind_type_title">モバイルデータネットワーク</string>
   <string name="wifi_disabled_generic">無効</string>
   <string name="wifi_disabled_help">受信感度が低いためWi-Fiネットワークの接続は切断されました</string>
@@ -5556,15 +6073,37 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_failed_forget_message">ネットワークから切断できませんでした</string>
   <string name="wifi_failed_save_message">ネットワークを保存できませんでした</string>
   <string name="wifi_forget">切断</string>
+  <string name="wifi_forget_dialog_message">このネットワークのすべてのパスワードを削除します</string>
+  <string name="wifi_forget_dialog_title">ネットワークを削除</string>
   <string name="wifi_frequency">周波数</string>
   <string name="wifi_gateway">ゲートウェイ</string>
+  <string name="wifi_hand_sel_wapi_cert">WAPI証明書</string>
+  <string name="wifi_hidden_network">非公開ネットワーク</string>
+  <string name="wifi_hidden_network_warning">"ルーターによってネットワーク ID がブロードキャストされていないネットワークに今後接続する可能性がある場合は、そのネットワークを非表示に設定できます。
+
+この設定では、スマートフォンが定期的に信号をブロードキャストしてネットワークを探すため、セキュリティ上のリスクが生じる可能性があります。
+
+ネットワークを非表示に設定しても、ルーターの設定は変わりません。"</string>
   <string name="wifi_hide_password">パスワードを隠す</string>
+  <string name="wifi_hotspot_ap_band_title">AP 帯域幅</string>
+  <string name="wifi_hotspot_auto_off_summary">端末が接続されていないと、Wi-Fi アクセス ポイントはオフになります</string>
+  <string name="wifi_hotspot_auto_off_title">アクセス ポイントを自動的にオフにする</string>
   <string name="wifi_hotspot_checkbox_text">Wi-Fiアクセスポイント</string>
   <string name="wifi_hotspot_checkbox_text_summary">モバイル接続でWi‑Fiネットワークを提供</string>
   <string name="wifi_hotspot_configure_ap_text">アクセスポイントのセットアップ</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSKポータブルWi‑Fiアクセスポイント</string>
   <string name="wifi_hotspot_connect">接続する</string>
+  <string name="wifi_hotspot_footer_info_local_only">アプリを使ってアクセス ポイントを作成し、コンテンツを近くの端末と共有できます。</string>
+  <string name="wifi_hotspot_footer_info_regular">アクセス ポイントを使って他の端末との Wi‑Fi ネットワークを作成します。アクセス ポイントはモバイルデータ通信によるインターネット接続を提供します。モバイルデータ通信料が追加で発生する可能性があります。</string>
   <string name="wifi_hotspot_message">%1$sでは、オンラインでログインしないとネットワーク接続できません。</string>
+  <string name="wifi_hotspot_name_summary_connected">他の端末が %1$s に接続できます</string>
+  <string name="wifi_hotspot_name_summary_connecting">%1$s を ON にしています...</string>
+  <string name="wifi_hotspot_name_title">アクセス ポイント名</string>
+  <string name="wifi_hotspot_no_password_subtext">パスワードが設定されていません</string>
+  <string name="wifi_hotspot_off_subtext">インターネット接続やコンテンツを他の端末と共有しない</string>
+  <string name="wifi_hotspot_on_local_only_subtext">アプリがコンテンツを共有しています。インターネット接続を共有するには、アクセス ポイントを OFF にしてから再度 ON にします</string>
+  <string name="wifi_hotspot_password_title">アクセス ポイントのパスワード</string>
+  <string name="wifi_hotspot_tethering_on_subtext">このスマートフォンのインターネット接続をアクセス ポイント経由で共有</string>
   <string name="wifi_hotspot_title">ログインして接続しますか？</string>
   <string name="wifi_in_airplane_mode">機内モード</string>
   <string name="wifi_info_reconnect">接続できませんでした、もう一度お試しください。</string>
@@ -5592,6 +6131,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_menu_wps_pbc">WPSプッシュボタン</string>
   <string name="wifi_menu_wps_pin">WPS PIN入力</string>
   <string name="wifi_menu_write_to_nfc">NFCタグに書き込む</string>
+  <string name="wifi_metered_label">従量制</string>
+  <string name="wifi_modify">変更</string>
   <string name="wifi_more">その他</string>
   <string name="wifi_multiple_cert_added">（複数の証明書が追加されています）</string>
   <string name="wifi_network_optimization">Optimized connection</string>
@@ -5675,6 +6216,12 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_setting_sleep_policy_title">スリープ時にWi-Fi接続を維持</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">Wi-Fiの設定</string>
+  <string name="wifi_settings_master_switch_title">Wi-Fi の使用</string>
+  <string name="wifi_settings_scanning_required_enabled">Wi‑Fi のスキャンを ON にしました</string>
+  <string name="wifi_settings_scanning_required_info">Wi-Fi のスキャンによって、アプリやサービスに対し、Wi‑Fi が OFF の場合でも常に Wi-Fi ネットワークをスキャンすることを許可します。たとえば、位置情報を使用する機能やサービスの改善に役立ちます。</string>
+  <string name="wifi_settings_scanning_required_summary">Wi‑Fi を自動的に ON にするには、まず Wi‑Fi のスキャンを ON にしてください。</string>
+  <string name="wifi_settings_scanning_required_title">Wi‑Fi のスキャンを ON にする</string>
+  <string name="wifi_settings_scanning_required_turn_on">ON にする</string>
   <string name="wifi_settings_summary">ワイヤレスアクセスポイントを設定する</string>
   <string name="wifi_settings_title">Wi-Fi</string>
   <string name="wifi_setup_add_network">ネットワークを追加</string>
@@ -5740,6 +6287,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_shared">他の端末ユーザーと共有する</string>
   <string name="wifi_show_advanced">詳細設定項目</string>
   <string name="wifi_show_password">パスワードを表示する</string>
+  <string name="wifi_sign_in_button_text">ログイン</string>
   <string name="wifi_signal">電波強度</string>
   <string name="wifi_signal_found_msg">Wi-Fiのアクセスポイントに接続しますか？</string>
   <string name="wifi_skip_anyway">無視してスキップ</string>
@@ -5747,6 +6295,9 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_speed">リンク速度</string>
   <string name="wifi_ssid">ネットワーク名</string>
   <string name="wifi_ssid_hint">SSIDを入力します</string>
+  <string name="wifi_ssid_is_empty">SSIDは空白にできません</string>
+  <string name="wifi_ssid_length_is_max">SSIDの長さは最大32文字です</string>
+  <string name="wifi_ssid_too_long">ネットワーク名が長すぎます。</string>
   <string name="wifi_starting">Wi-FiをONにしています…</string>
   <string name="wifi_state_disabled">無効</string>
   <string name="wifi_state_disabling">無効化中</string>
@@ -5755,6 +6306,9 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_state_label">Wi-Fiの状態:</string>
   <string name="wifi_state_unknown">不明</string>
   <string name="wifi_status">接続状況</string>
+  <string name="wifi_status_mac_randomized">MAC はランダムに設定されます</string>
+  <string name="wifi_status_no_internet">インターネット未接続</string>
+  <string name="wifi_status_sign_in_required">ログインが必要</string>
   <string name="wifi_status_test">Wi-Fiのステータス</string>
   <string name="wifi_stopping">Wi-FiをOFFにしています…</string>
   <string name="wifi_subnet_mask">サブネットマスク</string>
@@ -5764,9 +6318,11 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_switch_away_when_unvalidated">Wi-Fiがインターネットにアクセスできない場合にモバイルデータに切り替える</string>
   <string name="wifi_switch_to_gsm_message">Wi-Fiが切断されました。代わりにモバイルデータ通信を使用しますか？</string>
   <string name="wifi_switch_to_gsm_title">GSMを使用しますか？</string>
+  <string name="wifi_tap_to_sign_in">ここをタップしてネットワークにログイン</string>
   <string name="wifi_tether_checkbox_text">ポータブルWi-Fiアクセスポイント</string>
   <string name="wifi_tether_configure_ap_text">Wi-Fiアクセスポイントをセットアップ</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$sポータブルWi-Fiアクセスポイント</string>
+  <string name="wifi_tether_disabled_by_airplane">機内モードがオンなのでご利用になれません</string>
   <string name="wifi_tether_enabled_subtext">ポータブルアクセスポイント%1$sが有効です</string>
   <string name="wifi_tether_enabled_summary">%1$sが有効です</string>
   <string name="wifi_tether_failed_subtext">ポータブルWi-Fiアクセスポイントエラー</string>
@@ -5786,12 +6342,19 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_type_approval_dialog_title">規制情報</string>
   <string name="wifi_type_approval_title">型式承認</string>
   <string name="wifi_unchanged">（変更なし）</string>
+  <string name="wifi_unmetered_label">定額制</string>
   <string name="wifi_unspecified">（指定なし）</string>
   <string name="wifi_update">統計を更新</string>
   <string name="wifi_use_system_certs">システム証明書を使用</string>
   <string name="wifi_verbose_logging">Wi-Fi詳細ログの有効化</string>
   <string name="wifi_verbose_logging_summary">Wi-Fiログレベルを上げて、Wi-Fi選択ツールでSSID RSSIごとに表示します</string>
+  <string name="wifi_wakeup">Wi‑Fi を自動的に ON にする</string>
+  <string name="wifi_wakeup_summary">ホーム ネットワークなどの高品質の保存済みネットワークの検出時に Wi‑Fi を ON にする</string>
+  <string name="wifi_wakeup_summary_no_location">位置情報が OFF のため使用できません。<annotation id="link">位置情報</annotation>を ON にしてください。</string>
+  <string name="wifi_wakeup_summary_scanning_disabled">Wi‑Fi のスキャンが OFF になっているため利用できません</string>
+  <string name="wifi_wakeup_summary_scoring_disabled">この機能を使用するには、ネットワーク評価プロバイダを選択してください</string>
   <string name="wifi_wapi_as_cert">認証サーバー証明書</string>
+  <string name="wifi_wapi_as_certificate">認証サーバー証明書</string>
   <string name="wifi_wapi_cert_cancel_button">キャンセル</string>
   <string name="wifi_wapi_cert_create_subdir">新規フォルダ作成</string>
   <string name="wifi_wapi_cert_delet_subdir">適切な証明書を選択してください</string>
@@ -5807,10 +6370,17 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">ユーザー証明書の名前を入力してください</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">ユーザー証明書のフォーマットが不正です</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">ユーザー証明書の名前を入力してください</string>
+  <string name="wifi_wapi_cert_mode_hand_text">手動で選択</string>
   <string name="wifi_wapi_cert_uninstall">WAPI証明書をアンインストール</string>
   <string name="wifi_wapi_cert_uninstall_button">アンインストール</string>
   <string name="wifi_wapi_certification_dont_exist">入力したネットワークパスワードが正しくありません。</string>
+  <string name="wifi_wapi_fail_to_auth">"Couldn't complete WAPI authentication.
+Make sure your certificates are valid."</string>
+  <string name="wifi_wapi_fail_to_init">"Can't open WAPI certificates.
+Looks like credential storage isn't enabled."</string>
+  <string name="wifi_wapi_psk_type">パスワードの種類</string>
   <string name="wifi_wapi_user_cert">ユーザー証明書</string>
+  <string name="wifi_wapi_user_certificate">ユーザー証明書</string>
   <string name="wifi_wps_available_first_item">WPS利用可</string>
   <string name="wifi_wps_available_second_item">" （WPS利用可）"</string>
   <string name="wifi_wps_complete">WPSの設定に成功しました。ネットワークに接続しています…</string>
@@ -5837,6 +6407,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifiap_turn_on_hint">To use WLAN wifiap, turn it on.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
+  <string name="winscope_trace_quick_settings_title">ウィンスコープ トレース</string>
   <string name="wireless_connected">接続しました</string>
   <string name="wireless_networks_settings_title">無線とネットワーク</string>
   <string name="wireless_off">オフ</string>
@@ -5848,6 +6419,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wlan_to_cellular_hint_title">WLAN-&gt;Cellular hint</string>
   <string name="work_alarm_ringtone_title">デフォルトの仕事用アラーム音</string>
   <string name="work_mode_label">Work モード</string>
+  <string name="work_mode_off_summary">アプリと通知は OFF です</string>
+  <string name="work_mode_on_summary">組織によって管理されています</string>
   <string name="work_mode_summary">仕事用プロファイルで、アプリ、バックグラウンド同期などの関連機能の使用を許可する</string>
   <string name="work_notification_ringtone_title">デフォルトの仕事用通知音</string>
   <string name="work_profile_confirm_remove_message">続行すると、このプロファイル内のアプリとデータはすべて削除されます。</string>
@@ -5895,23 +6468,75 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="zen_access_revoke_warning_dialog_title">%1$sの夜間モードへのアクセス許可を取り消しますか？</string>
   <string name="zen_access_warning_dialog_summary">アプリは夜間モードのON/OFFを切り替えたり、関連する設定を変更したりできるようになります。</string>
   <string name="zen_access_warning_dialog_title">%1$sの夜間モードへのアクセスを許可しますか？</string>
-  <string name="zen_event_rule_enabled_toast">自動ルールでは指定した予定の間は夜間モードをONに設定します</string>
-  <string name="zen_event_rule_type_name">予定ルール</string>
+  <string name="zen_alarm_warning">次回のアラーム（%1$s）は鳴りません</string>
+  <string name="zen_alarm_warning_indef">この設定を OFF にしないと次回のアラーム（%1$s）は鳴りません</string>
+  <string name="zen_calls_summary_contacts_repeat">連絡先、同一発信者による再発信</string>
+  <string name="zen_calls_summary_repeat_only">同一発信者による再発信のみ</string>
+  <string name="zen_calls_summary_starred_repeat">スター付きの連絡先、同一発信者による再発信</string>
+  <string name="zen_category_behavior">動作</string>
+  <string name="zen_category_exceptions">例外</string>
+  <string name="zen_category_schedule">スケジュール</string>
+  <string name="zen_event_rule_enabled_toast">自動ルールでは指定した予定の間はマナーモードを ON に設定します</string>
+  <string name="zen_event_rule_type_name">予定</string>
+  <string name="zen_interruption_level_priority">優先的な通知のみ</string>
+  <string name="zen_mode_add">追加</string>
+  <string name="zen_mode_add_event_rule">予定ルールの追加</string>
   <string name="zen_mode_add_rule">ルールを追加</string>
+  <string name="zen_mode_add_time_rule">時間ルールの追加</string>
   <string name="zen_mode_alarm_use">Sounds</string>
   <string name="zen_mode_alarms">アラーム</string>
-  <string name="zen_mode_all_callers">すべての発信者</string>
-  <string name="zen_mode_all_messages">すべてのメッセージ</string>
-  <string name="zen_mode_all_visual_interruptions">OFF</string>
-  <string name="zen_mode_automation_settings_title">自動ルール</string>
-  <string name="zen_mode_automation_suggestion_summary">所定の時間にマナーモードにする</string>
-  <string name="zen_mode_automation_suggestion_title">夜間モードのスケジュール設定</string>
+  <string name="zen_mode_all_callers">全員</string>
+  <string name="zen_mode_all_messages">メッセージ</string>
+  <string name="zen_mode_and_condition">%1$s。%2$s</string>
+  <string name="zen_mode_app_set_behavior">現在、この設定は変更できません。アプリ（%1$s）のカスタム設定によってマナーモードが自動的に ON になりました。</string>
+  <string name="zen_mode_automatic_rule_settings_page_title">自動ルール</string>
+  <string name="zen_mode_automation_settings_page_title">自動ルール</string>
+  <string name="zen_mode_automation_settings_title">自動的に ON</string>
+  <string name="zen_mode_automation_suggestion_summary">マナーモード ルールの設定</string>
+  <string name="zen_mode_automation_suggestion_title">一時的にスマートフォンを消音</string>
+  <string name="zen_mode_behavior_alarms_only">アラーム、メディア以外は無音</string>
+  <string name="zen_mode_behavior_allow_title">次の音やバイブレーションを許可</string>
+  <string name="zen_mode_behavior_no_sound">無音</string>
+  <string name="zen_mode_behavior_no_sound_except">%1$s以外は無音</string>
+  <string name="zen_mode_behavior_settings_title">例外</string>
+  <string name="zen_mode_behavior_summary_custom">カスタム</string>
+  <string name="zen_mode_behavior_total_silence">サイレント</string>
+  <string name="zen_mode_block_effect_ambient">通知で復帰しない</string>
+  <string name="zen_mode_block_effect_badge">通知ドットを表示しない</string>
+  <string name="zen_mode_block_effect_intent">画面を OFF のままにする</string>
+  <string name="zen_mode_block_effect_light">点滅させない</string>
+  <string name="zen_mode_block_effect_list">通知リストに表示しない</string>
+  <string name="zen_mode_block_effect_peek">画面にポップアップ通知を表示しない</string>
+  <string name="zen_mode_block_effect_sound">音とバイブレーションをミュートする</string>
+  <string name="zen_mode_block_effect_status">ステータスバーのアイコンを表示しない</string>
+  <string name="zen_mode_block_effect_summary_all">通知の音、バイブレーション、視覚的なサイン</string>
+  <string name="zen_mode_block_effect_summary_none">設定しない</string>
+  <string name="zen_mode_block_effect_summary_screen_off">画面が OFF のとき</string>
+  <string name="zen_mode_block_effect_summary_screen_on">画面が ON のとき</string>
+  <string name="zen_mode_block_effect_summary_some">通知の音、バイブレーション、一部の視覚的なサイン</string>
+  <string name="zen_mode_block_effect_summary_sound">音とバイブレーション</string>
+  <string name="zen_mode_block_effects_screen_off">画面が OFF のとき</string>
+  <string name="zen_mode_block_effects_screen_on">画面が ON のとき</string>
+  <string name="zen_mode_blocked_effects_footer">基本的なスマートフォンの操作やステータスに必要な通知は表示されます</string>
+  <string name="zen_mode_button_turn_off">今すぐ OFF にする</string>
+  <string name="zen_mode_button_turn_on">今すぐ ON にする</string>
   <string name="zen_mode_calls">通話</string>
+  <string name="zen_mode_calls_footer">マナーモードが ON の場合、着信がブロックされます。設定を調整することで、友だち、家族などの連絡先からの着信のブロックを解除できます。</string>
+  <string name="zen_mode_calls_summary_one">%1$sから</string>
+  <string name="zen_mode_calls_summary_two">%1$s、%2$s</string>
+  <string name="zen_mode_calls_title">通話の許可</string>
   <string name="zen_mode_choose_rule_type">ルールタイプの選択</string>
   <string name="zen_mode_configure_rule">ルールを設定</string>
+  <string name="zen_mode_contacts_callers">連絡先</string>
   <string name="zen_mode_delete_rule">ルールを削除</string>
   <string name="zen_mode_delete_rule_button">削除</string>
   <string name="zen_mode_delete_rule_confirmation">「%1$s」ルールを削除しますか？</string>
+  <string name="zen_mode_duration_always_prompt_title">毎回確認</string>
+  <string name="zen_mode_duration_settings_title">期間</string>
+  <string name="zen_mode_duration_summary_always_prompt">毎回確認（自動的に ON になった場合を除く）</string>
+  <string name="zen_mode_duration_summary_forever">OFF にするまで（自動的に ON になった場合を除く）</string>
+  <string name="zen_mode_duration_summary_time_minutes">%d 分間（自動的に ON になった場合を除く）</string>
+  <string name="zen_mode_enable_dialog_turn_on">ON にする</string>
   <string name="zen_mode_end_time">終了時間</string>
   <string name="zen_mode_end_time_summary_format">次の日の%s</string>
   <string name="zen_mode_event_rule_calendar">対象となる予定</string>
@@ -5924,26 +6549,48 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="zen_mode_event_rule_summary_calendar_template">対象となる予定: %1$s</string>
   <string name="zen_mode_event_rule_summary_reply_template">返信: %1$s</string>
   <string name="zen_mode_events">予定</string>
+  <string name="zen_mode_events_title">予定の許可</string>
   <string name="zen_mode_from_anyone">全員</string>
   <string name="zen_mode_from_call">"Calls from "</string>
   <string name="zen_mode_from_contacts">連絡先のみ</string>
   <string name="zen_mode_from_none">なし</string>
-  <string name="zen_mode_from_sms">"Messages from "</string>
+  <string name="zen_mode_messages_title">メッセージの許可</string>
   <string name="zen_mode_from_starred">スター付きの連絡先のみ</string>
   <string name="zen_mode_important_category">設定</string>
+  <string name="zen_mode_media">メディア</string>
   <string name="zen_mode_messages">メッセージ</string>
+  <string name="zen_mode_messages_title">メッセージの許可</string>
   <string name="zen_mode_miui_silent_category">許可</string>
+  <string name="zen_mode_no_exceptions">なし</string>
   <string name="zen_mode_no_visual_interruptions">画面が ON または OFF のとき</string>
   <string name="zen_mode_option_alarms">アラームのみ</string>
   <string name="zen_mode_option_important_interruptions">優先する通知のみ</string>
   <string name="zen_mode_option_miui_silent">マナーモード</string>
   <string name="zen_mode_option_miui_vibrate">夜間モード</string>
   <string name="zen_mode_option_no_interruptions">サイレント</string>
+  <string name="zen_mode_other_options">その他のオプション</string>
   <string name="zen_mode_phone_calls">通話</string>
   <string name="zen_mode_priority_settings_title">優先する通知のみを許可</string>
   <string name="zen_mode_reminders">リマインダー</string>
+  <string name="zen_mode_reminders_title">リマインダーの許可</string>
   <string name="zen_mode_repeat_callers">同一発信者による再発信</string>
-  <string name="zen_mode_repeat_callers_summary">同じ人が%d分以内に再度発信することを許可する</string>
+  <string name="zen_mode_repeat_callers_summary">同じ人から %d 分以内に再度発信があった場合</string>
+  <string name="zen_mode_repeat_callers_title">同一発信者による再発信の許可</string>
+  <string name="zen_mode_restrict_notifications_custom">カスタム</string>
+  <string name="zen_mode_restrict_notifications_disable_custom">カスタム設定の削除</string>
+  <string name="zen_mode_restrict_notifications_enable_custom">カスタム設定の有効化</string>
+  <string name="zen_mode_restrict_notifications_hide">通知の非表示、通知音なし</string>
+  <string name="zen_mode_restrict_notifications_hide_footer">"スマートフォンに新しい通知や既存の通知は表示されず、通知音やバイブレーションも作動しません。また、画面の上から下にスワイプしても通知は表示されません。
+
+スマートフォンの操作やステータスに必要な通知は引き続き表示されます。"</string>
+  <string name="zen_mode_restrict_notifications_hide_summary">通知は表示されず、通知音も鳴りません</string>
+  <string name="zen_mode_restrict_notifications_mute">通知音なし</string>
+  <string name="zen_mode_restrict_notifications_mute_footer">スマートフォンに通知が届いても、通知音やバイブレーションは作動しません。</string>
+  <string name="zen_mode_restrict_notifications_mute_summary">画面に通知が表示されます</string>
+  <string name="zen_mode_restrict_notifications_summary_custom">一部非表示</string>
+  <string name="zen_mode_restrict_notifications_summary_hidden">通知の非表示、通知音なし</string>
+  <string name="zen_mode_restrict_notifications_summary_muted">通知音なし</string>
+  <string name="zen_mode_restrict_notifications_title">通知</string>
   <string name="zen_mode_rule_delete_button">削除</string>
   <string name="zen_mode_rule_name">名前</string>
   <string name="zen_mode_rule_name_hint">ルール名を入力</string>
@@ -5958,29 +6605,83 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="zen_mode_schedule_rule_days_all">毎日</string>
   <string name="zen_mode_schedule_rule_days_none">指定しない</string>
   <string name="zen_mode_screen_off">画面が OFF のときにブロックする</string>
-  <string name="zen_mode_screen_off_summary">夜間モード でサイレントに設定した通知を受信したときに、画面が ON になったり光が点滅したりしなくなります</string>
-  <string name="zen_mode_screen_off_summary_no_led">夜間モード でサイレントに設定した通知を受信したときに画面が ON にならなくなります</string>
+  <string name="zen_mode_screen_off_summary">マナーモードでサイレントに設定した通知を受信したときに、画面が ON になり、光が点滅します</string>
+  <string name="zen_mode_screen_off_summary_no_led">マナーモードでサイレントに設定した通知を受信したときに、画面が ON になります</string>
   <string name="zen_mode_screen_off_visual_interruptions">画面が OFF のとき</string>
   <string name="zen_mode_screen_on">画面が ON のときにブロックする</string>
-  <string name="zen_mode_screen_on_summary">夜間モード でサイレントに設定した通知を受信したときに、画面上にポップアップ表示されなくなります</string>
+  <string name="zen_mode_screen_on_summary">マナーモードでサイレントに設定した通知を受信したときに、画面上にポップアップ表示され、ステータスバーにアイコンが表示されます</string>
   <string name="zen_mode_screen_on_visual_interruptions">画面が ON のとき</string>
   <string name="zen_mode_selected_callers">選択した発信者</string>
   <string name="zen_mode_selected_messages">選択したメッセージ</string>
-  <string name="zen_mode_settings_title">夜間モード</string>
+  <string name="zen_mode_settings_dnd_automatic_rule">マナーモードがルール（%s）によって自動的に ON になりました</string>
+  <string name="zen_mode_settings_dnd_automatic_rule_app">マナーモードがアプリ（%s）によって自動的に ON になりました</string>
+  <string name="zen_mode_settings_dnd_manual_end_time">%s まで、マナーモードは ON のままになります</string>
+  <string name="zen_mode_settings_dnd_manual_indefinite">OFF にするまで、マナーモードは ON のままになります</string>
+  <string name="zen_mode_settings_title">マナーモード</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">マナーモードを ON にする</string>
+  <string name="zen_mode_sound_summary_off">OFF</string>
+  <string name="zen_mode_sound_summary_off_with_info">OFF / %1$s</string>
+  <string name="zen_mode_sound_summary_on">ON</string>
+  <string name="zen_mode_sound_summary_on_with_info">ON / %1$s</string>
+  <string name="zen_mode_starred_callers">スター付きの連絡先</string>
+  <string name="zen_mode_starred_contacts_title">スター付きの連絡先</string>
   <string name="zen_mode_start_time">開始時間</string>
   <string name="zen_mode_summary_alarms_only_by_time">%1$sまでアラームのみに変更します</string>
   <string name="zen_mode_summary_alarms_only_indefinite">期限なしで、アラームのみに変更します</string>
   <string name="zen_mode_summary_always">常に割り込みに変更します</string>
+  <string name="zen_mode_system">タッチ操作音</string>
+  <string name="zen_mode_unknown_app_set_behavior">現在、この設定は変更できません。アプリのカスタム設定によってマナーモードが自動的に ON になりました。</string>
+  <string name="zen_mode_use_automatic_rule">ルールを使用する</string>
   <string name="zen_mode_visual_interruptions_settings_title">視覚的な通知のブロック</string>
+  <string name="zen_mode_visual_signals_settings_subtitle">視覚的な割り込みを許可</string>
+  <string name="zen_mode_what_to_block_title">カスタムの制限</string>
   <string name="zen_mode_when">自動的にON</string>
   <string name="zen_mode_when_every_night">毎日の夜間</string>
   <string name="zen_mode_when_never">設定しない</string>
   <string name="zen_mode_when_weeknights">平日の夜間</string>
+  <string name="zen_msg_event_reminder_footer">マナーモードが ON の場合、上記の許可した項目を除き、メッセージ、リマインダー、予定はミュートされます。メッセージの設定を調整することで、友だち、家族などの連絡先からの着信のブロックを解除できます。</string>
+  <string name="zen_msg_event_reminder_title">メッセージ、予定、リマインダー</string>
+  <string name="zen_onboarding_current_setting_summary">（現在の設定）</string>
+  <string name="zen_onboarding_current_setting_title">通知音なし</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+
+Update settings to:
+
+- Hide notifications completely
+
+- Allow calls from starred contacts and repeat callers"</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_header">マナーモードの通知設定を変更しますか？</string>
+  <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
+  <string name="zen_onboarding_new_setting_summary">通知は表示されず、通知音も鳴りません。スター付きの連絡先からの発信や同一発信者による再発信は許可されます。</string>
+  <string name="zen_onboarding_new_setting_title">通知の非表示、通知音なし</string>
+  <string name="zen_onboarding_ok">完了</string>
+  <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
+  <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
+  <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
+  <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
+  <string name="zen_onboarding_settings">設定</string>
   <string name="zen_schedule_rule_enabled_toast">自動ルールでは、指定された時間帯に夜間モードをオンにするよう設定します</string>
-  <string name="zen_schedule_rule_type_name">時間ルール</string>
+  <string name="zen_schedule_rule_type_name">時間</string>
+  <string name="zen_sound_all_muted">ミュート中</string>
+  <string name="zen_sound_category_title">指定した項目を除きすべてミュート</string>
+  <string name="zen_sound_footer">マナーモードが ON の場合、上記の許可した項目を除き、着信音とバイブレーションはミュートされます。</string>
+  <string name="zen_sound_none_muted">ミュート対象外</string>
+  <string name="zen_sound_one_allowed">ミュート中（%1$sを除く）</string>
+  <string name="zen_sound_three_allowed">ミュート中（%1$s、%2$s、%3$sを除く）</string>
+  <string name="zen_sound_title">着信音とバイブレーション</string>
+  <string name="zen_sound_two_allowed">ミュート中（%1$s、%2$sを除く）</string>
+  <string name="zen_suggestion_summary">集中するために通知を一時停止する</string>
+  <string name="zen_suggestion_title">マナーモードの更新</string>
   <string name="zone_auto">タイムゾーンの自動設定</string>
   <string name="zone_auto_summaryOff">ネットワークから提供されたタイムゾーンを使用する</string>
   <string name="zone_auto_summaryOn">ネットワークから提供されたタイムゾーンを使用する</string>
+  <string name="zone_change_to_from_dst">%1$sは %2$sに始まります。</string>
+  <string name="zone_info_footer">%1$sを使用しています。%3$sより%2$sに変わります。</string>
+  <string name="zone_info_footer_no_dst">%1$sを使用しています。夏時間はありません。</string>
   <string name="zone_list_menu_sort_alphabetically">アルファベット順</string>
   <string name="zone_list_menu_sort_by_timezone">タイムゾーン順</string>
+  <string name="zone_menu_by_offset">UTC オフセットで選択</string>
+  <string name="zone_menu_by_region">地域で選択</string>
+  <string name="zone_time_type_dst">夏時間</string>
+  <string name="zone_time_type_standard">標準時間</string>
 </resources>
