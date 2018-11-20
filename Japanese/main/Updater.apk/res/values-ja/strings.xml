@@ -13,6 +13,8 @@
   <string name="btn_share">"共有"</string>
   <string name="btn_stop">"停止"</string>
   <string name="btn_yes">"はい"</string>
+  <string name="channel_downloading">ダウンロード中</string>
+  <string name="channel_update">更新が利用可能</string>
   <string name="check_new_version">"確認"</string>
   <string name="dialog_3g_desc">"モバイルデータ接続を使用してROMをダウンロードする場合には、データ使用量の制限にご注意ください。"</string>
   <string name="dialog_3g_title">"警告"</string>

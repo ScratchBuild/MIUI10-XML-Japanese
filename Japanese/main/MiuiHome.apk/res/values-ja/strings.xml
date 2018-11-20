@@ -3,11 +3,13 @@
   <string name="action_add_to_workspace">"ホーム画面に追加"</string>
   <string name="activity_not_found">"アプリがインストールされていません"</string>
   <string name="add_screen">"画面を追加"</string>
+  <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
   <string name="announce_for_checked">%1$s, checked</string>
   <string name="announce_for_choose_default_screen">"画面%1$dをデフォルトのホーム画面として設定しました"</string>
   <string name="announce_for_close_default_preview">"デフォルトのホーム画面設定を閉じました"</string>
   <string name="announce_for_close_folder">"フォルダを閉じました"</string>
   <string name="announce_for_close_launcher_menu">"メニューを閉じました"</string>
+  <string name="announce_for_create_folder_with_app">Created a folder with %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">"ウィジェット"</string>
   <string name="announce_for_delete_item">"%1$sは削除されました"</string>
   <string name="announce_for_drag_enter_delete_zone">Dragged items to the uninstallation zone</string>
@@ -30,6 +32,7 @@
   <string name="announce_for_open_launcher_menu">"メニューを開きました"</string>
   <string name="announce_for_show_uninstall_dialog">"アンインストールダイアログが表示されました。キャンセルまたは確認してください。"</string>
   <string name="announce_for_unchecked">%1$s, unchecked</string>
+  <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
   <string name="app_already_exist">"アプリは既にインストール済みです"</string>
   <string name="app_being_backup_message">"アプリのバックアップ中"</string>
   <string name="app_being_restored_message">"アプリの復元中"</string>
@@ -260,12 +263,14 @@
   <string name="quick_app">Quick App</string>
   <string name="recents_config_title">履歴</string>
   <string name="recommend_apps_no_data">"データなし"</string>
+  <string name="recommend_apps_no_data_toast">現在おすすめはありません。</string>
   <string name="recommend_apps_notice">おすすめのアプリ</string>
   <string name="recommend_apps_notice_nodata">おすすめのアプリ (データなし)</string>
   <string name="recommend_apps_switch_title">おすすめのアプリ</string>
   <string name="recommend_apps_tips">"この機能が正常に動作するには、インターネットへの接続が必要です。この機能をオフにするには、フォルダ名をタップします。"</string>
   <string name="recommend_loading">"読み込み中"</string>
-  <string name="refresh">"更新"</string>
+  <string name="recommend_refresh">"更新"</string>
+  <string name="recommend_xout">次回から表示しない</string>
   <string name="reset_description_first_time">"2時間以内に%1$sからレイアウトを復元することができます"</string>
   <string name="reset_description_others">"%1$sからレイアウトを復元することができます"</string>
   <string name="reset_fail">"復元できませんでした"</string>

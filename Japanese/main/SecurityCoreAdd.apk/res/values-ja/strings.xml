@@ -151,6 +151,10 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="green_guard_des3">"インストール済みアプリの管理と、使用を制限する"</string>
   <string name="green_guard_title2">"現在地を表示"</string>
   <string name="green_guard_title3">"アプリの管理"</string>
+  <string name="greenguard_child_des">Use our app to stay connected​</string>
+  <string name="greenguard_child_des_title">I need help from my friends and family</string>
+  <string name="greenguard_parent_des">"Download our app and add other people's devices"</string>
+  <string name="greenguard_parent_des_title">I need to help my friends and family</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
 Messages will only appear in Second space."</string>
   <string name="guide_contact_suc_sub_title_desc">Only private contacts and messages will be shown in Second space</string>

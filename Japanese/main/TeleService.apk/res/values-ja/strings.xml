@@ -1014,6 +1014,7 @@
   <string name="sim_service_setting">Mi SIMとMiローミング</string>
   <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM unlock successful.</string>
+  <string name="sip_account_disable">アカウントが無効です。着信を受けることができません。</string>
   <string name="sip_account_list">SIPアカウント</string>
   <string name="sip_accounts">SIPアカウント</string>
   <string name="sip_accounts_title">アカウント</string>
@@ -1031,6 +1032,7 @@
   <string name="sip_menu_discard">破棄</string>
   <string name="sip_menu_save">保存</string>
   <string name="sip_profile_create_error">新しいSIPプロファイルを作成できません</string>
+  <string name="sip_receive_call_disable">着信を受けることができません。初めに通話の着信を許可してください。</string>
   <string name="sip_receive_calls">着信を待ち受け</string>
   <string name="sip_receive_calls_summary">バッテリーの消費量が増えます</string>
   <string name="sip_save_register_error">新しいSIPプロファイルを保存して登録することができません</string>

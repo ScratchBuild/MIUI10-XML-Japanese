@@ -2078,7 +2078,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="header_category_device">端末</string>
   <string name="header_category_personal">ユーザー設定</string>
   <string name="header_category_system">システム</string>
-  <string name="header_category_wireless_networks">ネットワーク</string>
+  <string name="header_category_wireless_networks">無線とネットワーク</string>
   <string name="header_data_and_synchronization">データと同期</string>
   <string name="heavy_weight_stop_description">このアプリを安全に停止できません。停止すると、現在の作業が一部失われる恐れがあります。</string>
   <string name="help_feedback_label">ヘルプとフィードバック</string>
@@ -2561,6 +2561,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="long_press_home_key">ホームボタンを長押し</string>
   <string name="long_press_menu_key">メニューボタンを長押し</string>
   <string name="long_press_menu_key_when_lock">ロック時にメニューボタンを長押し</string>
+  <string name="long_press_power_key_half_of_second">電源ボタンを0.5秒間押し続けると、Googleアシスタントがオンになります</string>
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lte_4g_settings_4gdisable_summary">4Gが無効です</string>
   <string name="lte_4g_settings_4genable_summary">4Gが有効です</string>
@@ -3340,6 +3341,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_hide_mode_summary">アプリのバックグラウンドプロセス、Wi-Fiおよびモバイルデータ接続、GPSの使用を制限することでバッテリーを節約します</string>
   <string name="power_hide_mode_title">アプリの電池使用量を管理</string>
   <string name="power_idle">アイドル状態</string>
+  <string name="power_key_how_power_force_off">デバイスを強制的に再起動する方法</string>
+  <string name="power_key_how_power_force_off_detail">デバイスが再起動するまで電源ボタンを押し続けます</string>
+  <string name="power_key_how_power_off">\"電源を切る\"メニューを表示する方法</string>
+  <string name="power_key_how_power_off_detail">電源ボタンを3秒間押し続けます</string>
+  <string name="power_key_how_start">Googleアシスタントを起動する方法</string>
+  <string name="power_key_how_start_detail">電源ボタンを0.5秒間押し続けた後、指を離して話しかけます。</string>
+  <string name="power_key_start_enjoy">OK、Googleアシスタントの詳細についてもっと詳しく</string>
+  <string name="power_key_start_guide">全画面ディスプレイ端末の電源ボタンを使ってGoogleアシスタントを起動する</string>
   <string name="power_mgr">電池</string>
   <string name="power_mode">電源設定</string>
   <string name="power_mode_balanced_title">Balance Power</string>
@@ -4817,6 +4826,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="tethering_no_sim_card_text">Wi-FiアクセスポイントまたはUSBテザリングを使用して他の端末とインターネット接続を共有するには、SIMカードを挿入してください。</string>
   <string name="tethering_settings_not_available">このユーザーはテザリング設定を利用できません</string>
   <string name="tethering_settings_summary">USBまたはWi-Fiアクセスポイント経由で端末のモバイルデータ接続を共有する</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">フルスクリーンモードで音声アシスタントを起動 (仮想ボタンなし)</string>
   <string name="theme_settings_title">テーマ</string>
   <string name="thememanager_not_found">テーマを開くことができません。アプリがインストールされているか確認してください。</string>
   <string name="three_gesture_down">三本指で下にスライド</string>

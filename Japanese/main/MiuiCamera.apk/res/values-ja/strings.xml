@@ -13,6 +13,8 @@
   <string name="accessibility_bokeh_on">Front camera background blur is on</string>
   <string name="accessibility_camera_lighting_close_panel">Closed lighting menu</string>
   <string name="accessibility_camera_lighting_open_panel">Opened lighting menu</string>
+  <string name="accessibility_camera_liveshot_off">ダイナミックフォトモードがオフです</string>
+  <string name="accessibility_camera_liveshot_on">ダイナミックフォトモードがオンです</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">"前面と背面のカメラを切り替える"</string>
   <string name="accessibility_camera_picker_finish">Switched cameras successfully</string>
@@ -513,7 +515,10 @@ Keep the subject sharp while blurring the background."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
+  <string name="ultra_wide_close_tip">超広角モードはオフです</string>
   <string name="ultra_wide_mode">超広角</string>
+  <string name="ultra_wide_open_tip">超広角モード</string>
+  <string name="ultra_wide_recommend_tip_hint">超広角モードをオンにすることをおすすめします</string>
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>
   <string name="user_agreement4">"プライバシーポリシー"</string>
