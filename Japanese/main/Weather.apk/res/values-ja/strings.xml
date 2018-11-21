@@ -18,6 +18,7 @@
   <string name="activity_find_city_dialog_message_global">Allow Weather to access your location and switch to high accuracy location mode to get relevant location info.</string>
   <string name="activity_find_city_dialog_set">"設定"</string>
   <string name="activity_find_city_dialog_title">"位置情報アクセス"</string>
+  <string name="activity_main_pub_time">Published at %1$s</string>
   <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">"%1$s前に更新"</string>
   <string name="activity_main_update_time_expire">"データ期限切れ"</string>
@@ -122,7 +123,6 @@
   <string name="information_settings_title">"天気情報"</string>
   <string name="install">"インストール"</string>
   <string name="international_details_pressure_title">"気圧"</string>
-  <string name="international_details_real_feel_title">"体感気温®"</string>
   <string name="international_details_title">"詳細"</string>
   <string name="international_details_uv_index_title">"UV指数"</string>
   <string name="international_details_wind_title">"風速"</string>
@@ -178,6 +178,7 @@
   <string name="pull_fresh_updated">"正常に更新されました"</string>
   <string name="pull_fresh_updating">"更新中…"</string>
   <string name="radar_cloud_image_title">"レーダーマップ"</string>
+  <string name="radar_cloud_update_time">Before %1$s</string>
   <string name="rainfall_settings_summary">Rainfall alerts</string>
   <string name="rainfall_settings_title">Rainfall</string>
   <string name="real_time_sunrise">"日の出 %1$s"</string>

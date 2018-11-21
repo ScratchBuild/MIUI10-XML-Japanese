@@ -797,6 +797,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_talkback_crop_mirror">Mirror</string>
   <string name="photo_editor_talkback_crop_original">Original</string>
   <string name="photo_editor_talkback_crop_rotate">Rotate</string>
+  <string name="photo_editor_talkback_crop_screen">Full screen aspect ratio</string>
   <string name="photo_editor_talkback_doodle_arrow">Arrow</string>
   <string name="photo_editor_talkback_doodle_circular">Circle</string>
   <string name="photo_editor_talkback_doodle_line">Line</string>

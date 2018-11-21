@@ -564,7 +564,6 @@
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_all_logistics">すべて</string>
   <string name="express_inquiry_and_send">Tracking and sending</string>
-  <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_clipboard_number_message">コピーされた番号を追跡しますか？</string>
   <string name="express_inquiry_data_owner_prefix">"Tracking info provided by "</string>
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
@@ -635,6 +634,8 @@
   <string name="express_phone_tip">Delivering, stay tuned</string>
   <string name="express_pickup_code">Code: %s</string>
   <string name="express_preview_order">プレビュー</string>
+  <string name="express_query">Track</string>
+  <string name="express_query_more">Track more</string>
   <string name="express_region_pick_title">地域を選択</string>
   <string name="express_schedule_delivery">配達予約</string>
   <string name="express_select_addressee">To</string>

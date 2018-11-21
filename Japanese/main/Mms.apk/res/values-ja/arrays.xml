@@ -57,4 +57,11 @@
         <item>10秒</item>
         <item>その他</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>詐欺</item>
+        <item>違法な内容</item>
+        <item>スパム</item>
+        <item>その他</item>
+        <item>キャンセル</item>
+    </string-array>
 </resources>

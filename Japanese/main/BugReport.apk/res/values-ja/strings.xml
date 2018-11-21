@@ -23,7 +23,7 @@
   <string name="catch_full_log_add_photo">写真を追加</string>
   <string name="catch_full_log_add_photo_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
   <string name="catch_full_log_dialog_confirm_text">ホーム画面に移動</string>
-  <string name="catch_full_log_dialog_content">"MIUI is generating a log. This might affect the overall productivity of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
+  <string name="catch_full_log_dialog_content">"MIUI is generating a log. This might affect the overall performance of your device. If you can't reproduce the issue you want to report, go back to logs and tap \"Cancel\"."</string>
   <string name="catch_full_log_dump_hprof_failed">遅延ログを生成できませんでした</string>
   <string name="catch_full_log_item_content_catch_direct">"Steps:
 1. Go back to the feature you want to report and reproduce it.

@@ -949,7 +949,7 @@
   <string name="respond_via_sms_canned_response_2">"ただいま電話に出られません。すぐに折り返しご連絡いたします。"</string>
   <string name="respond_via_sms_canned_response_3">"ただいま電話に出られません。後ほど折り返しご連絡いたします。"</string>
   <string name="respond_via_sms_canned_response_4">"ただいま電話に出られません。後ほどご連絡をお願いいたします。"</string>
-  <string name="respond_via_sms_cannot_empty">拒否メッセージは空欄のままに出来ません。</string>
+  <string name="respond_via_sms_cannot_empty">メッセージは空欄のままに出来ません。</string>
   <string name="respond_via_sms_confirmation_format">%sにメッセージを送信しました。</string>
   <string name="respond_via_sms_edittext_dialog_title">クイック返信</string>
   <string name="respond_via_sms_setting_summary">クイック返信の編集</string>
