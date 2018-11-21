@@ -92,6 +92,10 @@
         <item quantity="other">%d 年後</item>
         <item quantity="one">%d 年後</item>
     </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d秒後にもう一度お試しください。</item>
+        <item quantity="one">1秒後にもう一度お試しください。</item>
+    </plurals>
     <plurals name="wifi_available">
         <item quantity="other">複数のWi-Fiネットワークが利用できます</item>
         <item quantity="one">Wi-Fiネットワークが利用できます</item>

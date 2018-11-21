@@ -19,6 +19,8 @@
   <string name="ColrMmi">接続回線IDの制限</string>
   <string name="CwMmi">通話中着信</string>
   <string name="DndMmi">着信拒否</string>
+  <string name="EmergencyCallWarningSummary">Wi‑Fi では緊急通報ができません</string>
+  <string name="EmergencyCallWarningTitle">緊急通報は利用できません</string>
   <string name="Midnight">午前0時</string>
   <string name="Noon">正午</string>
   <string name="PinMmi">PINの変更</string>
@@ -60,6 +62,10 @@
   <string name="addToDictionary">辞書に追加</string>
   <string name="add_account_button_label">アカウントを追加</string>
   <string name="add_account_label">アカウントを追加</string>
+  <string name="add_calendar_event">スケジュール</string>
+  <string name="add_calendar_event_desc">選択した日時に予定を設定します</string>
+  <string name="add_contact">追加</string>
+  <string name="add_contact_desc">連絡先に追加します</string>
   <string name="aerr_application">問題が発生したため、%1$sを終了します。</string>
   <string name="aerr_process">問題が発生したため、プロセス「%1$s」を終了します。</string>
   <string name="allow">許可</string>
@@ -86,6 +92,9 @@
   <string name="app_not_found">この操作を行うアプリが見つかりません</string>
   <string name="app_running_notification_text">タップすると詳細が表示されるか、アプリが停止します。</string>
   <string name="app_running_notification_title">%1$sを実行しています</string>
+  <string name="app_suspended_default_message">現在、%1$s は使用できません。このアプリの使用は [%2$s] で管理されています。</string>
+  <string name="app_suspended_more_details">詳細</string>
+  <string name="app_suspended_title">このアプリは使用できません</string>
   <string name="app_upgrading_toast">「%1$s」をアップグレードしています…</string>
   <string name="audit_safemode_notification">制限なしでこの端末を使用するには初期状態にリセットしてください</string>
   <string name="audit_safemode_notification_details">タップして詳細をご確認ください。</string>
@@ -115,6 +124,8 @@
 バッテリーセーバーは端末の充電中は自動的にOFFになります。</string>
   <string name="beforeOneMonthDurationPast">1か月前</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth音声</string>
+  <string name="browse">開く</string>
+  <string name="browse_desc">選択した URL を開きます</string>
   <string name="bugreport_message">現在の端末の状態に関する情報が収集され、その内容がメールで送信されます。バグレポートが開始してから送信可能な状態となるまでには多少の時間がかかりますのでご了承ください。</string>
   <string name="bugreport_option_full_summary">端末の反応がないとき、または動作が遅すぎるときにシステムへの影響を最小限に抑えたい場合は、このオプションを使用します。また、すべてのレポート項目を表示したい場合もこのオプションを使用します。詳細情報は表示されず、追加のスクリーンショットは作成されません。</string>
   <string name="bugreport_option_full_title">完全レポート</string>
@@ -213,6 +224,8 @@
   <string name="deny">拒否</string>
   <string name="deny_button">拒否</string>
   <string name="description_target_unlock_tablet">ロック解除するにはスワイプします。</string>
+  <string name="dial">電話</string>
+  <string name="dial_desc">選択した電話番号に電話をかけます</string>
   <string name="dial_number_using">%sを使って
 発信</string>
   <string name="dialog_alert_title">注意</string>
@@ -249,6 +262,7 @@
   <string name="emailTypeMobile">携帯</string>
   <string name="emailTypeOther">その他</string>
   <string name="emailTypeWork">勤務先</string>
+  <string name="email_desc">選択したメールアドレスにメールを送信します</string>
   <string name="emergency_call_dialog_number_for_display">緊急通報番号</string>
   <string name="emergency_calls_only">緊急通報のみ</string>
   <string name="emptyPhoneNumber">（電話番号なし）</string>
@@ -338,15 +352,20 @@
   <string name="forward_intent_to_work">仕事用プロファイルでこのアプリを使用しています</string>
   <string name="gadget_host_error_inflating">ウィジェットを追加できませんでした。</string>
   <string name="global_action_assist">サポート</string>
+  <string name="global_action_battery_saver_off_status">バッテリー セーバー ON</string>
+  <string name="global_action_battery_saver_on_status">バッテリー セーバー OFF</string>
   <string name="global_action_bug_report">バグレポート</string>
   <string name="global_action_emergency">緊急通報</string>
   <string name="global_action_lock">画面ロック</string>
   <string name="global_action_lockdown">今すぐロック</string>
+  <string name="global_action_logout">セッションを終了</string>
   <string name="global_action_power_off">電源を切る</string>
   <string name="global_action_reboot">再起動</string>
+  <string name="global_action_screenshot">スクリーンショット</string>
   <string name="global_action_settings">設定</string>
   <string name="global_action_silent_mode_off_status">サウンドON</string>
   <string name="global_action_silent_mode_on_status">サウンドOFF</string>
+  <string name="global_action_toggle_battery_saver">バッテリー セーバー</string>
   <string name="global_action_toggle_silent_mode">マナーモード</string>
   <string name="global_action_voice_assist">音声アシスト</string>
   <string name="global_actions">携帯電話オプション</string>
@@ -366,6 +385,9 @@
   <string name="granularity_label_link">リンク</string>
   <string name="granularity_label_word">単語</string>
   <string name="hardware">ハードウェア</string>
+  <string name="harmful_app_warning_open_anyway">開く</string>
+  <string name="harmful_app_warning_title">有害なアプリが検出されました</string>
+  <string name="harmful_app_warning_uninstall">アンインストール</string>
   <string name="heavy_weight_notification">%1$sを実行中</string>
   <string name="heavy_weight_notification_detail">タップしてアプリを切り替えます</string>
   <string name="heavy_weight_switcher_text">別のアプリが既に実行中です。新しいアプリを起動する前に実行中のアプリを停止してください。</string>
@@ -417,6 +439,10 @@
   <string name="importance_from_user">このような通知の重要度を設定します。</string>
   <string name="inputMethod">入力方法</string>
   <string name="input_method_binding_label">入力方法</string>
+  <string name="install_carrier_app_notification_button">アプリをダウンロード</string>
+  <string name="install_carrier_app_notification_text">新しい SIM を有効にするには携帯通信会社のアプリをダウンロードします</string>
+  <string name="install_carrier_app_notification_text_app_name">新しい SIM を有効にするには「%1$s」アプリをダウンロードしてください</string>
+  <string name="install_carrier_app_notification_title">モバイル サービスを有効にする</string>
   <string name="invalidPin">4～8桁の数字のPINを入力してください。</string>
   <string name="invalidPuk">PUKは8桁以上で入力してください。</string>
   <string name="issued_by">発行者:</string>
@@ -676,12 +702,18 @@
   <string name="no_permissions">権限の許可は必要ありません</string>
   <string name="no_recent_tasks">最近使ったアプリはありません。</string>
   <string name="noon">正午</string>
+  <string name="notification_app_name_settings">設定</string>
+  <string name="notification_app_name_system">システム</string>
+  <string name="notification_appops_camera_active">カメラ</string>
+  <string name="notification_appops_microphone_active">マイク</string>
+  <string name="notification_appops_overlay_active">画面の他のアプリの上に重ねて表示</string>
   <string name="notification_channel_account">アカウントのステータス</string>
   <string name="notification_channel_alerts">通知</string>
   <string name="notification_channel_call_forward">電話の転送</string>
   <string name="notification_channel_car_mode">運転モード</string>
   <string name="notification_channel_developer">デベロッパー メッセージ</string>
   <string name="notification_channel_device_admin">端末管理</string>
+  <string name="notification_channel_do_not_disturb">マナーモード</string>
   <string name="notification_channel_emergency_callback">緊急通報待機モード</string>
   <string name="notification_channel_foreground_service">アプリが電池を消費しています</string>
   <string name="notification_channel_hotspot">Wi-Fiアクセスポイントの通知</string>
@@ -693,7 +725,9 @@
   <string name="notification_channel_physical_keyboard">物理キーボード</string>
   <string name="notification_channel_retail_mode">販売店デモ</string>
   <string name="notification_channel_security">セキュリティ</string>
+  <string name="notification_channel_sim">SIM のステータス</string>
   <string name="notification_channel_sms">SMS メッセージ</string>
+  <string name="notification_channel_system_changes">システムの変更</string>
   <string name="notification_channel_updates">アップデート</string>
   <string name="notification_channel_usb">USB 接続</string>
   <string name="notification_channel_virtual_keyboard">仮想キーボード</string>
@@ -704,6 +738,7 @@
   <string name="notification_hidden_by_policy_text">ポリシーによって非表示になっているコンテンツ</string>
   <string name="notification_hidden_text">コンテンツが非表示</string>
   <string name="notification_listener_binding_label">通知リスナー</string>
+  <string name="notification_reply_button_accessibility">返信</string>
   <string name="notification_title">%1$sのログインエラー</string>
   <string name="notification_work_profile_content_description">仕事用プロファイル</string>
   <string name="number_picker_decrement_button">戻します</string>
@@ -733,6 +768,7 @@
   <string name="peerTtyModeOff">ピアから、TTYモードをOFFにするようリクエストされました</string>
   <string name="peerTtyModeVco">ピアから、TTYモードをVCOにするようリクエストされました</string>
   <string name="perm_costs_money">料金が発生する場合があります</string>
+  <string name="permdesc_acceptHandovers">別のアプリで通話を続行することをこのアプリに許可します。</string>
   <string name="permdesc_accessCoarseLocation">ユーザーのおおよその位置情報を取得することをアプリに許可します。この位置情報はネットワーク位置情報源（携帯基地局やWi-Fiなど）を利用した位置情報サービスから取得されます。これらの位置情報サービスはONの状態にして、端末でアプリがサービスを利用できるようにする必要があります。アプリはこの位置情報を利用してユーザーのおおよその現在地を特定できます。</string>
   <string name="permdesc_accessDrmCertificates">DRM証明書のプロビジョニングと使用をアプリに許可します。通常のアプリでは不要です。</string>
   <string name="permdesc_accessFineLocation">グローバルポジショニングシステム（GPS）またはネットワーク位置情報源（携帯基地局やWi-Fiなど）を利用して正確な位置情報を取得することをアプリに許可します。これらの位置情報サービスはONの状態にして、端末でアプリがサービスを利用できるようにする必要があります。アプリはこの位置情報を利用してユーザーの現在地を特定できます。また、これにより電池の消費量が増える可能性があります。</string>
@@ -769,6 +805,7 @@
   <string name="permdesc_disableKeyguard">キーロックとキーロックに関連付けられたパスワードのセキュリティを無効にすることをアプリに許可します。たとえば、かかってきた電話を受ける際にキーロックを無効にし、通話が終了したらキーロックを再度有効にする場合などに使用します。</string>
   <string name="permdesc_enableCarMode">運転モードを有効にすることをアプリに許可します。</string>
   <string name="permdesc_expandStatusBar">ステータスバーの展開/折りたたみをアプリに許可します。</string>
+  <string name="permdesc_foregroundService">フォアグラウンド サービスの使用をアプリに許可します。</string>
   <string name="permdesc_flashlight">ライトの制御をアプリに許可します。</string>
   <string name="permdesc_getAccounts">携帯端末で認識されているアカウントのリストの取得をアプリに許可します。これには、インストールしたアプリによって作成されたアカウントも含まれます。</string>
   <string name="permdesc_getPackageSize">アプリのコード、データ、キャッシュサイズを取得することをアプリに許可します</string>
@@ -822,6 +859,7 @@
   <string name="permdesc_systemAlertWindow">他のアプリやユーザーインターフェースの一部の上に重ねて描画することをアプリに許可します。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
   <string name="permdesc_transmitIr">携帯電話の赤外線送信機能の使用をアプリに許可します。</string>
   <string name="permdesc_uninstall_shortcut">ユーザー操作なしでホーム画面のショートカットを削除することをアプリに許可します。</string>
+  <string name="permdesc_useBiometric">生体認証ハードウェアを認証に使用することをアプリに許可します</string>
   <string name="permdesc_useFingerprint">指紋ハードウェアを認証に使用することをアプリに許可します</string>
   <string name="permdesc_use_sip">SIP通話の発着信をアプリに許可します。</string>
   <string name="permdesc_vibrate">バイブレーションの制御をアプリに許可します。</string>
@@ -834,6 +872,7 @@
   <string name="permdesc_writeSettings">システムの設定データの変更をアプリに許可します。この許可を悪意のあるアプリに利用されると、システムの設定が破損する恐れがあります。</string>
   <string name="permdesc_writeSyncSettings">アカウントの同期設定の変更をアプリに許可します。たとえば、連絡帳アプリとアカウントの同期を有効にするために使用できます。</string>
   <string name="permgroupdesc_calendar">カレンダーへのアクセス</string>
+  <string name="permgroupdesc_calllog">通話履歴の読み取りと書き込み</string>
   <string name="permgroupdesc_camera">写真の撮影と動画の記録</string>
   <string name="permgroupdesc_contacts">連絡先へのアクセス</string>
   <string name="permgroupdesc_location">この端末の位置情報へのアクセス</string>
@@ -843,6 +882,7 @@
   <string name="permgroupdesc_sms">SMSメッセージの送信と表示</string>
   <string name="permgroupdesc_storage">端末上の写真、メディア、ファイルへのアクセス</string>
   <string name="permgrouplab_calendar">カレンダー</string>
+  <string name="permgrouplab_calllog">通話履歴</string>
   <string name="permgrouplab_camera">カメラ</string>
   <string name="permgrouplab_contacts">連絡先</string>
   <string name="permgrouplab_location">位置情報</string>
@@ -851,10 +891,22 @@
   <string name="permgrouplab_sensors">ボディーセンサー</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">ストレージ</string>
+  <string name="permgrouprequest_calendar">カレンダーへのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_calllog">通話履歴へのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_camera">写真と動画の撮影を &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_contacts">連絡先へのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_location">この端末の位置情報へのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_microphone">音声の録音を &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_phone">電話の発信と管理を &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_sensors">バイタルサインに関するセンサーデータへのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_sms">SMS メッセージの送信と表示を &lt;b>%1$s&lt;/b> に許可しますか？</string>
+  <string name="permgrouprequest_storage">端末内の写真、メディア、ファイルへのアクセスを &lt;b>%1$s&lt;/b> に許可しますか？</string>
   <string name="permission">Permission</string>
+  <string name="permission_remember_choice">Remember</string>
   <string name="permission_request_notification_title">権限がリクエストされました</string>
   <string name="permission_request_notification_with_subtitle">次のアカウントにアクセスする権限が
 リクエストされました: %s</string>
+  <string name="permlab_acceptHandover">別のアプリでの通話の続行</string>
   <string name="permlab_accessCoarseLocation">おおよその位置情報（ネットワーク基地局）</string>
   <string name="permlab_accessDrmCertificates">DRM証明書へのアクセス権</string>
   <string name="permlab_accessFineLocation">正確な位置情報（GPSとネットワーク基地局）</string>
@@ -891,6 +943,7 @@
   <string name="permlab_disableKeyguard">画面ロックの無効化</string>
   <string name="permlab_enableCarMode">運転モードの有効化</string>
   <string name="permlab_expandStatusBar">ステータスバーの拡大/縮小</string>
+  <string name="permlab_foregroundService">フォアグラウンド サービスの実行</string>
   <string name="permlab_flashlight">ライトのコントロール</string>
   <string name="permlab_getAccounts">この端末上のアカウントの検索</string>
   <string name="permlab_getPackageSize">アプリのストレージ容量の計測</string>
@@ -944,6 +997,7 @@
   <string name="permlab_systemAlertWindow">他のアプリの上に重ねて表示</string>
   <string name="permlab_transmitIr">赤外線の送信</string>
   <string name="permlab_uninstall_shortcut">ショートカットのアンインストール</string>
+  <string name="permlab_useBiometric">生体認証ハードウェアの使用</string>
   <string name="permlab_useFingerprint">指紋ハードウェアの使用</string>
   <string name="permlab_use_sip">SIP通話の発着信</string>
   <string name="permlab_vibrate">バイブレーションの制御</string>
@@ -1001,6 +1055,7 @@
   <string name="policylab_watchLogin">画面ロック解除試行の監視</string>
   <string name="policylab_wipeData">すべてのデータを消去</string>
   <string name="policylab_wipeData_secondaryUser">ユーザーデータの消去</string>
+  <string name="popup_window_default_title">ポップアップ ウィンドウ</string>
   <string name="postalTypeCustom">カスタム</string>
   <string name="postalTypeHome">自宅</string>
   <string name="postalTypeOther">その他</string>
@@ -1011,6 +1066,7 @@
   <string name="preposition_for_year">%s年</string>
   <string name="print_service_installed_message">有効にするにはタップしてください</string>
   <string name="print_service_installed_title">「%s」サービスがインストールされました</string>
+  <string name="printing_disabled_by">「%s」により印刷は無効にされています。</string>
   <string name="profile_encrypted_detail">仕事用プロファイル: ロック</string>
   <string name="profile_encrypted_message">タップしてプロファイルをロック解除</string>
   <string name="progress_erasing">USBストレージ内のデータを消去中...</string>
@@ -1091,6 +1147,7 @@
   <string name="screen_compat_mode_scale">スケール</string>
   <string name="screen_compat_mode_show">常に表示</string>
   <string name="screen_lock">画面をロック</string>
+  <string name="screenshot_edit">編集</string>
   <string name="search_go">検索</string>
   <string name="search_hint">検索…</string>
   <string name="search_language_hint">言語名を入力</string>
@@ -1139,6 +1196,11 @@
   <string name="shareactionprovider_share_with">共有</string>
   <string name="shareactionprovider_share_with_application">%sと共有</string>
   <string name="sharing_remote_bugreport_notification_title">バグレポートの共有中…</string>
+  <string name="shortcut_disabled_reason_unknown">ショートカットは無効になっています</string>
+  <string name="shortcut_restore_not_supported">このアプリはバックアップと復元に対応していないため、ショートカットを復元できませんでした</string>
+  <string name="shortcut_restore_signature_mismatch">アプリの署名が一致しないため、ショートカットを復元できませんでした</string>
+  <string name="shortcut_restore_unknown_issue">ショートカットを復元できませんでした</string>
+  <string name="shortcut_restored_on_lower_version">アプリのバージョンがダウングレードされているか、このショートカットに対応していません</string>
   <string name="show_ime">スクリーンキーボードを表示する</string>
   <string name="shutdown_confirm">携帯電話の電源を切ります。</string>
   <string name="shutdown_confirm_question">シャットダウンしますか？</string>
@@ -1158,10 +1220,13 @@
   <string name="sipAddressTypeOther">その他</string>
   <string name="sipAddressTypeWork">勤務先</string>
   <string name="skip_button_label">スキップ</string>
+  <string name="slices_permission_request">「%1$s」が「%2$s」のスライスの表示をリクエストしています</string>
+  <string name="sms">メッセージ</string>
   <string name="sms_control_message">&lt;b>%1$s&lt;/b>が大量のSMSメッセージを送信しています。このアプリにこのままメッセージの送信を許可しますか？</string>
   <string name="sms_control_no">許可しない</string>
   <string name="sms_control_title">SMSメッセージの送信中</string>
   <string name="sms_control_yes">許可する</string>
+  <string name="sms_desc">選択した電話番号に SMS を送信します</string>
   <string name="sms_premium_short_code_details">モバイルアカウントへの請求が発生します。</string>
   <string name="sms_short_code_confirm_allow">送信</string>
   <string name="sms_short_code_confirm_always_allow">常に許可する</string>
@@ -1224,6 +1289,9 @@
   <string name="undo">元に戻す</string>
   <string name="unknownName">不明</string>
   <string name="unpin_target">固定を解除</string>
+  <string name="unsupported_compile_sdk_check_update">アップデートをチェック</string>
+  <string name="unsupported_compile_sdk_message">%1$s は、互換性のない Android OS バージョン用にビルドされているため、予期しない動作が発生するおそれがあります。アプリの更新バージョンを利用できる場合があります。</string>
+  <string name="unsupported_compile_sdk_show">常に表示</string>
   <string name="unsupported_display_size_message">「%1$s」は現在の [表示サイズ] 設定に対応していないため、予期しない動作が発生するおそれがあります。</string>
   <string name="unsupported_display_size_show">常に表示</string>
   <string name="untitled">&lt;新規></string>
@@ -1253,6 +1321,9 @@
   <string name="usb_storage_stop_notification_title">USBストレージをOFFにする</string>
   <string name="usb_storage_stop_title">USBストレージを使用中</string>
   <string name="usb_storage_title">USB接続</string>
+  <string name="usb_tether_notification_title">USB テザリング ON</string>
+  <string name="usb_unsupported_audio_accessory_message">接続したデバイスはこのスマートフォンと互換性がありません。タップすると、詳細を確認できます。</string>
+  <string name="usb_unsupported_audio_accessory_title">アナログのオーディオ アクセサリを検出</string>
   <string name="use_a_different_app">別のアプリの使用</string>
   <string name="user_creation_account_exists">%1$s が %2$s で新しいユーザーを作成できるようにしますか？</string>
   <string name="user_creation_adding">%1$s が %2$s で新しいユーザーを作成できるようにしますか？（このアカウントのユーザーはすでに存在します）</string>
@@ -1264,9 +1335,15 @@
   <string name="user_switched">現在のユーザーは%1$sです。</string>
   <string name="user_switching_message">%1$sに切り替えています…</string>
   <string name="validity_period">有効期間:</string>
+  <string name="view_calendar">表示</string>
+  <string name="view_calendar_desc">カレンダーで選択した日時を表示します</string>
+  <string name="view_flight">トラック</string>
+  <string name="view_flight_desc">選択したフライトをチェックします</string>
   <string name="volume_alarm">アラームの音量</string>
   <string name="volume_bluetooth_call">Bluetooth着信音量</string>
   <string name="volume_call">通話音量</string>
+  <string name="volume_dialog_ringer_guidance_silent">着信音と通知音をミュートします</string>
+  <string name="volume_dialog_ringer_guidance_vibrate">着信や通知をバイブレーションで知らせます</string>
   <string name="volume_icon_description_bluetooth">Bluetoothの音量</string>
   <string name="volume_icon_description_incall">通話音量</string>
   <string name="volume_icon_description_media">メディアの音量</string>
@@ -1309,7 +1386,15 @@
   <string name="whichSendApplicationNamed">%1$sで共有</string>
   <string name="whichViewApplication">アプリで開く</string>
   <string name="whichViewApplicationNamed">%1$sで開く</string>
+  <string name="wifi_available_action_all_networks">すべてのネットワーク</string>
+  <string name="wifi_available_action_connect">接続</string>
+  <string name="wifi_available_carrier_network_title">携帯通信会社の Wi‑Fi ネットワークに接続</string>
+  <string name="wifi_available_content_failed_to_connect">すべてのネットワークを表示するにはタップします</string>
   <string name="wifi_available_sign_in">Wi-Fiネットワークにログイン</string>
+  <string name="wifi_available_title">Wi-Fi オープン ネットワークに接続</string>
+  <string name="wifi_available_title_connected">Wi-Fi ネットワークに接続しました</string>
+  <string name="wifi_available_title_connecting">Wi-Fi ネットワークに接続中</string>
+  <string name="wifi_available_title_failed_to_connect">Wi‑Fi ネットワークに接続できませんでした</string>
   <string name="wifi_calling_off_summary">OFF</string>
   <string name="wifi_connect_alert_message">アプリ%1$sがWi-Fiネットワーク%2$sへの接続を希望しています</string>
   <string name="wifi_connect_alert_title">接続を許可しますか？</string>
@@ -1327,6 +1412,11 @@
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">To:</string>
   <string name="wifi_p2p_turnon_message">Wi-Fi Directを開始します。これによりWi-Fiクライアント/アクセスポイントがOFFになります。</string>
+  <string name="wifi_wakeup_enabled_content">保存済みネットワーク「%1$s」の近くにいます</string>
+  <string name="wifi_wakeup_enabled_title">Wi‑Fi が自動的に ON になりました</string>
+  <string name="wifi_wakeup_onboarding_action_disable">再度オンにしない</string>
+  <string name="wifi_wakeup_onboarding_subtext">高品質の保存済みネットワークの検出時</string>
+  <string name="wifi_wakeup_onboarding_title">Wi-Fi は自動的にオンになります</string>
   <string name="wifi_watchdog_network_disabled">Wi-Fiに接続できませんでした</string>
   <string name="wifi_watchdog_network_disabled_detailed">" はインターネット接続に問題があります。"</string>
   <string name="wireless_display_route_description">ワイヤレスディスプレイ</string>
@@ -1337,6 +1427,7 @@
   <string name="work_profile_deleted_description">管理アプリがないため仕事用プロファイルが削除されました。</string>
   <string name="work_profile_deleted_description_dpm_wipe">お使いの仕事用プロファイルはこの端末で使用できなくなりました</string>
   <string name="work_profile_deleted_details">仕事用プロファイルの管理アプリがないか、破損しています。そのため仕事用プロファイルと関連データが削除されました。管理者にサポートをご依頼ください。</string>
+  <string name="work_profile_deleted_reason_maximum_password_failure">パスワード入力回数が上限を超えました</string>
   <string name="write_fail_reason_cancelled">キャンセルされました</string>
   <string name="write_fail_reason_cannot_write">コンテンツの書き込み中にエラーが発生しました</string>
   <string name="year">年</string>
@@ -1348,4 +1439,8 @@
   <string name="zen_mode_forever">ユーザーがOFFにするまで</string>
   <string name="zen_mode_forever_dnd">[通知を非表示]をOFFにするまで</string>
   <string name="zen_mode_until">%1$sまで</string>
+  <string name="zen_upgrade_notification_content">タップしてブロック対象をご確認ください。</string>
+  <string name="zen_upgrade_notification_title">マナーモードが変わりました</string>
+  <string name="zen_upgrade_notification_visd_content">タップすると、詳細を確認して設定を変更できます。</string>
+  <string name="zen_upgrade_notification_visd_title">新機能: マナーモードでは通知が非表示になります</string>
 </resources>
