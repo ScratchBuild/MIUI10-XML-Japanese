@@ -17,6 +17,7 @@
   <string name="abc_shareactionprovider_share_with">共有</string>
   <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
   <string name="abc_toolbar_collapse_description">折りたたむ</string>
+  <string name="hybrid_provider">Provided by %1$s</string>
   <string name="mibi_all_license_message">"You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service. Touch OK if you agree to the terms and conditions described in the %1$s and %2$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
   <string name="mibi_app_name">Mi Credit</string>
   <string name="mibi_applock_config">分割画面を使用中はアプリロックを設定できません。</string>
@@ -218,7 +219,7 @@ Please check your local date and try again."</string>
   <string name="mibi_password_hint">アカウントのパスワードを入力</string>
   <string name="mibi_password_prompt">To secure your spendings, verify your Mi account</string>
   <string name="mibi_pay_grid_error_denomination">Amount must be between Mi Credits %1$s and %2$s.</string>
-  <string name="mibi_pay_success_summary">"You've paid%1$sMi Credit"</string>
+  <string name="mibi_pay_success_summary">"You've paid %1$s Mi Credit"</string>
   <string name="mibi_pay_success_with_recharge_summary">%1$s Mi Credits recharged，%2$s Mi Credits paied</string>
   <string name="mibi_payment_recharge_group_title">チャージ方法を選択</string>
   <string name="mibi_payment_success_title">Payment received</string>
@@ -248,6 +249,7 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_title_default">金額を選択</string>
   <string name="mibi_prepaid_picker_title_selected">金額</string>
   <string name="mibi_privacy_license_name">プライバシーポリシー</string>
+  <string name="mibi_privacy_policy">プライバシーポリシー</string>
   <string name="mibi_privacy_tip_message">"You can't use Mi Credits after authorization has been revoked."</string>
   <string name="mibi_privacy_tip_title">Grant authorization first</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
@@ -338,6 +340,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_web_login_description">ログイン</string>
   <string name="mibi_web_login_waiting">読み込み中…</string>
   <string name="mibi_web_sso_login_fail">もう一度ログインする必要があります</string>
+  <string name="no_network">ネットワークに接続できません</string>
   <string name="passport_access_denied">アクセスが拒否されました</string>
   <string name="passport_account_hint_text">メールアドレス/電話番号/Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
@@ -533,4 +536,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_wrong_phone_number_format">入力した電話番号の形式が無効です</string>
   <string name="passport_wrong_vcode">入力したコードが正しくありません</string>
   <string name="passport_yes">はい</string>
+  <string name="web_sso_login_fail">もう一度ログインする必要があります</string>
+  <string name="web_sso_login_message">ログイン中…</string>
+  <string name="webview_reload">再試行</string>
 </resources>

@@ -83,7 +83,7 @@
   <string name="change_password">"パスワードを変更"</string>
   <string name="change_phone_number">"電話番号を変更"</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="collect_diagnosis_log">診断ログを収集する</string>
+  <string name="collect_diagnosis_log">診断ログを生成する</string>
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
   <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
@@ -112,8 +112,8 @@
   <string name="device_list_title">My devices</string>
   <string name="device_name">"デバイス名"</string>
   <string name="device_trust_info">"信頼できるデバイス"</string>
-  <string name="diagnosis_log_send_failed">診断ログの送信に失敗しました。</string>
-  <string name="diagnosis_log_sent_format">"診断ログが送信されました。
+  <string name="diagnosis_log_send_failed">ログを送信できませんでした。</string>
+  <string name="diagnosis_log_sent_format">"ログを正常に送信しました。
 ID:%s
 このコードを技術者に送ってください。"</string>
   <string name="empty_device_list_notice">No devices</string>
@@ -143,7 +143,7 @@ ID:%s
   <string name="find_device_request_prepare_error">"ステータスを取得できません、後ほど再試行してください"</string>
   <string name="find_device_unknown_error">"端末のステータスを取得できません、しばらくしてからもう一度お試しください"</string>
   <string name="first_login_time">First sign in attempt: %s</string>
-  <string name="for_diagnosis_usage_only">この情報は診断のみに使用してください。</string>
+  <string name="for_diagnosis_usage_only">問題の特定にのみ使用されます。</string>
   <string name="get_back_pwd">"パスワードをリセット"</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
   <string name="get_phone_bind_exceed_limit">"最大3つのMi Accountに電話番号を関連付けることができます。新しいアカウントを追加できません。"</string>
@@ -279,7 +279,7 @@ ID:%s
   <string name="passport_input_password_for_login">"この番号は既存のアカウントに関連付けられています、パスワードを入力してください"</string>
   <string name="passport_input_password_hint">"パスワードを入力"</string>
   <string name="passport_input_phone_hint">"電話番号を入力"</string>
-  <string name="passport_input_phone_password">電話番号(%s)のパスワードを入力してください</string>
+  <string name="passport_input_phone_password">%s のパスワードを入力</string>
   <string name="passport_input_vcode_hint">"認証コードを入力"</string>
   <string name="passport_input_voice_captcha_hint">"音声認証コードを入力"</string>
   <string name="passport_input_voice_hint">""音声認証コードを入力""</string>
@@ -376,7 +376,7 @@ ID:%s
   <string name="passport_skip_setup_account_title">Mi Cloudを使用しない？</string>
   <string name="passport_sms_send_success">Sent</string>
   <string name="passport_sms_verification_code_login">"SMSを使用してログイン"</string>
-  <string name="passport_sms_verification_code_login_or_register">SMSを使用してログインまたは登録</string>
+  <string name="passport_sms_verification_code_login_or_register">SMSを使用してログインまたはアカウントを作成</string>
   <string name="passport_sync_account_data">"アカウント情報を同期しています…"</string>
   <string name="passport_sync_account_data_failed_warning">"アカウント情報を同期をしています、Mi Account IDを使用してログインすることができます。電話番号またはメールアドレスでログインする場合は、同期が完了するまでお待ちください。"</string>
   <string name="passport_talkback_image_captcha">Image verification code</string>
@@ -450,7 +450,7 @@ ID:%s
   <string name="select_location_title">Select your location</string>
   <string name="send_diagnosis_log">診断ログを送信</string>
   <string name="send_email_activate_message">Verification email sent</string>
-  <string name="sending">送信中...</string>
+  <string name="sending">送信中…</string>
   <string name="service_error">"サービスエラー"</string>
   <string name="set_success">"正常に変更されました"</string>
   <string name="sign_in">"ログイン"</string>
@@ -460,7 +460,7 @@ ID:%s
   <string name="sms_send_success">"送信済み"</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
   <string name="talkback_scan_barcode">"QRコードをスキャン"</string>
-  <string name="temporary_not_available">一時的に利用できません</string>
+  <string name="temporary_not_available">この機能はまだ使用できません。</string>
   <string name="trusted_browsers">Trusted browsers</string>
   <string name="trusted_browsers_prompt">The browser will no longer be trusted if you delete cookies.</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
