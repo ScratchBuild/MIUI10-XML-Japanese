@@ -6559,7 +6559,6 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_mode_important_category">設定</string>
   <string name="zen_mode_media">メディア</string>
   <string name="zen_mode_messages">メッセージ</string>
-  <string name="zen_mode_messages_title">メッセージの許可</string>
   <string name="zen_mode_miui_silent_category">許可</string>
   <string name="zen_mode_no_exceptions">なし</string>
   <string name="zen_mode_no_visual_interruptions">画面が ON または OFF のとき</string>
