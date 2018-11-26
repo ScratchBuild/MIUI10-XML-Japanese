@@ -477,13 +477,14 @@
   <string name="card_main_applock_summary">"パスワードで選択したアプリを保護します。"</string>
   <string name="card_main_applock_title">"アプリロック"</string>
   <string name="card_main_deepclean_action">"消去"</string>
-  <string name="card_main_deepclean_qq_title">QQ cleaner</string>
+  <string name="card_main_deepclean_facebook_title">Facebookクリーナー</string>
+  <string name="card_main_deepclean_qq_title">QQクリーナー</string>
   <string name="card_main_deepclean_summary">"不要なファイルを削除する"</string>
   <string name="card_main_deepclean_title">Deep clean</string>
   <string name="card_main_deepclean_wechat_action">"消去"</string>
   <string name="card_main_deepclean_wechat_summary">"空き領域を確保するためWeChatのキャッシュを消去する"</string>
   <string name="card_main_deepclean_wechat_title">"WeChatのキャッシュ"</string>
-  <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
+  <string name="card_main_deepclean_whatsapp_title">WhatsAppクリーナー</string>
   <string name="card_main_gamebooster_summary">"ゲームプレイ中の接続安定性を高めます"</string>
   <string name="card_main_gamebooster_title">Game speed booster</string>
   <string name="card_main_hwtest_title">ハードウェア テスト</string>
