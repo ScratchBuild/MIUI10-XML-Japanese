@@ -31,6 +31,13 @@
         <item>サイレントモード時のみ</item>
         <item>バイブレーションしない</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>詐欺</item>
+        <item>違法な内容</item>
+        <item>スパム</item>
+        <item>その他</item>
+        <item>キャンセル</item>
+    </string-array>
     <string-array name="recv_type">
         <item>受信して通知する</item>
         <item>受信のみ</item>
@@ -56,12 +63,5 @@
         <item>9秒</item>
         <item>10秒</item>
         <item>その他</item>
-    </string-array>
-    <string-array name="reason_type">
-        <item>詐欺</item>
-        <item>違法な内容</item>
-        <item>スパム</item>
-        <item>その他</item>
-        <item>キャンセル</item>
     </string-array>
 </resources>

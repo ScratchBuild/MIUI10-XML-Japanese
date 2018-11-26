@@ -5169,6 +5169,7 @@ This feature needs permissions to access your location, use mobile networks, and
   <string name="suggestions_summary">他 %1$d 件</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
+  <string name="summary_font_size_v2">テキスト、画像、アイコンのサイズを調整する</string>
   <string name="super_resolution_access_title">Accessible apps</string>
   <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
   <string name="super_resolution_maintain">超解像度はまだ使用できません。</string>
@@ -5308,10 +5309,12 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="title_font_current">システムフォント</string>
   <string name="title_font_current2">システムフォント</string>
   <string name="title_font_size">フォントサイズ</string>
+  <string name="title_font_v2">フォントとUIエレメント</string>
   <string name="title_hdmi_color_calibration">色補正プリセット</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_layout_current">文字サイズ</string>
   <string name="title_layout_current2">文字サイズ</string>
+  <string name="title_layout_v2">文字サイズとスケーリング</string>
   <string name="to_close">オフにする</string>
   <string name="title_local_resource">ローカルリソース</string>
   <string name="title_system_resource">システムリソース</string>
