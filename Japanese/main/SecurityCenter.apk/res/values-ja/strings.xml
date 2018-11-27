@@ -580,6 +580,12 @@
   <string name="deep_clean_disconnect_data_title">"端末がロックされた時にモバイルデータをオフ"</string>
   <string name="deep_clean_memory_clean_title">"端末がロックされた時にキャッシュを消去"</string>
   <string name="deep_clean_never_memory_clean">"何もしない"</string>
+  <string name="deep_power_save_item_summary_auto_brightness">バッテリーを節約するために画面の明るさを自動で調節する</string>
+  <string name="deep_power_save_item_summary_bluetooth">バッテリーを節約するためにBluetoothをオフにする</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">バッテリーを節約するため、30秒間操作が行われていない場合は画面を消灯する</string>
+  <string name="deep_power_save_item_title_auto_brightness">明るさの自動調節をオンにする</string>
+  <string name="deep_power_save_item_title_bluetooth">Bluetoothをオフにする</string>
+  <string name="deep_power_save_item_title_lock_screen_time">画面をスリープ状態にする</string>
   <string name="deep_save_memory_clean_summary">"アプリがバッテリーを消費するのを防ぐため、端末がロックされた時にキャッシュを消去する"</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
   <string name="delete">"削除"</string>
@@ -1056,7 +1062,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockpattern_need_to_unlock_wrong">"パスワードが一致しません、もう一度お試しください。"</string>
   <string name="lockpattern_pattern_confirmed_header">"新しいロック解除パターン"</string>
   <string name="lockpattern_pattern_entered_header">"パターンが記録されました"</string>
-  <string name="lockpattern_recording_incorrect_too_short">"少なくとも%dつの点を結んでください"</string>
   <string name="lockpattern_recording_inprogress">"描き終わりの点で指を離します"</string>
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
@@ -1230,7 +1235,6 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="mixed_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="mixed_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
   <string name="mixed_pattern_entered_header">Set password successfully</string>
-  <string name="mixed_recording_incorrect_too_short">Enter at least %d characters.</string>
   <string name="mixed_recording_intro_header">Enter at least 4 characters</string>
   <string name="mixed_retry_button_text">"キャンセル"</string>
   <string name="mixed_settings_help_how_to_record">How to set password</string>
@@ -1336,7 +1340,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="numeric_password_confirmed_header_confirm">Set successfully. Tap to confirm.</string>
   <string name="numeric_password_confirmed_header_continue">Set successfully. Tap \"Next\".</string>
   <string name="numeric_pattern_entered_header">Set PIN successfully</string>
-  <string name="numeric_recording_incorrect_too_short">Enter at least %d digits.</string>
   <string name="numeric_recording_intro_header">Enter password</string>
   <string name="numeric_retry_button_text">"キャンセル"</string>
   <string name="numeric_settings_help_how_to_record">How to set PIN</string>

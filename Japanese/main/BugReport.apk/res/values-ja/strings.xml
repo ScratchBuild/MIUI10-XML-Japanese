@@ -124,6 +124,7 @@
   <string name="feedback_status_change_notification_title">"レポートの進捗状況が更新されました"</string>
   <string name="feedback_status_collect_log_failed">"ログを取得できませんでした"</string>
   <string name="feedback_status_commit_failed_title">"レポートを送信できませんでした"</string>
+  <string name="feedback_status_commit_in_queue_title">フィードバックの送信待ち</string>
   <string name="feedback_status_commit_succ_title">"送信されました"</string>
   <string name="feedback_status_commit_uploading_title">"送信中…"</string>
   <string name="feedback_status_forum_reply">"返信"</string>
@@ -335,7 +336,6 @@
   <string name="toast_feedback_pending_wlan">"Wi-Fi接続時にレポートが送信されます"</string>
   <string name="toast_feedback_submitted">"レポートが送信されました"</string>
   <string name="toast_feedback_submitting">"送信中…"</string>
-  <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
   <string name="toast_fill_brackets">"いくつかの情報がレポートに不足しています"</string>
   <string name="toast_loading_app_id">"情報を取得中…"</string>
   <string name="toast_log_not_exists">"必要なログが削除されたか、存在しません"</string>

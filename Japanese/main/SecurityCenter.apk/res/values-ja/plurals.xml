@@ -258,9 +258,25 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">"Wait for %d seconds and try again. "</item>
         <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">少なくとも%dつの点を結んでください。</item>
+        <item quantity="one">少なくとも%dつの点を結んでください。</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">少なくとも%d桁を入力してください</item>
+        <item quantity="one">少なくとも%d桁を入力してください</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">少なくとも%d文字を入力してください</item>
+        <item quantity="one">少なくとも%d文字を入力してください</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d個のアプリ</item>
         <item quantity="one">%d個のアプリ</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d個の通知が非表示になりました</item>
+        <item quantity="one">%d個の通知が非表示になりました</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d個のアプリがロックされています</item>
@@ -269,10 +285,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="number_to_lock">
         <item quantity="other">%d個のアプリがロックされていません</item>
         <item quantity="one">%d個のアプリがロックされていません</item>
-    </plurals>
-    <plurals name="number_masked_text">
-        <item quantity="other">%d個の通知が非表示になりました</item>
-        <item quantity="one">%d個の通知が非表示になりました</item>
     </plurals>
     <plurals name="number_to_mask_text">
         <item quantity="other">%d個の通知が表示されています</item>

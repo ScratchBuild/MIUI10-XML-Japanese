@@ -39,6 +39,20 @@
         <item>National Day through the years</item>
         <item>Christmas through the years</item>
     </string-array>
+    <string-array name="last_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
     <string-array name="month_last_year">
         <item>Last January</item>
         <item>Last February</item>
@@ -59,32 +73,6 @@
         <item>Last autumn</item>
         <item>Last winter</item>
     </string-array>
-    <string-array name="month_past_year">
-        <item>January memories</item>
-        <item>February memories</item>
-        <item>March memories</item>
-        <item>April memories</item>
-        <item>May memories</item>
-        <item>June memories</item>
-        <item>July memories</item>
-        <item>August memories</item>
-        <item>September memories</item>
-        <item>October memories</item>
-        <item>November memories</item>
-        <item>December memories</item>
-    </string-array>
-    <string-array name="season_past_year">
-        <item>春の思い出</item>
-        <item>夏の思い出</item>
-        <item>秋の思い出</item>
-        <item>冬の思い出</item>
-    </string-array>
-    <string-array name="season_recap">
-        <item>Spring recap</item>
-        <item>Summer recap</item>
-        <item>Autumn recap</item>
-        <item>Winter recap</item>
-    </string-array>
     <string-array name="baby_sexy">
         <item>"男の子"</item>
         <item>"女の子"</item>
@@ -93,6 +81,20 @@
         <item>移動</item>
         <item>コピー</item>
         <item>キャンセル</item>
+    </string-array>
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
     </string-array>
     <string-array name="owner_relation">
         <item>"父親"</item>
@@ -110,6 +112,12 @@
         <item>"同級生"</item>
         <item>"友だち"</item>
         <item>"未分類"</item>
+    </string-array>
+    <string-array name="season">
+        <item>春</item>
+        <item>夏</item>
+        <item>秋</item>
+        <item>冬</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
         <item>"父親"</item>

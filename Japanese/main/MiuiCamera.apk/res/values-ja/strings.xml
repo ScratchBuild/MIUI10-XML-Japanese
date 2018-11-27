@@ -19,6 +19,8 @@
   <string name="accessibility_camera_picker">"前面と背面のカメラを切り替える"</string>
   <string name="accessibility_camera_picker_finish">Switched cameras successfully</string>
   <string name="accessibility_camera_shutter_finish">Took a photo successfully</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">全身模式,关闭状态</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">全身模式,开启状态</string>
   <string name="accessibility_closed">Turned off</string>
   <string name="accessibility_effect_mode_button">Effect button</string>
   <string name="accessibility_filter_close_panel">Closed filter menu</string>
@@ -54,11 +56,14 @@
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_stereo_button">Dual camera mode</string>
+  <string name="accessibility_ultra_wide_off">超广角,关闭状态</string>
+  <string name="accessibility_ultra_wide_on">超广角,开启状态</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom mode</string>
   <string name="ai_scene_mode_use_hint_text">"AIカメラを開き、写真の撮影シーンや被写体に基づいて画像を最適化します。"</string>
+  <string name="ai_scene_top_tip">月亮模式</string>
   <string name="audio_focus_exit_button_text">"音声フォーカスをオフにする"</string>
   <string name="back_bokeh_use_hint">Keep your subject within 1.5 meters for best effect</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
@@ -70,6 +75,8 @@
   <string name="burst_shoot_exit_button_text">"連続撮影をオフにする"</string>
   <string name="beauty_mode_reset_toast">Removed remodeling effects</string>
   <string name="beauty_reset">リセット</string>
+  <string name="beauty_tab_name_live_beauty">美颜</string>
+  <string name="beauty_tab_name_live_filter">滤镜</string>
   <string name="button_fisheye_camera_title">Fisheye</string>
   <string name="button_front_camera_title">"自撮りを撮影"</string>
   <string name="button_normal_video_title">"動画を記録"</string>
@@ -95,6 +102,12 @@
   <string name="confirm_recording_fail_title">"録音できません"</string>
   <string name="confirm_restore_message">"カメラのデフォルト設定を復元しますか？"</string>
   <string name="confirm_restore_title">"デフォルト設定を復元"</string>
+  <string name="custom_watermark_contains_senstive_words">センシティブな単語 \"%1$s\" を編集してください</string>
+  <string name="custom_watermark_tips">上記のテキストは写真の透かし(ウォーターマーク)として2行目に表示されます。日本語または英語を15文字以内で入力してください。</string>
+  <string name="custom_watermark_too_many_words">文字数制限を超えています</string>
+  <string name="custom_watermark_words">ユーザー定義の透かし文字 (ウォーターマーク)</string>
+  <string name="custom_watermark_words_input_hint">単語を入力</string>
+  <string name="custom_watermark_words_save_success">保存しました</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (&lt;g id="NUMBER">%d&lt;/g>秒)</string>
   <string name="do_not_remind_me">"次回から表示しない"</string>
@@ -328,6 +341,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_multilevel_entry_lowest">Lowest</string>
   <string name="pref_camera_multilevel_entry_middle">Medium (default)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
+  <string name="pref_camera_normal_wide_ldc_title">人脸修正</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimized flash</string>
   <string name="pref_camera_panoramamode_title">"パノラマ"</string>
   <string name="pref_camera_parallel_process_enable_title">Turn on parallel processing</string>
@@ -392,6 +406,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
+  <string name="pref_camera_ultra_wide_ldc_title">超广角畸变矫正</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh is closed</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">"10分"</string>
@@ -444,6 +459,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Skin</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
+  <string name="pref_userdefine_watermark_title">ユーザー定義のウォーターマーク</string>
   <string name="pref_video_encoder_entry_h264">"H.264 (互換性優先)"</string>
   <string name="pref_video_encoder_entry_h265">"H.265 (パフォーマンス優先)"</string>
   <string name="pref_video_encoder_title">"動画エンコーダ"</string>
@@ -515,6 +531,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
+  <string name="ultra_wide_bokeh_close_tip">全身モードはオフです</string>
+  <string name="ultra_wide_bokeh_open_tip">全身モード</string>
   <string name="ultra_wide_close_tip">超広角モードはオフです</string>
   <string name="ultra_wide_mode">超広角</string>
   <string name="ultra_wide_open_tip">超広角モード</string>

@@ -1052,7 +1052,7 @@
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_lock_screen_magazine_hint_text">右にスワイプしてその他のオプションを開く</string>
-  <string name="open_remote_center_hint_text">"右にスワイプでショートカットを開く"</string>
+  <string name="open_remote_center_hint_text">"右にスワイプでコントロールセンターを開く"</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overview">履歴</string>
