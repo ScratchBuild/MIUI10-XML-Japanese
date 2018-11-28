@@ -7,4 +7,5 @@
   <string name="error_not_acceptable">同期がオフになっています。</string>
   <string name="error_title">同期できませんでした</string>
   <string name="error_unauthorized">ログインの回数が多すぎるため、同期がオフになっています。</string>
+  <string name="micloud_send_message_desc">Miメッセージを送信</string>
 </resources>

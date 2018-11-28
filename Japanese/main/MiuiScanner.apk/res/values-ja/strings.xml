@@ -98,6 +98,7 @@
   <string name="module_title_business_card">名刺</string>
   <string name="module_title_code">QRコード</string>
   <string name="module_title_document">ドキュメント</string>
+  <string name="module_title_plant">Plant</string>
   <string name="module_title_shopping">ショッピング</string>
   <string name="module_title_translation">翻訳</string>
   <string name="name">名前:</string>
@@ -112,6 +113,11 @@
   <string name="payment_text">%sで開く</string>
   <string name="phone">Phone:</string>
   <string name="place_barcode_into_rectangle">Place the code inside the frame</string>
+  <string name="plant_fail">認識できませんでした</string>
+  <string name="plant_loading">認識中…</string>
+  <string name="plant_reg_fail_2">"Couldn't recognize this object. Scanner can only identify plants."</string>
+  <string name="plant_support">" (テクニカルサポート)"</string>
+  <string name="plant_title">Scan the plant you want to identify</string>
   <string name="pref_camera_jpeg_quality_fine">ファイン</string>
   <string name="pref_camera_jpeg_quality_normal">ノーマル</string>
   <string name="pref_camera_jpeg_quality_superfine">スーパーファイン</string>

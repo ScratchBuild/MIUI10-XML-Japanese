@@ -412,7 +412,7 @@
   <string name="shortcut_title">"壁紙は気に入りましたか？"</string>
   <string name="show_free">"無料の%1$sを表示する"</string>
   <string name="show_incompatible">"互換性のない%1$sを表示する"</string>
-  <string name="swipe_find_more">上にスワイプ</string>
+  <string name="swipe_find_more">上にスワイプして詳細を表示</string>
   <string name="system_precust">プリインストール済み</string>
   <string name="the_picture_is_not_support">"画像はサポートされていません"</string>
   <string name="the_picture_is_too_small">"画像が小さすぎます"</string>
@@ -456,7 +456,7 @@
   <string name="theme_description_title_customized">"カスタム"</string>
   <string name="theme_detail_tab_comment">コメント</string>
   <string name="theme_detail_tab_recommend">おすすめ</string>
-  <string name="theme_detail_tab_theme">テーマ</string>
+  <string name="theme_detail_tab_theme">詳細</string>
   <string name="theme_empty_redirect">"テーマに戻る"</string>
   <string name="theme_favorite_add_fail">"お気に入りに追加できませんでした"</string>
   <string name="theme_favorite_add_success">"お気に入りに追加しました"</string>

@@ -134,6 +134,7 @@
   <string name="dialog_media_not_found">"ダウンロードできません。SDカードは使用できません。"</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_renew_failure">Sorry, action failed</string>
+  <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
   <string name="dialog_renew_positive_text">YEAH, I WANNA ROCK LIKE A PRO</string>
   <string name="dialog_renew_success">Thanks for your confirmation</string>
   <string name="dialog_song_sort_type">"曲を並べ替え"</string>
@@ -419,11 +420,9 @@
   <string name="not_now">後で</string>
   <string name="not_selected">"曲を選択"</string>
   <string name="notif_title_file_size">%1$d total</string>
-  <string name="notif_title_multiple_downloading">"%1$dファイルをダウンロード中"</string>
   <string name="notif_title_single_downloading">"%1$sをダウンロード中"</string>
   <string name="notification_download_complete">"ダウンロード完了"</string>
   <string name="notification_download_failed">"ダウンロードできませんでした"</string>
-  <string name="notification_download_failed_more">"%1$dアイテムをダウンロードできませんでした"</string>
   <string name="notification_download_success_more">"%1$dアイテムをダウンロードしました"</string>
   <string name="notification_need_wifi_for_size">"ダウンロードにはWi-Fi接続が必要です。"</string>
   <string name="notification_play_summary">"現在および次の曲を表示して、ホーム画面に歌詞を表示します"</string>
@@ -437,6 +436,13 @@
   <string name="nowplaying_dialog_title_delete_tracks">"この曲をキューから削除しますか？"</string>
   <string name="nowplaying_menu_item_delete">"キューから削除"</string>
   <string name="ok">OK</string>
+  <string name="online_apk_download_error_no_enough_space">空き領域が不足しているため、ダウンロードできませんでした。</string>
+  <string name="online_apk_downloading">ダウンロード中…%d%%</string>
+  <string name="online_apk_install_alert_confirm">ダウンロード</string>
+  <string name="online_apk_install_alert_message">Yandex.Musicプラグインをダウンロードする必要があります。今すぐダウンロードしますか？</string>
+  <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
+  <string name="online_apk_install_error_no_enough_space">"空き領域が不足しているため、インストールできませんでした。"</string>
+  <string name="online_apk_install_error_with_reason">"インストールできませんでした (エラー %d)"</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
   <string name="online_recommend">"プレイリスト"</string>
   <string name="online_service_open_tip">Online music services are on</string>
@@ -670,4 +676,9 @@
 
 Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>
   <string name="wifi_required_title">"このファイルをダウンロードするにはWi-Fiに接続する必要があります"</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。</string>
+  <string name="xiaomi_update_sdk_dialog_message">更新バージョン %1$s\nサイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">更新バージョン %1$s\n差分更新サイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$sの更新が利用可能</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">ストレージが使用できません、SDカードを確認してください。</string>
 </resources>

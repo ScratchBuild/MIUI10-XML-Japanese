@@ -18,6 +18,8 @@ this feature will be added to Second space automatically."</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">"戻る"</string>
   <string name="bind_device">"デバイスを追加"</string>
+  <string name="button_text_next_step">次へ</string>
+  <string name="button_text_next_step_timer">次のステップへ (%d)</string>
   <string name="can_not_delete_when_calling">"通話中にspaceを削除することはできません"</string>
   <string name="can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="can_not_switch_when_green_kid_active">"Second spaceへの切り替えは、ペアレンタルコントロールによって制限されています"</string>
@@ -63,6 +65,9 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">"Second spaceを作成中…"</string>
   <string name="create_work_space">"Work spaceを作成"</string>
   <string name="creating_app_icon">"アイコンを作成中…"</string>
+  <string name="cta_declaration_agree_and_continue">同意</string>
+  <string name="cta_declaration_message_format" formatted="false">Enterprise modeを使用するには、&lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font>に同意する必要があります。Enterprise modeを有効にするには、お使いの端末をインターネットに接続する必要があります。同意しますか？</string>
+  <string name="cta_declaration_title">利用規約</string>
   <string name="current_space">Current space</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
   <string name="declare_dialog_title">"デュアルアプリについて"</string>
@@ -74,7 +79,11 @@ to be able to view them anytime"</string>
   <string name="delete_phone_fingerprint">"Second spaceの指紋認証を削除"</string>
   <string name="delete_src_file">"ファイルを削除する"</string>
   <string name="delete_src_photo">"写真を削除する"</string>
+  <string name="dialog_message_service_error">"Couldn't revoke authorization and perform a factory data reset. Try again.​"</string>
+  <string name="dialog_tip_need_network">Your device needs to connect to the internet to revoke authorization.</string>
   <string name="dialog_title">"注意"</string>
+  <string name="dialog_title_service_error">サーバーエラー</string>
+  <string name="dialog_undo_negative">"Don't revoke"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">"オフにする"</string>
   <string name="do_not_ask">"二度と表示しない"</string>
@@ -192,8 +201,12 @@ You can also download them separately."</string>
   <string name="loading_space">"読み込み中…"</string>
   <string name="loading_success">"読み込みが完了しました"</string>
   <string name="lock_screen_open_second_space">"ロック画面からSecond spaceに切り替える"</string>
+  <string name="master_clear_apply_step_1">Revoking authorization requires performing a factory data reset on your device. It will permanently erase all files and data, including accounts, contacts, photos, and apps. Back up all important items to your computer before revoking authorization.</string>
+  <string name="master_clear_apply_step_2">Make sure you backed up all the important items to your computer. After you tap \"OK\", a factory data reset will be performed on your device, permanently erasing all files and data, including accounts, contacts, photos, and apps.</string>
+  <string name="master_clear_apply_title">Attention</string>
   <string name="menu_item_about_privacy_title">"プライバシーポリシー"</string>
   <string name="messageData">"メッセージ"</string>
+  <string name="more_settings">More</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
   <string name="msg_switch_file_second">Delete these files in Second space after they are moved?</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
@@ -396,6 +409,11 @@ to enter Second space from Lock screen"</string>
   <string name="transferImage">Photos from Second space will be moved to \"Second space\" album in First space</string>
   <string name="transferMessage">Messages from Second space will be moved to First space</string>
   <string name="tryNow">"今すぐ試す"</string>
+  <string name="undo_activated_dialog_message">"Revoking authorization will deactivate Enterprise mode and perform a factory data reset on your device. All related features will no longer be available. Besides that, Xiaomi will stop collecting the information required for Enterprise mode (IMEI, Device ID, system version, region, etc.). We'd like to remind you that Xiaomi doesn't manage the data it collects for the Enterprise mode. We'll do our best to notify all the related parties, but recommend that you contact your company's supervisors to approve this revocation. Revoke authorization and perform a factory data reset?"</string>
+  <string name="undo_activated_dialog_ok">Revoke</string>
+  <string name="undo_grant_dialog_message">Xiaomi will stop collecting the information required for this feature (IMEI, Device ID, system version, region, etc.) after you revoke authorization. Revoke now?</string>
+  <string name="undo_privacy_menu">Revoke authorization</string>
+  <string name="undo_success">Revoked successfully</string>
   <string name="use_xiaoai_open">"音声アシスタントを使用してスリープ解除"</string>
   <string name="wating">"読み込み中…"</string>
   <string name="weibo_send">Send to Weibo</string>
