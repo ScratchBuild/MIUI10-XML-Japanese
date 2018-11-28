@@ -860,7 +860,6 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_talkback_redo">Redo</string>
   <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">"テキスト"</string>
-  <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
   <string name="photo_movie_module_finish">Loaded Clips successfully</string>
   <string name="photo_movie_module_loading">Loading Clips…</string>
   <string name="photo_movie_select_image_range">Clips can contain 3-20 photos</string>
