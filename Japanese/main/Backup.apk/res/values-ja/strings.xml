@@ -597,9 +597,7 @@ Free up space or transfer only important items."</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
-  <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介
-サイズ: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"バージョン %1$s の紹介
-差分更新サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">"更新バージョン %1$s\nサイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"更新バージョン %1$s\n差分更新サイズ: %2$s"</string>
   <string name="xiaomi_update_dialog_title">"更新が利用可能"</string>
 </resources>

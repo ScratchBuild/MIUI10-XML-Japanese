@@ -452,9 +452,9 @@
   <string name="update">更新</string>
   <string name="v_app_name">Mi Video</string>
   <string name="v_pw_need_update_app">すべての機能を使用するには、Mi Videoを更新してください</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s\nSize: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s\nDelta update size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。</string>
+  <string name="xiaomi_update_sdk_dialog_message">更新バージョン %1$s\nサイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">更新バージョン %1$s\n差分更新サイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$sの更新が利用可能</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">ストレージが使用できません、SDカードを確認してください。</string>
 </resources>

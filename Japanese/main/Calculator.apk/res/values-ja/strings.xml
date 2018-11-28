@@ -380,9 +380,7 @@
   <string name="word_figure_guide_text">Press and hold the text to convert between cases.</string>
   <string name="xiaomi_connect_download_manager_fail">"Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
-  <string name="xiaomi_update_dialog_message">"バージョン %1$s の紹介
-サイズ: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"バージョン %1$s の紹介
-差分更新サイズ: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">"%1$sの更新が利用可能！"</string>
+  <string name="xiaomi_update_dialog_message">"更新バージョン %1$s\nサイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"更新バージョン %1$s\n差分更新サイズ: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">"%1$sの更新が利用可能"</string>
 </resources>
