@@ -203,6 +203,8 @@
   <string name="facebook_clean_exit_confirm_ok">停止</string>
   <string name="facebook_clean_exit_confirm_title">スキャンを停止しますか？</string>
   <string name="facebook_cleaner">Facebookクリーナー</string>
+  <string name="facebook_function_summery">Facebookのキャッシュ済みアイテムを消去する</string>
+  <string name="facebook_function_title">Facebookクリーナー</string>
   <string name="facebook_group_cache">キャッシュファイル</string>
   <string name="facebook_group_gif">GIF</string>
   <string name="facebook_group_image">画像</string>
