@@ -126,6 +126,7 @@
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="standard_description">"着信音と通知音を消音する"</string>
   <string name="standard_title">"サイレント"</string>
+  <string name="start_dump_log">Start get issue-related logs</string>
   <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">"画面の明るさ"</string>
   <string name="status_bar_toggle_battery_saver">Battery saver</string>

@@ -1559,6 +1559,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="decline_remote_bugreport_action">共有しない</string>
   <string name="decryption_settings_summary">スマートフォンが暗号化されていません</string>
   <string name="default_admin_support_msg">この操作は無効になっています。詳しくは、組織の管理者にお問い合わせください。</string>
+  <string name="default_launcher_set_jeejen_message">Press the Home button to set up Jeejen</string>
+  <string name="default_launcher_set_system_message">Press the Home button to restore default launcher</string>
   <string name="delete">削除</string>
   <string name="delete_fingerprint_confirm_msg">指紋認証を削除しますか？</string>
   <string name="delete_fingerprint_text">指紋認証を削除</string>
@@ -1818,6 +1820,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="draw_overlay">他のアプリの上に重ねて描画</string>
   <string name="draw_overlay_title">他のアプリの上に重ねて描画できるアプリ</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
+  <string name="dump_log">Get issue-related logs</string>
+  <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of MIUI. Use it with caution.
+You can view generated logs in File Manager."</string>
+  <string name="dump_log_title">この機能について</string>
   <string name="eab_provisioned_switch_string">EAB / プレゼンス プロビジョニング有効</string>
   <string name="edge_mode_back">戻る</string>
   <string name="edge_mode_back_summary">戻るにはお使いの端末のエッジをダブルタップします</string>
