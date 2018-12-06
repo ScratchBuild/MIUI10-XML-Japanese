@@ -852,7 +852,6 @@
   <string name="lock_screen_date">M月d日 EEEE</string>
   <string name="lock_screen_date_12">M月d日 EEEE</string>
   <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
-  <string name="lock_screen_magazine_default_entry_title">壁紙の詳細</string>
   <string name="lock_screen_magazine_default_title">Music</string>
   <string name="lock_screen_no_sim_card_emergency_only">緊急通報のみ</string>
   <string name="lock_screen_no_sim_card_no_service">サービスなし</string>

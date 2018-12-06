@@ -18,6 +18,14 @@
   <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
   <string name="abc_toolbar_collapse_description">折りたたむ</string>
   <string name="agree">同意</string>
+  <string name="ai_animation_music_text">AIサウンドトラック</string>
+  <string name="ai_music_save_cancel">キャンセル</string>
+  <string name="ai_music_save_dialog_title">保存</string>
+  <string name="ai_music_save_fail">保存できませんでした</string>
+  <string name="ai_music_save_info">AIサウンドトラックを追加しました。動画を保存しますか？</string>
+  <string name="ai_music_save_ok">保存</string>
+  <string name="ai_music_save_success">正常に保存されました</string>
+  <string name="ai_music_saved">保存済み</string>
   <string name="alert_dialog_download">このアプリは既にダウンロードされています。</string>
   <string name="alert_dialog_download_btn_hide">隠す</string>
   <string name="alert_dialog_download_confirm">アプリのダウンロードについて</string>
@@ -72,11 +80,6 @@
   <string name="cast_unmute">ミュート解除</string>
   <string name="click_to_reload_more">Tap to load more</string>
   <string name="click_to_retry">再試行</string>
-  <string name="com_mixpanel_android_close">閉じる</string>
-  <string name="com_mixpanel_android_done">完了</string>
-  <string name="com_mixpanel_android_exit">終了</string>
-  <string name="com_mixpanel_android_logo">By Mixpanel</string>
-  <string name="com_mixpanel_android_notification_image">画像が表示されない</string>
   <string name="com_permission_desc">"Mi Videoは端末上の動画にアクセスできません。[設定]から権限を許可してください。"</string>
   <string name="com_permission_title">"アクセス許可が必要"</string>
   <string name="common_google_play_services_enable_button">有効にする</string>
@@ -402,6 +405,7 @@
   <string name="pw_video_history">Playback history</string>
   <string name="pw_video_mine">My videos</string>
   <string name="pw_video_offline">Local videos</string>
+  <string name="read_and_agree">同意</string>
   <string name="recommend_online_switch">Online recommendations</string>
   <string name="recommend_online_tips">Turn on to receive online video recommendations</string>
   <string name="recommend_page_replay">REPLAY</string>
@@ -415,6 +419,7 @@
   <string name="s6">Allow Ad to create a calendar event?</string>
   <string name="s7">Test Ad</string>
   <string name="save">保存</string>
+  <string name="save_cancel_toast">保存をキャンセルするにはもう一度タップ</string>
   <string name="screenrecord_cancel">Compatibility issues</string>
   <string name="screenrecord_nosupport_record">"Screen recorder isn't currently supported on this device."</string>
   <string name="search">検索</string>
@@ -428,6 +433,8 @@
   <string name="share_ugc_waitting">リンクを生成中…</string>
   <string name="signup_type_silent_default">silent</string>
   <string name="signup_type_user_default">LoginSDK consumer</string>
+  <string name="slid_fail_message">保存できませんでした</string>
+  <string name="slide_save_message">動画を生成中…</string>
   <string name="storage_permission_denied">ストレージへのアクセスが拒否されました</string>
   <string name="switch_ratio_pause">Playback speed is unstable. Switching back to the default speed…</string>
   <string name="t_downloading">Downloading:</string>
@@ -451,7 +458,9 @@
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="update">更新</string>
   <string name="v_app_name">Mi Video</string>
+  <string name="v_cancel">キャンセル</string>
   <string name="v_pw_need_update_app">すべての機能を使用するには、Mi Videoを更新してください</string>
+  <string name="v_save">保存</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。</string>
   <string name="xiaomi_update_sdk_dialog_message">更新バージョン %1$s\nサイズ: %2$s</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">更新バージョン %1$s\n差分更新サイズ: %2$s</string>
