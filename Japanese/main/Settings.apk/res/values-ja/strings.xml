@@ -1603,6 +1603,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_cellular_network">モバイル ネットワークのスキャン</string>
   <string name="device_complete_parameters">すべてのスペック</string>
   <string name="device_details_title">端末の詳細</string>
+  <string name="device_description_battery">バッテリー容量</string>
+  <string name="device_description_camera">背面カメラ</string>
+  <string name="device_description_cpu">CPU</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">解像度</string>
+  <string name="device_description_screen">画面サイズ</string>
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
