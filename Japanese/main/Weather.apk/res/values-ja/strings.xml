@@ -135,7 +135,7 @@
   <string name="it_is_going_to_rain">"雨が降るでしょう"</string>
   <string name="locate_fail_detail_err">"端末の現在地を取得できません
 画面をタップして手動で追加または都市の位置を変更する"</string>
-  <string name="location_provider_btn_text">位置情報サービスをオンにする/string>
+  <string name="location_provider_btn_text">位置情報サービスをオンにする</string>
   <string name="location_tag">Locate</string>
   <string name="menu_location">"位置情報"</string>
   <string name="menu_speeker">Voice broadcast</string>
