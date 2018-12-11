@@ -6,6 +6,7 @@
   <string name="act_find_city_hint">"都市名を入力"</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">"人気の都市"</string>
+  <string name="act_location_error_to_find_city">位置情報を取得できませんでした。都市を手動で追加することができます。</string>
   <string name="act_set_city_find_side">"現在地を取得中"</string>
   <string name="act_set_city_find_side_error">"端末の現在地を取得できません"</string>
   <string name="act_weather_find_city_added">"追加しました"</string>
@@ -15,7 +16,7 @@
   <string name="act_weather_find_city_searching">"検索中…"</string>
   <string name="activity_find_city_dialog_cancel">"キャンセル"</string>
   <string name="activity_find_city_dialog_message">Allow Weather to access your location to get accurate location info.</string>
-  <string name="activity_find_city_dialog_message_global">Allow Weather to access your location and switch to high accuracy location mode to get relevant location info.</string>
+  <string name="activity_find_city_dialog_message_global">Turn on location services and allow your device to determine location using wireless networks.</string>
   <string name="activity_find_city_dialog_set">"設定"</string>
   <string name="activity_find_city_dialog_title">"位置情報アクセス"</string>
   <string name="activity_main_pub_time">Published at %1$s</string>
@@ -92,6 +93,9 @@
 手動で更新を行うか、ネットワークの設定を確認してください"</string>
   <string name="data_provided_by">Data provided in part by</string>
   <string name="edit_city">"都市を管理"</string>
+  <string name="empty_view_net_loading">更新中…</string>
+  <string name="empty_view_net_unavailable">ネットワークに接続できませんでした</string>
+  <string name="empty_view_refresh">再試行</string>
   <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that this product will connect the network, collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="feedback_cloudy">Cloudy</string>
   <string name="feedback_foggy">Foggy</string>
@@ -110,9 +114,11 @@
   <string name="hourly_forecast_date">M/d</string>
   <string name="hourly_forecast_title_24_hours_desc">"24時間の予報"</string>
   <string name="hourly_forecast_title_hourly_desc">"1時間ごとの予報"</string>
+  <string name="index_item_downloading">ダウンロード中</string>
   <string name="index_item_experience_now">"今すぐインストール"</string>
   <string name="index_item_install_now">"今すぐインストール"</string>
   <string name="index_item_installing">"インストール中"</string>
+  <string name="index_item_installing2">インストール中</string>
   <string name="indices_desc_feel">"体感気温 %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
   <string name="indices_desc_humidity">"湿度 %1$s%%"</string>
@@ -129,6 +135,7 @@
   <string name="it_is_going_to_rain">"雨が降るでしょう"</string>
   <string name="locate_fail_detail_err">"端末の現在地を取得できません
 画面をタップして手動で追加または都市の位置を変更する"</string>
+  <string name="location_provider_btn_text">位置情報サービスをオンにする/string>
   <string name="location_tag">Locate</string>
   <string name="menu_location">"位置情報"</string>
   <string name="menu_speeker">Voice broadcast</string>
@@ -153,7 +160,7 @@
   <string name="no_data">"データなし"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_vote_ratio">Against %1$s%%</string>
-  <string name="open">"開く"</string>
+  <string name="open">"今すぐ開く"</string>
   <string name="open_browser">"ブラウザで開く"</string>
   <string name="open_now">"開く"</string>
   <string name="other_settings">"その他の設定"</string>

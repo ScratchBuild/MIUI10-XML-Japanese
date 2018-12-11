@@ -149,7 +149,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="function_not_support">"この端末ではサポートされていません"</string>
   <string name="gms_message">"デュアルアプリを作成するにはGoogleサービスを使用する必要があります。Googleサービスのデュアルアプリを作成しますか？"</string>
   <string name="gms_open_button">"オンにする"</string>
-  <string name="gms_title">"Googleサービスをオンにする"</string>
+  <string name="gms_title">"Googleサービス向けのデュアルアプリ"</string>
   <string name="goToSecondSpacce">"Second spaceに移動</string>
   <string name="go_on_import">Keep importing</string>
   <string name="gpg_message">"デュアルアプリを作成するにはGoogle Play ゲームを使用する必要があります。Goolge Play ゲームのデュアルアプリを作成しますか？"</string>

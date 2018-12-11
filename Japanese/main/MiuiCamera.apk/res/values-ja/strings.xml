@@ -86,6 +86,8 @@
   <string name="camera_error_title">"カメラのエラー"</string>
   <string name="camera_facedetection_sub_option_hint">"実験的な機能"</string>
   <string name="camera_label">"カメラ"</string>
+  <string name="camera_liveshot_off_tip">动态照片已关闭</string>
+  <string name="camera_liveshot_on_tip">动态照片</string>
   <string name="camera_mode_options">"モード"</string>
   <string name="camera_setting">"カメラ"</string>
   <string name="camera_settings_label">"カメラ"</string>
@@ -213,6 +215,7 @@ in Portrait mode"</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"分割画面でカメラアプリは動作しません"</string>
+  <string name="network_exception">ネットワークの例外エラー</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>

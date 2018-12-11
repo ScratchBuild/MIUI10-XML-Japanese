@@ -3294,6 +3294,7 @@ You can view generated logs in File Manager."</string>
   <string name="network_detail">%sネットワークの詳細</string>
   <string name="network_error">ネットワークエラー</string>
   <string name="network_name_displayed_summary">ステータスバーにキャリア名を表示する</string>
+  <string name="network_name_input_error">SSIDを保存できませんでした。もう一度お試しください。</string>
   <string name="network_operator_display_title">キャリア名を表示</string>
   <string name="network_operators_settings">携帯通信会社</string>
   <string name="network_reset_not_available">ネットワークのリセットはこのユーザーには許可されていません</string>
