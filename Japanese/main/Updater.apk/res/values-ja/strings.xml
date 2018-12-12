@@ -22,6 +22,7 @@
   <string name="dialog_btn_wifi">"Wi-Fiに切り替える"</string>
   <string name="dialog_stop_desc">"ダウンロードの中断、または停止のいずれかを行うことができます。"</string>
   <string name="dialog_stop_title">"ダウンロードを停止しますか？"</string>
+  <string name="dialog_twrp">内部ストレージは暗号化されています。端末を再起動して復元した後、続行するには端末のロック解除パスワードを入力してください。</string>
   <string name="download_done">"ダウンロードが完了しました"</string>
   <string name="download_fail">"ダウンロード中にエラーは発生しました"</string>
   <string name="download_fail_desc">"MD5チェックサムが一致しません…"</string>
