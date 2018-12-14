@@ -333,12 +333,12 @@
   <string name="application_item_disable">拒否</string>
   <string name="application_item_permission">許可</string>
   <string name="application_lock_name">アプリのロック</string>
-  <string name="application_manager_section_title">アプリの設定</string>
+  <string name="application_manager_section_title">アプリ</string>
   <string name="application_permission_manager">アプリのパーミッション</string>
   <string name="application_permissions">アプリのアクセス許可</string>
   <string name="application_restrictions">アプリとコンテンツの許可</string>
   <string name="application_size_label">アプリ</string>
-  <string name="applications_settings">ユーザーアプリ</string>
+  <string name="applications_settings">アプリの管理</string>
   <string name="applications_settings_header">アプリの設定</string>
   <string name="applications_settings_summary">アプリの管理やクイック起動ショートカットのセットアップ</string>
   <string name="apply">適用</string>
@@ -1826,9 +1826,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="draw_overlay">他のアプリの上に重ねて描画</string>
   <string name="draw_overlay_title">他のアプリの上に重ねて描画できるアプリ</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
-  <string name="dump_log">Get issue-related logs</string>
-  <string name="dump_log_summary">"This feature is designed for generating the 284 log in Alpha and Beta versions of MIUI. Use it with caution.
-You can view generated logs in File Manager."</string>
+  <string name="dump_log">問題に関するログを取得</string>
+  <string name="dump_log_summary">"この機能はMIUIのAlpha版とBeta版で診断ログを生成するために設計されています。慎重に使用してください。
+生成されたログはファイルマネージャーで表示できます。"</string>
   <string name="dump_log_title">この機能について</string>
   <string name="eab_provisioned_switch_string">EAB / プレゼンス プロビジョニング有効</string>
   <string name="edge_mode_back">戻る</string>
@@ -3059,6 +3059,8 @@ You can view generated logs in File Manager."</string>
   <string name="miui_data_usage_menu_metered">モバイルホットスポット</string>
   <string name="miui_enable_service_title">サービスは次の操作を実行します:</string>
   <string name="miui_experience_optimization">MIUIの最適化をオンにする</string>
+  <string name="miui_ime_xiaoai_voice_hint">より速く、より便利なテキストの入力方法です</string>
+  <string name="miui_ime_xiaoai_voice_title">Mi AIでの音声入力</string>
   <string name="miui_input_method_settings">入力方法の設定</string>
   <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
   <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
@@ -3545,6 +3547,7 @@ You can view generated logs in File Manager."</string>
   <string name="other_personal_settings">個人設定</string>
   <string name="other_relative">その他</string>
   <string name="other_sound_settings">その他の音</string>
+  <string name="others">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overlay_settings">他のアプリの上に重ねて描画</string>
   <string name="owner_info_settings_edit_text_hint">ロック画面に表示するテキストを入力します</string>
@@ -4455,7 +4458,7 @@ You can view generated logs in File Manager."</string>
   <string name="search_status_sim">SIMの状態;SIM</string>
   <string name="search_storage_settings">ストレージ;メモリ</string>
   <string name="search_sync_settings">Sync;Auto;WLAN only</string>
-  <string name="search_system_app_settings">システムアプリ</string>
+  <string name="search_system_app_settings">システムアプリの設定</string>
   <string name="search_theme_settings_title">テーマ;カスタマイズ</string>
   <string name="search_touch_assistant">Quick ball;Touch assistant</string>
   <string name="search_touch_sensitive_title">手袋モード;手袋</string>

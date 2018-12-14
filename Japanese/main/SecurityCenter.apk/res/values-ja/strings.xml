@@ -1555,7 +1555,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_adjust_data_usage_summary">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
   <string name="pref_adjust_traffic_data">"データ使用量を設定"</string>
   <string name="pref_allow_connect_network_title">"海外データローミング"</string>
-  <string name="pref_auto_adjust_settings">Auto adjust data usage stats settings</string>
   <string name="pref_auto_adjust_traffic">Auto adjust data usage stats</string>
   <string name="pref_automatic_adjust">Sync carrier data usage</string>
   <string name="pref_avaible_traffic">"データプラン"</string>
@@ -1567,7 +1566,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pref_category_title_module_settings">"機能の設定"</string>
   <string name="pref_category_title_other">"その他の設定"</string>
   <string name="pref_category_title_securitycenter_settings">"全般"</string>
-  <string name="pref_confirm_operator_setting">"入力した情報が正しいことを確認してください"</string>
   <string name="pref_correction_setting">Calibration template settings</string>
   <string name="pref_correction_setting_switch">Use custom calibration template</string>
   <string name="pref_correction_sms_content">Calibration template</string>

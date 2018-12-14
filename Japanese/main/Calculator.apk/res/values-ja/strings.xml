@@ -138,6 +138,8 @@
   <string name="preference_follow_qq_group">QQ Group:523274279</string>
   <string name="preference_follow_us">Follow us</string>
   <string name="preference_follow_web_title">公式ウェブサイト</string>
+  <string name="preference_other">その他</string>
+  <string name="preference_privacy_title">プライバシーポリシー</string>
   <string name="preference_settings">設定</string>
   <string name="preference_use_degress_summary">三角関数の角度でラジアンを代入する</string>
   <string name="preference_use_degress_title">角度を使用する</string>
