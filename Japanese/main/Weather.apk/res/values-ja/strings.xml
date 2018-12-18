@@ -15,8 +15,8 @@
   <string name="act_weather_find_city_no_result">"何も見つかりません"</string>
   <string name="act_weather_find_city_searching">"検索中…"</string>
   <string name="activity_find_city_dialog_cancel">"キャンセル"</string>
-  <string name="activity_find_city_dialog_message">Allow Weather to access your location to get accurate location info.</string>
-  <string name="activity_find_city_dialog_message_global">Turn on location services and allow your device to determine location using wireless networks.</string>
+  <string name="activity_find_city_dialog_message">正確な位置情報を取得するため、アプリが現在地情報にアクセスすることを許可する。</string>
+  <string name="activity_find_city_dialog_message_global">無線ネットワークを使用した位置情報の取得、および現在地情報へのアクセスを端末に許可する。</string>
   <string name="activity_find_city_dialog_set">"設定"</string>
   <string name="activity_find_city_dialog_title">"位置情報アクセス"</string>
   <string name="activity_main_pub_time">Published at %1$s</string>
@@ -199,7 +199,7 @@
   <string name="search_weather">"天気"</string>
   <string name="search_weather_keywords">気温;天気予報;天気;Air Quality;Pollution Degree;湿度</string>
   <string name="set">"設定"</string>
-  <string name="share">Share</string>
+  <string name="share">共有</string>
   <string name="share_button">"共有"</string>
   <string name="share_menu_title">"共有"</string>
   <string name="share_subject">"共有"</string>
