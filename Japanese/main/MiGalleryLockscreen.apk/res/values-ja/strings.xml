@@ -178,8 +178,6 @@
   <string name="no_pic_data">画像がみつかりませんでした</string>
   <string name="ok_enable_network_prov">"同意"</string>
   <string name="ok_enable_network_prov2">同意</string>
-  <string name="ok_international">同意</string>
-  <string name="ok_lockscreen">同意</string>
   <string name="ok_international">"同意してオンにする"</string>
   <string name="ok_lockscreen">"オンにする"</string>
   <string name="ok_network">"同意"</string>
@@ -232,9 +230,9 @@
   <string name="platform_unavailable_wechat">"Wechatをインストール"</string>
   <string name="platform_unavailable_wechatmoment">"Wechatをインストール"</string>
   <string name="platform_unavailable_weibo">Weiboをインストール</string>
-  <string name="prv_end">&lt;CDATA&gt;"That's all for now."&lt;/CDATA&gt;</string>
-  <string name="prv_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
-  <string name="prv_nodata">&lt;CDATA&gt;No data&lt;/CDATA&gt;</string>
+  <string name="prv_end">"That's all for now."</string>
+  <string name="prv_loading"Just a sec</string>
+  <string name="prv_nodata">No data</string>
   <string name="psw_hint">パスワード</string>
   <string name="psw_sign_in">パスワードを使用してログイン</string>
   <string name="pull_to_refresh_pull_down_label">Pull down to refresh</string>
