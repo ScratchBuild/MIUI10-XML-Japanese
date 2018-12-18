@@ -231,7 +231,7 @@
   <string name="platform_unavailable_wechatmoment">"Wechatをインストール"</string>
   <string name="platform_unavailable_weibo">Weiboをインストール</string>
   <string name="prv_end">"That's all for now."</string>
-  <string name="prv_loading"Just a sec</string>
+  <string name="prv_loading">Just a sec</string>
   <string name="prv_nodata">No data</string>
   <string name="psw_hint">パスワード</string>
   <string name="psw_sign_in">パスワードを使用してログイン</string>
