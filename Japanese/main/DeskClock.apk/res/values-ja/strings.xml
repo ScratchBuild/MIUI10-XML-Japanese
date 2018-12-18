@@ -33,6 +33,7 @@
   <string name="cancel">"キャンセル"</string>
   <string name="channel_name_alarm">"アラーム"</string>
   <string name="channel_name_timer">"タイマー"</string>
+  <string name="check_theme_app_install">お使いの端末にテーマアプリがインストールされていることを確認してください。</string>
   <string name="close_alarm">"オフにする"</string>
   <string name="common_settings">"設定"</string>
   <string name="confirm_abort">"破棄"</string>

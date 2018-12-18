@@ -853,10 +853,10 @@
   <string name="lock_screen_date_12">M月d日 EEEE</string>
   <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
   <string name="lock_screen_magazine_default_title">Music</string>
+  <string name="lock_screen_magazine_global_button_text">"その他"</string>
   <string name="lock_screen_no_sim_card_emergency_only">緊急通報のみ</string>
   <string name="lock_screen_no_sim_card_no_service">サービスなし</string>
   <string name="lock_wallpaper_enter">Enter</string>
-  <string name="lock_wallpaper_learn_more">"その他"</string>
   <string name="lockscreen_access_pattern_area">Pattern area.</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">セル %1$s を追加しました</string>

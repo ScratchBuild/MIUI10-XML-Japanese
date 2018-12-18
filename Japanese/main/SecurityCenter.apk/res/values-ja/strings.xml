@@ -1325,7 +1325,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_masked_item">"通知を非表示"</string>
   <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
+  <string name="notify_channel_mipush">Security push messages</string>
   <string name="notify_channel_name_security">"システムセキュリティ"</string>
+  <string name="notify_channel_optimize">Security notifications</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_daily_limit_body">Tap to set data limit.</string>
   <string name="notify_daily_limit_title">Used %s today</string>

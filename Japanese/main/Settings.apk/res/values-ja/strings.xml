@@ -2296,6 +2296,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_anim_metal">Metal</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
+  <string name="gxzw_anim_star">Starlight</string>
   <string name="gxzw_anim_title">Fingerprint animation</string>
   <string name="gxzw_dialog_message">"To be able to use in-screen fingerprint sensor normally, don't use screen protectors. If you think that a screen protector is still necessary, choose among authorized compatible options."</string>
   <string name="gxzw_dialog_not_show_again">次回から表示しない</string>
@@ -4848,7 +4849,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sos_privacy_and_content_policy">User Agreement and Privacy Policy</string>
   <string name="sos_privacy_dialog_button_cancel">Cancel</string>
   <string name="sos_privacy_dialog_button_ok">Agree</string>
-  <string name="sos_privacy_dialog_message">"Read and agree to our %s before using this feature.r
+  <string name="sos_privacy_dialog_message">"Read and agree to our %s before using this feature.
 This feature needs permissions to access your location, use mobile networks, and read your contacts. Agree?"</string>
   <string name="sos_privacy_dialog_title">Terms and Conditions</string>
   <string name="sound_category_call_ringtone_vibrate_title">着信音とバイブレーション</string>
