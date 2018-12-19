@@ -178,8 +178,8 @@
   <string name="no_pic_data">画像がみつかりませんでした</string>
   <string name="ok_enable_network_prov">"同意"</string>
   <string name="ok_enable_network_prov2">同意</string>
-  <string name="ok_international">"同意してオンにする"</string>
-  <string name="ok_lockscreen">"オンにする"</string>
+  <string name="ok_international">同意</string>
+  <string name="ok_lockscreen">同意</string>
   <string name="ok_network">"同意"</string>
   <string name="open_btn_finish">完了</string>
   <string name="open_btn_next">次へ</string>
