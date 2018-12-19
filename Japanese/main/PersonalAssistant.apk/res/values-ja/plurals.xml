@@ -78,6 +78,10 @@
         <item quantity="other">%d分前</item>
         <item quantity="one">%d分前</item>
     </plurals>
+    <plurals name="miot_device_camera_size">
+        <item quantity="other">%d smart cameras</item>
+        <item quantity="one">%d smart camera</item>
+    </plurals>
     <plurals name="book_start_interval">
         <item quantity="other">出発日から%d日</item>
         <item quantity="one">出発日から%d日</item>

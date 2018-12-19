@@ -5408,8 +5408,9 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="turn_off_keyguard_password_alert_title">オフにする</string>
   <string name="turn_off_keyguard_password_confirm_msg">パスワードの設定を行わないと、一部のセキュリティ機能が動作しません。</string>
   <string name="turn_off_keyguard_password_wait_dialog">パスワードをオフにしています…</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">ロック画面のパスワードをオフにすると、記録された指紋認証と顔データが削除されます。顔を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">ロック画面のパスワードをオフにした後には、指紋認証でデバイスのロックを解除することはできません</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">ロック画面のパスワードをオフにすると、記録された指紋認証が削除されます。指紋認証を使用してデバイスのロックを解除することはできません。</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">ロック画面のパスワードをオフにすると、記録された指紋認証と顔データが削除されます。顔や指紋認証を使用してデバイスのロックを解除することはできません。</string>
   <string name="turn_off_radio">無線通信をOFF</string>
   <string name="turn_off_security_lock">ロックをOFF</string>
   <string name="turn_on_keyguard_password">ロック画面のパスワードをオンにする</string>

@@ -48,7 +48,7 @@
   <string name="accessibility_display_daltonizer_preference_title">色補正</string>
   <string name="accessibility_divider">分割画面の分割線</string>
   <string name="accessibility_drag_hint_message">アイテムを画面の上部にドラッグする</string>
-  <string name="accessibility_enter_lock_wallpaper">タップしてMusicアプリを開く</string>
+  <string name="accessibility_enter_lock_wallpaper">タップしてWallpaper Carouselを開く</string>
   <string name="accessibility_ethernet_connected">イーサネットに接続しました。</string>
   <string name="accessibility_ethernet_disconnected">イーサネット接続を解除しました。</string>
   <string name="accessibility_fingerprint_dialog_app_icon">アプリのアイコン</string>
@@ -449,7 +449,7 @@
   <string name="dock_forced_resizable">アプリは分割画面では動作しないことがあります。</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">分割画面はロック画面上ではサポートされていません。</string>
   <string name="dock_non_resizeble_failed_to_dock_text">アプリは分割画面をサポートしていません。</string>
-  <string name="download_lock_wallpaper">Double tap to download Music</string>
+  <string name="download_lock_wallpaper">Double tap to download Wallpaper Carousel</string>
   <string name="drag_to_add_tiles">アイテムを追加または並べ替えるには長押し</string>
   <string name="drag_to_remove_tiles">削除するにはここにドラッグ</string>
   <string name="drive_mode_tip">運転モードはオンです</string>
@@ -716,7 +716,12 @@
   <string name="keyguard_indication_charging_time_slowly">低速充電中（完了まで%s）</string>
   <string name="keyguard_indication_trust_disabled">手動でロックを解除するまでロックされたままとなります</string>
   <string name="keyguard_instructions_when_pattern_disabled">メニューからロックを解除できます。</string>
+  <string name="keyguard_left_calculator">電卓</string>
+  <string name="keyguard_left_calendar">カレンダー</string>
+  <string name="keyguard_left_contacts">連絡先</string>
   <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+  <string name="keyguard_left_music">Music</string>
+  <string name="keyguard_left_notes">メモ</string>
   <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
@@ -852,7 +857,7 @@
   <string name="lock_screen_date">M月d日 EEEE</string>
   <string name="lock_screen_date_12">M月d日 EEEE</string>
   <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
-  <string name="lock_screen_magazine_default_title">Music</string>
+  <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">"その他"</string>
   <string name="lock_screen_no_sim_card_emergency_only">緊急通報のみ</string>
   <string name="lock_screen_no_sim_card_no_service">サービスなし</string>
@@ -1051,7 +1056,7 @@
   <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
   <string name="open_lock_screen_magazine_hint_text">右にスワイプしてその他のオプションを開く</string>
-  <string name="open_remote_center_hint_text">"右にスワイプでコントロールセンターを開く"</string>
+  <string name="open_remote_center_hint_text">"右にスワイプしてショートカットを開く"</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overview">履歴</string>
