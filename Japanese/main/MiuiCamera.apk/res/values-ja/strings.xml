@@ -219,7 +219,6 @@ in Portrait mode"</string>
   <string name="module_name_square">Square</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"分割画面でカメラアプリは動作しません"</string>
-  <string name="network_exception">ネットワークの例外エラー</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
   <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>

@@ -4607,6 +4607,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="services_subtitle">サービス</string>
   <string name="set_data_limit">データ上限の設定</string>
   <string name="set_data_time_range">Show time range</string>
+  <string name="set_jeejen_prompt_message">Jeejen will be set as your default launcher. You can change the default launcher in Settings &gt; System settings &gt; Home screen &amp; Recents &gt; Default launcher.</string>
+  <string name="set_jeejen_prompt_title">Confirm changes</string>
   <string name="setting_privacy_password">プライバシー保護パスワードを設定</string>
   <string name="settings_ad_loading">読み込み中…</string>
   <string name="settings_ad_loading_unavailable">情報を読み込めませんでした。</string>
@@ -6450,6 +6452,9 @@ Looks like credential storage isn't enabled."</string>
   <string name="work_profile_usage_access_warning">このアプリによる使用量へのアクセス許可をOFFにしても、管理者は引き続き仕事用プロファイル内のアプリのデータ使用量をトラッキングできます。</string>
   <string name="work_ringtone_title">仕事用電話の着信音</string>
   <string name="work_sim_title">仕事用SIM</string>
+  <string name="work_sound_permission_dialog_button_text_known">OK</string>
+  <string name="work_sound_permission_dialog_message">"You can't use Themes in Enterprise mode. Contact your supervisor to get access."</string>
+  <string name="work_sound_permission_dialog_title">Enterprise mode restrictions</string>
   <string name="work_space_delete">Work spaceを削除</string>
   <string name="work_space_delete_confirm">今すぐ削除</string>
   <string name="work_space_delete_description">Work spaceを削除した後は、Work Spaceに切り替えることができません。すべてのデータが移動または削除されます。</string>

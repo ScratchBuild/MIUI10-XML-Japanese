@@ -4,6 +4,10 @@
         <item quantity="other">"%d分後に再通知します。"</item>
         <item quantity="one">"%d分後に再通知します。"</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">"選択したアラームを削除しますか？"</item>
         <item quantity="one">"このアラームを削除しますか？"</item>
@@ -11,6 +15,18 @@
     <plurals name="delete_timezone_confirm">
         <item quantity="other">"選択したタイムゾーンを削除しますか？"</item>
         <item quantity="one">"このタイムゾーンを削除しますか？"</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d日</item>
+        <item quantity="one">%1$d日</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">"%d秒"</item>
