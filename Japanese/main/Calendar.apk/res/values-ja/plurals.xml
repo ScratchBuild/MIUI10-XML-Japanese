@@ -111,4 +111,7 @@
         <item quantity="other">"%1$d日前"</item>
         <item quantity="one">"%1$d日前"</item>
     </plurals>
+    <plurals name="feed_list_dislike_title">
+        <item quantity="other">%1$d件の理由が選択されました</item>
+    </plurals>
 </resources>
