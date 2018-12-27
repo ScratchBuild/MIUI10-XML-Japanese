@@ -198,7 +198,7 @@
   <string name="retry">"再試行"</string>
   <string name="search_weather">"天気"</string>
   <string name="search_weather_keywords">気温;天気予報;天気;Air Quality;Pollution Degree;湿度</string>
-  <string name="set">"設定"</string>
+  <string name="settings">"設定"</string>
   <string name="share">共有</string>
   <string name="share_button">"共有"</string>
   <string name="share_menu_title">"共有"</string>
