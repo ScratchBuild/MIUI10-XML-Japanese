@@ -20,7 +20,7 @@
   <string name="activity_title_settings">"設定"</string>
   <string name="activity_title_similar_image">"重複した写真"</string>
   <string name="activity_title_similar_image_group">"重複を削除"</string>
-  <string name="activity_title_tedious_image">Accidental photos</string>
+  <string name="activity_title_tedious_image">破損した写真</string>
   <string name="activity_title_uninstall_apps">"アプリ"</string>
   <string name="activity_title_video">"動画を削除"</string>
   <string name="activity_title_white_list">"例外"</string>
@@ -187,7 +187,7 @@
   <string name="downloading">"ダウンロード中"</string>
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
-  <string name="empty_content_no_similar_image">No photos</string>
+  <string name="empty_content_no_similar_image">写真はありません</string>
   <string name="empty_title_ad">"古いファイルはありません"</string>
   <string name="empty_title_apk">"APKファイルはありません"</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
