@@ -24,6 +24,8 @@
   <string name="adding_recipients">"宛先を追加しています..."</string>
   <string name="alert_dlg_cancel_button">キャンセル</string>
   <string name="alert_dlg_ok_button">OK</string>
+  <string name="allow_network_hint">\"情報を自動的に更新\"をオンにするか、ネットワーク接続を確認してください</string>
+  <string name="already_updated">更新済み</string>
   <string name="app_label">メッセージ</string>
   <string name="app_name">デバイス</string>
   <string name="attach_image">画像</string>
@@ -52,6 +54,7 @@
   <string name="bookmark_confirm_delete_message">選択したメッセージをお気に入りから削除しますか？</string>
   <string name="bookmark_empty">お気に入りのメッセージはありません</string>
   <string name="bookmark_list_title">お気に入り</string>
+  <string name="button_close">閉じる</string>
   <string name="button_emoji_creature">Animal emojis</string>
   <string name="button_emoji_lifestyle">Lifestyle emojis</string>
   <string name="button_emoji_smiley">Face emojis</string>
@@ -75,16 +78,22 @@
   <string name="change_duration_activity">表示時間を変更</string>
   <string name="check_all">すべて選択</string>
   <string name="class_0_message_activity">"クラス0メッセージ"</string>
+  <string name="click_to_update">更新を確認するにはタップ</string>
   <string name="close">閉じる</string>
   <string name="cloud_state_disabled">Mi Cloudとの同期をオンにしてメッセージを同期する</string>
   <string name="cloud_state_sync_finished">Mi Cloudと同期しました</string>
   <string name="cloud_state_syncing">Mi Cloudと同期中...</string>
+  <string name="cm_privacy_dialog_allow">同意</string>
+  <string name="cm_privacy_dialog_cancel">キャンセル</string>
+  <string name="cm_privacy_dialog_spannable_tips">プライバシーポリシー</string>
+  <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
+  <string name="cm_privacy_dialog_title">Attention</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
   <string name="complain_input_number">電話番号を入力</string>
   <string name="complain_jump">スキップ</string>
-  <string name="complain_message_title">Complain</string>
+  <string name="complain_message_title">Report</string>
   <string name="complain_ok">OK</string>
-  <string name="complain_phone_number">電話番号</string>
+  <string name="complain_phone_number">電話番号 (オプション)</string>
   <string name="complain_reason">Why are you reporting this message?</string>
   <string name="complain_success">Thanks for your feedback. It helps us make Messaging better!</string>
   <string name="complain_tips">"The content of the most recent message you report will be uploaded to our servers along with the phone number you provide. Our service providers will review the reported message."</string>
@@ -134,10 +143,11 @@
   <string name="converting_to_text_message">SMSメッセージに変換中...</string>
   <string name="converting_vcard_failed">連絡先を変換できませんでした</string>
   <string name="copy_message_text">メッセージのテキストをコピー</string>
-  <string name="copy_message_text_success">テキストをコピーしました</string>
+  <string name="copy_message_text_success">正常にコピーしました</string>
   <string name="copy_to_sdcard">添付ファイルを保存</string>
   <string name="copy_to_sdcard_fail">"添付ファイルを保存できませんでした。"</string>
   <string name="copy_to_sdcard_success">添付ファイル%sを保存しました。</string>
+  <string name="current_data_version">Mi Message version</string>
   <string name="delete">削除</string>
   <string name="delete_bookmark">お気に入りから削除</string>
   <string name="delete_message">メッセージを削除</string>
@@ -247,7 +257,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">"画面を引っ張って"</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">"読み込み中…"</string>
   <string name="hybrid_pull_to_refresh_release_label">"指を離して更新"</string>
-  <string name="hybrid_service_unavailiable">"サービスが利用不可"</string>
+  <string name="hybrid_service_unavailiable">サービスは利用できません</string>
   <string name="hybrid_try_again">"再試行"</string>
   <string name="i_know">OK</string>
   <string name="importing_progress_private_message">インポート中...</string>
@@ -306,7 +316,9 @@
   <string name="message_too_big_for_video">メッセージが大きすぎて動画を添付できません。</string>
   <string name="message_type_label">"タイプ: "</string>
   <string name="messagelist_sender_self">自分</string>
+  <string name="messaging">Messaging</string>
   <string name="mms">MMS</string>
+  <string name="more">More</string>
   <string name="move_down">下に移動</string>
   <string name="move_up">上に移動</string>
   <string name="msg_no_member_selected">Select at least 1 contact</string>
@@ -363,6 +375,7 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">"不明な番号からの通常のSMSは受信できます。メッセージと設定から、この機能はいつでもオンまたはオフにできます。"</string>
   <string name="mx_filter_message_from_stranger_dialog_title">不明な番号からのMiメッセージをブロック</string>
   <string name="mx_filter_message_from_stranger_summary">"不明な番号からの通常のSMSは受信できます。"</string>
+  <string name="mx_message">Miメッセージ</string>
   <string name="mx_msg">Miメッセージ</string>
   <string name="mx_msg_pageview_setting_title">Miメッセージ設定</string>
   <string name="mx_offline">オフライン</string>
@@ -374,6 +387,8 @@
   <string name="mx_stranger_recommend_msg">"不明な番号からのMiメッセージをブロックするにはタップ"</string>
   <string name="mx_type_guide">Send messages to other MIUI devices without incurring charges</string>
   <string name="need_download">"同期中..."</string>
+  <string name="net_sms_subscribed">正常に登録されました</string>
+  <string name="net_sms_unsubscribe">正常に登録が解除されました</string>
   <string name="network_error_description">ネットワークエラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="networking_allow_continue">許可する</string>
   <string name="networking_allow_desc">Mi Messageが正常に動作するには、インターネットへの接続が必要です。無料のテキストや音声サービス、不明な番号の識別、スパムのフィルタリング、その他の機能を有効にするため、Mi Messageはイエローページを使用する必要があります。イエローページにインターネット接続、現在地情報の取得、連絡先の読み取りを許可しますか？</string>
@@ -410,6 +425,7 @@
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
   <string name="over_max_mms_size">MMSが大きすぎます。</string>
   <string name="overwrite_edited_content">"今編集した内容が上書きされます。"</string>
+  <string name="packages_select_sim_cards_title">SIMカードを選択</string>
   <string name="phrase_confirm_delete_message">この定型文は削除されます。</string>
   <string name="phrase_empty">定型文がありません。</string>
   <string name="phrase_from">From %1s</string>
@@ -557,6 +573,9 @@
   <string name="remove_slide">スライドを削除</string>
   <string name="remove_text">テキストを削除</string>
   <string name="remove_video">動画を削除</string>
+  <string name="repayment_network_error">Something went wrong with your network</string>
+  <string name="repayment_title">Repayment</string>
+  <string name="repayment_way">Repayment method</string>
   <string name="replace">変更</string>
   <string name="replace_image">画像を変更</string>
   <string name="reply_button_msg">返信</string>
@@ -612,8 +631,10 @@
   <string name="security_alert_dialog_title">レポート</string>
   <string name="select_audio">音声の選択</string>
   <string name="select_bottom_text">下部のテキスト</string>
-  <string name="select_copy_text">メッセージテキストを選択してコピー</string>
-  <string name="select_different_media">"別の%1$sを選択してください。"</string>
+  <string name="select_different_attachment">別の添付ファイルを選択してください。</string>
+  <string name="select_different_audio">別の音声を選択してください。</string>
+  <string name="select_different_picture">別の画像を選択してください。</string>
+  <string name="select_different_video">別の動画を選択してください。</string>
   <string name="select_link_title">操作の選択</string>
   <string name="select_local_audio">音声を選択</string>
   <string name="select_local_video">動画を選択</string>
@@ -645,6 +666,8 @@
   <string name="show_all_messages">すべてのメッセージを表示</string>
   <string name="show_delivery_status">配送状況を表示</string>
   <string name="show_sender">送信者情報を表示</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sim_card1">"SIMカード 1"</string>
   <string name="sim_card2">"SIMカード 2"</string>
   <string name="sim_card_cloud">%s (Miメッセージ)</string>
@@ -659,6 +682,8 @@
   <string name="slide_show_part">パート %1$d/%2$d</string>
   <string name="slide_up_to_cancel">"上にスライドしてキャンセル"</string>
   <string name="slideshow_activity">スライドショー</string>
+  <string name="smart_messages_network_allow_message">Miメッセージのサービスが正常に動作するには、インターネットへの接続が必要です。許可しますか？</string>
+  <string name="smart_messages_network_allow_title">インターネット接続が必要です</string>
   <string name="sms_card_partner_label">"SMSカードパートナー: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">"本文:"</string>
@@ -703,6 +728,8 @@
   <string name="storage_unavailable">利用可能な容量がありません</string>
   <string name="subject_hint">件名</string>
   <string name="subject_label">"件名: "</string>
+  <string name="subscribe">登録</string>
+  <string name="summary_pref_cm_smart_sms">カードのテンプレート、SMSサービス番号、その他。</string>
   <string name="switch_to_editor">Editor mode</string>
   <string name="switch_to_menu">Menu mode</string>
   <string name="text_in_popup_saved_to_clipboard">クリップボードにコピーしました</string>
@@ -712,6 +739,7 @@
   <string name="title_allow_network_access">情報を自動的に更新</string>
   <string name="title_collapse_sp_messages">キャリアメッセージをまとめる</string>
   <string name="title_hide_verification_code">Auto hide OTP on Lock screen</string>
+  <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="title_show_blocked_messages">ブロックしたSMSを表示</string>
   <string name="title_show_list_avatar">プロフィール写真を表示</string>
   <string name="title_show_photo_word">連絡先に写真を割り当てる</string>
@@ -745,6 +773,7 @@
   <string name="unsticked_conversation">スレッドのピンは既に外されています</string>
   <string name="unsubscribe">Unsubscribe</string>
   <string name="unsupported_media_format">"対応していない%1$s形式です"</string>
+  <string name="updating">更新中…</string>
   <string name="url_fraud_dangerous_alert">"アクセスしようとしているウェブサイトは危険かもしれません。お使いの携帯端末とデータに損傷を与える可能性があります。とにかくアクセスしますか？\n%s"</string>
   <string name="url_fraud_risky_alert">"アクセスしようとしているウェブサイト %s は危険かもしれません。とにかくアクセスしますか？"</string>
   <string name="url_fraud_title">偽装されたウェブサイトの可能性があります</string>

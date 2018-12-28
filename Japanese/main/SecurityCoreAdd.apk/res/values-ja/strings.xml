@@ -68,7 +68,7 @@ to be able to view them anytime"</string>
   <string name="create_work_space">"Work spaceを作成"</string>
   <string name="creating_app_icon">"アイコンを作成中…"</string>
   <string name="cta_declaration_agree_and_continue">同意</string>
-  <string name="cta_declaration_message_format" formatted="false">Enterprise modeを使用するには、&lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font>に同意する必要があります。Enterprise modeを有効にするには、お使いの端末をインターネットに接続する必要があります。同意しますか？</string>
+  <string name="cta_declaration_message_format" formatted="false">Enterprise modeを使用するには、&lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font>に同意する必要があります。Enterprise modeを有効にするには、お使いの端末をインターネットに接続する必要があります。同意しますか？</string>
   <string name="cta_declaration_title">利用規約</string>
   <string name="current_space">Current space</string>
   <string name="dataSafe">"Second spaceを使用するのは、二つの端末を持つようなものです。"</string>
