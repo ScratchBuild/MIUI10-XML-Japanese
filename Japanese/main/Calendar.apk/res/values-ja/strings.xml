@@ -326,6 +326,7 @@
   <string name="no_visiable_calendar_message">"カレンダーのアカウントを追加する必要があります。続行するには[アカウントの選択]をタップします。"</string>
   <string name="no_visiable_calendar_select_account">"アカウントを追加"</string>
   <string name="no_visiable_calendar_title">"カレンダーアカウントを追加"</string>
+  <string name="notification_channel_name">カレンダーの通知</string>
   <string name="online_reminder_header_text">"通知"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>
@@ -393,6 +394,7 @@
   <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;予定;ミーティング;リマインダー;休暇;祝日;誕生日;2017;2018;Spring Festival;New Year's Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">ミーティング;リマインダー;予定</string>
   <string name="search_calendar_settings">カレンダー;予定;リマインダー</string>
+  <string name="search_menu_title">検索</string>
   <string name="select_date">"日付を選択"</string>
   <string name="setting_about_calendar_version">カレンダーバージョン:</string>
   <string name="setting_about_miui_version">MIUIバージョン:</string>

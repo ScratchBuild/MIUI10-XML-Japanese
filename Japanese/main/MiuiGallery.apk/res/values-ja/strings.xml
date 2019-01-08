@@ -224,6 +224,9 @@
   <string name="change_to_face_mode">"顔だけ表示する"</string>
   <string name="change_to_photo_mode">Show full previews</string>
   <string name="change_to_visible">"このユーザーを復元しますか？"</string>
+  <string name="channel_default_name">新機能</string>
+  <string name="channel_low_name">新着メッセージ</string>
+  <string name="channel_min_name">アプリの通知</string>
   <string name="checked">選択済み</string>
   <string name="checked_something">%sを選択済み</string>
   <string name="choose_baby_sexy">"性別"</string>
@@ -666,6 +669,7 @@ Take more photos of your friends!"</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
   <string name="more_face_album_name">More people</string>
+  <string name="motion_photo_play">再生</string>
   <string name="move_to_other_albums_tip">"このアルバムをその他のアルバムに移動しますか？"</string>
   <string name="movie_add_disable">You can select up to 20 photos</string>
   <string name="movie_audio_custom">Local</string>
@@ -678,6 +682,10 @@ Take more photos of your friends!"</string>
   <string name="movie_audio_sport">Techno</string>
   <string name="movie_cancel_download">キャンセル</string>
   <string name="movie_change_to_long_video">You selected more than 5 photos. Switched to longer video.</string>
+  <string name="movie_content_describe_add">写真を追加</string>
+  <string name="movie_content_describe_delete">写真を削除</string>
+  <string name="movie_content_describe_pause">一時停止</string>
+  <string name="movie_content_describe_play">再生</string>
   <string name="movie_delete_disable">You need at least 3 photos to create a clip.</string>
   <string name="movie_download">ダウンロード</string>
   <string name="movie_download_failed">ダウンロードできませんでした</string>

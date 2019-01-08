@@ -84,4 +84,5 @@
   <string name="unchecked">選択していません</string>
   <string name="using_record_confirm_cancel">拒否</string>
   <string name="using_record_confirm_ok">許可</string>
+  <string name="warning_recording_when_a2dp_connect">Bluetoothヘッドセット使用中は、お使いの端末ではシステム音声の録音をサポートしていません。</string>
 </resources>

@@ -236,10 +236,14 @@
   <string name="block_record_notification_title">Notifications hidden</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
-  <string name="bluetooth_connected">接続</string>
-  <string name="bluetooth_connected_no_a2dp">接続済み（メディアを除く）</string>
+  <string name="bluetooth_connected">接続済み: %1$s</string>
+  <string name="bluetooth_connected_battery_level">接続済み | 電池残量 %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">接続済み（メディアなし）</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">接続済み（メディアなし） | 電池残量 %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">接続済み（電話を除く）</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアを除く）</string>
+  <string name="bluetooth_connected_no_headset_battery_level">接続済み（電話なし） | 電池残量 %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアなし）</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">接続済み（電話/メディアなし） | 電池残量 %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">接続済み（メッセージへのアクセスなし）</string>
   <string name="bluetooth_connecting">接続中…</string>
   <string name="bluetooth_disable_absolute_volume">絶対音量を無効にする</string>
@@ -406,6 +410,7 @@
   <string name="description_direction_up">上にスライドして%sを行います。</string>
   <string name="description_image_button_answer">応答</string>
   <string name="description_image_button_reject">拒否</string>
+  <string name="description_image_icon_sim_card">SIMカード %1$d</string>
   <string name="description_target_search">検索</string>
   <string name="dessert_case">デザートケース</string>
   <string name="dev_logpersist_clear_warning_message">Google が常駐ロガーで監視していない場合、端末上のログデータを消去する必要があります。</string>
@@ -1437,6 +1442,7 @@ EEEE"</string>
   <string name="stream_system">システム</string>
   <string name="stream_system_enforced">System enforced</string>
   <string name="stream_tts">Transmitted Through Speaker</string>
+  <string name="stream_voice_assist">音声アシスト</string>
   <string name="stream_voice_call">発信</string>
   <string name="strict_mode">厳格モードを有効にする</string>
   <string name="strict_mode_summary">メインスレッドの処理が長引く場合は画面を点滅させる</string>

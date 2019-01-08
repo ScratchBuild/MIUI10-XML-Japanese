@@ -252,6 +252,7 @@
   <string name="contactsGroupsLabel">グループ</string>
   <string name="contactsJoinedMessage">"連絡先を統合しました"</string>
   <string name="contactsList">"連絡先"</string>
+  <string name="contacts_default_notification_channel">通知</string>
   <string name="contacts_hybrid_activity_label">"連絡先を復元"</string>
   <string name="contacts_setting_title">連絡先設定</string>
   <string name="contacts_unavailable_add_account">"アカウントにログイン"</string>
@@ -916,7 +917,6 @@ To add a contact to your list of favorites:
   <string name="quickcontact_missing_app">"この操作を行うアプリが見つかりませんでした。"</string>
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">"連絡先の統合をキャンセル"</string>
-  <string name="rcs_app_name">"ミニアプリ"</string>
   <string name="readOnlyContactDeleteConfirmation">"この連絡先には、複数のアカウント情報が含まれています。読み取り専用アカウントの情報を連絡先リストで非表示にすることはできますが、削除はできません。"</string>
   <string name="readOnlyContactWarning">"読み取り専用アカウントの連絡先は削除できません。ただし、連絡先リストで非表示にすることができます。"</string>
   <string name="readingSimContacts">"SIMカードを読み込み中…"</string>

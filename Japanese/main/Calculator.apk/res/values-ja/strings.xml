@@ -75,7 +75,9 @@
   <string name="item_title_weight_conversion">重量</string>
   <string name="leftParenDesc">左丸括弧</string>
   <string name="lgDesc">対数</string>
+  <string name="license_host_unreachable">ネットワークに接続できませんでした。ネットワーク接続を確認して、もう一度やり直してください。</string>
   <string name="lnDesc">自然対数</string>
+  <string name="loading">読み込み中…</string>
   <string name="loading_fail_message_no_network">"Couldn't connect to the network. Tap here to try again."</string>
   <string name="loading_fail_refresh">Refresh</string>
   <string name="loading_message">Loading app…</string>
@@ -134,6 +136,7 @@
   <string name="negDesc">Switch between temperatures below and above zero</string>
   <string name="network_confirm_content">"通貨変換、税金や住宅ローン計算が正常に動作するには、インターネットへの接続と位置情報サービスへのアクセスが必要です。"</string>
   <string name="network_confirm_title">"ネットワーク接続が必要"</string>
+  <string name="none">None</string>
   <string name="not_supported_due_to_language">この機能は中国語でのみ利用可能です</string>
   <string name="percentDesc">パーセント</string>
   <string name="piDesc">円周率</string>
@@ -208,7 +211,7 @@
   <string name="tax_location">Location</string>
   <string name="tax_medical">医療</string>
   <string name="tax_param_error">正しい保険料を入力してください</string>
-  <string name="tax_rate_provider">Data provided by hexun.com and East Money</string>
+  <string name="tax_rate_provider">Calculated according to the new tax regulations. Data is provided by hexun.com and East Money.</string>
   <string name="tax_result_real_get">税抜</string>
   <string name="tax_social_insurance">社会保険</string>
   <string name="tax_thershold_foreign">%s (中国大陸以外)</string>
@@ -393,6 +396,7 @@
   <string name="unit_data_display_weight_us.cwt">ショートハンドレッドウェイト</string>
   <string name="unit_year">Y</string>
   <string name="unit_year_format">%s年</string>
+  <string name="updating">電卓を更新中…</string>
   <string name="voiceDesc">音声コントロール</string>
   <string name="wf_word_figure">財務諸表</string>
   <string name="word_figure_guide_text">Press and hold the text to convert between cases.</string>

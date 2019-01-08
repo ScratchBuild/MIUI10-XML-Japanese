@@ -216,6 +216,9 @@
         <item quantity="other">%s分</item>
         <item quantity="one">1分</item>
     </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d件を追加しました</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d 個の制限</item>
         <item quantity="one">1 個の制限</item>

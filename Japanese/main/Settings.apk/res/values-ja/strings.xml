@@ -218,6 +218,7 @@
   <string name="android_version_summary">Android %1$s に更新済み</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="anti_spam">ブロックリスト</string>
+  <string name="aod_clock_style_title">時計のスタイル</string>
   <string name="aod_close_color_inversion">この機能は色反転と同時に使用することはできません。最初に色反転をオフにしてください。</string>
   <string name="aod_got_it">OK</string>
   <string name="aod_mode_summary">画面が消灯しているときは、常に時間、日付、メッセージを表示する</string>
@@ -707,13 +708,13 @@
   <string name="bluetooth_connect_failed">接続できませんでした。もう一度お試しください。</string>
   <string name="bluetooth_connect_specific_profiles_title">接続先...</string>
   <string name="bluetooth_connected">接続済み: %1$s</string>
-  <string name="bluetooth_connected_battery_level">接続済み、電池残量 %1$s: %2$s</string>
-  <string name="bluetooth_connected_multiple_devices_summary">複数のデバイスに接続しました</string>
-  <string name="bluetooth_connected_no_a2dp">接続済み（メディアを除く）</string>
+  <string name="bluetooth_connected_battery_level">接続済み | 電池残量 %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">接続済み（メディアなし）</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">接続済み（メディアなし） | 電池残量 %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">接続済み（電話を除く）</string>
-  <string name="bluetooth_connected_no_headset_battery_level">接続済み（電話なし）、電池残量 %1$s: %2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアを除く）</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">接続済み（電話、メディアなし）、電池残量 %1$s: %2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">接続済み（電話なし） | 電池残量 %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">接続済み（電話/メディアなし）</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">接続済み（電話/メディアなし） | 電池残量 %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">接続済み（メッセージへのアクセスなし）</string>
   <string name="bluetooth_connecting">接続中...</string>
   <string name="bluetooth_connecting_error_message">%1$sに接続できませんでした。</string>
@@ -1991,6 +1992,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="eq_preset_hint">エフェクト名</string>
   <string name="eq_preset_rename">名前を変更</string>
   <string name="eq_preset_select">プリセットを選択</string>
+  <string name="eq_return">戻る</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">イコライザー</string>
   <string name="erase_application">アプリを消去する</string>
@@ -3097,7 +3099,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_sos_contacts_add">緊急連絡先</string>
   <string name="miui_sos_contacts_category">緊急連絡先</string>
   <string name="miui_sos_emergency_contacts">緊急連絡先</string>
-  <string name="miui_sos_emergency_contacts_quantity">%d件を追加しました</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) は既に送信済みです</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s は既に送信済みです</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) へSOSメッセージの送信に失敗しました。</string>
@@ -3588,7 +3589,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">テーマ</string>
   <string name="page_layout_confirm_message">変更を適用するために再起動する必要があります。約1分かかります。</string>
+  <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
+  <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
   <string name="page_layout_confirm_title">ディスプレイの設定を変更</string>
+  <string name="page_layout_confirm_title_enlarge">Bigger items</string>
+  <string name="page_layout_confirm_title_narrow">Smaller items</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -4188,6 +4193,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="screen_on_proximity_sensor_summary">ポケットに入れたらタッチジェスチャーをロックする</string>
   <string name="screen_on_proximity_sensor_title">ポケットモード</string>
   <string name="screen_optimize">コントラスト</string>
+  <string name="screen_optimize_disabled">読書モードを使用中はコントラストの調整はできません</string>
   <string name="screen_paper_mode_adjust_level">調整</string>
   <string name="screen_paper_mode_apps_loading">読み込み中…</string>
   <string name="screen_paper_mode_apps_title">読書モードを使用する</string>
@@ -4940,6 +4946,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_notification_use_app_icon">通知にアプリアイコンを使用</string>
   <string name="status_bar_settings_notification_vibrate">バイブレーション</string>
   <string name="status_bar_settings_peek_notification_icon">着信通知のアイコンを表示</string>
+  <string name="status_bar_settings_qs_layout">クイック設定のレイアウト</string>
   <string name="status_bar_settings_show_carrier">キャリア名を表示</string>
   <string name="status_bar_settings_show_carrier_summary">この機能がオフの場合には、キャリア名がロック画面と通知領域に表示されます</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">端末のロック時に、キャリア名を表示</string>
@@ -5210,6 +5217,7 @@ PINが正しくない可能性があります。"</string>
   <string name="switch_on_text">ON</string>
   <string name="switch_screen_button_order">ボタンの入れ替え</string>
   <string name="switch_screen_button_order_desc">戻るとメニューボタンを入れ替える</string>
+  <string name="switch_select_to_speak_on">Select to Speak</string>
   <string name="symbols_not_allowed_for_password">パスワードに記号は使用出来ません</string>
   <string name="sync_active">同期有効</string>
   <string name="sync_automatically">データの自動更新</string>
