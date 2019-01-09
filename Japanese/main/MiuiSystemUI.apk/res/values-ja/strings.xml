@@ -1309,8 +1309,8 @@
   <string name="saved_network">%1$sで保存</string>
   <string name="screen_button_notification_text">表示をさせるにはホームボタンと電源ボタンを同時に押してください。</string>
   <string name="screen_button_notification_title">ナビゲーションボタンが非表示になりました</string>
-  <string name="screen_pinning_description">固定を解除するまで画面が常に表示されるようになります。[戻る] と [最近] を同時に押し続けると固定が解除されます。</string>
-  <string name="screen_pinning_description_accessible">固定を解除するまで画面が常に表示されるようになります。[最近] を押し続けると固定が解除されます。</string>
+  <string name="screen_pinning_description">固定を解除するまで画面が常に表示されるようになります。[ホーム] と [電源ボタン] を同時に押し続けると固定が解除されます。</string>
+  <string name="screen_pinning_description_accessible">固定を解除するまで画面が常に表示されるようになります。[ホーム] [電源ボタン] を同時に押し続けると固定が解除されます。</string>
   <string name="screen_pinning_negative">いいえ</string>
   <string name="screen_pinning_positive">はい</string>
   <string name="screen_pinning_title">画面が固定されました</string>
