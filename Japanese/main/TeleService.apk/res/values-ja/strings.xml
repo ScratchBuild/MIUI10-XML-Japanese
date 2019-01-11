@@ -831,11 +831,11 @@
   <string name="preferred_network_mode_gsm_wcdma_summary">優先ネットワークモード: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">優先ネットワークモード: CDMA+LTE/EV-DO</string>
   <string name="preferred_network_mode_lte_cdma_summary">優先ネットワークモード: LTE/CDMA</string>
-  <string name="preferred_network_mode_lte_choice">LTE</string>
+  <string name="preferred_network_mode_lte_choice">LTE only</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">優先ネットワークモード: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">優先ネットワークモード: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">優先ネットワークモード: LTE</string>
-  <string name="preferred_network_mode_lte_wcdma_choice">LTE / WCDMA</string>
+  <string name="preferred_network_mode_lte_wcdma_choice">WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_wcdma_summary">優先ネットワークモード: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">ネットワーク動作モードの変更</string>
   <string name="preferred_network_mode_td_scdma_gsm_choice">TD-SCDMA/GSM</string>
