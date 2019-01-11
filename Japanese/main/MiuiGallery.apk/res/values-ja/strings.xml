@@ -233,6 +233,7 @@
   <string name="choose_owner_relation">Relationship</string>
   <string name="choose_people">"Choose a person's album"</string>
   <string name="choose_some_people">Choose album with %s</string>
+  <string name="cleaner_empty_value_description">Everything looks good</string>
   <string name="cleaner_photo_pick_delete_selected">"選択した写真を削除"</string>
   <string name="cleaner_scan_description">"アイテムの最適化を行うと、端末のストレージが解放されます"</string>
   <string name="cleaner_scan_exit_dialog_message">"停止すると次回も初めからやり直す必要があります。今すぐスキャンを停止しますか？"</string>
