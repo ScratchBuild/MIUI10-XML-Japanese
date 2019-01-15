@@ -172,7 +172,7 @@
   <string name="menu_copy">"コピー"</string>
   <string name="message_label">"メッセージ"</string>
   <string name="michat_app_name">"オンラインサポート"</string>
-  <string name="michat_artificial_customer_phone_dial_error">"If you can't call the 400 hotline, dial %1$s using a different phone"</string>
+  <string name="michat_artificial_customer_phone_dial_error">"400 ホットラインに電話をかけられない場合は、別の電話を使って %1$s に発信してください"</string>
   <string name="michat_artificial_customer_text">"サポート担当者"</string>
   <string name="michat_attach_image">"画像"</string>
   <string name="michat_attach_smiley">"絵文字"</string>
@@ -214,7 +214,7 @@
   <string name="michat_msg_status_send">"送信"</string>
   <string name="michat_msg_status_sendding">"送信中…"</string>
   <string name="michat_msg_too_long_info">"あなたは%1$d文字入力済みです。%2$d文字まで入力することができます。"</string>
-  <string name="michat_net_error_info">No network connection, tap here to go to Settings</string>
+  <string name="michat_net_error_info">"ネットワークに接続できません、[設定]を開くにはここをタップ"</string>
   <string name="michat_network_unavaliable">"情報を取得できませんでした、ネットワーク接続を確認してください"</string>
   <string name="michat_no_good_message_title">"This can't solve my problem."</string>
   <string name="michat_product_click_text">"表示"</string>
@@ -228,7 +228,7 @@
   <string name="michat_transfer_message">Looking for a person to help you…</string>
   <string name="michat_try_again">"再試行"</string>
   <string name="michat_type_list_null">"情報を取得できませんでした、後ほど再試行してください"</string>
-  <string name="michat_type_picture">Image</string>
+  <string name="michat_type_picture">"画像"</string>
   <string name="michat_user_quit">"チャットから退室しました"</string>
   <string name="michat_wait_for_a_moment">"少々お待ちください、すぐ助けに向かいます！"</string>
   <string name="michat_webview_title">"詳細を表示"</string>

@@ -85,8 +85,8 @@
         <item quantity="one">残り %d 日</item>
     </plurals>
     <plurals name="connected_devices_number">
-        <item quantity="other">%d devices</item>
-        <item quantity="one">%d device</item>
+        <item quantity="other">%d 個のデバイス</item>
+        <item quantity="one">%d 個のデバイス</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">データセーバーが ON のときのデータ無制限使用を %1$d 個のアプリに許可しました</item>
