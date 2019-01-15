@@ -359,7 +359,7 @@
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
   <string name="battery_capacity_title">"電池容量"</string>
-  <string name="battery_charge_estimating">"計算中…"</string>
+  <string name="battery_charge_estimating">"計算中"</string>
   <string name="battery_charge_full">"充電完了"</string>
   <string name="battery_charging_prompt">"充電中"</string>
   <string name="battery_desc_apps">アプリの電池使用量</string>
@@ -799,7 +799,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="firewall_temp_rule_reason">%2$s restricted internet connection for %1$s​</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"The installed app won't be able to connect to the internet using WLAN when this switch is off.​"</string>
-  <string name="first_aid_activity_title">First aid</string>
+  <string name="first_aid_activity_title">問題を解決</string>
   <string name="first_aid_card_airplane_button">"オフにする"</string>
   <string name="first_aid_card_airplane_summary">"電話の発信やネットワークへの接続ができるよう、機内モードをオフにします。"</string>
   <string name="first_aid_card_airplane_title">"電話の発信や、ネットワークに接続できません"</string>
@@ -834,7 +834,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="first_aid_item4_content">"バッテリー"</string>
   <string name="first_aid_item5_content">"その他の問題"</string>
   <string name="first_aid_result_feedback_button">"送信"</string>
-  <string name="first_aid_result_feedback_summary">"First aid scan couldn't find any problems. However, I spotted some."</string>
+  <string name="first_aid_result_feedback_summary">"Couldn't find any problems. However, I spotted some."</string>
   <string name="first_aid_result_feedback_title">"フィードバック"</string>
   <string name="first_aid_result_summary_normal">Everything looks good!</string>
   <string name="first_aid_result_summary_not_finished">"Scan wasn't completed. Some risks may be undetected."</string>
@@ -2011,7 +2011,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="summary_do_not_disturb">"夜間モードを使用しています。"</string>
   <string name="summary_eye_shield">"元の設定に戻すには、読書モードをオフにします。"</string>
   <string name="summary_find_device">Locate and lock your device from anywhere</string>
-  <string name="summary_first_aid_kit">"First aid kitを使用して問題を修復します。"</string>
+  <string name="summary_first_aid_kit">お使いの端末上の問題を今すぐ解決します</string>
   <string name="summary_flow_notification">"月間データ使用量の統計を通知シェードに表示する"</string>
   <string name="summary_flow_purchase">"Looks like there isn't much data left. Buy data to stay connected."</string>
   <string name="summary_flow_verify_failed">"追加料金を避けるため、データ使用量を自動的に調整する"</string>
@@ -2171,7 +2171,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="title_do_not_disturb">"着信音が鳴りませんか？"</string>
   <string name="title_eye_shield">"画面の色が正しく見えませんか？"</string>
   <string name="title_find_device">Find device</string>
-  <string name="title_first_aid_kit">First aid</string>
+  <string name="title_first_aid_kit">問題を解決</string>
   <string name="title_flow_notification">"モバイルデータの通知"</string>
   <string name="title_flow_purchase">"モバイルデータを購入"</string>
   <string name="title_flow_rank">"モバイルデータ使用量"</string>

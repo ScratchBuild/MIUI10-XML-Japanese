@@ -396,6 +396,7 @@
   <string name="search_calendar_settings">カレンダー;予定;リマインダー</string>
   <string name="search_menu_title">検索</string>
   <string name="select_date">"日付を選択"</string>
+  <string name="select_today_tip">今日</string>
   <string name="setting_about_calendar_version">カレンダーバージョン:</string>
   <string name="setting_about_miui_version">MIUIバージョン:</string>
   <string name="setting_about_summary">バージョン:</string>
@@ -448,6 +449,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="timezone_label">"タイムゾーン"</string>
   <string name="today">"今日"</string>
   <string name="today_at_time_fmt">"今日の%s"</string>
+  <string name="today_icon_voice_contentdescription">今日に戻る</string>
   <string name="today_no_events">"予定なし"</string>
   <string name="tomorrow">"明日"</string>
   <string name="tomorrow_at_time_fmt">"明日の%s"</string>
@@ -462,7 +464,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="train_event_choose_arrive_station">行き先を選択</string>
   <string name="train_event_delete_successfully">火车行程删除成功</string>
   <string name="train_event_depart">%1$sに出発</string>
-  <string name="train_event_disclaimer">"Disclaimer: All information about trains and services is provided by the railroad company. You can contact the railroad comany's customer support if you have any questions. Train information is provided for your reference only. Refer to the official website of the railroad company for the latest updates and adjustments."</string>
+  <string name="train_event_disclaimer">"Disclaimer: All information about trains and services is provided by the railroad company. You can contact the railroad company's customer support if you have any questions. Train information is provided for your reference only. Refer to the official website of the railroad company for the latest updates and adjustments."</string>
   <string name="train_event_error_train_info">チケットを確認できませんでした</string>
   <string name="train_event_more_info">スケジューリング、Wi-Fi、その他。</string>
   <string name="train_event_reminder">Remind %1$s in advance</string>
