@@ -220,6 +220,7 @@
   <string name="toolbar_voice_description">"音声"</string>
   <string name="trash_folder_name">"ゴミ箱"</string>
   <string name="trash_folder_reminder">"削除したメモは30日後にゴミ箱から完全に削除されます。"</string>
+  <string name="unclassfied_folder_name">未分類</string>
   <string name="undo">"元に戻す"</string>
   <string name="unknown_source">"不明なソース"</string>
   <string name="widget_content_loading">"読み込み中…"</string>
