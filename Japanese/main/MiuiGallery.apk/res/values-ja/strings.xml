@@ -88,8 +88,8 @@
   <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
   <string name="alert_secret_album_message_lower_case">  swipe down in Albums to view</string>
   <string name="alert_secret_album_title">How to view hidden album</string>
-  <string name="alert_selection_description">AIは類似した写真の中から最も良い写真に星印を付けます。</string>
-  <string name="alert_selection_title">AIによる選択</string>
+  <string name="alert_selection_description">MIUIは類似の写真を分析し、最も写りの良い写真に印を付けます。</string>
+  <string name="alert_selection_title">ベストショットを選択</string>
   <string name="all_faces">Photos with this person</string>
   <string name="all_items_synced">All albums have been backed up to Mi Cloud</string>
   <string name="all_video_album_display_name">"すべての動画"</string>
@@ -375,8 +375,8 @@
   <string name="download_type_thumbnail">"高画質"</string>
   <string name="download_type_thumbnail_desc">"高画質"</string>
   <string name="download_type_title">"ダウンロード品質"</string>
-  <string name="download_without_wifi_msg">"モバイルデータ接続を使用してファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
-  <string name="download_without_wifi_title">"データ使用の警告"</string>
+  <string name="download_with_metered_network_msg">元のファイルをダウンロードすると、キャリアによっては追加料金が発生する場合があります。とにかくダウンロードしますか？</string>
+  <string name="download_with_metered_network_title">有料ネットワークに接続しています</string>
   <string name="downloading_dialog_message">"[設定]からダウンロードする画像の品質を選択するか、画像の自動ダウンロードを無効にすることができます。"</string>
   <string name="downloading_title">"Mi Cloudから写真をダウンロード中"</string>
   <string name="edit_baby_info">"赤ちゃんの情報を表示"</string>
@@ -666,6 +666,9 @@ Take more photos of your friends!"</string>
   <string name="merge_album_title">Merge with a person</string>
   <string name="messagelist_sender_self">"自分"</string>
   <string name="micloud_introduce">"写真や動画を自動的にバックアップする (Mi Accountが必要)"</string>
+  <string name="month_view_tip_button_text">OK</string>
+  <string name="month_view_tip_sub_title">Pinch the screen to switch to month view</string>
+  <string name="month_view_tip_title">Month view</string>
   <string name="more">More</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_face">More people who look alike</string>
@@ -693,8 +696,8 @@ Take more photos of your friends!"</string>
   <string name="movie_download_failed_for_notwork">ダウンロードできませんでした。ネットワークに接続して、もう一度お試しください。</string>
   <string name="movie_download_sdk_without_wifi_msg">"Looks like your device isn't connected to Wi-Fi. Download the required plug-in (3MB) using mobile data?"</string>
   <string name="movie_download_sdk_without_wifi_title">モバイルデータを使用してダウンロード</string>
-  <string name="movie_download_without_wifi_msg">モバイルデータ接続を使用してファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。</string>
-  <string name="movie_download_without_wifi_title">データ使用量の警告</string>
+  <string name="movie_download_with_metered_network_msg">元のファイルをダウンロードすると、キャリアによっては追加料金が発生する場合があります。とにかくダウンロードしますか？</string>
+  <string name="movie_download_with_metered_network_title">有料ネットワークに接続しています</string>
   <string name="movie_edit">編集</string>
   <string name="movie_item_name">Clip</string>
   <string name="movie_preview_btn">プレビュー</string>
@@ -818,6 +821,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_crop_reset">"リセット"</string>
   <string name="photo_editor_doodle">"落書き"</string>
   <string name="photo_editor_filter">"フィルタ"</string>
+  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
   <string name="photo_editor_frame">フレーム</string>
   <string name="photo_editor_label">"編集"</string>
   <string name="photo_editor_long_crop">"切り抜き"</string>
@@ -874,6 +878,11 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_talkback_redo">Redo</string>
   <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">"テキスト"</string>
+  <string name="photo_font_cancel_download">キャンセル</string>
+  <string name="photo_font_download">ダウンロード</string>
+  <string name="photo_font_download_failed_for_notwork">ダウンロードできませんでした。ネットワークに接続して、もう一度お試しください。</string>
+  <string name="photo_font_download_without_wifi_msg">モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。</string>
+  <string name="photo_font_download_without_wifi_title">データ使用量の警告</string>
   <string name="photo_movie_module_finish">Loaded Clips successfully</string>
   <string name="photo_movie_module_loading">Loading Clips…</string>
   <string name="photo_movie_select_image_range">Clips can contain 3-20 photos</string>
@@ -1133,8 +1142,6 @@ Take more photos of your friends!"</string>
   <string name="story_cancel_download">キャンセル</string>
   <string name="story_download">ダウンロード</string>
   <string name="story_download_failed_for_notwork">ダウンロードできませんでした。ネットワークに接続してもう一度お試しください。</string>
-  <string name="story_download_without_wifi_msg">モバイルデータ接続を使用してファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。</string>
-  <string name="story_download_without_wifi_title">データ使用量の警告</string>
   <string name="story_option_menu_delete">ストーリーを削除</string>
   <string name="story_option_menu_rename">名前を変更</string>
   <string name="story_photo_downloading">ダウンロード中…</string>
@@ -1178,6 +1185,8 @@ Take more photos of your friends!"</string>
   <string name="text_edit_dialog_style_shadow">"影付き"</string>
   <string name="text_edit_dialog_style_transparent">"不透明度"</string>
   <string name="text_edit_sub_menu_text">"吹き出し"</string>
+  <string name="text_tab_bubble">Bubbles</string>
+  <string name="text_tab_watermark">Watermarks</string>
   <string name="things_album_empty_title">"被写体ごとに写真を並べ替えできます"</string>
   <string name="thumbnail_name">"サムネイル"</string>
   <string name="tip_capture_location">"撮影場所:"</string>
@@ -1240,8 +1249,8 @@ Take more photos of your friends!"</string>
   <string name="video_editor_down_load_now">"ダウンロード"</string>
   <string name="video_editor_download">ダウンロード</string>
   <string name="video_editor_download_failed_for_notwork">ダウンロードできませんでした。ネットワークに接続して再試行してください。</string>
-  <string name="video_editor_download_without_wifi_msg">モバイルデータ接続を使用してファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。</string>
-  <string name="video_editor_download_without_wifi_title">データ使用量の警告</string>
+  <string name="video_editor_download_with_metered_network_msg">元のファイルをダウンロードすると、キャリアによっては追加料金が発生する場合があります。とにかくダウンロードしますか？</string>
+  <string name="video_editor_download_with_metered_network_title">有料ネットワークに接続しています</string>
   <string name="video_editor_encode_video">"動画のエンコード中…"</string>
   <string name="video_editor_encode_video_error">"動画をエンコードできませんでした"</string>
   <string name="video_editor_fatal_error">"不明なエラー"</string>

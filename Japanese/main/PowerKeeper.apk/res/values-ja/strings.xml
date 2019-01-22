@@ -33,8 +33,6 @@
   <string name="config_suggest_suffix_title">"バッテリーセーバー (推奨)"</string>
   <string name="confirm">OK</string>
   <string name="current_cloud_addr_is">Cloud control server address is:</string>
-  <string name="dark_mode">ダークモード</string>
-  <string name="dark_mode_summary">配色を暗い色に切り替えて、バッテリーを節約する</string>
   <string name="empty_title_apps_container_list">"アプリなし"</string>
   <string name="enable_sleep_mode">"夜間のバッテリー使用率を最適化するためスリープモードをオンにする"</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
@@ -54,8 +52,6 @@
   <string name="message_i_know">OK</string>
   <string name="nonui_mode_config_description">"MIUIは端末が使用されていないことを検出するとバッテリーを節約するため、通知を受信しても画面やLEDライトを点灯せず、指紋センサーやタッチ操作を無効にします。"</string>
   <string name="nonui_mode_config_title">"非対話モード"</string>
-  <string name="open_dark_mode">ダークモードに切り替える</string>
-  <string name="open_dark_mode_tip">ダークモードでは、一部の機能の表示品質が低下することがあります。ダークモードを終了すると、通常の状態に戻ります。今すぐダークモードに切り替えますか？</string>
   <string name="performance_category">"パフォーマンス"</string>
   <string name="power_center">バッテリーセーバー</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s runs abnormally</string>

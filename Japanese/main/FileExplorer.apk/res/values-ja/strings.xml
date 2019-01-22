@@ -338,6 +338,7 @@
   <string name="menu_item_sort_name">"名前"</string>
   <string name="menu_item_sort_type">"種類"</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_set_wallpaper">壁紙として設定</string>
   <string name="message_comment_prefix">"Comment: "</string>
   <string name="message_my_received_notification">New message</string>
   <string name="message_my_received_praise">My likes</string>

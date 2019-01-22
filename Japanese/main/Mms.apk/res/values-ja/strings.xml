@@ -44,6 +44,10 @@
   <string name="audio_message_mx_offline">"音声をダウンロードできませんでした。Mi Messageがオフラインか、または利用できません。"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">ネットワーク接続がないかSIMカードがインストールされていません。メッセージを送信したSIMカードをインストールし、ネットワークに接続します。</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Turn on Smart Messaging</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identify Sender ID automatically</string>
+  <string name="auto_identify_btn_title">This message is sent from an unknown number.</string>
+  <string name="auto_identify_confirmation">It might take several minutes to activate this feature.</string>
   <string name="back_to_message_list">メッセージのリストへ戻る</string>
   <string name="batch_adding_progress_message">"追加中..."</string>
   <string name="batch_deleting_message_progress_message">"削除中..."</string>

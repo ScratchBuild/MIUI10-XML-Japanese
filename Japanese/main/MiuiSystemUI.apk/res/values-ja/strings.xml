@@ -186,6 +186,8 @@
   <string name="always_use_accessory">このUSBアクセサリを既定で使用する</string>
   <string name="always_use_device">このUSBデバイスを既定で使用する</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
+  <string name="aod_dual_togother">HH:MM</string>
+  <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="apn_settings_not_available">このユーザーはアクセスポイント名設定を利用できません</string>
   <string name="app_info">アプリ情報</string>
   <string name="app_label">システムUI</string>
@@ -539,6 +541,7 @@
   <string name="face_unlock_down">"頭を上げてください"</string>
   <string name="face_unlock_identify_error">"認識エラーが発生しました"</string>
   <string name="face_unlock_not_found">"認識できませんでした"</string>
+  <string name="face_unlock_not_roi">フレームの内側に顔を収めてください</string>
   <string name="face_unlock_offset_bottom">"端末を少し下にさげてください"</string>
   <string name="face_unlock_offset_left">"右に移動してください"</string>
   <string name="face_unlock_offset_right">"左に移動してください"</string>
@@ -1498,6 +1501,7 @@ EEEE"</string>
   <string name="structure_face_unlock_not_same_person">"You have to complete all the steps yourself. Don't switch places with anyone."</string>
   <string name="structure_face_unlock_really_person">"Looks like you've replaced your face with an object."</string>
   <string name="structure_face_unlock_tof_covered">顔データを追加できませんでした。画面から顔を遠ざけてください。</string>
+  <string name="switch_system_user">First spaceに戻る</string>
   <string name="task_access_locked_app_msg">アプリロックをオン</string>
   <string name="system_ui_tuner">システムUI調整ツール</string>
   <string name="telephony_monitor_switch">Telephony monitor</string>

@@ -140,6 +140,7 @@
   <string name="snooze_duration">"スヌーズ"</string>
   <string name="snooze_duration_title">スヌーズ</string>
   <string name="snooze_duration_value">間隔 (分)</string>
+  <string name="star_wy_alarm_speech">Roy Wangに会う</string>
   <string name="start">"開始"</string>
   <string name="start_up">"開始"</string>
   <string name="stat_repeat_everyday">"毎日"</string>

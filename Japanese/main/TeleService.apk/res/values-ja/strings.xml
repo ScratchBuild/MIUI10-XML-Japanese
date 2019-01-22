@@ -1201,6 +1201,16 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="volte_switch_title">"VoLTEを有効にする"</string>
   <string name="volte_switch_title_ct">VoLTEが有効です</string>
   <string name="volte_tips_when_turn_on">China TelecomのVoLTEサービスは、LTEネットワークのエリア内でのみ提供されます。</string>
+  <string name="vowifi_emergency_notification_channel">WLAN Calling emergency warning</string>
+  <string name="vowifi_emergency_notification_content">Emergency Calls only available in Cellular Coverage.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wifi Calling</string>
+  <string name="vowifi_emergency_warning_check">次回から表示しない。</string>
+  <string name="vowifi_emergency_warning_message">"Emergency calls are not possible via WLAN Calling.
+
+The device switches automatically to a cellular network(2G/3G) to place an emergency call.
+
+Emergency calls are only possible in areas with cellular coverage."</string>
+  <string name="vowifi_emergency_warning_title">ECC calls via WLAN Calling</string>
   <string name="vpn_settings_not_available">このユーザーはVPN設定を利用できません。</string>
   <string name="vvm_unsupported_message_format">Unsupported message type, call %s to listen.</string>
   <string name="wait_for_debugger">デバッガを待機</string>
@@ -1233,6 +1243,8 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="wifi_auth_password_wrong">パスワードが正しくありません</string>
   <string name="wifi_auto_sel_wapi_cert">自動的に選択</string>
   <string name="wifi_call_setting">Wi-Fi通話</string>
+  <string name="wifi_call_setting_vodafone_de">Wi-Fi通話</string>
+  <string name="wifi_call_setting_vodafone_uk">Wi-Fi通話</string>
   <string name="wifi_calling">"Wi-Fi通話"</string>
   <string name="wificall_switch_summary">通話時の接続が不安定な場合、Wi-FiとVoLTEを端末が自動で切り替えます</string>
   <string name="wificall_switch_title">Wi-Fiを使用して通話を行う</string>

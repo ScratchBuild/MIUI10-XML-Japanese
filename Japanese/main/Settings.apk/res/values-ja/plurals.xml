@@ -32,6 +32,9 @@
         <item quantity="other">非常に短い遅延（%1$dミリ秒）</item>
         <item quantity="one">非常に短い遅延（%1$dミリ秒）</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hour %2$s"</item>
+    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">%d 個のアプリで OFF になっています</item>
         <item quantity="one">%d 個のアプリで OFF になっています</item>

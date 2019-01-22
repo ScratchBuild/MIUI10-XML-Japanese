@@ -8,6 +8,9 @@
         <item quantity="other">"履歴を開きました、利用可能なアプリ: %d。削除するには上にスワイプ、ロックするには下にスワイプ。"</item>
         <item quantity="one">"履歴を開きました、利用可能なアプリ: %d。削除するには上にスワイプ、ロックするには下にスワイプ。"</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hour %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Hiding notifications from %1$s &amp; %2$d apps.</item>
         <item quantity="one">Hiding notifications from %1$s &amp; %2$d app.</item>
