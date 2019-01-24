@@ -41,7 +41,7 @@
   <string name="extreme_power_config_mode_desc">"Extteme modeに切り替えると、同期、Bluetooth、GPS、NFC、ダブルタップやボタンライトをオフにし、通知を受信してもロック画面やLEDライトを点灯しません。MIUIはバッテリーの節約にフォーカスします。"</string>
   <string name="extreme_power_config_mode_title">Extreme mode</string>
   <string name="failure">"エラー"</string>
-  <string name="hide_mode_desc"><font color="#000000">アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。</font></string>
+  <string name="hide_mode_desc">アプリがバックグラウンドで実行されると、バッテリー使用量を減らすためにアクティビティが監視されます。</string>
   <string name="hide_system_app">"システムアプリを非表示"</string>
   <string name="high_temp_state">過熱状態</string>
   <string name="high_temp_state_message">お使いの端末が過熱状態です。データ接続、テザリング、GPS、カメラなどの使用が制限されます。</string>

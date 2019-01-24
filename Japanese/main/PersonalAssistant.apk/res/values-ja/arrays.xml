@@ -24,6 +24,11 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="detail_font_size">
+        <item>小</item>
+        <item>標準</item>
+        <item>大</item>
+    </string-array>
     <string-array name="day_time_space">
         <item>夜</item>
         <item>早朝</item>
@@ -32,15 +37,6 @@
         <item>午後</item>
         <item>夕方</item>
         <item>夕べ</item>
-    </string-array>
-    <string-array name="detail_font_size">
-        <item>小</item>
-        <item>標準</item>
-        <item>大</item>
-    </string-array>
-    <string-array name="stock_color_schema">
-        <item>Red - up, green - down</item>
-        <item>Green - up, red - down</item>
     </string-array>
     <string-array name="keyword_recommend_unit">
         <item>要</item>
@@ -61,5 +57,9 @@
     </string-array>
     <string-array name="sms_exclude_category">
         <item>返済</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Red - up, green - down</item>
+        <item>Green - up, red - down</item>
     </string-array>
 </resources>

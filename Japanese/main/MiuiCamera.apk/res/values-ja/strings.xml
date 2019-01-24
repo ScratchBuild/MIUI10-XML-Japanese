@@ -58,8 +58,8 @@
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_stereo_button">Dual camera mode</string>
-  <string name="accessibility_ultra_wide_off">超广角,关闭状态</string>
-  <string name="accessibility_ultra_wide_on">超广角,开启状态</string>
+  <string name="accessibility_ultra_wide_off">Turned off Ultra wide angle mode</string>
+  <string name="accessibility_ultra_wide_on">Turned on Ultra wide angle mode</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -187,8 +187,8 @@ if you rotate your phone"</string>
   <string name="front_camera_hint_text_rotate">Rotate your phone</string>
   <string name="groupshot_mode_use_hint">"Multiple photos will be taken to select the best
 facial expression to synthesize into a photo"</string>
-  <string name="hand_gesture_open_tip">伸出手掌开始倒计时拍照</string>
-  <string name="hand_gesture_tip">手势拍照</string>
+  <string name="hand_gesture_open_tip">Show your palm to the camera to start timer</string>
+  <string name="hand_gesture_tip">Palm shutter</string>
   <string name="hibernate_hint">Tap the screen to wake Camera</string>
   <string name="hine_hht">"In low light, camera will take multiple photos
 and then create a shot with a minimal amount of noise."</string>
@@ -461,8 +461,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Correct distorted objects automatically</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Correct distortion in wide shots</string>
-  <string name="pref_camera_ultra_wide_mode_title">Wide angle mode</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Correct distortion in ultra wide shots</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultra wide angle mode</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh is closed</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">"10分"</string>
@@ -485,7 +485,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">LOW LIGHT</string>
   <string name="pref_camera_zoom_mode_entry_standard">"標準"</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Wide angle</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zsl_entry_off">Off</string>
   <string name="pref_camera_zsl_entry_on">On</string>
   <string name="pref_face_beauty_title">Beautify</string>
@@ -591,12 +591,12 @@ Keep the subject sharp while blurring the background."</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
   <string name="ultra_wide_bokeh_close_tip">全身モードはオフです</string>
   <string name="ultra_wide_bokeh_open_tip">全身モード</string>
-  <string name="ultra_wide_close_tip">超広角モードはオフです</string>
-  <string name="ultra_wide_mode">超広角</string>
+  <string name="ultra_wide_close_tip">Ultra wide angle mode is off</string>
+  <string name="ultra_wide_mode">Ultra wide angle</string>
   <string name="ultra_wide_mode_use_hint_text">"Use this mode to include more of the scene in your photo.
-Wide angle mode comes to help when you can't move farther from the scene."</string>
-  <string name="ultra_wide_open_tip">超広角モード</string>
-  <string name="ultra_wide_recommend_tip_hint">超広角モードを試す</string>
+Ultra wide angle mode comes to help when you can't move farther from the scene."</string>
+  <string name="ultra_wide_open_tip">Ultra wide angle mode</string>
+  <string name="ultra_wide_recommend_tip_hint">Try Ultra wide angle mode</string>
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>
   <string name="user_agreement4">"プライバシーポリシー"</string>

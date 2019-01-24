@@ -3,7 +3,6 @@
   <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
   <string name="access_select">%sを選択しました</string>
   <string name="access_unselect">%sの選択を解除しました</string>
-  <string name="accessibility_title">App vault</string>
   <string name="accessibilty_back_button">戻る</string>
   <string name="accessibilty_move_down">下に移動</string>
   <string name="accessibilty_move_up">上に移動</string>
@@ -764,6 +763,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="favorite_main">履歴</string>
   <string name="favorite_title_limit">40文字以内で入力してください</string>
   <string name="favorite_title_modify">変更</string>
+  <string name="favorite_title_modify_failed">タイトルを変更できませんでした</string>
   <string name="favorite_title_modify_success">正常に変更されました</string>
   <string name="feedback_cancel">キャンセル</string>
   <string name="feedback_ok">フィードバック</string>
@@ -1067,7 +1067,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="miot_device_all_device">すべてのデバイス</string>
   <string name="miot_device_cancel">キャンセル</string>
   <string name="miot_device_card_title">Mi home</string>
-  <string name="miot_device_click_show_detail">スマート家電について詳しく知るにはタップ</string>
+  <string name="miot_device_click_show_detail">。(スマート家電について詳しく知るにはタップ)</string>
   <string name="miot_device_click_show_img">画面を表示するにはタップ</string>
   <string name="miot_device_cta_and"> と </string>
   <string name="miot_device_cta_end">. (</string>
@@ -1088,6 +1088,9 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="miot_device_mijia_uninstall_title">インストールされていません</string>
   <string name="miot_device_network_error">接続していません</string>
   <string name="miot_device_no_recent_frame">表示するにはタップ</string>
+  <string name="miot_device_personal_assistant_eula">ユーザー規約</string>
+  <string name="miot_device_personal_assistant_eula_priv">とApp vaultの</string>
+  <string name="miot_device_personal_assistant_priv">プライバシーポリシー</string>
   <string name="miot_device_show_frame_toast">画像を表示</string>
   <string name="miot_device_shrink_list">折りたたむ</string>
   <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
@@ -1207,13 +1210,15 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="not_installed">未インストール</string>
   <string name="note_name">作成</string>
   <string name="note_parent">メモ</string>
-  <string name="notification_channel_card">カード</string>
   <string name="notification_channel_default">Default</string>
+  <string name="notification_channel_default_description">その他の通知</string>
+  <string name="notification_channel_favorite_description">様々なアプリのお気に入りとして追加されたアイテムに関する通知</string>
+  <string name="notification_channel_payment_description">支払いに関する通知</string>
+  <string name="notification_channel_shopping_description">お気に入りまたはショッピングカートに追加された商品に関する通知</string>
   <string name="notification_content_fail_not_support">"Couldn't get payment info, add the record manually."</string>
   <string name="notification_content_fail_stay_longer">Stay on the payment page for at least 1 second</string>
   <string name="notification_content_success">%2$s CNY payment in %1$s</string>
   <string name="notification_express_app_open">オンにする</string>
-  <string name="notification_express_content">Track orders using App vault</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>
   <string name="notification_title">Added to favorites</string>
   <string name="notification_title_fail">"Couldn't add payment"</string>
@@ -1267,7 +1272,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="payment_pref_source_wechat_summary">Get payment info from WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
   <string name="payment_privacy_dialog_cancel">終了</string>
-  <string name="payment_privacy_dialog_message">"\"My payments\" allows you to collect bills from major payment apps in one place. All yout payment info will be encrypted and securely stored on your device. It won't be synced with Mi Cloud or uploaded to any other server. You can turn off \"My payments\" in the Settings or simply remove this card from App vault to stop using this service. Agree?"</string>
   <string name="payment_privacy_dialog_ok">同意</string>
   <string name="payment_privacy_dialog_title">\"My payments\" Privacy Policy</string>
   <string name="payment_record_add">Add payment</string>
@@ -1511,12 +1515,12 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="stock_web_lable">株価</string>
   <string name="study_parent">Study</string>
   <string name="system_favorite_dialog_link">セキュリティとプライバシー</string>
-  <string name="system_favorite_dialog_message">他のアプリからお気に入りを追加する。</string>
+  <string name="system_favorite_dialog_message">複数のアプリやサービスのお気に入りがApp vaultに追加されます。許可しますか？</string>
   <string name="system_favorite_dialog_negative">終了</string>
   <string name="system_favorite_dialog_positive">許可</string>
   <string name="system_favorite_dialog_title_confirm">Authorization required</string>
   <string name="take_off">Take off</string>
-  <string name="taked_off">已起飞</string>
+  <string name="taked_off">Departed</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>
   <string name="taobao_protocol">淘宝服务协议</string>
   <string name="taxi">タクシー</string>
@@ -1576,7 +1580,6 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="upgrade_later">後でインストール</string>
   <string name="upgrade_log_default">"1.パフォーマンスの最適化；\n2.既知の問題を修正；"</string>
   <string name="upgrade_log_subtitle">（Wi-Fi環境でダウンロード）</string>
-  <string name="upgrade_log_title">App vault update</string>
   <string name="upgrade_now">今すぐインストール</string>
   <string name="upgrade_now_bottom">今すぐインストール</string>
   <string name="uploads_disabled">ファイルをアップロードできません</string>
