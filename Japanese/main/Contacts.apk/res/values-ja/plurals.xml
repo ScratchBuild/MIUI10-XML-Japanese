@@ -99,8 +99,8 @@
         <item quantity="one">%1$d contacts with partially identical info</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">%0$d件の連絡先から結合</item>
-        <item quantity="one">結合する連絡先はありません</item>
+        <item quantity="other">%0$d件の連絡先から統合</item>
+        <item quantity="one">統合する連絡先はありません</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d件のボイスメール</item>

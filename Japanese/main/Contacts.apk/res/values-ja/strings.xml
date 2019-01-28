@@ -350,7 +350,7 @@
   <string name="device_import_progress_toast">"%1$d件の連絡先をインポートしました"</string>
   <string name="device_import_title">"インポート"</string>
   <string name="device_list_title">"端末を選択"</string>
-  <string name="device_other_guide">Other device supports bluetooth?</string>
+  <string name="device_other_guide">他の端末はBluetoothをサポートしていますか？</string>
   <string name="device_other_title">"他の端末からインポート"</string>
   <string name="device_paired_dialog_message">"連絡先を読み込み中…"</string>
   <string name="device_paired_dialog_title">"連絡先を読み込み中…"</string>
