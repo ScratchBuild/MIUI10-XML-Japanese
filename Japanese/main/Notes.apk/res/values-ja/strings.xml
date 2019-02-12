@@ -129,6 +129,10 @@
   <string name="notealert_ok">"却下"</string>
   <string name="notify_alarm_title">Note reminder</string>
   <string name="permdesc_accessNote">"この許可を悪意のあるアプリに利用されると、個人情報にアクセスされる恐れがあります。"</string>
+  <string name="permission_intro_contact">For marking notes taken during calls</string>
+  <string name="permission_intro_microphone">For recording voice notes</string>
+  <string name="permission_intro_phone">For marking notes taken during calls</string>
+  <string name="permission_intro_storage">For saving notes and attachments</string>
   <string name="permlab_accessNote">"メモへのアクセス"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"ジェスチャーを使用してメモを削除する時に確認を行わない"</string>
   <string name="pref_title_cloud_trash_bin">"Mi Cloudで削除されたメモ"</string>

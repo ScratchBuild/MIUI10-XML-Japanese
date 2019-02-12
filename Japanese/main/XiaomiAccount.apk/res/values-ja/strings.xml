@@ -31,9 +31,6 @@
   <string name="account_protection">"アカウントの保護"</string>
   <string name="account_protection_off">Off</string>
   <string name="account_protection_on">On</string>
-  <string name="account_secure_info_pref_title">"アカウント情報"</string>
-  <string name="account_security">"アカウントのセキュリティ"</string>
-  <string name="account_security_info_pref_title">"セキュリティ情報"</string>
   <string name="account_token_expired_msg">"Verification code expired, start over or sign out
  Your account ID: %s"</string>
   <string name="account_token_expired_title">"認証できませんでした"</string>
@@ -43,22 +40,15 @@
   <string name="account_user_base_info">"個人情報"</string>
   <string name="account_user_birthday">"誕生日"</string>
   <string name="account_user_details">"個人情報"</string>
-  <string name="account_user_education">"学歴"</string>
   <string name="account_user_email">"メール"</string>
   <string name="account_user_gender">"性別"</string>
   <string name="account_user_id">Mi Account ID</string>
-  <string name="account_user_income">"収入"</string>
-  <string name="account_user_location">Location</string>
-  <string name="account_user_location_title">Select current location</string>
   <string name="account_user_name">"名前"</string>
   <string name="account_user_name_dialog_title">"ユーザー名を入力"</string>
   <string name="account_user_other_info">"その他の情報"</string>
   <string name="account_user_phone">"電話"</string>
   <string name="account_user_recovery_phone">"予備の電話"</string>
   <string name="account_user_region">"地域"</string>
-  <string name="account_user_using_facebook_avatar">"Facebookのプロフィール写真を使用"</string>
-  <string name="account_user_using_qq_avatar">"QQのプロフィール写真を使用"</string>
-  <string name="account_user_using_weibo_avatar">"Sina Weiboのプロフィール写真を使用"</string>
   <string name="account_xiaomi_service">"サービス"</string>
   <string name="action_add_phone">"電話番号を追加する"</string>
   <string name="action_update_phone">"電話番号を変更する"</string>
@@ -87,21 +77,15 @@
   <string name="completed">"設定完了"</string>
   <string name="confirm_activate_email">Verified</string>
   <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
-  <string name="confirm_delete_app_message">"このアプリを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
-  <string name="confirm_delete_browser_message">"このブラウザを削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
-  <string name="confirm_delete_device_message">"この端末を削除した後、次に自分のMiアカウントにログインするときには、電話番号を確認する必要があります。"</string>
+  <string name="confirm_new_pwd">新しいパスワードを確認</string>
   <string name="confirm_phone_number_dialog_message">"認証コードは%sに送信されます。"</string>
   <string name="confirm_phone_number_dialog_title">"電話番号の確認"</string>
   <string name="confirm_unbind">"このアカウントを切断しますか？"</string>
   <string name="confirm_unbundled_phone_dialog_message">"電話番号 %1$s はMi Account %2$s に関連付けられています。続行するとMi Account %3$s に関連付けられなくなります。持続しますか？"</string>
   <string name="continue_action">"続行"</string>
-  <string name="current_location_title">"現在地"</string>
   <string name="delete_action">"削除"</string>
-  <string name="delete_app">"アプリを削除"</string>
   <string name="delete_bank_card_message">"ログアウト後、Mi Payの銀行カードとNFCカードが削除されます"</string>
   <string name="delete_bank_card_title">"注意"</string>
-  <string name="delete_browser">"ブラウザを削除"</string>
-  <string name="delete_device">"デバイスを削除"</string>
   <string name="delete_device_btn">"削除"</string>
   <string name="delete_device_failed">"デバイスを削除できませんでした"</string>
   <string name="delete_device_notice">"デバイスを削除すると自動的にMi Accountからログアウトされます。このデバイスを使用してアカウントに保存された写真、メッセージ、その他のコンテンツにはアクセスが出来なくなります。"</string>
@@ -111,7 +95,6 @@
   <string name="device_list__header">My devices</string>
   <string name="device_list_title">My devices</string>
   <string name="device_name">"デバイス名"</string>
-  <string name="device_trust_info">"信頼できるデバイス"</string>
   <string name="diagnosis_log_send_failed">ログを送信できませんでした。</string>
   <string name="diagnosis_log_sent_format">"ログを正常に送信しました。
 ID:%s
@@ -142,7 +125,6 @@ ID:%s
   <string name="find_device_request_error">"サーバーエラーが発生しました、後ほど再試行してください"</string>
   <string name="find_device_request_prepare_error">"ステータスを取得できません、後ほど再試行してください"</string>
   <string name="find_device_unknown_error">"端末のステータスを取得できません、しばらくしてからもう一度お試しください"</string>
-  <string name="first_login_time">First sign in attempt: %s</string>
   <string name="for_diagnosis_usage_only">問題の特定にのみ使用されます。</string>
   <string name="get_back_pwd">"パスワードをリセット"</string>
   <string name="get_device_list_failed">"デバイスを取得できません"</string>
@@ -150,20 +132,20 @@ ID:%s
   <string name="get_phone_verifycode_exceed_limit">この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。</string>
   <string name="guest_account_label">Mi Guest Account</string>
   <string name="identity">Identification</string>
+  <string name="inconsistent_pwd">パスワードが一致しません</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+  <string name="input_new_pwd">新しいパスワードを入力</string>
   <string name="io_error_title">"ネットワークを確認"</string>
   <string name="just_a_second">"読み込み中…"</string>
   <string name="loading_micloud_sync_data">"読み込み中…"</string>
-  <string name="local_device">"(このデバイス)"</string>
-  <string name="locating_current_location">"現在地を取得中"</string>
-  <string name="location_service_not_working">"位置情報サービスが動作していません"</string>
   <string name="login_check_find_device">"デバイスのセキュリティ情報を取得中…"</string>
   <string name="login_check_find_device_failed_title">"デバイスのセキュリティ情報を確認できませんでした"</string>
   <string name="login_find_device_bind">"この端末は既存のMi Account ID(%s)に関連付けられています。"</string>
-  <string name="login_guard_prompt">Require phone number verification when you sign in to your Mi Account on an unknown device or in an unknown app for the first time.</string>
   <string name="logout_account">"ログアウト"</string>
   <string name="logout_failed">"ログアウトできません"</string>
   <string name="mi_account_identity_title">Verify your identity</string>
+  <string name="mi_finance">My finances</string>
+  <string name="mi_finance_info">Bonuses for new users</string>
   <string name="mi_vip_info">"権限の表示"</string>
   <string name="mipay">"支払う"</string>
   <string name="mipay_balance">"残高"</string>
@@ -191,7 +173,6 @@ ID:%s
   <string name="oauth_getting_scopes">"アカウントを確認中…"</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> will get following permissions:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">"Mi Accountでログイン"</string>
-  <string name="other_devices_title">"その他のデバイス"</string>
   <string name="passport_Resend">"再送信"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">"メールアドレス/電話番号/Mi Account ID"</string>
@@ -409,7 +390,6 @@ ID:%s
   <string name="passport_wrong_phone_number_format">"入力した電話番号の形式が無効です"</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_voice">"入力したコードが正しくありません"</string>
-  <string name="phone_activated">%s activated</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="push_notification_content">"認証コードを取得"</string>
@@ -419,11 +399,7 @@ ID:%s
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
   <string name="recycle_phone_notification_title">Mi Account security risk</string>
-  <string name="remove_device_success_notice">"このデバイスを信頼できるデバイスから削除すると、ログインするときに確認プロセスを再度実行する必要があります。"</string>
-  <string name="remove_trust_btn">"信頼できるデバイスから削除"</string>
-  <string name="remove_trust_notice">"信頼できるデバイスから削除してログアウトする"</string>
   <string name="removing_account">"ログアウト中…"</string>
-  <string name="rename_current_device">"デバイス名を変更"</string>
   <string name="replace_binded_phone">Replace phone</string>
   <string name="resend_active_email">"再送"</string>
   <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
@@ -432,6 +408,7 @@ ID:%s
   <string name="restart_action">Start over</string>
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">"予備の電話を変更"</string>
+  <string name="same_new_and_old_pwd">現在のパスワードと同じにはできません</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
   <string name="search_account_security">"アカウントのセキュリティ"</string>
   <string name="search_account_security_desc">"アカウントの設定"</string>
@@ -447,13 +424,13 @@ ID:%s
   <string name="search_user_detail_desc">個人情報</string>
   <string name="search_user_detail_path">"設定/Mi Account/個人情報"</string>
   <string name="search_user_detail_top_key_words">個人情報,Change Profile photo,Change Username,Change Nickname,Change Birthday,Change Gender</string>
-  <string name="select_location_title">Select your location</string>
   <string name="send_diagnosis_log">診断ログを送信</string>
   <string name="send_email_activate_message">Verification email sent</string>
   <string name="sending">送信中…</string>
   <string name="service_error">"サービスエラー"</string>
   <string name="set_success">"正常に変更されました"</string>
   <string name="sign_in">"ログイン"</string>
+  <string name="sim_card">SIMカード</string>
   <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure.</string>
   <string name="sim_changed_notification_title">Changed phone number?</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -461,8 +438,6 @@ ID:%s
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
   <string name="talkback_scan_barcode">"QRコードをスキャン"</string>
   <string name="temporary_not_available">この機能はまだ使用できません。</string>
-  <string name="trusted_browsers">Trusted browsers</string>
-  <string name="trusted_browsers_prompt">The browser will no longer be trusted if you delete cookies.</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">"Find deviceをオフにしています…"</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
@@ -470,18 +445,13 @@ ID:%s
 1. If you forgot your password, go to id.mi.com to reset it.
 2. If you can't reset your password or somebody locked your device, go to i.mi.com to unlock it.
 3. Your unlock number: %s"</string>
-  <string name="update_contacts">"連絡先を更新"</string>
   <string name="update_email_address_dialog_message">You need to verify your identity before you can update email.</string>
   <string name="update_email_address_dialog_title">"メールアドレスを更新"</string>
   <string name="update_phone_notice">"セキュリティ設定を変更"</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
-  <string name="updated_nothing">"更新済み"</string>
+  <string name="used_cloud_storage_info">used storage space %s</string>
   <string name="user_avatar_update_title">"プロフィール写真を変更"</string>
   <string name="user_avatar_uploading">"読み込み中…"</string>
-  <string name="verified_apps">Verified apps</string>
-  <string name="verified_devices">Verified devices</string>
-  <string name="verify_phone_prompt">Select phone number to verify</string>
-  <string name="verify_phone_title">Verify phone number</string>
   <string name="vip_account_settings">"VIP設定"</string>
   <string name="vip_settings_info">"VIP設定"</string>
   <string name="xiao_mi_vip">Mi VIP</string>

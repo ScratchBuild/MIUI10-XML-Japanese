@@ -134,6 +134,7 @@
   <string name="favor_list_no_data">ここにアイテムはありません。</string>
   <string name="favor_list_title">お気に入り</string>
   <string name="favor_success">お気に入りに追加しました</string>
+  <string name="feed_article_entrance_about">\"%s\"について</string>
   <string name="find_psw">パスワードを忘れた場合</string>
   <string name="from_migallerylockscreen">From Mi Wallpaper Carousel</string>
   <string name="get_account_no_permission">如需登录，请设置允许访问用户账户权限</string>
@@ -171,6 +172,7 @@
   <string name="mode_des">Wallpaper Carousel is showing recommendations now. Switch to the slideshow to be able to view your custom items.</string>
   <string name="mode_ok">スライドショーに切り替える</string>
   <string name="mode_title">Showing recommendations</string>
+  <string name="more_article">More articles</string>
   <string name="need_open_gallery">Wallpaper Carouselをオンにする</string>
   <string name="nick_name">名前</string>
   <string name="no_long_show">"二度と表示しない"</string>
@@ -248,6 +250,8 @@
   <string name="rv_with_footer_pull_load_more">Pull down to view more</string>
   <string name="save_hdpicture_in_favor">View HD images in \"Favorites\"</string>
   <string name="save_picture_success">正常に保存されました</string>
+  <string name="save_to_album">ギャラリーに保存されました</string>
+  <string name="save_to_album_fail">保存できませんでした</string>
   <string name="scribe_btn_ok">Subscribe</string>
   <string name="scribe_title1">Subscribe to Wallpaper Carousel</string>
   <string name="search">検索</string>
@@ -280,11 +284,14 @@
   <string name="sst_custom_wallpaper_desc">Select images from Gallery and recommendations</string>
   <string name="sst_custom_wallpaper_title">Custom slideshow</string>
   <string name="sst_custom_wallpaper_title2">Slideshow</string>
+  <string name="sst_effect_next_wallpaper">新しい壁紙を設定して変更を適用する</string>
   <string name="sst_favor_desc">お気に入りの壁紙を表示する</string>
   <string name="sst_favor_title">"お気に入り"</string>
   <string name="sst_feedback_title">フィードバック</string>
   <string name="sst_grid_view_select_all">"すべて選択"</string>
   <string name="sst_grid_view_unselect_all">"すべて選択を解除"</string>
+  <string name="sst_lockscreen_show_headline_desc">ロック画面の時計の下に壁紙のタイトルを表示する</string>
+  <string name="sst_lockscreen_show_headline_title">ロック画面にタイトルを表示</string>
   <string name="sst_logo_desc">Fresh wallpapers daily</string>
   <string name="sst_mode_selection">Mode</string>
   <string name="sst_more_subscription">More subscriptions</string>
@@ -332,6 +339,7 @@
   <string name="ticket_hint">認証コード</string>
   <string name="ticket_invalid">入力したコードが間違っています</string>
   <string name="ticket_sign_in">SMSでログイン</string>
+  <string name="time_current">たった今</string>
   <string name="toast_ad_down_tip">アプリをダウンロード中…</string>
   <string name="toast_ad_down_tip2">%sをダウンロード中…</string>
   <string name="toast_load_hd_fail">"Couldn't load original image"</string>

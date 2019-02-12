@@ -1073,12 +1073,6 @@ This feature can be turned off in [Settings]"</string>
   <string name="call_manager_enable_summary">このサービスを使って通話方法を管理することを許可します。</string>
   <string name="call_manager_enable_title">通話マネージャを有効にする</string>
   <string name="call_manager_title">通話マネージャ</string>
-  <string name="call_records_name_1">Debbie Smith</string>
-  <string name="call_records_name_2">Jason Lee</string>
-  <string name="call_records_name_3">Tom Fowles</string>
-  <string name="call_records_summary_1">午前 9:35 | 26秒 | NTT DOCOMO</string>
-  <string name="call_records_summary_2">8月16日 | 1分16秒 | SofBank</string>
-  <string name="call_records_summary_3">8月16日 | 2分24秒 | NTT DOCOMO</string>
   <string name="call_settings_primary_user_only">First space用の通話設定を変更する</string>
   <string name="call_settings_summary">ボイスメール、着信転送、発信者番号など</string>
   <string name="call_settings_title">通話</string>
@@ -1418,7 +1412,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="dark_ui_mode_title">夜間モードの設定</string>
   <string name="dashboard_suggestion_condition_footer_content_description">折りたたむ</string>
   <string name="dangerous_option">High-risk developer options</string>
-  <string name="dangerous_option_hint">%1$s is enabled. Tap to change settings.</string>
+  <string name="dangerous_option_hint">\"%1$s\" is enabled. Tap to change settings.</string>
   <string name="dangerous_option_hint_title">High-risk feature enabled</string>
   <string name="dashboard_title">設定</string>
   <string name="data_limit">データ上限</string>
@@ -2402,6 +2396,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="inactive_app_active_summary">有効。タップすると切り替わります。</string>
   <string name="inactive_app_inactive_summary">無効。タップすると切り替わります。</string>
   <string name="inactive_apps_title">無効なアプリ</string>
+  <string name="incall_show">Profile video for outgoing calls</string>
   <string name="include_app_data_title">アプリのデータを含める</string>
   <string name="incoming_call_breathing_light_color_title">着信LEDの色</string>
   <string name="incoming_call_breathing_light_freq_title">着信LEDを点滅させる</string>
@@ -2596,7 +2591,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="launch_recents">履歴を起動</string>
   <string name="launch_voice_assistant">音声アシスタントを起動</string>
   <string name="launch_wifi_text">詳細を表示</string>
-  <string name="launcher_icon">アイコン</string>
   <string name="launcher_title">ホーム画面と履歴</string>
   <string name="launching_cit">CITを起動しています</string>
   <string name="launching_pho">端末情報を表示します…</string>
@@ -3172,6 +3166,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="model_summary">モデル: %1$s</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>
+  <string name="more_dangerous_option_hint">High-risk features including \"%1$s\" are enabled. Tap to change settings.</string>
   <string name="move_app">移動</string>
   <string name="move_app_failed_dlg_text">アプリを移動できませんでした。%1$s</string>
   <string name="move_app_to_internal">携帯端末に移動</string>
@@ -3273,6 +3268,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="music_unsupport_effect_summary">USBヘッドセットはサポートされていません</string>
   <string name="musicfx_title">サウンド効果</string>
   <string name="mute_music_stream">音楽の再生をミュート</string>
+  <string name="mute_voiceassist_stream">音声アシスタントをミュート</string>
   <string name="mvno_match_data">MVNO値</string>
   <string name="mvno_type">MVNOの種類</string>
   <string name="my_device">My device</string>
@@ -3600,8 +3596,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Playストア</string>
   <string name="page_layout_33">Google</string>
-  <string name="page_layout_34">Phone</string>
-  <string name="page_layout_35">Notes</string>
   <string name="page_layout_4">音楽</string>
   <string name="page_layout_5">動画</string>
   <string name="page_layout_6">アプリ</string>
@@ -3609,11 +3603,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">テーマ</string>
   <string name="page_layout_confirm_message">変更を適用するために再起動する必要があります。約1分かかります。</string>
-  <string name="page_layout_confirm_message_enlarge">Text, images, and icons will be enlarged. Some icons might change their places.</string>
-  <string name="page_layout_confirm_message_narrow">Text, images, and icons will become smaller. Some icons might change their places.</string>
   <string name="page_layout_confirm_title">ディスプレイの設定を変更</string>
-  <string name="page_layout_confirm_title_enlarge">Bigger items</string>
-  <string name="page_layout_confirm_title_narrow">Smaller items</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -5217,7 +5207,6 @@ PINが正しくない可能性があります。"</string>
   <string name="suggestions_summary">他 %1$d 件</string>
   <string name="sum_carrier_select">通信事業者を選択する</string>
   <string name="summary_divider_text">"、 "</string>
-  <string name="summary_font_size_v2">テキスト、画像、アイコンのサイズを調整する</string>
   <string name="super_resolution_access_title">Accessible apps</string>
   <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
   <string name="super_resolution_maintain">超解像度はまだ使用できません。</string>
@@ -5358,12 +5347,10 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="title_font_current">システムフォント</string>
   <string name="title_font_current2">システムフォント</string>
   <string name="title_font_size">フォントサイズ</string>
-  <string name="title_font_v2">フォントとUIエレメント</string>
   <string name="title_hdmi_color_calibration">色補正プリセット</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_layout_current">文字サイズ</string>
   <string name="title_layout_current2">文字サイズ</string>
-  <string name="title_layout_v2">文字サイズとスケーリング</string>
   <string name="to_close">オフにする</string>
   <string name="title_local_resource">ローカルリソース</string>
   <string name="title_system_resource">システムリソース</string>
@@ -6468,7 +6455,6 @@ Looks like credential storage isn't enabled."</string>
   <string name="wizard_back">戻る</string>
   <string name="wizard_finish">終了</string>
   <string name="wizard_next">次へ</string>
-  <string name="words_title">テキスト</string>
   <string name="wlan_to_cellular_hint_title">WLAN-&gt;Cellular hint</string>
   <string name="work_alarm_ringtone_title">デフォルトの仕事用アラーム音</string>
   <string name="work_mode_label">Work モード</string>

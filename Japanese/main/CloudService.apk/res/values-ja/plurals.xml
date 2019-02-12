@@ -56,12 +56,16 @@
         <item quantity="other">"%d hidden photos aren't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
         <item quantity="one">"%d hidden photo isn't synced. Sign out after all items are synced to keep them; otherwise, items will be deleted."</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">%d時間後に同期を再開する</item>
-        <item quantity="one">%d時間後に同期を再開する</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">同期が一時停止しました。%d分後に同期を再開する</item>
+        <item quantity="one">同期が一時停止しました。%d分後に同期を再開する</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">%d分後に同期を再開する</item>
-        <item quantity="one">%d分後に同期を再開する</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%d分前</item>
+        <item quantity="one">%d分前</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">時間前</item>
+        <item quantity="one">時間前</item>
     </plurals>
 </resources>

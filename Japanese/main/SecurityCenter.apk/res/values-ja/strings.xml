@@ -200,9 +200,6 @@
   <string name="app_manager_net_mobile">"モバイルデータ"</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">"いいえ"</string>
-  <string name="app_manager_notify_bar">"バッジ"</string>
-  <string name="app_manager_notify_floating">"フローティング通知"</string>
-  <string name="app_manager_notify_keyguard">"ロック画面"</string>
   <string name="app_manager_open_show_all_apps_immediate">"すべての結果を表示"</string>
   <string name="app_manager_perm">Permissions</string>
   <string name="app_manager_permission_manager_title">Permissions</string>
@@ -808,8 +805,6 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="first_aid_card_consume_power_summary1">"自動起動が5つ以上のアプリで許可されています。バッテリーを節約するために制限します。"</string>
   <string name="first_aid_card_consume_power_summary2">"バッテリーを節約するためにテザリングをオフにします。"</string>
   <string name="first_aid_card_consume_power_title">"バッテリー使用量"</string>
-  <string name="first_aid_card_float_window_button">"制限する"</string>
-  <string name="first_aid_card_float_window_title">"フローティング通知が許可されました"</string>
   <string name="first_aid_card_kadun_button1">"空き領域を確保"</string>
   <string name="first_aid_card_kadun_button2">"制限する"</string>
   <string name="first_aid_card_kadun_button3">"オフにする"</string>

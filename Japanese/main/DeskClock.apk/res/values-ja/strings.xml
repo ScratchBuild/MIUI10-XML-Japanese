@@ -101,9 +101,11 @@
   <string name="module_download_cancel">"結構です"</string>
   <string name="module_download_data_msg">Clock needs to connect to the internet to download audio files for MIUI 10 weather alarms and ambient noise timers. 20MB of your mobile data will be required for this download. Agree?</string>
   <string name="module_download_data_msg_golbal">Clock needs to download audio files for MIUI 10 weather alarms and ambient noise timers. 20MB of your mobile data will be required for this download. Agree?</string>
+  <string name="module_download_data_msg_replace">Updated audio for smart alarms (≈20MB) is available. Connect to the network and download using mobile data?</string>
   <string name="module_download_fail">"追加の音声ファイルをダウンロードできませんでした"</string>
   <string name="module_download_msg">Clock needs to connect to the internet to download audio files for MIUI 10 weather alarms and ambient noise timers. Agree?</string>
   <string name="module_download_msg_golbal">Clock needs to download audio files for MIUI 10 weather alarms and ambient noise timers. Agree?</string>
+  <string name="module_download_msg_replace">Updated audio for smart alarms is available. Connect to the network and download now?</string>
   <string name="module_download_no_network">"ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。"</string>
   <string name="module_download_ok">"許可"</string>
   <string name="module_download_success">"追加の音声ファイルを正常にダウンロードしました"</string>
@@ -121,6 +123,7 @@
   <string name="reset">"リセット"</string>
   <string name="revert">"元に戻す"</string>
   <string name="search_alarm_clock_keywords">"アラーム;アラーム時計"</string>
+  <string name="search_menu_title">検索</string>
   <string name="search_stopwatch_keywords">"ストップウォッチ"</string>
   <string name="search_timer_keywords">"タイマー"</string>
   <string name="search_worldclock_keywords">"時刻;世界時計;時計"</string>

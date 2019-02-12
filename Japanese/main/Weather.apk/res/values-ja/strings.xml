@@ -17,6 +17,7 @@
   <string name="activity_find_city_dialog_cancel">"キャンセル"</string>
   <string name="activity_find_city_dialog_message">正確な位置情報を取得するため、アプリが現在地情報にアクセスすることを許可する。</string>
   <string name="activity_find_city_dialog_message_global">無線ネットワークを使用した位置情報の取得、および現在地情報へのアクセスを端末に許可する。</string>
+  <string name="activity_find_city_dialog_message_location_service">To get relevant weather info, allow Weather to access your location.</string>
   <string name="activity_find_city_dialog_set">"設定"</string>
   <string name="activity_find_city_dialog_title">"位置情報アクセス"</string>
   <string name="activity_main_pub_time">Published at %1$s</string>

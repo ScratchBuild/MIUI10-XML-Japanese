@@ -193,6 +193,11 @@
   <string name="tax_credit_mortgage">Mortgage</string>
   <string name="tax_credit_personal_income_tax">Personal income tax</string>
   <string name="tax_credit_pretax_income">Pretax income (CNY)</string>
+  <string name="tax_detail">Tax details</string>
+  <string name="tax_detail_amount">Tax amount</string>
+  <string name="tax_detail_rate">税率</string>
+  <string name="tax_detail_take_off">Deduction</string>
+  <string name="tax_detail_tax_payed">Amount paid</string>
   <string name="tax_endowment">退職基金</string>
   <string name="tax_fixed_salary_hint">税込所得金額を入力</string>
   <string name="tax_income_annual_bonus_list">Annual bonuses</string>
@@ -206,11 +211,13 @@
   <string name="tax_individual_income_tax_result">結果</string>
   <string name="tax_injury">ケガ</string>
   <string name="tax_insurance_and_fund">保険</string>
+  <string name="tax_insurance_and_fund_detail">保険の詳細</string>
   <string name="tax_last_salary_hint">所得額を入力してください</string>
   <string name="tax_last_salary_number">所得</string>
   <string name="tax_location">Location</string>
   <string name="tax_medical">医療</string>
   <string name="tax_param_error">正しい保険料を入力してください</string>
+  <string name="tax_payment_period">支払い回数</string>
   <string name="tax_rate_provider">Calculated according to the new tax regulations. Data is provided by hexun.com and East Money.</string>
   <string name="tax_result_real_get">税抜</string>
   <string name="tax_social_insurance">社会保険</string>
