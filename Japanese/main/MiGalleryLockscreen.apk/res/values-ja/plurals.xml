@@ -12,16 +12,12 @@
         <item quantity="other">%1$s wallpapers</item>
         <item quantity="one">%1$s wallpaper</item>
     </plurals>
-    <plurals name="time_day_ago">
-        <item quantity="other">%d“ú‘O</item>
-        <item quantity="one">%d“ú‘O</item>
-    </plurals>
     <plurals name="time_hour_ago">
-        <item quantity="other">%dŠÔ‘O</item>
-        <item quantity="one">%dŠÔ‘O</item>
+        <item quantity="other">%dæ™‚é–“å‰</item>
+        <item quantity="one">%dæ™‚é–“å‰</item>
     </plurals>
     <plurals name="time_minute_ago">
-        <item quantity="other">%d•ª‘O</item>
-        <item quantity="one">%d•ª‘O</item>
+        <item quantity="other">%dåˆ†å‰</item>
+        <item quantity="one">%dåˆ†å‰</item>
     </plurals>
 </resources>
