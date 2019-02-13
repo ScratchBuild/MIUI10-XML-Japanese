@@ -25,6 +25,7 @@
   <string name="add_to_last_of_playlist">"プレイリストの最後に追加"</string>
   <string name="add_to_playlist_successful">"正常に追加されました"</string>
   <string name="added_next_play">"次の再生に追加しました"</string>
+  <string name="agreement_desc">ユーザー規約 (必須)</string>
   <string name="alaka_required">"この曲を再生するには購入する必要があります"</string>
   <string name="album_label">"アルバムカバー"</string>
   <string name="album_name">"アルバム"</string>
@@ -36,6 +37,16 @@
   <string name="already_favorited">Already favorited</string>
   <string name="always_use_metered">モバイルデータを常に使用</string>
   <string name="app_label">"ダウンロード"</string>
+  <string name="app_permission_confirm">OK</string>
+  <string name="app_permission_optional">Optional permissions</string>
+  <string name="app_permission_require">Mandatory permissions</string>
+  <string name="app_permission_use_desc">Permissions</string>
+  <string name="app_permission_use_group_account">Accounts</string>
+  <string name="app_permission_use_group_account_desc">For getting Mi Account info</string>
+  <string name="app_permission_use_group_phone">Phone</string>
+  <string name="app_permission_use_group_phone_desc">For Google Push services</string>
+  <string name="app_permission_use_group_storage">Storage</string>
+  <string name="app_permission_use_group_storage_desc">For finding and playing songs saved on device</string>
   <string name="artist">"アーティスト"</string>
   <string name="artist_area_all">"すべて"</string>
   <string name="artist_area_china">"中国"</string>
@@ -104,6 +115,7 @@
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">"データ使用量"</string>
   <string name="data_usage_warning_summary">"モバイルデータ接続を使用して高品質の音楽をストリーミングすると、データ使用料が増加する可能性があります。"</string>
+  <string name="data_use_desc">Legal documents</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
   <string name="delete_file_as_well">"この曲を完全に削除"</string>
@@ -496,6 +508,7 @@
   <string name="preset_music_playlist">Mi Music playlist</string>
   <string name="priority_storage">"外部ストレージを使用"</string>
   <string name="priority_storage_summary">"利用可能な場合は外部ストレージに自動でダウンロードします"</string>
+  <string name="privacy_desc">プライバシーポリシー (必須)</string>
   <string name="privacy_policy">"プライバシーポリシー"</string>
   <string name="pro_member">PRO member</string>
   <string name="project_device">Mi Phone</string>

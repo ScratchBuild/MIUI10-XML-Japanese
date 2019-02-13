@@ -1246,7 +1246,7 @@ Emergency calls are only possible in areas with mobile network coverage."</strin
   <string name="wifi_call_setting_vodafone_de">Wi-Fi通話</string>
   <string name="wifi_call_setting_vodafone_uk">Wi-Fi通話</string>
   <string name="wifi_calling">"Wi-Fi通話"</string>
-  <string name="wificall_switch_summary">通話時の接続が不安定な場合、Wi-FiとVoLTEを端末が自動で切り替えます</string>
+  <string name="wificall_switch_summary">Wi-Fiを使用して、可能な限り通話を発信または着信する</string>
   <string name="wificall_switch_title">Wi-Fiを使用して通話を行う</string>
   <string name="wild_prompt_str">"ワイルド文字を置換:"</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
