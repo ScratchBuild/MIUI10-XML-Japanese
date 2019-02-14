@@ -32,6 +32,11 @@
   <string name="adjust_saturation">"彩度"</string>
   <string name="adjust_sharpen">Sharpen</string>
   <string name="adjust_vignette">Vignette</string>
+  <string name="agreement_agree">同意</string>
+  <string name="agreement_optional_tip">(Optional)</string>
+  <string name="agreement_quit">終了</string>
+  <string name="agreement_required_tip">(Mandatory)</string>
+  <string name="agreement_summary">Legal documents</string>
   <string name="ai_album_open_switch_button_title">Start analyzing photos</string>
   <string name="ai_album_requesting_title">AI algorithm is still processing your photos. Come back in a while.</string>
   <string name="ai_album_setting_sub_title">Allow AI algorithm to identify people, places, and objects on your photos so you could find them faster.</string>
@@ -808,6 +813,15 @@ Take more photos of your friends!"</string>
   <string name="people_mark_mode_title_no_mark_name">"人物を選択"</string>
   <string name="people_page_label">"人物"</string>
   <string name="people_page_unname">Unnamed</string>
+  <string name="permissin_contract_desc">For naming people on photos</string>
+  <string name="permission_contract_name">連絡先</string>
+  <string name="permission_optional_category">Optional permissions</string>
+  <string name="permission_phone_desc">For network requests based on device ID</string>
+  <string name="permission_phone_name">電話</string>
+  <string name="permission_require_category">Mandatory permissions</string>
+  <string name="permission_storage_desc">For displaying, editing, and saving photos</string>
+  <string name="permission_storage_name">ストレージ</string>
+  <string name="permission_use_desc">Permissions</string>
   <string name="pet_album_display_name">"ペットの写真"</string>
   <string name="photo">"写真"</string>
   <string name="photo_edit_file_not_exits_tip">"編集する前に写真をダウンロード"</string>
@@ -1062,6 +1076,7 @@ Take more photos of your friends!"</string>
   <string name="secret_reason_unknow_reasons">"不明なエラー"</string>
   <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
+  <string name="select_all">すべて選択</string>
   <string name="select_image_operation">写真を追加中</string>
   <string name="select_item_face">"これは'%s'ですか？"</string>
   <string name="select_origin_tip">"元のファイル (%s)"</string>
