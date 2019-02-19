@@ -8,7 +8,7 @@
   <string name="refocus_photo_not_support">この写真にぼかしを適用することはできません</string>
   <string name="refocus_relighting_toast">照明の角度を調整するには、円を動かしてください</string>
   <string name="refocus_save_cancel">キャンセル</string>
-  <string name="refocus_save_title"フォーマットを選択</string>
+  <string name="refocus_save_title">フォーマットを選択</string>
   <string name="refocus_save_to_photo">画像として保存</string>
   <string name="refocus_save_to_video">動画として保存</string>
   <string name="refocus_saving">保存中…</string>
