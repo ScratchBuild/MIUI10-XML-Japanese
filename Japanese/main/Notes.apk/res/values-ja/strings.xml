@@ -213,6 +213,14 @@
   <string name="toast_reach_text_limit_truncate">"このメモは長すぎます。いくつかのテキストは最後が切り取られています。"</string>
   <string name="toast_refuse_to_record_when_in_call">"通話中にこの機能を使用することはできません"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"分割画面でこの機能を使用することはできません"</string>
+  <string name="toast_refuse_to_use_contact">"連絡先へのアクセスが制限されています。
+メモアプリに連絡先の読み取りと、端末上のアカウントの検索を許可してください。"</string>
+  <string name="toast_refuse_to_use_external_storage">"ストレージへのアクセスが制限されています。
+メモアプリにSDカードへのアクセスを許可してください。"</string>
+  <string name="toast_refuse_to_use_phone_state">"電話へのアクセスが制限されています。
+メモアプリに端末の状態と情報の取得を許可してください。"</string>
+  <string name="toast_refuse_to_use_record_audio">"マイクへのアクセスが制限されています。
+メモアプリに音声の録音を許可してください。"</string>
   <string name="toolbar_check_description">"チェックボックスを追加"</string>
   <string name="toolbar_delete_description">"メモを削除"</string>
   <string name="toolbar_gallery_description">"画像を追加"</string>

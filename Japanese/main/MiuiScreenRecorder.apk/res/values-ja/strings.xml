@@ -53,6 +53,8 @@
   <string name="no_sound">ミュート</string>
   <string name="operation_delete">削除</string>
   <string name="operation_send">送信</string>
+  <string name="permission_intro_microphone">音源がマイクに設定されているときに音声を録音するため</string>
+  <string name="permission_intro_storage">画面の録画を保存するため</string>
   <string name="quit_recording">スクリーンレコーダーを終了</string>
   <string name="recording_failure">記録できませんでした</string>
   <string name="recording_max_size">動画ファイルがサイズの上限に達したため、録画を停止して自動保存しました。録画を続行するには中断したところから録画を開始してください。</string>
