@@ -4642,6 +4642,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="settings_manual_activity_title">マニュアル</string>
   <string name="settings_manual_activity_unavailable">マニュアルの読み込み中に問題が発生しました。</string>
   <string name="settings_notify_need_backup">端末を切り替えた後にも設定を引き継ぐには、Mi Cloudに設定をバックアップしてください。</string>
+  <string name="settings_notify_new_version">更新が利用可能です。詳細を表示するにはタップ。</string>
   <string name="settings_notify_phone_recycled">登録した電話番号は既に再利用されています。別の電話番号を追加するにはタップ。</string>
   <string name="settings_safetylegal_activity_loading">読み込み中...</string>
   <string name="settings_safetylegal_activity_title">安全に関する情報</string>

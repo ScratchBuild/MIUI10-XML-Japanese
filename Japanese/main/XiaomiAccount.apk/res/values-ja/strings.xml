@@ -103,6 +103,7 @@ ID:%s
   <string name="error_dup_binded_email">"このメールアドレスは既に別のMiアカウントに関連付けられています。"</string>
   <string name="error_invalid_bind_address">"入力したメールアドレスは無効です"</string>
   <string name="exceed_binded_phone_times_notice">"この電話番号は既に別のMi Accountに関連付けられています。"</string>
+  <string name="exit">終了</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">"この電話番号は既に別のMi Accountに関連付けられています"</string>
   <string name="find_device_access_denied">"ステータスを取得できません、アクセスが拒否されました"</string>
@@ -131,6 +132,8 @@ ID:%s
   <string name="get_phone_bind_exceed_limit">"最大3つのMi Accountに電話番号を関連付けることができます。新しいアカウントを追加できません。"</string>
   <string name="get_phone_verifycode_exceed_limit">この番号に送信された認証コードが多すぎます。24時間待ってからもう一度お試しください。</string>
   <string name="guest_account_label">Mi Guest Account</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">続行</string>
   <string name="identity">Identification</string>
   <string name="inconsistent_pwd">パスワードが一致しません</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
@@ -173,6 +176,7 @@ ID:%s
   <string name="oauth_getting_scopes">"アカウントを確認中…"</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> will get following permissions:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">"Mi Accountでログイン"</string>
+  <string name="optional_permissions">Optional permissions</string>
   <string name="passport_Resend">"再送信"</string>
   <string name="passport_access_denied">"アクセスが拒否されました"</string>
   <string name="passport_account_hint_text">"メールアドレス/電話番号/Mi Account ID"</string>
@@ -291,6 +295,7 @@ ID:%s
   <string name="passport_phone_ticket_login">"SMSでログイン"</string>
   <string name="passport_prev">"戻る"</string>
   <string name="passport_privacy_policy">"プライバシーポリシー"</string>
+  <string name="passport_privacy_policy_required">プライバシーポリシー (必須)</string>
   <string name="passport_pwd_generate_failure">"パスワードを生成できませんでした"</string>
   <string name="passport_pwd_generating">"生成中…"</string>
   <string name="passport_querying_phone_info">"アカウント情報をリクエスト中…"</string>
@@ -377,6 +382,7 @@ ID:%s
   <string name="passport_user_agreement_p2">" と "</string>
   <string name="passport_user_agreement_p3">"プライバシーポリシー"</string>
   <string name="passport_user_agreement_p4">"に同意する"</string>
+  <string name="passport_user_agreement_required">利用規約 (必須)</string>
   <string name="passport_user_id_notice">Your Mi Account ID is %s.</string>
   <string name="passport_user_reg_region">"国/地域"</string>
   <string name="passport_user_reg_region_warning">"You won't be able to change your country/region once the account is created."</string>
@@ -390,6 +396,11 @@ ID:%s
   <string name="passport_wrong_phone_number_format">"入力した電話番号の形式が無効です"</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_voice">"入力したコードが正しくありません"</string>
+  <string name="passport_yes">はい</string>
+  <string name="permission_group_contacts">連絡先</string>
+  <string name="permission_group_phone">電話</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">ストレージ</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="push_notification_content">"認証コードを取得"</string>
@@ -424,6 +435,7 @@ ID:%s
   <string name="search_user_detail_desc">個人情報</string>
   <string name="search_user_detail_path">"設定/Mi Account/個人情報"</string>
   <string name="search_user_detail_top_key_words">個人情報,Change Profile photo,Change Username,Change Nickname,Change Birthday,Change Gender</string>
+  <string name="select_all">すべて選択</string>
   <string name="send_diagnosis_log">診断ログを送信</string>
   <string name="send_email_activate_message">Verification email sent</string>
   <string name="sending">送信中…</string>
