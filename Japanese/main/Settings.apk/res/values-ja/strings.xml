@@ -1382,6 +1382,8 @@ This feature can be turned off in [Settings]"</string>
   <string name="crypt_keeper_setup_time_remaining">携帯電話を暗号化していますのでお待ちください。残り時間: ^1</string>
   <string name="crypt_keeper_setup_title">暗号化しています</string>
   <string name="crypt_keeper_switch_input_method">入力方法の切り替え</string>
+  <string name="crypt_keeper_switch_to_pattern">パターンを使用</string>
+  <string name="crypt_keeper_switch_to_pin">PINを使用</string>
   <string name="crypt_keeper_unplugged_text">電源に接続してもう一度お試しください。</string>
   <string name="crypt_keeper_warn_wipe">警告: ロック解除にあと^1回失敗すると、端末のデータが消去されます。</string>
   <string name="cryptkeeper_emergency_call">緊急通報</string>

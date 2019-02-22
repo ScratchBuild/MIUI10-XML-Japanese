@@ -295,6 +295,7 @@
   <string name="menu_pick_from_contact">連絡先から選択</string>
   <string name="menu_preferences">設定</string>
   <string name="menu_send_as_common">SMSとして送信</string>
+  <string name="menu_traffic_destination">宛先</string>
   <string name="menu_unlock">お気に入りから削除</string>
   <string name="menu_view_contact">連絡先を表示</string>
   <string name="message_class_label">"メッセージクラス: "</string>
@@ -424,6 +425,7 @@
   <string name="notification_group_name">メッセージ</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
+  <string name="number_recognition_partner">Number Recognition Partners</string>
   <string name="open_audio_record_panel">"オーディオ録音のパネルを開く"</string>
   <string name="open_edit_sms_panel">メッセージの編集パネルを開く</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>
@@ -759,6 +761,7 @@
   <string name="too_many_attachments">添付ファイル数の上限は%1$s個です。最初の%2$s個のみ追加されました</string>
   <string name="too_many_recipients">"宛先が多すぎます (%1$s)。%2$s以上の宛先は設定できません"</string>
   <string name="too_many_unsent_mms">"今すぐメッセージを送信することはできません。未送信のマルチメディアメッセージが多すぎます"</string>
+  <string name="train_edit_destination">追加</string>
   <string name="try_to_send">送信を試行</string>
   <string name="type_attachment">添付</string>
   <string name="type_audio">音声</string>
