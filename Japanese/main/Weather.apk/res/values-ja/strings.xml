@@ -169,6 +169,14 @@
   <string name="particulate_matter_exceeded">High</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Too high</string>
+  <string name="permission_device_info">端末情報</string>
+  <string name="permission_device_introduce">端末モデルとIMEIに基づいてデバイスIDを認識し、言語設定に基づいてローカライズされたサービスを提供するため</string>
+  <string name="permission_exit">終了</string>
+  <string name="permission_privacy">プライバシーポリシー (必須)</string>
+  <string name="permission_select_all">すべて選択</string>
+  <string name="permission_storage">ストレージ</string>
+  <string name="permission_storage_introduce">端末上のアイテムにアクセス、またはファイルを保存するため</string>
+  <string name="permission_user_protocol">ユーザー規約 (必須)</string>
   <string name="policy_settings">"規約と条件"</string>
   <string name="precipitation_degree_five">Heavy</string>
   <string name="precipitation_degree_four">Strong</string>
@@ -229,6 +237,8 @@
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>
   <string name="weather_alert_channel_name">アラート</string>
+  <string name="weather_introduce">雨の日も晴れの日も、あなたと共に。</string>
+  <string name="weather_permission_agree">許可</string>
   <string name="weather_service_channel_name">バックグラウンドサービス</string>
   <string name="wind_direction_no_data">"風向き"</string>
   <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
