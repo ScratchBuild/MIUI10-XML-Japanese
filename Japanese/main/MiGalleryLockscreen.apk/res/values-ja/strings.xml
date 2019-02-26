@@ -44,7 +44,7 @@
   <string name="cancel_lockscreen">"キャンセル"</string>
   <string name="cancel_network">終了</string>
   <string name="carousel_declaration_btn_text">Wallpaper Carouselをオンにする</string>
-  <string name="carousel_declaration_cta">"Wallpaper Carousel requires the internet connection to work normally. To get access to online content, you must agree with our &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Privacy Policy&lt;/a&gt;. Agree?"</string>
+  <string name="carousel_declaration_cta">"Wallpaper Carousel requires the internet connection to work normally. To get access to online content, you must agree with our &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privacy Policy&lt;/a&gt;. Agree?"</string>
   <string name="carousel_declaration_cta_btn_text">同意してオンにする</string>
   <string name="carousel_declaration_des">See beautiful places and get exciting surprises with Wallpaper Carousel</string>
   <string name="carousel_declaration_des2">Add your custom images to Wallpaper Carousel</string>
@@ -307,8 +307,8 @@
   <string name="sst_selected_tip">Current</string>
   <string name="sst_show_lockscreen_entry_desc">ロック画面にショートカットを表示する</string>
   <string name="sst_show_lockscreen_entry_title">ロック画面のショートカット</string>
-  <string name="sst_sliding_checkbox_checked">On</string>
-  <string name="sst_sliding_checkbox_unchecked">Off</string>
+  <string name="sst_sliding_checkbox_checked">オン</string>
+  <string name="sst_sliding_checkbox_unchecked">オフ</string>
   <string name="sst_sti_desc">"壁紙の更新頻度を設定"</string>
   <string name="sst_sti_title">"更新頻度"</string>
   <string name="sst_subscribe_title">My categories</string>
@@ -318,7 +318,7 @@
   <string name="sst_switch_wallpaper_order_fixed">Sequence</string>
   <string name="sst_switch_wallpaper_order_random">Random</string>
   <string name="sst_switch_wallpaper_order_title">Update order</string>
-  <string name="sst_wallpaper_define_desc">Manage</string>
+  <string name="sst_wallpaper_define_desc">管理</string>
   <string name="sst_wallpaper_define_title">My slideshow</string>
   <string name="sst_wallpaper_history_des">View recent recommendations</string>
   <string name="sst_wallpaper_history_title">History</string>

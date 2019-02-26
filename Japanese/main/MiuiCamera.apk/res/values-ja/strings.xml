@@ -340,8 +340,12 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">"コントラスト"</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+  <string name="pref_camera_delay_capture_entry_3s">3秒遅延</string>
+  <string name="pref_camera_delay_capture_entry_5s">5秒遅延</string>
   <string name="pref_camera_delay_capture_title">"タイマー"</string>
   <string name="pref_camera_device_watermark_title">Device watermark</string>
+  <string name="pref_camera_dual_enable_title">Turn on dual camera</string>
+  <string name="pref_camera_dual_sat_enable_title">Turn on dual SAT camera</string>
   <string name="pref_camera_exposuretime_entry_auto">"自動"</string>
   <string name="pref_camera_face_info_watermark_title">"写真に年齢スタンプを追加"</string>
   <string name="pref_camera_facedetection_auto_hidden_title">"顔検出のフレームを自動的に隠す"</string>
@@ -503,6 +507,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720p videos with 240fps</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">You can only record 720p videos with 960fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
   <string name="pref_priority_storage_title">"SDカードへ保存"</string>

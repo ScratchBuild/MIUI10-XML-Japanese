@@ -36,7 +36,7 @@
   <string name="agreement_optional_tip">(Optional)</string>
   <string name="agreement_quit">終了</string>
   <string name="agreement_required_tip">(Mandatory)</string>
-  <string name="agreement_summary">Legal documents</string>
+  <string name="agreement_summary">法的文書</string>
   <string name="ai_album_open_switch_button_title">Start analyzing photos</string>
   <string name="ai_album_requesting_title">AI algorithm is still processing your photos. Come back in a while.</string>
   <string name="ai_album_setting_sub_title">Allow AI algorithm to identify people, places, and objects on your photos so you could find them faster.</string>

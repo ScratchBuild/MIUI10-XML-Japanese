@@ -12,6 +12,10 @@
         <item quantity="other">%1$s wallpapers</item>
         <item quantity="one">%1$s wallpaper</item>
     </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d日前</item>
+        <item quantity="one">%d日前</item>
+    </plurals>
     <plurals name="time_hour_ago">
         <item quantity="other">%d時間前</item>
         <item quantity="one">%d時間前</item>

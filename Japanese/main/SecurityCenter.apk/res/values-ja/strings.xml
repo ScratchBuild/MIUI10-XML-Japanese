@@ -33,8 +33,8 @@
   <string name="action_button_text_60">"修復"</string>
   <string name="action_button_text_60_80">"修復"</string>
   <string name="action_button_text_80_100">"最適化"</string>
-  <string name="action_source_call_title">Blocked Calls</string>
-  <string name="action_source_sms_title">Blocked Messages</string>
+  <string name="action_source_call_title">ブロックした着信</string>
+  <string name="action_source_sms_title">ブロックしたメッセージ</string>
   <string name="activity_title_antispam">"ブロックリスト"</string>
   <string name="activity_title_antivirus">"セキュリティスキャン"</string>
   <string name="activity_title_apps_manager">"アプリ"</string>
@@ -1462,8 +1462,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="password_promotion_postbutton_text">"設定を開く"</string>
   <string name="password_promotion_title">Add Mi Account</string>
-  <string name="password_type">Change password</string>
-  <string name="password_type_underline">&lt;u>Change password&lt;/u></string>
+  <string name="password_type">パスワードを変更</string>
+  <string name="password_type_underline">&lt;u>パスワードを変更&lt;/u></string>
   <string name="path_antispam">システムアプリ/セキュリティ/ブロックリスト</string>
   <string name="path_antivirus">システムアプリ/セキュリティ/ウイルススキャン</string>
   <string name="path_app_permissions">システムアプリ/セキュリティ/パーミッション/App permissions</string>

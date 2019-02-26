@@ -115,7 +115,7 @@
   <string name="current_version">Current version</string>
   <string name="data_usage_warning">"データ使用量"</string>
   <string name="data_usage_warning_summary">"モバイルデータ接続を使用して高品質の音楽をストリーミングすると、データ使用料が増加する可能性があります。"</string>
-  <string name="data_use_desc">Legal documents</string>
+  <string name="data_use_desc">法的文書</string>
   <string name="delete">"削除"</string>
   <string name="delete_download">"削除"</string>
   <string name="delete_file_as_well">"この曲を完全に削除"</string>
