@@ -3701,7 +3701,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">カメラ</string>
   <string name="power_cell">セルスタンバイ</string>
-  <string name="power_center">電源</string>
+  <string name="power_center">バッテリーの最適化</string>
   <string name="power_charge_remaining">充電されるまで%1$s</string>
   <string name="power_charging_duration">%1$d%% - フル充電まで%2$s</string>
   <string name="power_charging_duration_ac">%1$d%% - フル充電まで%2$s（AC経由）</string>
@@ -3727,7 +3727,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="power_key_how_start_detail">電源ボタンを0.5秒間押し続けた後、指を離して話しかけます。</string>
   <string name="power_key_start_enjoy">Googleアシスタントの詳細についてもっと詳しく</string>
   <string name="power_key_start_guide">全画面ディスプレイ端末の電源ボタンを使ってGoogleアシスタントを起動する</string>
-  <string name="power_mgr">電池</string>
+  <string name="power_mgr">バッテリーの最適化</string>
   <string name="power_mode">電源設定</string>
   <string name="power_mode_balanced_title">Balance Power</string>
   <string name="power_optimize">バッテリーセーバー</string>

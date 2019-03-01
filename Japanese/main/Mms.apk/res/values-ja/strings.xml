@@ -425,7 +425,7 @@
   <string name="notification_group_name">メッセージ</string>
   <string name="notification_multiple_title">新着メッセージ</string>
   <string name="number_add_hint">電話番号を入力</string>
-  <string name="number_recognition_partner">Number Recognition Partners</string>
+  <string name="number_recognition_partner">Sender ID recognition service providers</string>
   <string name="open_audio_record_panel">"オーディオ録音のパネルを開く"</string>
   <string name="open_edit_sms_panel">メッセージの編集パネルを開く</string>
   <string name="open_url_with_web">このURLをブラウザで開きますか？</string>

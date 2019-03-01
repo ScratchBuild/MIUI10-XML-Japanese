@@ -12,6 +12,7 @@
   <string name="fastboot_status_locked_summary">"rootアクセスを取得できません"</string>
   <string name="fastboot_unlock_web_title">"MIUIの公式サイトからアンロックツールを入手してください。"</string>
   <string name="game_booster">Game speed booster</string>
+  <string name="gamebox_no_network_btn">再読み込み</string>
   <string name="gb_alipays_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
   <string name="gb_weixinpay_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
   <string name="main_toolbar_purchase">"チャージ"</string>

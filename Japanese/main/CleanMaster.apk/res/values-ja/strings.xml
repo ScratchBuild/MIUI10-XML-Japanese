@@ -309,7 +309,7 @@
   <string name="mainbtn_text_no_trash">"スキップ"</string>
   <string name="mainbtn_text_quick_cleanup">"%sをクリーンアップ"</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
-  <string name="memory_clean_icon_text">"メモリを解放"</string>
+  <string name="memory_clean_icon_text">"RAM Jet"</string>
   <string name="memory_clean_no_trash_tip">"ゴミファイルはありません"</string>
   <string name="menu_add_to_white_list">"例外に追加"</string>
   <string name="menu_clear">"消去"</string>

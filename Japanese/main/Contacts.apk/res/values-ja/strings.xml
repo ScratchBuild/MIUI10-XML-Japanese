@@ -3,6 +3,7 @@
   <string name="accessibility_calllog_detail">"通話履歴の詳細"</string>
   <string name="accessibility_contact_detail">"連絡先の詳細"</string>
   <string name="account_container_title">"インポート元"</string>
+  <string name="account_dual_sim">SIMカード %s</string>
   <string name="account_phone">端末のみ、非同期</string>
   <string name="account_sim">"SIMカード"</string>
   <string name="account_sim2">"SIMカード %d"</string>

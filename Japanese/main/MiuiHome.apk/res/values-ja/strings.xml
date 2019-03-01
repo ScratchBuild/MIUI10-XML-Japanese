@@ -97,6 +97,7 @@
   <string name="disable_wallpaper_scroll">"横スクロールをオフにする"</string>
   <string name="double_tap_to_lock_title">画面をロックするにはダブルタップ</string>
   <string name="download_action">"ダウンロード"</string>
+  <string name="dual_app">デュアルアプリ</string>
   <string name="edit_folder_title">"フォルダ名を編集"</string>
   <string name="edit_mode_group">"グループ"</string>
   <string name="edit_mode_group_error_full">"空きスペースがありません"</string>

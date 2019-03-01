@@ -327,6 +327,10 @@
   <string name="no_visiable_calendar_select_account">"アカウントを追加"</string>
   <string name="no_visiable_calendar_title">"カレンダーアカウントを追加"</string>
   <string name="notification_channel_name">カレンダーの通知</string>
+  <string name="notification_open_setting_button_exit">結構です</string>
+  <string name="notification_open_setting_button_ok">許可</string>
+  <string name="notification_open_setting_message">カレンダーに通知の送信を許可しない限り、予定に関する通知を受け取ることはできません。</string>
+  <string name="notification_open_setting_title">カレンダーの通知を許可しますか？</string>
   <string name="online_reminder_header_text">"通知"</string>
   <string name="path_calendar_settings">"システムアプリ/カレンダー/設定"</string>
   <string name="pengzu">彭祖</string>

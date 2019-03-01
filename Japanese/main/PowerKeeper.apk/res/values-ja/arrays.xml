@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>"カスタム"</item>
-        <item>"バッテリーセーバー"</item>
+        <item>"MIUIバッテリーセーバー"</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>"アクティブなアプリ"</item>
@@ -24,7 +24,7 @@
     <string-array name="thermal_summaries">
         <item>"温度制御優先"</item>
         <item>"パフォーマンス優先"</item>
-        <item>Extreme modeでは動作しません</item>
+        <item>Extreme battery saverではサポートされていません</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>"パフォーマンス"</item>

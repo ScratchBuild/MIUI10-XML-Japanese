@@ -76,6 +76,12 @@
   <string name="action_text_readmode_more">その他</string>
   <string name="action_text_readmode_theme_head">背景を設定</string>
   <string name="action_text_theme_and_textsize_change">文字サイズとテーマを変更</string>
+  <string name="ad_app_download_notification_content">After the installation is complete, open the demo now~</string>
+  <string name="ad_app_download_site_new">NEW</string>
+  <string name="ad_exit_dialog_exit_btn_name">quit</string>
+  <string name="ad_exit_dialog_message">Installation is complete! Do you want to open it now?</string>
+  <string name="ad_exit_dialog_open_btn_name">open</string>
+  <string name="ad_exit_dialog_title_name">New app open confirmation</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">"%d個の広告をブロックしました"</string>
   <string name="adblock_rules_not_updated_toast">"更新できませんでした"</string>

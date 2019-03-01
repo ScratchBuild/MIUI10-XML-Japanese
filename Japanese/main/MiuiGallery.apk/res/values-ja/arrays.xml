@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Special day</item>
+        <item>Day to remember</item>
+        <item>Vibrant moments</item>
+    </string-array>
     <string-array name="card_last_week_day">
         <item>Last Monday</item>
         <item>Last Tuesday</item>
@@ -83,6 +88,11 @@
         <item>"男の子"</item>
         <item>"女の子"</item>
     </string-array>
+    <string-array name="last_weekend_title">
+        <item>My weekends</item>
+        <item>Bits of life</item>
+        <item>Weekend memories</item>
+    </string-array>
     <string-array name="menu_copy_or_move">
         <item>移動</item>
         <item>コピー</item>
@@ -109,6 +119,11 @@
         <item>"父方の祖母"</item>
         <item>"母方の祖父"</item>
         <item>"母方の祖母"</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Together</item>
+        <item>Good times</item>
+        <item>In unison</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>"わたし"</item>
@@ -139,5 +154,9 @@
         <item>找出有小米文字的图片</item>
         <item>昨年の春祭りの写真を検索する</item>
         <item>先月ビーチで撮影した母親との写真を見つけるのを手伝ってください</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Moving forward</item>
+        <item>Full of energy</item>
     </string-array>
 </resources>

@@ -106,6 +106,10 @@
   <string name="feedback_remind_login_btn">"ログイン"</string>
   <string name="feedback_report_remind_login_desc">"エンジニアがあなたに連絡できるよう、お使いのMi Accountにログインしてください。"</string>
   <string name="feedback_report_remind_login_desc2">"\"My reports\"でレポートの進捗状況を確認することができます。"</string>
+  <string name="feedback_reproductivity_everytime">Every time</string>
+  <string name="feedback_reproductivity_occasionally">Occasionally</string>
+  <string name="feedback_reproductivity_often">Often</string>
+  <string name="feedback_reproductivity_once">Once</string>
   <string name="feedback_retest_label">"再現手順"</string>
   <string name="feedback_select_images">"画像または短い動画を追加"</string>
   <string name="feedback_select_modem_log">"モデムログを追加"</string>

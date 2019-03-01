@@ -215,7 +215,6 @@
   <string name="card_title_annual_foods">Delicious %1$s</string>
   <string name="card_title_annual_pets">Furry paws in %1$s</string>
   <string name="card_title_annual_travel">My trips in %1$s</string>
-  <string name="card_title_last_week_end">My weekends</string>
   <string name="card_title_monthly_foods">Delicious</string>
   <string name="card_title_monthly_pets">Furry paws</string>
   <string name="card_title_party">パーティー</string>
@@ -563,6 +562,8 @@ Take more photos of your friends!"</string>
   <string name="free_view_desc">"3Dビュー"</string>
   <string name="gallery_setting">"設定"</string>
   <string name="gallery_sync_disable_toast">"ギャラリーの同期はオフです"</string>
+  <string name="generate_story_summary">MIUI will analyze your photos and create story albums. Turn this feature off to stop creating story albums.</string>
+  <string name="generate_story_title">Story albums</string>
   <string name="get_album_info_in_process">"共有済みアルバムの情報を取得中…"</string>
   <string name="gif_tip">GIF</string>
   <string name="grant_permission_go_and_set">"設定"</string>
@@ -600,6 +601,8 @@ Take more photos of your friends!"</string>
   <string name="image_invalid_path">"無効なパス"</string>
   <string name="image_not_found">"画像がみつかりませんでした"</string>
   <string name="image_quota_fulfiled">"画像が多すぎます。 画像をいくつか削除してもう一度やり直してください。"</string>
+  <string name="image_selection_summary">MIUI will analyze similar photos and mark best shots for you. Turn this feature off to remove marks from photos.</string>
+  <string name="image_selection_title">Select best photo</string>
   <string name="image_with_time">Photo taken on %s</string>
   <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
   <string name="impunity_declaration_settings">"インターネット接続の通知"</string>
@@ -790,6 +793,7 @@ Take more photos of your friends!"</string>
   <string name="operation_send">"送る"</string>
   <string name="operation_set_contact_photo">"連絡先の写真として設定"</string>
   <string name="operation_set_slide_wallpaper">スライドショーの壁紙として設定</string>
+  <string name="operation_set_video_wallpaper">Set video wallpaper</string>
   <string name="operation_set_wallpaper">"壁紙として設定"</string>
   <string name="operation_share">"共有"</string>
   <string name="operation_show_in_photos_tab">"[写真]に表示する"</string>
@@ -953,6 +957,7 @@ Take more photos of your friends!"</string>
   <string name="recent_album_empty_title">"最近追加された新しい写真はありません"</string>
   <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
+  <string name="recommend_category_title">"Gallery's picks"</string>
   <string name="recovery_merge">"統合"</string>
   <string name="recovery_merge_or_rename">"アルバムを統合"</string>
   <string name="recovery_merge_or_rename_message">"同じ名前のアルバムが既に存在します。今すぐ統合しますか？"</string>
@@ -1088,6 +1093,8 @@ Take more photos of your friends!"</string>
   <string name="send_too_many_files_error">Can send up to %d items at a time</string>
   <string name="set_as_slide_wallpaper_description">この画像はサムネイルです、元のファイルをダウンロードしますか？</string>
   <string name="set_as_slide_wallpaper_title">スライドショーの壁紙として設定</string>
+  <string name="set_as_video_wallpaper_description">Download this item and use it as a video wallpaper?</string>
+  <string name="set_as_video_wallpaper_title">Set video wallpaper</string>
   <string name="set_as_wallpaper_description">"この画像はサムネイルです、元のファイルをダウンロードしますか？"</string>
   <string name="set_as_wallpaper_title">"壁紙に設定"</string>
   <string name="set_face_group_toast_msg_new_user">Hold a person to merge or ignore them.</string>
@@ -1096,6 +1103,7 @@ Take more photos of your friends!"</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
   <string name="set_face_image">"新しいプロフィール写真を設定"</string>
   <string name="set_group">"グループを設定"</string>
+  <string name="set_video_wallpaper_failed">"Can't use this item as a video wallpaper"</string>
   <string name="set_wallpaper_get_image_failed">"画像をダウンロードできませんでした、後ほど再試行してください"</string>
   <string name="setup_network_connection">"ネットワーク設定"</string>
   <string name="share">"共有"</string>
