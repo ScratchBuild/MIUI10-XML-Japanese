@@ -288,7 +288,6 @@
   <string name="applock_login_and_add_account">"ログインと追加"</string>
   <string name="applock_not_add_account">"後で"</string>
   <string name="applock_not_login_account">"ログインしていません"</string>
-  <string name="applock_toast_tip">Verified App lock successfully</string>
   <string name="applock_toast_tip">アプリロックの認証が完了しました</string>
   <string name="apps_item_sign_dialog_content">"%sの署名がアプリストアのバージョンと異なります。このアプリを削除して公式版をインストールしますか？ 注意: 署名が競合するアプリをインストールすると、アプリデータが失われる可能性があります。"</string>
   <string name="apps_item_sign_dialog_title">"公式アプリをインストール"</string>
