@@ -228,7 +228,7 @@
   <string name="aod_mode_bg">背景</string>
   <string name="aod_mode_clock">時計</string>
   <string name="aod_mode_style">時計の種類と背景</string>
-  <string name="aod_mode_summary">画面がオフのときに、時間や日付、メッセージを表示します。</string>
+  <string name="aod_mode_summary">画面がオフのときに、時間や日付、メッセージを表示します</string>
   <string name="aod_mode_time_summary">端末が\"アンビエント表示\"に切り替わる時間をスケジュール設定する</string>
   <string name="aod_mode_time_title">スケジュール</string>
   <string name="aod_mode_title">アンビエント表示</string>
