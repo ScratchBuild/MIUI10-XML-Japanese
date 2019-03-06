@@ -3163,8 +3163,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="mode_disable">オフ</string>
   <string name="mode_enable">オン</string>
   <string name="model_info">モデル</string>
-  <string name="model_name">モデル名</string>
-  <string name="model_number">モデル番号</string>
+  <string name="model_name">モデル</string>
+  <string name="model_number">端末モデル</string>
   <string name="model_summary">モデル: %1$s</string>
   <string name="modify_instruction_password_settings">パスワードを設定</string>
   <string name="modify_privacy_password">パスワードを変更</string>

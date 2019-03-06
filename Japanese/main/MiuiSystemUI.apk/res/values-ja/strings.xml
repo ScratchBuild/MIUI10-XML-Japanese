@@ -367,7 +367,6 @@
   <string name="convert_to_file_encryption">ファイル暗号化に変換する</string>
   <string name="convert_to_file_encryption_done">ファイルは既に暗号化済みです</string>
   <string name="convert_to_file_encryption_enabled">変換…</string>
-  <string name="custom_lock_wallpaper_enter">Enter</string>
   <string name="daltonizer_mode_deuteranomaly">第二色弱（赤緑）</string>
   <string name="daltonizer_mode_disabled">無効</string>
   <string name="daltonizer_mode_monochromacy">全色盲</string>
@@ -539,6 +538,8 @@
   <string name="face_unlock_check_failed">"認識できませんでした"</string>
   <string name="face_unlock_close_screen">"画面に近づいてください"</string>
   <string name="face_unlock_down">"頭を上げてください"</string>
+  <string name="face_unlock_fail">顔を認識できませんでした</string>
+  <string name="face_unlock_fail_retry">顔を確認できませんでした。アイコンをタップしてもう一度お試しください。</string>
   <string name="face_unlock_identify_error">"認識エラーが発生しました"</string>
   <string name="face_unlock_not_found">"認識できませんでした"</string>
   <string name="face_unlock_not_roi">フレームの内側に顔を収めてください</string>
@@ -559,6 +560,8 @@
   <string name="face_unlock_rotated_right">"頭を左に向けてください"</string>
   <string name="face_unlock_sc_status">Push the screen down to open camera</string>
   <string name="face_unlock_stay_away_screen">"画面から25～40cmの位置で保持してください"</string>
+  <string name="face_unlock_success_stay_screen_msg">顔が認識された後もロック画面に留まります。ホーム画面を開くには上にスワイプしてください。</string>
+  <string name="face_unlock_success_stay_screen_title">ロック解除後もロック画面に留まる</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>
   <string name="fingerprint_add_text">"指紋インターフェースが更新されました。指紋をもう一度追加してください。"</string>
   <string name="fingerprint_add_title">"指紋認証を追加"</string>
