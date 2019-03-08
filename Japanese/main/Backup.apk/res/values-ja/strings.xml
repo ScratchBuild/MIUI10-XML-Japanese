@@ -73,6 +73,7 @@
   <string name="cancel_moving_dialog_message">"今すぐインポートを停止しますか？"</string>
   <string name="cancel_moving_dialog_title">"インポートを停止する"</string>
   <string name="cancel_restore">"停止"</string>
+  <string name="click_soft_ap_to_link">接続するアクセスポイントを選択</string>
   <string name="click_to_view">"タップして表示"</string>
   <string name="close_twice_auth_btn">Turn off two-factor authentication</string>
   <string name="close_twice_auth_note">"Note:
@@ -98,6 +99,11 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="cloud_search">"検索中…"</string>
   <string name="compute_backup_info">"バックアップの情報を取得中…"</string>
   <string name="compute_delete_contact_info">"情報を取得中…"</string>
+  <string name="confirm_exit_link">終了</string>
+  <string name="confirm_exit_link_cancel">終了しない</string>
+  <string name="confirm_exit_link_msg">アプリを終了すると、進行中の転送が中断されます。再開するには再び2つのデバイス間の接続を確立する必要があります。とにかくアプリを終了しますか？</string>
+  <string name="confirm_exit_link_title">転送を中断する</string>
+  <string name="connect_soft_ap_label">新しいデバイスに接続中…</string>
   <string name="connect_wifi">"Wi-Fiに接続"</string>
   <string name="connect_wifi_tip">"ネットワークに接続できませんでした。MiCloudからデータをインポートするにはWi-Fi接続が必要です。"</string>
   <string name="contact_title">"連絡先"</string>
@@ -267,6 +273,8 @@ Don't change or rename backup files."</string>
   <string name="notif_trans_sending_completed">"データの送信が完了しました"</string>
   <string name="notif_trans_sending_failed">"データを送信できませんでした"</string>
   <string name="notif_trans_wait_for_reconnecting">"接続が中断されました。もう一度接続してください。"</string>
+  <string name="old_soft_name">QRコードで接続する</string>
+  <string name="old_way">QRコードを使用して接続することもできます。コードを生成するにはタップ。</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="password">"パスワード"</string>
   <string name="password_null">"パスワードを空にすることはできません"</string>
@@ -289,6 +297,7 @@ Don't change or rename backup files."</string>
   <string name="prompt_writing">"保存中…"</string>
   <string name="read_encrypt_fail">"暗号化されたバックアップを読み取れませんでした"</string>
   <string name="reconnect">"再接続"</string>
+  <string name="recreate_soft_ap_tips">下のボタンをタップしてもう一度やり直してください。</string>
   <string name="refresh">"更新"</string>
   <string name="remote_receive">"受信"</string>
   <string name="restore">"復元"</string>
@@ -321,6 +330,8 @@ Don't change or rename backup files."</string>
   <string name="sc_service_unavailable">"Mi Cloudが利用できません"</string>
   <string name="sc_unaccess_password_file">"Wi-Fi接続のパスワードが見つかりません"</string>
   <string name="sc_unauthorized">"もう一度ログインしてください"</string>
+  <string name="scan_soft_ap">新しいデバイスを探しています…</string>
+  <string name="scan_soft_ap_label">古いデバイスに接続する</string>
   <string name="sd_not_available">"SDカードを挿入してください"</string>
   <string name="sdcard_no_enough_space">"十分な空き領域がありません"</string>
   <string name="sdcard_no_enough_space_message">"SDカードに十分な空き領域がありません。"</string>
@@ -340,6 +351,8 @@ Don't change or rename backup files."</string>
   <string name="service_stoped">"サービスが停止しました"</string>
   <string name="settings_summary">"通話とメッセージの設定"</string>
   <string name="sms_title">"メッセージ"</string>
+  <string name="soft_ap_create_failed">アクセスポイントを作成できませんでした</string>
+  <string name="soft_ap_creating">アクセスポイントを作成中…</string>
   <string name="software_backup_info">"アプリのデータ"</string>
   <string name="start_backup">"バックアップ"</string>
   <string name="start_restore">"復元"</string>
@@ -419,7 +432,9 @@ Don't change or rename backup files."</string>
   <string name="trans_detail_category_wechat_qq">WeChat and QQ data (チャット履歴を含む)</string>
   <string name="trans_detail_item_app_data_selected_tip">Selected corresponding apps as well.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Looks like the item is too big to transfer.</string>
-  <string name="trans_detail_list_footer">Note: You can choose to transfer apps separately. However, if you select app data, corresponding apps will be transfered as well.</string>
+  <string name="trans_detail_list_footer">"1. You can select individual apps you want to transfer.
+2. If you select app data, corresponding apps will be selected as well.
+3. WeChat and QQ app data might not be transferred due to compatibility issues. You can try in-app transfer features."</string>
   <string name="trans_detail_page_tip">The more items you select the longer the transfer will last.</string>
   <string name="trans_detail_qq_data">QQ data (チャット履歴を含む)</string>
   <string name="trans_detail_sys_data_list_title">"システムアプリ"</string>
@@ -446,6 +461,7 @@ to download and install Mi Mover."</string>
   <string name="trans_install_guide_step2_content">After the installation is complete, tap \"Start\" below.</string>
   <string name="trans_install_guide_step2_title">Step 2</string>
   <string name="trans_intro_desc_1">"On a Mi phone, connect to WLAN and tap \"I'm a recipient\". Select your iOS device, sign in to iCloud, and import data."</string>
+  <string name="trans_intro_desc_10">Tap \"Connect via QR code\" on the new device and scan the QR code to establish connection.</string>
   <string name="trans_intro_desc_3">Cancel the transfer, exit Mi Mover, and start over. Duplicate files will be overwritten during the new transfer.</string>
   <string name="trans_intro_desc_4">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though. However, some newer devices (for example, Mi 6) would still be able to connect to the internet using WLAN during transfers."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover uses WLAN to transfer files. That's why you can't connect to the internet using WLAN on either device during a transfer. You can still use mobile data, though."</string>
@@ -460,6 +476,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Group: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Report issues in QQ</string>
   <string name="trans_intro_desc_account">You have to sign in again to your accounts (e.g., Mi Account, Exchange, Google, etc.) on a new device due to security reasons.</string>
+  <string name="trans_intro_desc_gms">"Due to high probability of unsuccessful transfers caused by compatibility issues, Mi Mover doesn't support transferring the data generated by Google apps."</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover doesn't transfer Dual apps data to avoid conflicts between files."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover can't access items in Second space. Move items to First space and launch Mi Mover there."</string>
   <string name="trans_intro_desc_new">"Tap \"I'm a recipient\". A QR code will be generated."</string>
@@ -467,6 +484,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_desc_old_market">Tap \"Start\". Scan the QR code on the new phone, wait until Mi Mover figures out which files to send, and tap \"Send\".</string>
   <string name="trans_intro_desc_private">"Mi Mover can't access photos in the hidden album because they are encrypted. You can restore these photos from Mi Cloud on a new device."</string>
   <string name="trans_intro_question_1">%d. How do I use Mi Mover to move data from an iOS device?</string>
+  <string name="trans_intro_question_10">"%d. Can't find the hotspot on the old device?"</string>
   <string name="trans_intro_question_2">%d. How do I use Mi Mover to move data from an Android device?</string>
   <string name="trans_intro_question_3">%d. What should I do if Mi Mover got stuck on a certain step?</string>
   <string name="trans_intro_question_4">"%d. Why can't I use WLAN during transfers?"</string>
@@ -478,6 +496,7 @@ to download and install Mi Mover."</string>
   <string name="trans_intro_question_9_market">%d. Feedback.</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">"アカウントとパスワード:"</string>
+  <string name="trans_intro_title_gms">Data generated by Google apps:</string>
   <string name="trans_intro_title_multiapp">"デュアルアプリのデータ:"</string>
   <string name="trans_intro_title_multiuser">"Second spaceのデータ:"</string>
   <string name="trans_intro_title_new">On a new phone:</string>
@@ -536,8 +555,9 @@ Wi-Fiホットスポットをオフにしないでください。
   <string name="trans_select_data">"送信するアイテムを選択"</string>
   <string name="trans_select_data_no_space">"There isn't enough storage space on the new device (%s available).
 Free up storage space or transfer only important items."</string>
-  <string name="trans_select_data_tips">"Select items to transfer
-Similar files on the new device will be overwritten"</string>
+  <string name="trans_select_data_tips">"Select items to transfer.
+Similar items on the new device will be overwritten.
+(The size of the transferred items you see know is a rough estimate.)"</string>
   <string name="trans_select_data_too_large">"You selected too many items to transfer.
 Select only important items to make the transfer faster."</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
@@ -592,6 +612,9 @@ Free up space or transfer only important items."</string>
   <string name="user_notice_message">"いくつかの機能が正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="user_notice_title">"注意"</string>
   <string name="view_password_description">"パスワードを表示"</string>
+  <string name="wait_link">"このアクセスポイントに古いデバイスで接続してください。
+接続が確立されるまで、このページを離れないでください。"</string>
+  <string name="waiting">読み込み中…</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
   <string name="xiaomi_connect_download_manager_fail">"ダウンロードを開始できませんでした。ダウンロードマネージャーが正常に動作することを確認してください。"</string>
   <string name="xiaomi_external_storage_unavailable">"ストレージが使用できません、SDカードを確認してください。"</string>
