@@ -117,7 +117,6 @@
   <string name="date_jump_hint">"特定の日付に直接移動する"</string>
   <string name="date_jump_title">"日付に移動"</string>
   <string name="date_pattern_mm_dd">M月d日</string>
-  <string name="date_time_fmt">%sの%s</string>
   <string name="date_today">" (今日)"</string>
   <string name="day_view_new_event_hint">"+予定を追加"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
