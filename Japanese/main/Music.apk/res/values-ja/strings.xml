@@ -30,8 +30,13 @@
   <string name="album_label">"アルバムカバー"</string>
   <string name="album_name">"アルバム"</string>
   <string name="all_album_count">すべてのアルバム (%d)</string>
+  <string name="all_albums">すべてのアルバム</string>
+  <string name="all_artists">すべてのアーティスト</string>
   <string name="all_playlist_count">すべてのプレイリスト (%d)</string>
+  <string name="all_playlists">すべてのプレイリスト</string>
+  <string name="all_songs">すべての曲</string>
   <string name="all_tracks">"すべての曲"</string>
+  <string name="all_videos">すべての動画</string>
   <string name="already_download">"ダウンロード中…"</string>
   <string name="already_download_btn">"ダウンロード中…"</string>
   <string name="already_favorited">Already favorited</string>
@@ -564,6 +569,8 @@
   <string name="search_for_album">"アルバム"</string>
   <string name="search_for_artist">"アーティスト"</string>
   <string name="search_hint">"アーティスト、曲、アルバム、おすすめを検索"</string>
+  <string name="search_hint_local">端末上の曲を検索</string>
+  <string name="search_hint_online">アーティスト、アルバム、曲、プレイリスト、および動画をオンラインで検索</string>
   <string name="search_history_clear_all">"消去"</string>
   <string name="search_instant_online_music">"オンライン"</string>
   <string name="search_menu_title">"検索"</string>
@@ -634,8 +641,10 @@
   <string name="tab_artist">"アーティスト"</string>
   <string name="tab_artist_list">"アーティスト"</string>
   <string name="tab_folder">Folders</string>
+  <string name="tab_playlist">Playlists</string>
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
+  <string name="tab_video">Videos</string>
   <string name="take_effect_afater_restart">"この設定を有効にするには、アプリを再起動する必要があります。"</string>
   <string name="talkback_back">"戻る"</string>
   <string name="talkback_device">"他の端末で再生する"</string>

@@ -10,6 +10,7 @@
   <string name="account_and_calendar">"アカウント"</string>
   <string name="action_bar_date_button_title">"日付を計算"</string>
   <string name="action_bar_return">"戻る"</string>
+  <string name="action_label">戻る</string>
   <string name="action_text_card_manager">"チャンネル"</string>
   <string name="ad_card_connecting">"接続中"</string>
   <string name="ad_card_download_count">"%1$s人がダウンロード"</string>
@@ -69,6 +70,9 @@
   <string name="change_response_title">"出欠状況を変更"</string>
   <string name="check_reminded_text">"表示"</string>
   <string name="chinese_leap">"閏"</string>
+  <string name="chips_action_cancel">キャンセル</string>
+  <string name="chips_action_copy">コピー</string>
+  <string name="chips_permission_text">連絡先の提案を許可する</string>
   <string name="chongsha">"幽霊"</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
   <string name="close_alarm">"オフにする"</string>
@@ -113,7 +117,7 @@
   <string name="date_jump_hint">"特定の日付に直接移動する"</string>
   <string name="date_jump_title">"日付に移動"</string>
   <string name="date_pattern_mm_dd">M月d日</string>
-  <string name="date_time_fmt" formatted="false">%sの%s</string>
+  <string name="date_time_fmt">%sの%s</string>
   <string name="date_today">" (今日)"</string>
   <string name="day_view_new_event_hint">"+予定を追加"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
@@ -123,9 +127,9 @@
   <string name="directory_searching_fmt">"%sを検索中…"</string>
   <string name="discard_label">"キャンセル"</string>
   <string name="does_not_repeat">"繰り返しなし"</string>
-  <string name="done">"戻る"</string>
   <string name="download">"ダウンロード"</string>
   <string name="downloading">"ダウンロード中"</string>
+  <string name="dropdown_delete_button_desc">受信者から %s を削除する</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Can't calculate forwards"</string>
   <string name="edit_date_calculate_days_empty_hint">"日数を入力してください"</string>
   <string name="edit_date_calculate_days_forward_error_hint">"Can't calculate backwards"</string>
@@ -367,7 +371,6 @@
   <string name="reminder_overdue">"期限切れ"</string>
   <string name="repeat_activity_label">"繰り返し"</string>
   <string name="repeat_custom_activity_label">"カスタム"</string>
-  <string name="repeat_custom_prompt">every %1$s on %2$s</string>
   <string name="repeat_custom_prompt_daily">every %1$s</string>
   <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -482,7 +485,6 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="train_event_station_time_format">HH:mm</string>
   <string name="travel_airport">"空港"</string>
   <string name="travel_carriage_number_text">"車"</string>
-  <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
   <string name="travel_ets_advice">Drive to %2$s before %1$s.</string>
   <string name="travel_event_add_successfully">"予定を作成しました"</string>
   <string name="travel_event_title_flight">Flight: %1$s-%2$s %3$s</string>

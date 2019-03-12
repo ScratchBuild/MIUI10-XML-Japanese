@@ -53,12 +53,15 @@
   <string name="description_uploadtime">"更新"</string>
   <string name="description_version">"バージョン"</string>
   <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
+  <string name="desktop_effects">ホーム画面のエフェクト</string>
   <string name="desktop_wallpaper">"ホーム画面"</string>
+  <string name="detail_recommend_title">You might like these</string>
   <string name="dev_options">"開発者向けオプション"</string>
   <string name="dev_options_summary">Web resources</string>
   <string name="download_failed">"ダウンロードに失敗"</string>
   <string name="download_preview_failed">"プレビューを読み込めません"</string>
   <string name="download_success">"ダウンロードが完了しました"</string>
+  <string name="dynamic_video_wallpaper">24H wallpaper</string>
   <string name="exit_extreme_mode_dialog_agree">"同意する"</string>
   <string name="exit_extreme_mode_dialog_cancel">"キャンセル"</string>
   <string name="exit_extreme_mode_dialog_title">"Extreme modeをオフにする"</string>
@@ -97,8 +100,10 @@
   <string name="fail_to_add_account">"アカウントが追加できません"</string>
   <string name="favorite_list">"お気に入り"</string>
   <string name="favorite_list_format">"お気に入り %1$s"</string>
+  <string name="find_more_font">もっと探す</string>
   <string name="find_more_theme">"もっと探す"</string>
   <string name="find_more_wallpapers">"もっと探す"</string>
+  <string name="float_wallpaper_is_here">Transparent wallpaper</string>
   <string name="gift_anonymous">"匿名"</string>
   <string name="gift_operation_fail_dlg_abandon">"キャンセル"</string>
   <string name="gift_operation_fail_dlg_retry">"再試行"</string>
@@ -139,6 +144,18 @@
   <string name="home_apply_failured">"ホーム画面の壁紙を適用できません"</string>
   <string name="home_apply_success">"ホーム画面の壁紙を適用しました"</string>
   <string name="in_the_end">"これ以上アイテムはありません"</string>
+  <string name="incall_show_apply">Profile video for outgoing calls</string>
+  <string name="incall_show_apply_fail">"Couldn't set"</string>
+  <string name="incall_show_apply_success">"Applied successfully. To turn this feature off,
+go to Settings &gt; Sound and vibration &gt; Profile video."</string>
+  <string name="incall_show_apply_success_without_ringtone">"Applied successfully. This video has no sound. The original ringtone will be used.
+To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile video."</string>
+  <string name="incall_show_find_more">Find more</string>
+  <string name="incall_show_not_set">No profile videos</string>
+  <string name="incall_show_remove">Remove profile video</string>
+  <string name="incall_show_remove_dialog_message">"You've already set a profile video for outgoing calls. Remove the video now?"</string>
+  <string name="incall_show_remove_success">Removed profile video successfully</string>
+  <string name="incall_show_title">Profile videos</string>
   <string name="incompatible_dialog_cancel">"適用しない"</string>
   <string name="incompatible_dialog_message">"このテーマは端末にインストールされたMIUIとの完全な互換性がありません。いくつかの要素は正しく表示されない可能性があります。"</string>
   <string name="incompatible_dialog_ok">"入手する"</string>
@@ -148,6 +165,7 @@
   <string name="item_resource_audio_optional_color_ring">"呼出音"</string>
   <string name="item_resource_audio_optional_notification_ring">"通知音"</string>
   <string name="item_resource_audio_optional_phone_ring">"着信音"</string>
+  <string name="lab">Beta features</string>
   <string name="live_wallpaper">"ライブ壁紙"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_resource_detail_fail">"テーマを読み込めません"</string>
@@ -166,6 +184,12 @@
   <string name="lockscreen_wallpaper">"ロック画面"</string>
   <string name="lockstyle_personal_settings">"カスタマイズ"</string>
   <string name="mi_wallpaper">MIUI wallpaper</string>
+  <string name="mix_global_option">General</string>
+  <string name="mix_global_option_des">Notification shade, Phone, Messaging, and other system elements. Uncheck this box to use default options.</string>
+  <string name="mix_home_option_des">Wallpaper and clock. Uncheck this box to use default options.</string>
+  <string name="mix_icons_option_des">Home screen icons. Uncheck this box to use default options.</string>
+  <string name="mix_lockscreen_option_des">Wallpaper and clock. Uncheck this box to use default options.</string>
+  <string name="mix_tip">Theme components</string>
   <string name="multi_sim_ringtone_settings_dialog_message">"着信音は両方のSIMカードへ同時に適用されます。"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">OK</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"二度と表示しない"</string>
@@ -178,7 +202,8 @@
   <string name="online_no_network">"ネットワークに接続できません"</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="password_toggle_content_description">"パスワードの表示を切り替える"</string>
-  <string name="present_local_themes">"ダウンロード済みテーマ"</string>
+  <string name="present_local_fonts">保存済みフォント</string>
+  <string name="present_local_themes">"保存済みテーマ"</string>
   <string name="present_local_themes_subtitle">"端末をカスタマイズする"</string>
   <string name="present_official_themes">"公式セレクション"</string>
   <string name="present_online_themes">"オンラインテーマを入手"</string>
@@ -294,8 +319,6 @@
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">"もっと表示"</string>
   <string name="resource_failed_to_load_list">"テーマを読み込むことができません。"</string>
-  <string name="resource_free_trial_15_days">"15日間無料で試す"</string>
-  <string name="resource_free_use_last_one_day">"試用期限が明日切れます。"</string>
   <string name="resource_get_auth_checking">"検証中…"</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -318,7 +341,6 @@
   <string name="resource_no_network_text">"ネットワークに接続できません。"</string>
   <string name="resource_no_result">"何も見つかりませんでした"</string>
   <string name="resource_on_trial">"試用中: %1$s"</string>
-  <string name="resource_on_use">使用中: %1$s</string>
   <string name="resource_online">"オンライン"</string>
   <string name="resource_online_picker">"オンラインの着信音を選択"</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
@@ -373,11 +395,11 @@
   <string name="resource_title_rank">"ランキング"</string>
   <string name="resource_title_select_ringtone">"着信音を選択"</string>
   <string name="resource_title_subject">"おすすめ"</string>
-  <string name="resource_trial_15_days_end_title">"15日間の試用期間が終了しました"</string>
-  <string name="resource_trial_15_days_immediately">"15日間の試用を今すぐ始める"</string>
   <string name="resource_trial_days">"(試用中: %1$d日)"</string>
   <string name="resource_trial_days_hours">"(試用中: %1$d日%2$d時間)"</string>
-  <string name="resource_trial_end_change">"変更"</string>
+  <string name="resource_trial_end_checkbox_hint">Receive Mi Credits first</string>
+  <string name="resource_trial_end_get_mibi">Receive Mi Credits</string>
+  <string name="resource_trial_end_jump_hint">Redirecting…</string>
   <string name="resource_trial_end_message">"%1$sの使用期限が切れました。もし気に入った場合には、購入してください。"</string>
   <string name="resource_trial_end_purchase">"購入"</string>
   <string name="resource_trial_end_restore">Finish trial</string>
@@ -404,6 +426,7 @@
   <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
   <string name="server_internal_error">サーバーエラーが発生しました、しばらくしてからもう一度お試しください。</string>
   <string name="set_color_ring_back_tone">Set a custom ringback tone</string>
+  <string name="set_home_wallpaper_failed">"%s. Can't apply Home screen wallpaper."</string>
   <string name="settings">"設定"</string>
   <string name="shortcut_add">"アイコンを追加"</string>
   <string name="shortcut_cancel">"結構です"</string>
@@ -430,6 +453,8 @@
   <string name="theme_changed_failed_message">"テーマを適用できません"</string>
   <string name="theme_changed_message">"テーマを適用しました"</string>
   <string name="theme_changing_dialog_title">"適用中 "</string>
+  <string name="theme_comment_dialog_message">Rate this app and tell us what you think.</string>
+  <string name="theme_comment_dialog_ok">Rate</string>
   <string name="theme_component_title_alarm">"アラーム"</string>
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">"テーマ"</string>
@@ -440,6 +465,7 @@
   <string name="theme_component_title_contact">"ダイヤルパッド"</string>
   <string name="theme_component_title_font">"フォント"</string>
   <string name="theme_component_title_framework">Borders</string>
+  <string name="theme_component_title_homepage">Home</string>
   <string name="theme_component_title_icon">"アイコン"</string>
   <string name="theme_component_title_launcher">Favorites tray</string>
   <string name="theme_component_title_lockstyle">Lock style</string>
@@ -476,6 +502,8 @@
   <string name="theme_purchased_non_local">"オンライン"</string>
   <string name="theme_select_others">Browse</string>
   <string name="theme_setting">"設定"</string>
+  <string name="theme_staggered_item_text">Receive Mi Credits</string>
+  <string name="theme_to_comment">Not bad!</string>
   <string name="theme_user_agreement_allow">"同意"</string>
   <string name="theme_user_agreement_content1">"この製品を利用することで、あなたは我々の"</string>
   <string name="theme_user_agreement_content2">"利用規約"</string>
@@ -491,6 +519,7 @@
   <string name="third_party_pickers_activity_title">"%1$sを追加"</string>
   <string name="title_component">"テーマのカスタマイズ"</string>
   <string name="title_my_audio_resource">My ringtones</string>
+  <string name="title_my_miwallpaper_desktop_effects">ホーム画面のエフェクト</string>
   <string name="title_my_miwallpaper_resource">My live wallpapers</string>
   <string name="title_my_miwallpaper_video_file_resource">My wallpaper movies</string>
   <string name="title_my_wallpaper_resource">My wallpapers</string>
@@ -498,6 +527,15 @@
   <string name="title_system_audio_resource">"システムの着信音"</string>
   <string name="title_system_wallpaper_resource">"システムの壁紙"</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
+  <string name="transparent_wallpaper">Transparent wallpaper</string>
+  <string name="transparent_wallpaper_apply_success">Set successfully. You can turn this feature off in Themes &gt; Profile &gt; Beta features.</string>
+  <string name="transparent_wallpaper_enable_success">Turned on successfully</string>
+  <string name="transparent_wallpaper_guide">Go to Themes</string>
+  <string name="transparent_wallpaper_guide_tip">You can select a transparent wallpaper in Themes now.</string>
+  <string name="transparent_wallpaper_white_wallpaper">Make background white</string>
+  <string name="transparent_wallpaper_white_wallpaper_failed">"Couldn't make background white"</string>
+  <string name="transparent_wallpaper_white_wallpaper_success">Background color is white now</string>
+  <string name="transparent_wallpaper_white_wallpaper_tip">Transparent wallpaper looks best on white background</string>
   <string name="uid_change_dialog_message">"更新を削除しました。テーマを使用できるようにデバイスを再起動します。"</string>
   <string name="uid_change_dialog_ok">OK</string>
   <string name="uid_change_dialog_title">"デバイスを再起動"</string>
@@ -519,6 +557,7 @@
   <string name="video_data_tips_message">"モバイルデータを使用すると追加料金が発生する場合があります。とにかく続けますか？"</string>
   <string name="video_data_tips_title">"データ使用量の警告"</string>
   <string name="video_silence_apply_success">Configured video without sound successfully</string>
+  <string name="video_wallpaper_import">アイテムを追加するにはタップ</string>
   <string name="vip_level_dialog_positive">OK</string>
   <string name="vip_level_dialog_title">ヒント</string>
   <string name="wallpaper_apply">"適用"</string>
@@ -528,6 +567,7 @@
   <string name="wallpaper_scroll_type_tips">"壁紙のスクロール"</string>
   <string name="wallpaper_set_as_both">"両方に設定"</string>
   <string name="wallpaper_set_as_desktop">"ホーム画面に設定"</string>
+  <string name="wallpaper_set_as_float_wallpaper">Transparent wallpaper (Beta)</string>
   <string name="wallpaper_set_as_lockscreen">"ロック画面に設定"</string>
   <string name="wallpaper_settings">"壁紙の設定"</string>
   <string name="wallpaper_settings_loading_text">"読み込み中"</string>

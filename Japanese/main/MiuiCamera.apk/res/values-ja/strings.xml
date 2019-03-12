@@ -384,9 +384,12 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_jpegquality_entry_normal">"標準"</string>
   <string name="pref_camera_jpegquality_title">"画質"</string>
   <string name="pref_camera_long_press_shutter_feature_title">"シャッターボタンを長押し"</string>
+  <string name="pref_camera_long_press_viewfinder_title">ファインダーを長押し</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">"連続撮影"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">"フォーカス"</string>
   <string name="pref_camera_long_pressing_shutter_title">"AE/AF/AWBをロックするにはシャッターボタンを長押し"</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Googleレンズ</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Lock</string>
   <string name="pref_camera_magic_mirror_title">"マジックミラー"</string>
   <string name="pref_camera_manual_mode_title">"マニュアル"</string>
   <string name="pref_camera_mono_mode_title">B&amp;W</string>
@@ -504,6 +507,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_google_lens">Googleレンズ</string>
+  <string name="pref_google_lens_summary">QRコード、メールアドレス、電話番号、テキストを自動で識別する</string>
+  <string name="pref_google_lens_title">Smart Suggestion</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720p videos with 240fps</string>
