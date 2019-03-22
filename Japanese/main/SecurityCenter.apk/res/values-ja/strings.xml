@@ -783,7 +783,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="face_unlock_check_failed">認識できませんでした</string>
   <string name="face_unlock_face_auth_failed_title">"顔データを認識できませんでした。他のロック解除方法に切り替えます…"</string>
   <string name="face_unlock_face_start_title">顔データを認識中…</string>
-  <string name="face_unlock_finger_or_password_switch">指紋認証、またはパスワードを入力してロックを解除する。</string>
+  <string name="face_unlock_finger_or_password_switch">指紋認証、またはパスワードを入力してロックを解除する</string>
   <string name="face_unlock_guide_confirm">フェイスアンロックを使用する</string>
   <string name="face_unlock_guide_dialog_summary">顔データを使用して端末のロックを解除できます。フェイスアンロックをオンにしますか？</string>
   <string name="face_unlock_not_found">"認識できませんでした"</string>

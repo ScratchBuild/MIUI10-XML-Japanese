@@ -252,6 +252,8 @@ in Portrait mode"</string>
   <string name="live_sticker_fragment_tab_name">TikTok マジックステッカー</string>
   <string name="live_sticker_network_error_hint">ネットワークエラー</string>
   <string name="live_sticker_updating">更新中…</string>
+  <string name="macro_mode">マクロモード</string>
+  <string name="macro_mode_tip">被写体を10cm以内に近づけてください</string>
   <string name="makeup_reset_toast">Removed makeup effects</string>
   <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
   <string name="module_name_beauty">Beauty</string>
@@ -507,8 +509,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_google_lens">Googleレンズ</string>
-  <string name="pref_google_lens_summary">QRコード、メールアドレス、電話番号、テキストを自動で識別する</string>
-  <string name="pref_google_lens_title">Smart Suggestion</string>
+  <string name="pref_google_lens_summary">QRコード、メールアドレス、電話番号などを自動で識別する</string>
+  <string name="pref_google_lens_title">Lens Suggestions</string>
   <string name="pref_groupshot_with_primitive_title">Save original photos as well</string>
   <string name="pref_manual_exposure_title">"露光時間"</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">You can only record 720p videos with 240fps</string>
@@ -620,6 +622,12 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="video_camera_label">Camcorder</string>
   <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
   <string name="view_privacy_policy">"プライバシーポリシーを表示"</string>
+  <string name="wideselfie_press_shoot_key_to_start">シャッターボタンを押す</string>
+  <string name="wideselfie_rotate_slowly">端末をゆっくり回転させる</string>
+  <string name="wideselfie_rotate_to_back">端末を後ろに傾ける</string>
+  <string name="wideselfie_rotate_to_front">端末を前方に傾ける</string>
+  <string name="wideselfie_rotate_to_left_slowly">端末をゆっくり左に回転させる</string>
+  <string name="wideselfie_rotate_to_right_slowly">端末をゆっくり右に回転させる</string>
   <string name="zoom_no_support_tip_48M">"Zoom doesn't work in 48MP mode"</string>
   <string name="wait">"読み込み中…"</string>
 </resources>

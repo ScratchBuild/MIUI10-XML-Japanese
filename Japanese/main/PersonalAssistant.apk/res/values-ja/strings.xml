@@ -26,8 +26,6 @@
   <string name="agenda_assistant_payment_day">支払い日</string>
   <string name="agenda_assistant_repayment_day">支払い日</string>
   <string name="agenda_assistant_tail_num">番号</string>
-  <string name="agenda_disclaimer">免責事項</string>
-  <string name="agenda_disclaimer_content">This feature is provided by Alipay. Alipay shall bear all responsibility related to the services it provides. You can contact Alipay if you have any questions.</string>
   <string name="agenda_i_known">OK</string>
   <string name="agenda_need_install_alipay">この機能を使用するにはAlipayをインストールしてください。</string>
   <string name="agenda_no_title">(無題)</string>
@@ -487,6 +485,8 @@
   <string name="didi_trip">タクシーを呼ぶ</string>
   <string name="didi_trip_content">料金を見積もり、タクシーを呼び出す</string>
   <string name="didi_trip_content_detail">おおよそのタクシー料金を見積もり、タクシーを呼びます。</string>
+  <string name="disclaimer_content">This feature is provided by %1$s. %1$s shall bear all responsibility related to the services it provides. You can contact %1$s if you have any questions.</string>
+  <string name="disclaimer_title">免責事項</string>
   <string name="drive">Drive</string>
   <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
   <string name="duokan_open">Add Duokan card</string>
@@ -954,9 +954,11 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="main_paste_add">追加</string>
   <string name="main_search_hint">検索</string>
   <string name="main_select">選択</string>
+  <string name="map_baidu">Baidu Map</string>
   <string name="map_detail">ルートを表示</string>
   <string name="map_didi">タクシーを呼ぶ</string>
   <string name="map_empty_btn">"You haven't added any addresses"</string>
+  <string name="map_gaode">Gaode Map</string>
   <string name="map_home_didi">Go home</string>
   <string name="map_home_way">Way home</string>
   <string name="map_install_tip">Install Gaode or Baidu maps to use this feature</string>

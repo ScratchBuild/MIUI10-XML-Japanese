@@ -1260,6 +1260,7 @@
   <string name="quick_settings_wifi_off_label">Wi-Fi OFF</string>
   <string name="quick_settings_wifi_on_label">Wi-Fi: ON</string>
   <string name="quick_settings_work_mode_label">Work モード</string>
+  <string name="rapid_charge_mode_tip">急速充電</string>
   <string name="recent_cannot_dock">Second spaceでは分割画面を使用できません</string>
   <string name="recent_dock_tip">タップしてアプリを選択</string>
   <string name="recent_menu_item_info">情報</string>

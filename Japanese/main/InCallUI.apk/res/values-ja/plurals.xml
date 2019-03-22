@@ -18,14 +18,14 @@
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d秒</item>
-        <item quantity="one">1秒</item>
+        <item quantity="one">%d秒</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d分</item>
-        <item quantity="one">1分</item>
+        <item quantity="one">%d分</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d時間</item>
-        <item quantity="one">1時間</item>
+        <item quantity="one">%d時間</item>
     </plurals>
 </resources>

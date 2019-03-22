@@ -1028,6 +1028,15 @@ aptX-Adaptive: Codec Mode"</string>
   <string name="brightness_summary">画面の明るさを調整する</string>
   <string name="brightness_title">明るさ</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bt_aac_dialog_summary">"Current device supports AAC codec. However, AAC may fail to play sound due to compatibility issues. Your device switched to SBC codec automatically.
+You can change this in the Settings."</string>
+  <string name="bt_aac_dialog_title">Bluetooth connection</string>
+  <string name="bt_aac_open_dialog_summary">"AAC may fail to play sound due to compatibility issues.
+You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices."</string>
+  <string name="bt_aac_open_dialog_title">Switching to AAC codec</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_dialog_remember_choice">この選択を記憶する</string>
+  <string name="bt_dialog_settings">設定</string>
   <string name="bt_hci_snoop_log">Bluetooth HCIスヌープログを有効にする</string>
   <string name="bt_hci_snoop_log_summary">Bluetooth HCIパケットをすべてファイルにキャプチャする</string>
   <string name="bt_ldac_declaration">When a Bluetooth device supports LDAC, it will be connected by default. LDAC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
@@ -1039,7 +1048,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="bt_ldac_pre_summary">高品質なオーディオ体験を提供します</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">プロパティ</string>
-  <string name="bt_ldac_remember_choice">次回から表示しない</string>
+  <string name="bt_pre_summary">Provide a high-quality audio experience</string>
   <string name="bt_ldac_settings">設定</string>
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
   <string name="bt_trace_log">Bluetoothトレースログ</string>
@@ -1404,6 +1413,8 @@ This feature can be turned off in [Settings]"</string>
   <string name="cutout_mode_default">自動</string>
   <string name="cutout_mode_settings_title">ノッチの表示方法をカスタマイズすると、一部のアプリが正しく表示されない場合があります。</string>
   <string name="cutout_mode_title">ノッチの表示方法を切り替え</string>
+  <string name="cutout_type_desc">ノッチの角を丸くするにはオンにします</string>
+  <string name="cutout_type_title">ノッチの形状を調整</string>
   <string name="daltonizer_mode_deuteranomaly">第二色弱（赤緑）</string>
   <string name="daltonizer_mode_disabled">無効</string>
   <string name="daltonizer_mode_monochromacy">全色盲</string>
@@ -3569,6 +3580,13 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="optimization_cancel">キャンセル</string>
   <string name="ota_disable_automatic_update">自動システム アップデート</string>
   <string name="ota_disable_automatic_update_summary">端末の再起動時にアップデートを適用する</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Off</string>
+  <string name="otg_opened">On</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB On-The-Go allows USB drives and portable keyboards to connect to your mobile device and exchange data.
+
+OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
   <string name="other_personal_settings">個人設定</string>

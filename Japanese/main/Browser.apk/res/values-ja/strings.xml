@@ -253,6 +253,8 @@
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">"続行"</string>
   <string name="data_traffic_download_cancel">キャンセル</string>
+  <string name="data_traffic_download_confirm">モバイルデータ接続を使用する</string>
+  <string name="data_traffic_download_ok">OK</string>
   <string name="data_traffic_download_prompt">この動画はWi-Fi接続時にのみダウンロードすることができます</string>
   <string name="data_traffic_download_setting">設定</string>
   <string name="data_traffic_goto">Free data traffic</string>
@@ -458,6 +460,7 @@
   <string name="js_disable_confirm_message">"JavaScriptを無効にすると、いくつかのwebサイトが正しく表示されない可能性があります。"</string>
   <string name="js_disable_confirm_title">"JavaScriptを無効にしますか？"</string>
   <string name="keep_queued_download">"保持"</string>
+  <string name="load_error_tip">読み込みエラー、再試行をタップ</string>
   <string name="loading_dialog_title">"移動中…"</string>
   <string name="loading_tips">"下に引っ張って更新"</string>
   <string name="local_bookmarks">"ローカル"</string>

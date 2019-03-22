@@ -25,7 +25,7 @@
   <string name="activity_main_update_time">"%1$s前に更新"</string>
   <string name="activity_main_update_time_expire">"データ期限切れ"</string>
   <string name="activity_main_update_time_right_now">"少し"</string>
-  <string name="activity_minute_rain_location_fail_msg">"現在地を取得できません。デフォルトでは北京を表示します"</string>
+  <string name="activity_minute_rain_location_fail_msg">正確な位置情報を取得できませんでした。現在の都市に切り替えました。</string>
   <string name="add_city">"追加"</string>
   <string name="alert_detail_title">"アラートの詳細"</string>
   <string name="alert_warning">"警告アラート"</string>
@@ -53,6 +53,8 @@
   <string name="aqi_quality_pm10_desc">Inhalable coarse particles</string>
   <string name="aqi_quality_pm25_desc">Fine particles</string>
   <string name="aqi_quality_so2_desc">"二酸化硫黄"</string>
+  <string name="aqi_settings_summary">AQIアラート</string>
+  <string name="aqi_settings_title">AQI</string>
   <string name="aqi_station_best_quality_station">Best around</string>
   <string name="aqi_station_min_distance_station">Nearest station</string>
   <string name="aqi_sub_desc">AQI</string>
