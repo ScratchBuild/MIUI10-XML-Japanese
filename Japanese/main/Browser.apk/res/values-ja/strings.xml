@@ -208,6 +208,7 @@
   <string name="cloud_tabs_sync_off">"同期はオフです"</string>
   <string name="cloud_time_tips">"前回の同期"</string>
   <string name="cloud_up_to_loading_tips">"指を離して更新"</string>
+  <string name="collect_diagnosis_log">診断ログを収集</string>
   <string name="collect_video">"動画を収集"</string>
   <string name="comment_app_menu">"コメント"</string>
   <string name="comment_description">"コメント"</string>
@@ -253,8 +254,6 @@
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">"続行"</string>
   <string name="data_traffic_download_cancel">キャンセル</string>
-  <string name="data_traffic_download_confirm">モバイルデータ接続を使用する</string>
-  <string name="data_traffic_download_ok">OK</string>
   <string name="data_traffic_download_prompt">この動画はWi-Fi接続時にのみダウンロードすることができます</string>
   <string name="data_traffic_download_setting">設定</string>
   <string name="data_traffic_goto">Free data traffic</string>
@@ -262,12 +261,17 @@
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_title">"データ使用の警告"</string>
   <string name="data_traffic_stop">"停止"</string>
+  <string name="debug_mode_toast">デバッグモードが有効です</string>
   <string name="delete">"削除"</string>
   <string name="delete_bookmark">"削除"</string>
   <string name="delete_bookmark_action_warning">"ブックマークを削除しますか？"</string>
   <string name="delete_bookmark_group_warning">"\"%s\"を削除しますか？このグループ内のすべてのブックマークが削除されます。"</string>
   <string name="delete_bookmark_warning">"ブックマーク\"%s\"を削除しますか？"</string>
   <string name="delete_download">"削除"</string>
+  <string name="diagnosis_log_send_failed">診断ログの送信に失敗しました。</string>
+  <string name="diagnosis_log_sent_format">"診断ログが送信されました。
+ID:%s
+このコードを技術者に送ってください。"</string>
   <string name="dialog_cannot_resume">"ダウンロードが中断されました"</string>
   <string name="dialog_clipboard_tabs_action">タップして開く</string>
   <string name="dialog_clipboard_tabs_tip">Find already copied links</string>
@@ -380,6 +384,7 @@
   <string name="finish_sync_cloud_tabs">"同期が完了しました"</string>
   <string name="firstUsingSearchEngineTips">"検索エンジンを切り替えますか？"</string>
   <string name="fling_on_border_gesture_hint">"設定でこのジェスチャーの機能を選択できます"</string>
+  <string name="for_diagnosis_usage_only">この情報は診断目的にのみ使用してください。</string>
   <string name="force_quick_search_title">"検索"</string>
   <string name="force_touch_bookmark_history_title">"ブックマークと履歴"</string>
   <string name="force_touch_infoflow_title">"ニュース"</string>
@@ -410,6 +415,8 @@
   <string name="guide_fashion_text">fashion</string>
   <string name="guide_fiction_text">fiction</string>
   <string name="guide_finance_text">finance</string>
+  <string name="guide_first_optimization_type_main_title">Wonderful videos don’t stop</string>
+  <string name="guide_first_optimization_type_sub_title">15 seconds of small video record the moment</string>
   <string name="guide_flash_type_main_title">Lightning fast</string>
   <string name="guide_flash_type_subtitle">Amazing speed, smooth UI</string>
   <string name="guide_games_text">games</string>
@@ -420,6 +427,8 @@
   <string name="guide_military_text">military</string>
   <string name="guide_motor_text">motor</string>
   <string name="guide_politics_text">politics</string>
+  <string name="guide_second_optimization_type_main_title">Relax at the play bar</string>
+  <string name="guide_second_optimization_type_sub_title">Entertainment Gossip, Military Hotspots, Latest Movies and TV, Emotional Variety</string>
   <string name="guide_skip">Skip</string>
   <string name="guide_slide_down">下にスライドしてください</string>
   <string name="guide_slide_up">上にスライドしてください</string>
@@ -945,6 +954,7 @@
   <string name="page_info">"ページ情報"</string>
   <string name="page_info_address">"アドレス:"</string>
   <string name="page_info_view">"ページ情報を表示"</string>
+  <string name="passport_oauth_sucess_tip">Authorized success</string>
   <string name="password">"パスワード"</string>
   <string name="pause_download">Paused</string>
   <string name="paused_queued_for_wifi">"接続を待っています…"</string>
@@ -1000,6 +1010,7 @@
   <string name="pref_content_night_read_mode">Night mode</string>
   <string name="pref_content_search_engine">"検索エンジンの設定"</string>
   <string name="pref_content_search_engine_summary">"検索エンジンを選択してください"</string>
+  <string name="pref_debug_mode">デバッグモード</string>
   <string name="pref_download_setting">ダウンロード設定</string>
   <string name="pref_enable_adblock_notification">"Ad blockerの通知を表示する"</string>
   <string name="pref_enable_news">News</string>
@@ -1156,6 +1167,8 @@
   <string name="search_label">"ブラウザ"</string>
   <string name="search_menu_title">"検索"</string>
   <string name="search_notification_btn_title">検索</string>
+  <string name="search_notification_guide_content">Experience now</string>
+  <string name="search_notification_guide_title">Swipe the top of the screen and experience a quick search!</string>
   <string name="search_path_browser">"設定/インストール済みアプリ/ブラウザ"</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">"ブックマークとウェブ履歴"</string>
@@ -1177,7 +1190,9 @@
   <string name="select_download_device">"デバイスを選択"</string>
   <string name="send_comment_button">"送信"</string>
   <string name="send_comment_title">"コメント"</string>
+  <string name="send_diagnosis_log">診断ログを送信</string>
   <string name="senddesktop">"ホーム画面"</string>
+  <string name="sending">送信中…</string>
   <string name="sendstartpage">"スタートページ"</string>
   <string name="sequence_bookmark_description">"長押ししてブックマークの並び順を変更する"</string>
   <string name="share_by_yidianzixun">【ちょっとした情報】</string>
@@ -1207,6 +1222,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="small_video_ad_app_text_resume">再開</string>
   <string name="small_video_ad_web_text">開く</string>
   <string name="small_video_boba_tab">Broadcast</string>
+  <string name="small_video_comment">すべてのコメント</string>
+  <string name="small_video_comment_input_hint">コメントを入力してください</string>
   <string name="small_video_load_failed">読み込み失敗</string>
   <string name="small_video_loading">読み込み中…</string>
   <string name="small_video_main_tab">Recommend</string>
@@ -1296,6 +1313,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="tab_yellowpage">"リンク"</string>
   <string name="tabs_description">"タブ"</string>
   <string name="temp_refuse">"結構です"</string>
+  <string name="temporary_not_available">一時的に利用できません</string>
   <string name="title_bar_loading">"読み込み中…"</string>
   <string name="title_notice_push">"通知をオンにする"</string>
   <string name="too_many_windows_dialog_message">"新しいタブを開くには1つ閉じる必要があります。"</string>

@@ -89,7 +89,7 @@
   <string name="current_preview">"プレビュー"</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">"選択する"</string>
-  <string name="default_screen_preview_title">"タップしてデフォルト画面を設定"</string>
+  <string name="default_screen_preview_title">"デフォルト画面を設定"</string>
   <string name="delete">"削除"</string>
   <string name="delete_screen">"画面を削除"</string>
   <string name="delete_wallpaper_message">"%1$d枚の壁紙を削除しますか？"</string>
@@ -103,6 +103,7 @@
   <string name="edit_mode_group_error_full">"空きスペースがありません"</string>
   <string name="edit_mode_group_error_in_folder">"アイコンをグループ化する前にフォルダを閉じる"</string>
   <string name="edit_mode_group_error_one_folder">"選択したアイコンでフォルダを複製できません"</string>
+  <string name="edit_mode_top_menu_finish">完了</string>
   <string name="edit_mode_uninstall">"削除"</string>
   <string name="editing_add_widget_tips">"ウィジェットを編集"</string>
   <string name="editing_mode_enter_tip_text">"ピンチインしてホーム画面を編集"</string>
@@ -204,6 +205,7 @@
   <string name="menu_default_screen_preview">"デフォルト画面を設定"</string>
   <string name="menu_edit">"ホーム画面を編集"</string>
   <string name="menu_exit_scene">"Mi Spaceを終了"</string>
+  <string name="menu_finish">完了</string>
   <string name="menu_item_add_item">"ホーム画面に設置"</string>
   <string name="menu_launcher_setting">"ランチャーの設定"</string>
   <string name="menu_lock">"ホーム画面のレイアウトをロック"</string>
@@ -338,4 +340,5 @@
   <string name="widget_gadget_player">"音楽"</string>
   <string name="widget_global_search">"検索"</string>
   <string name="widget_quick_function">"クイック機能"</string>
+  <string name="widgets_preview_title">ウィジェットを追加</string>
 </resources>

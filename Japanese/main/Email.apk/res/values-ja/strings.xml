@@ -445,6 +445,7 @@
   <string name="folder_drafts_name_en0">Drafts</string>
   <string name="folder_drafts_name_en1">Draft</string>
   <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
+  <string name="folder_empty_to_fresh">"Mail isn't synced. Pull down to sync."</string>
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
@@ -455,6 +456,7 @@
   <string name="folder_junk_name_en4">Junk</string>
   <string name="folder_list_display_all">"すべてのフォルダを表示"</string>
   <string name="folder_list_display_only_import">重要なフォルダのみ表示</string>
+  <string name="folder_no_mails">このフォルダにはメールがありません</string>
   <string name="folder_picker_title">"フォルダを選択"</string>
   <string name="folder_removed">"%1$sから削除しました"</string>
   <string name="folder_sent_name_en0">"送信済み"</string>
@@ -1018,6 +1020,7 @@ to receive reminders about payments and trips"</string>
   <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
   <string name="toast_bar_open_gmail_synchronization">"Gmailに接続できませんでした。Gmailプロキシをオンにします。"</string>
   <string name="toast_bar_send_fail_remind">"メールを送信できませんでした。\"送信\"フォルダに保存されています。"</string>
+  <string name="toast_bar_sync_failed_mi_authority">同步失败，请稍后尝试。新设备登录，请通过内网账号中心或短信提示对设备授权。</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">"カレンダー情報と連絡先を同期するには、[設定]から必要な権限を許可してください"</string>
   <string name="toastbar_calendar_permission_switch_close">"カレンダーの通知を受信するには、[設定]からメールアプリに必要な権限を許可してください"</string>
   <string name="toastbar_contacts_permission_switch_close">"連絡先を追加するには、[設定]からメールアプリに必要な権限を許可してください"</string>
@@ -1081,6 +1084,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">"その他"</string>
   <string name="wipe_account_fail_description">"許可"</string>
+  <string name="wipe_account_fail_description_remind">データのアクセス許可のため、アカウントを削除した後、カレンダーや連絡先にデータが残っている可能性があります。手動で削除してください。</string>
   <string name="wipe_account_fail_title">"個人情報を削除できませんでした"</string>
   <string name="wps_title">WPS Mail</string>
   <string name="wrong_password">"入力したパスワードが正しくありません"</string>

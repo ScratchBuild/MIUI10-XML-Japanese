@@ -46,6 +46,8 @@
   <string name="HIPS_Perm_Settings_Desc">"システム設定を変更する"</string>
   <string name="HIPS_Perm_SystemAlert">"ポップアップウィンドウの表示"</string>
   <string name="HIPS_Perm_SystemAlert_Desc">"ポップアップウィンドウを表示する"</string>
+  <string name="HIPS_Perm_UDevice_ID">Share parts of device info with game developers to help them improve your gaming experience. Agree?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">share parts of device info with game developers to help them improve your gaming experience. Agree?</string>
   <string name="HIPS_Perm_VideoRecorder">Access camera</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">access camera for image or video capture</string>
   <string name="HIPS_Perm_WIFI_Connectivity">"Wi-Fi接続の変更"</string>

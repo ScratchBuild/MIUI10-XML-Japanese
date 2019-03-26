@@ -694,6 +694,7 @@
   <string name="version_info">Version</string>
   <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
   <string name="vip_required_with_song">%s is available to PRO members only. Skipped this song for now.</string>
+  <string name="voice_search_first_hint">音声検索を試してみてください。</string>
   <string name="wifi_required_body" formatted="false">"Connect to Wi-Fi to complete this %s download.
 
 Tap %s to start this download the next time you're connected to a Wi-Fi network."</string>

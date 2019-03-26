@@ -206,7 +206,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Graphical</item>
-        <item>Percentage</item>
+        <item>Percentage(in the icon)</item>
+        <item>Percentage(next to the icon)</item>
         <item>Top bar</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -367,16 +368,6 @@
         <item>PIN</item>
         <item>パスワード</item>
     </string-array>
-    <string-array name="check_importance_entries">
-        <item>推奨</item>
-        <item>重要</item>
-        <item>重要でない</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>MIUIがどの通知を直接表示するのかを判断します</item>
-        <item>通知は通知シェードに表示されます</item>
-        <item>通知は別のフォルダに表示されます</item>
-    </string-array>
     <string-array name="color_mode_descriptions">
         <item>拡張色</item>
         <item>目に自然な色</item>
@@ -476,6 +467,16 @@
     <string-array name="fluency_mode_summaries">
         <item>デバイスのパフォーマンスを高速化します</item>
         <item>デバイスのパフォーマンスが低下する可能性があります</item>
+    </string-array>
+    <string-array name="fold_entries">
+        <item>推奨</item>
+        <item>重要</item>
+        <item>重要でない</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>MIUIがどの通知を直接表示するのかを判断します</item>
+        <item>通知は通知シェードに表示されます</item>
+        <item>通知は別のフォルダに表示されます</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5インチ</item>
@@ -594,6 +595,10 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graphical</item>
         <item>Percentage</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>検索</item>
+        <item>設定</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>なし</item>
@@ -779,9 +784,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>許可</item>
         <item>拒否</item>
     </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>検索</item>
-        <item>設定</item>
+    <string-array name="time_format_entries">
+        <item>12時間 1:00 PM</item>
+        <item>24時間 13:00</item>
+        <item>自動 (システム言語に基づく)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>アメリカ</item>

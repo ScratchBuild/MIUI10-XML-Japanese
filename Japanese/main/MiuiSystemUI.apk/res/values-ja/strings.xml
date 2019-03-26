@@ -188,6 +188,8 @@
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="aod_dual_togother">HH:MM</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
+  <string name="aod_lock_screen_date">M月d日 EEEE</string>
+  <string name="aod_lock_screen_date_12">M月d日 EEEE</string>
   <string name="apn_settings_not_available">このユーザーはアクセスポイント名設定を利用できません</string>
   <string name="app_info">アプリ情報</string>
   <string name="app_label">システムUI</string>
@@ -560,6 +562,7 @@
   <string name="face_unlock_rotated_right">"頭を左に向けてください"</string>
   <string name="face_unlock_sc_status">Push the screen down to open camera</string>
   <string name="face_unlock_stay_away_screen">"画面から25～40cmの位置で保持してください"</string>
+  <string name="face_unlock_success">顔データを確認しました</string>
   <string name="face_unlock_success_stay_screen_msg">顔が認識された後もロック画面に留まります。ホーム画面を開くには上にスワイプしてください。</string>
   <string name="face_unlock_success_stay_screen_title">ロック解除後もロック画面に留まる</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>

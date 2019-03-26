@@ -28,6 +28,8 @@
   <string name="already_updated">更新済み</string>
   <string name="app_label">メッセージ</string>
   <string name="app_name">デバイス</string>
+  <string name="application_list_title">Mini apps</string>
+  <string name="attach_group_chat">グループチャット</string>
   <string name="attach_image">画像</string>
   <string name="attach_rcs_file">ファイル</string>
   <string name="attach_rcs_location">位置情報</string>
@@ -39,6 +41,7 @@
   <string name="attach_take_photo">写真撮影</string>
   <string name="attach_transaction">送金</string>
   <string name="attach_video">動画</string>
+  <string name="attach_video_call">ビデオ通話</string>
   <string name="audio_download_failed">"音声をダウンロードできませんでした"</string>
   <string name="audio_message_expired">"この音声メッセージは期限切れです。"</string>
   <string name="audio_message_mx_offline">"音声をダウンロードできませんでした。Mi Messageがオフラインか、または利用できません。"</string>
@@ -71,6 +74,7 @@
   <string name="button_unfold">Unfold</string>
   <string name="call_sender">送信者に電話</string>
   <string name="can_not_send_by_rcs">"Can't use China Mobile Messaging"</string>
+  <string name="can_not_view_group_chat_stranger">"Can't view the details of strangers."</string>
   <string name="cannot_add_picture_and_video">"1つのスライドに動画と写真を追加することはできません。"</string>
   <string name="cannot_add_slide_anymore">"スライドを追加できません。"</string>
   <string name="cannot_forward_drm_obj">"DRMオブジェクトが含まれるメッセージは転送できません。"</string>
@@ -127,6 +131,7 @@
   <string name="confirm_restore_positive">復元</string>
   <string name="confirm_restore_title">メッセージを復元</string>
   <string name="confirm_send_mms">宛先の一つにEメールアドレスが含まれています。このメッセージはMMSとして送信されますので、ご契約中のキャリアから追加料金が請求されます。</string>
+  <string name="contact_not_exists">このユーザーは連絡先に登録されていません。</string>
   <string name="context_menu_add_calendar">カレンダーに追加</string>
   <string name="context_menu_add_contact">連絡先に追加</string>
   <string name="context_menu_add_to_browser_favorite">ブラウザのブックマークに追加</string>
@@ -247,6 +252,7 @@
   <string name="group_verification_codes_title">ワンタイムパスワードのグループ化</string>
   <string name="group_view_settings_disolved">"Can't view items. This group chat was deleted."</string>
   <string name="group_view_settings_not_memeber">"Can't view items. You aren't a member of this group chat."</string>
+  <string name="groupchat_list_title">グループチャット</string>
   <string name="guild_add_attachments">タップして顔文字・その他のアイテムを追加</string>
   <string name="guild_add_recipients">タップして連絡先に宛先を追加</string>
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
@@ -288,6 +294,7 @@
   <string name="menu_edit">編集</string>
   <string name="menu_forward">転送</string>
   <string name="menu_lock">お気に入りに追加</string>
+  <string name="menu_make_call">通話</string>
   <string name="menu_mark">マーク</string>
   <string name="menu_more">続き</string>
   <string name="menu_new_contact">新規連絡先</string>
@@ -298,6 +305,7 @@
   <string name="menu_traffic_destination">宛先</string>
   <string name="menu_unlock">お気に入りから削除</string>
   <string name="menu_view_contact">連絡先を表示</string>
+  <string name="menu_view_group_info">グループ情報</string>
   <string name="message_class_label">"メッセージクラス: "</string>
   <string name="message_contact">"連絡先: "</string>
   <string name="message_details_title">メッセージの詳細</string>
@@ -407,6 +415,7 @@
   <string name="no_block_button_msg">ブロックを解除</string>
   <string name="no_conversations">スレッドがありません</string>
   <string name="no_delivery_report">配達レポートなし</string>
+  <string name="no_network_description">ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
   <string name="no_subject">(件名なし)</string>
   <string name="no_subject_view">(件名なし)</string>
   <string name="non_english_subject_limit">13文字</string>
@@ -527,6 +536,9 @@
   <string name="prvate_contact">プライベートの連絡先</string>
   <string name="quick_reply">返信</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">設定を変更</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">"Messages up to 900B can be converted and sent as SMS when network signal is poor. Tap \"Change settings\" if you don't want to convert your messages to SMS."</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">SMSに変換</string>
   <string name="rcs_auto_resend_mms">Convert to MMS</string>
   <string name="rcs_auto_resend_sms">Convert to SMS</string>
   <string name="rcs_auto_resume">Resume interrupted uploads automatically</string>
@@ -537,10 +549,12 @@
   <string name="rcs_forward_faild">"Couldn't forward"</string>
   <string name="rcs_forward_successful">Forwarded successfully</string>
   <string name="rcs_group_notification_invitation">Group chat invitation</string>
+  <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
   <string name="rcs_message">China Mobile Messaging</string>
   <string name="rcs_message_disable">"Can't view this message in Second space"</string>
   <string name="rcs_msg">China Mobile Messaging</string>
   <string name="rcs_not_online">"Can't use China Mobile Messaging. Check your network settings and try again."</string>
+  <string name="rcs_offline">Not signed in to UC. Wait a minute or two and try again.</string>
   <string name="rcs_offline_hint">"China Mobile Messaging is offline. Can't forward this message."</string>
   <string name="rcs_recipient_type_contact">Forward to contact</string>
   <string name="rcs_recipient_type_group">Forward to group chat</string>
@@ -637,6 +651,7 @@
   <string name="security_alert_dialog_title">レポート</string>
   <string name="select_audio">音声の選択</string>
   <string name="select_bottom_text">下部のテキスト</string>
+  <string name="select_copy_text">コピーするテキストを選択</string>
   <string name="select_different_attachment">別の添付ファイルを選択してください。</string>
   <string name="select_different_audio">別の音声を選択してください。</string>
   <string name="select_different_picture">別の画像を選択してください。</string>

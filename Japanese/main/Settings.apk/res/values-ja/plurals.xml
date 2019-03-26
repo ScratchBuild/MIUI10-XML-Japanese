@@ -287,10 +287,6 @@
         <item quantity="other">%d 件の非表示のアイテムを表示</item>
         <item quantity="one">%d 件の非表示のアイテムを表示</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">"通知領域に%1$d個のトグルが表示されます"</item>
-        <item quantity="one">"通知領域に%1$d個のトグルが表示されます"</item>
-    </plurals>
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">オーディオログの取得開始まであと%1$dステップです。</item>
         <item quantity="one">オーディオログの取得開始まであと%1$dステップです。</item>

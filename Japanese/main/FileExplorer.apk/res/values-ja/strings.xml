@@ -79,7 +79,6 @@
   <string name="category_type_other">"その他"</string>
   <string name="category_video">"動画"</string>
   <string name="category_zip">"圧縮ファイル"</string>
-  <string name="change_sticker">"別のステッカーを選択"</string>
   <string name="choose_report_comment_reason">"なぜあなたはこのコメントを報告しましたか？"</string>
   <string name="choose_report_reason">"なぜあなたはこの動画を報告しましたか？"</string>
   <string name="clean_hint">"空き容量を増やすにはタップ"</string>
@@ -776,7 +775,6 @@
   <string name="video_upload_wechat_hint">"より多くのファンを獲得するために、WeChatに動画をアップロード。"</string>
   <string name="video_uploaded">Uploaded</string>
   <string name="view_master_rank">View Youliao top</string>
-  <string name="view_more_sticker">View more stickers</string>
   <string name="view_top_rank">"ランキングを表示"</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="wechat_btn_bind">WeChat</string>
