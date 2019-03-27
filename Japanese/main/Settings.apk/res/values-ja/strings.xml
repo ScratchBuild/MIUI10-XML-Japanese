@@ -2352,8 +2352,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_anim_rhythm">Rhythm</string>
   <string name="gxzw_anim_star">Starlight</string>
   <string name="gxzw_anim_title">Fingerprint animation</string>
-  <string name="gxzw_aod_show_summary">Fingerprint icon will be displayed when the screen is off. This feature increases system power consumption.</string>
-  <string name="gxzw_aod_show_tittle">Show fingerprint icon when the screen is off</string>
   <string name="gxzw_dialog_message">画面内指紋センサーが正常に動作するためには、スクリーンプロテクターを使用しないでください。それでもスクリーンプロテクターが必要な場合には、認可された互換性のある製品の中から選択してください。</string>
   <string name="gxzw_dialog_not_show_again">次回から表示しない</string>
   <string name="gxzw_dialog_ok">OK</string>
