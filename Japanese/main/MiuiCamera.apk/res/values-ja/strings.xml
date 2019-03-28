@@ -127,6 +127,7 @@
   <string name="custom_watermark_words">Custom watermark</string>
   <string name="custom_watermark_words_input_hint">Enter text</string>
   <string name="custom_watermark_words_save_success">Saved successfully</string>
+  <string name="dialog_google_lens_option_0">Googleレンズ (推奨)</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_ok_time">OK (&lt;g id="NUMBER">%d&lt;/g>秒)</string>
   <string name="do_not_remind_me">"次回から表示しない"</string>
@@ -409,12 +410,14 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_jpegquality_entry_normal">"標準"</string>
   <string name="pref_camera_jpegquality_title">"画質"</string>
   <string name="pref_camera_long_press_shutter_feature_title">"シャッターボタンを長押し"</string>
-  <string name="pref_camera_long_press_viewfinder_title">ファインダーを長押し</string>
+  <string name="pref_camera_long_press_viewfinder_google_lens">Googleレンズ</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Lock</string>
+  <string name="pref_camera_long_press_viewfinder_title">ファインダー設定</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">"連続撮影"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">"フォーカス"</string>
   <string name="pref_camera_long_pressing_shutter_title">"AE/AF/AWBをロックするにはシャッターボタンを長押し"</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Googleレンズ</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Lock</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF Lock</string>
   <string name="pref_camera_magic_mirror_title">"マジックミラー"</string>
   <string name="pref_camera_manual_mode_title">"マニュアル"</string>
   <string name="pref_camera_mono_mode_title">B&amp;W</string>

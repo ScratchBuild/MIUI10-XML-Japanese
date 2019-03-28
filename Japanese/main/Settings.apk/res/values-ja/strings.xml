@@ -5022,6 +5022,7 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_all_app_display_loading">読み込み中…</string>
   <string name="status_bar_settings_expand_top_notification">Expand top notification</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on secure lock screen</string>
+  <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_notification_bar">通知領域</string>
   <string name="status_bar_settings_notification_led_custom">色を変更</string>
   <string name="status_bar_settings_notification_sound_custom">音を変更</string>
