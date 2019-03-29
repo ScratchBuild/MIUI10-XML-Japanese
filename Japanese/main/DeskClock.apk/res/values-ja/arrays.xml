@@ -44,11 +44,6 @@
         <item>"25分"</item>
         <item>"30分"</item>
     </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>White</item>
-        <item>Black</item>
-        <item>Auto</item>
-    </string-array>
     <string-array name="snooze_duration_entries">
         <item>"1分"</item>
         <item>"5分"</item>
