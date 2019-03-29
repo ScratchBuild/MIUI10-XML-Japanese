@@ -13,8 +13,6 @@
   <string name="accessibility_bokeh_level">F%1$s aperture</string>
   <string name="accessibility_bokeh_normal">Front camera background blur is off</string>
   <string name="accessibility_bokeh_on">Front camera background blur is on</string>
-  <string name="accessibility_bokeh_normal">Front camera background blur is off</string>
-  <string name="accessibility_bokeh_on">Front camera background blur is on</string>
   <string name="accessibility_camera_lighting_close_panel">Closed lighting menu</string>
   <string name="accessibility_camera_lighting_open_panel">Opened lighting menu</string>
   <string name="accessibility_camera_liveshot_off">ダイナミック撮影がオフです</string>
