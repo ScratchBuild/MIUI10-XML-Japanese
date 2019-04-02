@@ -413,6 +413,7 @@
   <string name="fdn_list_with_label">発信番号制限リスト (%s)</string>
   <string name="fdn_summary">FDN(発信先固定)リストに記載されているか、特定のプレフィックスを持つ番号への発信を制限</string>
   <string name="fdn_with_label">発信番号制限 (%s)</string>
+  <string name="fiveg_switch_title">5Gネットワーク</string>
   <string name="flash_when_ring_summary">着信時に通知LEDを点滅させます。</string>
   <string name="flash_when_ring_title">着信時にLEDを点滅</string>
   <string name="fw_change_failed">"転送番号を変更できませんでした。\nこの問題が続くようであれば携帯通信会社にお問い合わせください。"</string>

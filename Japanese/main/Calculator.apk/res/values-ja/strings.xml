@@ -93,9 +93,7 @@
   <string name="loan_interest_rate">利子</string>
   <string name="loan_pay_years">ローン期間</string>
   <string name="loan_payback_way">返済</string>
-  <string name="loan_repayment_detail">Detailed repayment</string>
   <string name="loan_repayment_detail_loading">Loading detailed repayment…</string>
-  <string name="loan_repayment_detail_unit">Detailed repayment (CNY)</string>
   <string name="loan_unit">(×10K)</string>
   <string name="menuDesc">メニュー</string>
   <string name="minusDesc">引く</string>

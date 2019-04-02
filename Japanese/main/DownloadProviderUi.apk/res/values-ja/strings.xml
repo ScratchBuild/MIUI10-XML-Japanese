@@ -36,6 +36,8 @@
   <string name="choose_open_picture">"アクションを選択"</string>
   <string name="choose_open_time">"開始するタイミングを選択"</string>
   <string name="clear_data">"消去"</string>
+  <string name="close">閉じる</string>
+  <string name="close_ad">広告を閉じる</string>
   <string name="complete_time">"完了済み:"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">"%d個のダウンロードが削除されます。"</string>

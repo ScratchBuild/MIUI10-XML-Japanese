@@ -23,8 +23,10 @@
   <string name="btn_continue">続行</string>
   <string name="btn_restore_abort">キャンセル</string>
   <string name="btn_restore_cancel">キャンセル</string>
+  <string name="btn_restore_continue">Restore anyway</string>
   <string name="btn_restore_resume">再開</string>
   <string name="btn_restore_retry">再試行</string>
+  <string name="btn_restore_wait">Wait for WLAN</string>
   <string name="btn_retry">再確認</string>
   <string name="btn_skip">この手順をスキップ</string>
   <string name="button_cancel">キャンセル</string>
@@ -92,7 +94,7 @@
   <string name="desktop_downloading">ダウンロード中</string>
   <string name="desktop_failed">エラー</string>
   <string name="desktop_installing">インストール中</string>
-  <string name="desktop_wait_wifi">待機中</string>
+  <string name="desktop_wait_network">待機中…</string>
   <string name="desktop_waiting">待機中</string>
   <string name="device_delete_prompt">%sのバックアップを削除しますか？</string>
   <string name="dialog_btn_next">次へ</string>
@@ -105,6 +107,7 @@
   <string name="dialog_msg_restore_require_wlan">バックアップを復元するにはWi-Fi接続が必要です。</string>
   <string name="dialog_title_require_wlan">Wi-Fiに接続</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="doing_calc_backup_data_size">サイズを計算中…</string>
   <string name="doing_restore_home">ホーム画面と設定を復元中…</string>
   <string name="done_remove">正常に削除されました</string>
   <string name="download_home_data">ホーム画面のレイアウトをダウンロード中…</string>
@@ -130,6 +133,9 @@
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">アイテムを復元中です、今すぐ停止しますか？</string>
   <string name="msg_alert_restore_error">Mi Cloudからアイテムを復元できませんでした。もう一度お試しください。</string>
+  <string name="msg_restore_start_with_metered_network">"Your Home screen will be relaunched. Backed up apps will be downloaded automatically. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_with_metered_network_hint">If you proceed to restore these items, mobile data will be used for downloading.</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; of files will be downloaded."</string>
   <string name="network_error">ネットワークに接続</string>
   <string name="no_account">Mi Accountにログインしていません。</string>
   <string name="no_backup">Mi Cloudにバックアップはありません。</string>
@@ -155,9 +161,24 @@
   <string name="remove_task_in_process">削除中…</string>
   <string name="remove_task_unfinished">削除が完了していません</string>
   <string name="remove_unfinished">削除中、後ほど再試行してください</string>
+  <string name="restore_app_order_finish">完了</string>
+  <string name="restore_app_order_loading">読み込み中…</string>
+  <string name="restore_app_order_retry">再試行</string>
+  <string name="restore_app_order_retry_desc">"Couldn't connect to the network.
+Check your network settings and try again."</string>
+  <string name="restore_app_order_search_hint">Search for items to set priority</string>
+  <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
+  <string name="restore_app_order_search_installed">Apps on this device</string>
+  <string name="restore_app_order_search_normal">Regular-priority apps</string>
+  <string name="restore_app_order_search_prior">High-priority apps</string>
+  <string name="restore_app_order_title">Prioritize restored items</string>
   <string name="restore_cloud_backup_to_phone">Mi Cloudからアイテムを復元</string>
   <string name="restore_data_summary">この機能にはインターネットへの接続が必要です。</string>
   <string name="restore_data_title">データを復元</string>
+  <string name="restore_detail_category_apps">Home screen layout &amp; apps</string>
+  <string name="restore_detail_category_settings">設定</string>
+  <string name="restore_detail_more">More</string>
+  <string name="restore_detail_title">Select items to restore</string>
   <string name="restore_finish_description">復元が完了しました</string>
   <string name="restore_finished_notification_content">ホーム画面のアプリ、システム設定、その他を復元しました。</string>
   <string name="restore_from_cloud">Mi Cloudバックアップから復元</string>
@@ -165,6 +186,8 @@
   <string name="restore_home_failed">ホーム画面を復元できませんでした。</string>
   <string name="restore_home_screen_apps">Mi Cloudバックアップから復元</string>
   <string name="restore_init_description">復元を開始中</string>
+  <string name="restore_network_pause">%s (Tap to resume)</string>
+  <string name="restore_network_unconnect">%s (Waiting for connection)</string>
   <string name="restore_task_cancelling">キャンセル中…</string>
   <string name="restore_task_in_process">復元中…</string>
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
@@ -180,6 +203,7 @@
   <string name="success_open_cloudbackup">ホーム画面のアプリのバックアップをオンにしました</string>
   <string name="title_alert_cancel_restore">復元を停止する</string>
   <string name="title_alert_restore_error">復元できませんでした</string>
+  <string name="title_restore_with_current_network">Using current connection for downloading files</string>
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
   <string name="try_continue">続行するにはタップ</string>

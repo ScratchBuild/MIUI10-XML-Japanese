@@ -184,6 +184,7 @@
   <string name="is_system_wallpaper_message">"システムリソースは削除できません"</string>
   <string name="launcher_auto_fill_empty_title">空のセルを埋める</string>
   <string name="launcher_not_exist">"エラーが発生しました。ホーム画面に戻りもう一度やり直してください。"</string>
+  <string name="launcher_sliding_up_gesture">ホーム画面を上にスワイプして検索を開きます</string>
   <string name="launcher_title">ホーム画面と履歴</string>
   <string name="like">お気に入りに追加</string>
   <string name="liked">お気に入りに追加済み</string>

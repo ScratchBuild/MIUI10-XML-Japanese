@@ -623,6 +623,7 @@
   <string name="guest_wipe_session_message">セッションを続行しますか？</string>
   <string name="guest_wipe_session_title">おかえりなさい、ゲストさん</string>
   <string name="guest_wipe_session_wipe">最初から開始</string>
+  <string name="gxzw_area">指紋スキャナー</string>
   <string name="gxzw_press_harder">"強く押してください"</string>
   <string name="gxzw_try_again">"もう一度やり直す"</string>
   <string name="gxzw_try_more_again">"もう一度やり直す"</string>
@@ -870,6 +871,10 @@
   <string name="lock_screen_carrier_airplane_mode_on">機内モード</string>
   <string name="lock_screen_date">M月d日 EEEE</string>
   <string name="lock_screen_date_12">M月d日 EEEE</string>
+  <string name="lock_screen_date_two_lines">"M月d日
+EEEE"</string>
+  <string name="lock_screen_date_two_lines_12">"M月d日
+EEEE"</string>
   <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">"その他"</string>

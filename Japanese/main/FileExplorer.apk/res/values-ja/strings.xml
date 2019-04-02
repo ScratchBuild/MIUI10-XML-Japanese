@@ -219,6 +219,8 @@
   <string name="found_usb">"USBストレージが接続されました"</string>
   <string name="ftp_account_req_notice">"4～16桁の英数字を含める必要があります(大文字と小文字は区別)"</string>
   <string name="ftp_anonymous_login">"匿名ログイン"</string>
+  <string name="ftp_anonymous_warning_msg">匿名化機能はセキュリティ上のリスクをもたらす可能性があります。とにかく使用しますか？</string>
+  <string name="ftp_anonymous_warning_title">注意</string>
   <string name="ftp_invalid_username_or_password">"入力したユーザー名またはパスワードが無効です。"</string>
   <string name="ftp_open_port_error">"ポートを開けません。ネットワーク接続を確認するか、ポート番号をリセットします。"</string>
   <string name="ftp_password_hint">"パスワード"</string>
@@ -240,6 +242,7 @@
   <string name="group_title_extra_new">"新規"</string>
   <string name="handsome_boy">"男性"</string>
   <string name="has_installed">"インストール済み"</string>
+  <string name="home_action_up">戻る</string>
   <string name="homepage_tab_category">"カテゴリー"</string>
   <string name="homepage_tab_file_view_phone">"ストレージ"</string>
   <string name="homepage_tab_recent">"履歴"</string>
