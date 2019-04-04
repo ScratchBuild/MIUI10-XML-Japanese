@@ -1485,7 +1485,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="optimize_result_button_update_now">"更新"</string>
   <string name="optimize_result_summary_sucurity_risk">"一部のセキュリティ機能がオフになっています。これらの機能を有効にして、端末のセキュリティを強化します:"</string>
   <string name="optimize_result_title_sucurity_risk">"セキュリティリスクが見つかりました"</string>
-  <string name="optimize_result_title_uninstall_apps">"アプリ"</string>
+  <string name="optimize_result_title_uninstall_apps">アプリをアンインストール</string>
   <string name="optimize_result_toast_system_no_item_selected">"アイテムが選択されていません"</string>
   <string name="optmizingbar_optimize_done">Optimized</string>
   <string name="optmizingbar_ready">"最適化しています…"</string>
