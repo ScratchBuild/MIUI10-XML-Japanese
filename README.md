@@ -6,7 +6,7 @@
 XIAOMI.EU 多言語対応ROM 日本語翻訳リポジトリ
 
 ![Percentage of translated strings](https://img.shields.io/badge/translated-83%25-brightgreen.svg)
-[![commit activity the past year](https://img.shields.io/github/commit-activity/y/ScratchBuild/MIUI10-XML-Japanese.svg)](https://github.com/ScratchBuild/MIUI10-XML-Japanese/graphs/commit-activity)
+[![commit activity the past month](https://img.shields.io/github/commit-activity/m/ScratchBuild/MIUI10-XML-Japanese.svg)](https://github.com/ScratchBuild/MIUI10-XML-Japanese/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ScratchBuild/MIUI10-XML-Japanese.svg)](https://github.com/ScratchBuild/MIUI10-XML-Japanese/issues "GitHub issues")
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
