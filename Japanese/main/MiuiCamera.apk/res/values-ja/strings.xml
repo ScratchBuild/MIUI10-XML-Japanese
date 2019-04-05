@@ -443,9 +443,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Full screen 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Full screen</string>
+  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
   <string name="pref_camera_portrait_mode_entry_on">Portrait mode is on</string>
