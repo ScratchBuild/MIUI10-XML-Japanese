@@ -164,10 +164,9 @@
   <string name="restore_app_order_finish">完了</string>
   <string name="restore_app_order_loading">読み込み中…</string>
   <string name="restore_app_order_retry">再試行</string>
-  <string name="restore_app_order_retry_desc">"Couldn't connect to the network.
-Check your network settings and try again."</string>
+  <string name="restore_app_order_retry_desc">"ネットワークに接続できませんでした。
+ネットワーク設定を確認して、もう一度お試しください。"</string>
   <string name="restore_app_order_search_hint">Search for items to set priority</string>
-  <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
   <string name="restore_app_order_search_installed">Apps on this device</string>
   <string name="restore_app_order_search_normal">Regular-priority apps</string>
   <string name="restore_app_order_search_prior">High-priority apps</string>
@@ -203,7 +202,7 @@ Check your network settings and try again."</string>
   <string name="success_open_cloudbackup">ホーム画面のアプリのバックアップをオンにしました</string>
   <string name="title_alert_cancel_restore">復元を停止する</string>
   <string name="title_alert_restore_error">復元できませんでした</string>
-  <string name="title_restore_with_current_network">Using current connection for downloading files</string>
+  <string name="title_restore_with_current_network">現在の接続を使用してファイルをダウンロードする</string>
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
   <string name="try_continue">続行するにはタップ</string>

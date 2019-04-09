@@ -412,7 +412,7 @@ Increase the security of your account."</string>
   <string name="push_message_switch">Push notifications</string>
   <string name="push_message_tips">Turn on to receive push notifications</string>
   <string name="pw_category">カテゴリー</string>
-  <string name="pw_channels">Channels</string>
+  <string name="pw_channels">チャンネル</string>
   <string name="pw_click_channel_scrol_to_top">Tap again to go back on top</string>
   <string name="pw_comment_back">戻る</string>
   <string name="pw_comment_detail">詳細</string>
