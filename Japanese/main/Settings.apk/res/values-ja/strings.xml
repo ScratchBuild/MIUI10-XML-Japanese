@@ -4438,7 +4438,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="se_wallet_ese">Mi PayとNFC交通カード</string>
   <string name="se_wallet_hce">HCEウォレットを使用</string>
   <string name="se_wallet_uicc">SIM%1$sのウォレットを使用</string>
-  <string name="search_about_settings">About phone;モデル番号;Android version;MIUI version;CPU;RAM;内部メモリ;メモリ;ストレージ;内部ストレージ;ベースバンドバージョン;カーネルバージョン;ビルド番号</string>
+  <string name="search_about_settings">About phone;モデル番号;Android version;MIUI version;CPU;RAM;内部メモリ;メモリ;ストレージ;内部ストレージ;ベースバンドバージョン;カーネルバージョン;ビルド番号;My device;Phone;Device</string>
   <string name="search_accelerometer_title">Auto rotate screen;Rotate screen;Orientation;Portrait;Landscape</string>
   <string name="search_access_control">プライバシー設定</string>
   <string name="search_accessibility_captioning_title">字幕</string>
@@ -4598,7 +4598,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_trusted_credentials">信頼できる認証情報;App signature;App signatures;Credentials;Signature</string>
   <string name="search_tts_settings_title">テキスト読み上げ出力;テキスト読み上げ</string>
   <string name="search_turn_on_security_lock">画面ロックの変更;画面ロックの編集;画面ロック</string>
-  <string name="search_unlogin_account_title">Mi Account; Mi Account ID;Account;Account ID</string>
+  <string name="search_unlogin_account_title">Mi Account; Mi Account ID;Account;Account ID;Xiaomi Account;Account protection;Protect account;Account security;My account</string>
   <string name="search_usb_tethering_button_text">USBテザリング;テザリング;USB</string>
   <string name="search_user_agreement">利用規約</string>
   <string name="search_user_dict_settings_title">個人辞書;辞書</string>

@@ -326,7 +326,8 @@
   <string name="no_network">"ネットワークに接続できません"</string>
   <string name="no_network_btn">"再試行"</string>
   <string name="no_title_label">"(無題)"</string>
-  <string name="no_visiable_calendar_message">"カレンダーのアカウントを追加する必要があります。続行するには[アカウントの選択]をタップします。"</string>
+  <string name="no_visiable_calendar_message">カレンダーのアカウントを追加する必要があります。続行するには\"アカウントの選択\"をタップします。</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">カレンダーのアカウントを追加する必要があります。続行するには\"アカウントの選択\"をタップします。</string>
   <string name="no_visiable_calendar_select_account">"アカウントを追加"</string>
   <string name="no_visiable_calendar_title">"カレンダーアカウントを追加"</string>
   <string name="notification_channel_name">カレンダーの通知</string>
@@ -418,6 +419,8 @@
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="setting_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="settings_calendar">"カレンダー"</string>
+  <string name="share_not_install_wechat">WeChatをインストールしてください。</string>
+  <string name="share_not_install_weibo">Weiboをインストールしてください。</string>
   <string name="share_title">"共有"</string>
   <string name="show_day_view">"日付を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>

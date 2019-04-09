@@ -396,6 +396,8 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="user_agreement_link">"Mi Cloud 利用規約"</string>
   <string name="user_agreement_p5">""</string>
   <string name="user_agreement_title">"Mi Cloud 利用規約"</string>
+  <string name="user_detail_agreement">利用規約</string>
+  <string name="user_detail_privacy_policy">プライバシーポリシー</string>
   <string name="user_storage_info_available_text_prefix">%s available</string>
   <string name="warning_bar_action_add_short_cut">追加</string>
   <string name="warning_bar_action_close">閉じる</string>
