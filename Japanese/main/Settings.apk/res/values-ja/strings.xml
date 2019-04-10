@@ -229,7 +229,7 @@
   <string name="anti_spam">ブロックリスト</string>
   <string name="aod_clock_style_title">時計のスタイル</string>
   <string name="aod_close_color_inversion">この機能は色反転と同時に使用することはできません。最初に色反転をオフにしてください。</string>
-  <string name="aod_dual_togother">HH:MM</string>
+  <string name="aod_dual_togother">HH:mm</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_got_it">OK</string>
   <string name="aod_lock_screen_date">M月d日 EEEE</string>
@@ -3513,8 +3513,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notification_fold_description1">\"通知フォルダ\"はMIUI 9で導入されました。この機能では「重要でない通知」をフィルター処理し、別のフォルダに配置します。</string>
   <string name="notification_fold_description2">MIUIはどの通知をタップしたかを記憶しておき、複数の基準を使用して重要かどうかを判断します。</string>
   <string name="notification_fold_description3">重要と思われる通知が\"通知フォルダ\"に移動してしまう場合には、この問題を我々に報告するようにしてください。改善の手助けとなるようご意見を頂けると幸いです。</string>
-  <string name="notification_fold_footer_icon_summary">重要でない通知アイコンはすべて、ストレージバーの右側に表示されます。</string>
-  <string name="notification_fold_footer_icon_title">アイコンを表示</string>
+  <string name="notification_fold_footer_icon_summary">重要でない通知がグループ化されたときにアプリアイコンを表示する</string>
+  <string name="notification_fold_footer_icon_title">アプリアイコンを表示</string>
   <string name="notification_fold_summary">重要でない通知はすべて別のフォルダに表示されます</string>
   <string name="notification_fold_title">通知フォルダ</string>
   <string name="notification_group_title">通知のカテゴリ グループ</string>

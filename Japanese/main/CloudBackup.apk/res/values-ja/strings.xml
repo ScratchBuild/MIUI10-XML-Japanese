@@ -148,8 +148,10 @@
   <string name="other_device_main_space">First space</string>
   <string name="other_device_second_space">Second space</string>
   <string name="process_whole_recovery">復元中 \"%s\"</string>
+  <string name="provision_background_restore_more_data">バックグラウンドで他のアイテムを復元する</string>
   <string name="provision_error_connect_msg">ネットワーク接続をテストして、もう一度お試しください。端末がオフラインの場合、バックアップは利用できません。</string>
   <string name="provision_error_connect_title">接続できません</string>
+  <string name="provision_restore_data">復元中のアイテム</string>
   <string name="query_restore_description">このバックアップを使用してホーム画面のアプリと設定を復元します。この操作はお使いの端末に既にインストールされているアプリのデータを上書きします。バックアップに含まれていないアプリは、ホーム画面の最後に移動します。</string>
   <string name="query_restore_summary">この端末向けのMi Cloudバックアップが見つかりました。ホーム画面のアプリと設定を復元するか、\"新しい端末\"として使用し、以前のMi Cloudバックアップを消去しますか？</string>
   <string name="recover_from_micloud">Mi Cloudバックアップから復元</string>
