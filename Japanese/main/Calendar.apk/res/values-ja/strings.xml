@@ -30,7 +30,7 @@
   <string name="agenda_month_empty_hint">"今日の予定はありません"</string>
   <string name="agenda_tomorrow">"明日: %1$s"</string>
   <string name="agenda_view">"予定リスト"</string>
-  <string name="alarm_label">"閉じる"</string>
+  <string name="alarm_label">"OK"</string>
   <string name="alert_reminder_expired">"期限切れ"</string>
   <string name="alert_title">"カレンダーの通知"</string>
   <string name="anniversary_event_title">"記念日: %1$s"</string>
@@ -59,6 +59,7 @@
   <string name="can_not_modify_allday_event">"終日の予定が変更できません"</string>
   <string name="can_not_modify_event">"予定が変更できません"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Can't change multi-day event"</string>
+  <string name="cancel_reminder_later">通知をキャンセル</string>
   <string name="card_detail_dialog_message">"%1$sを購読すると毎日最新のコンテンツが配信され、いつでも閲覧することができます。"</string>
   <string name="card_detail_dialog_negative">"今はしない"</string>
   <string name="card_detail_dialog_positive">"今すぐ購読"</string>
@@ -119,6 +120,7 @@
   <string name="date_pattern_mm_dd">M月d日</string>
   <string name="date_today">" (今日)"</string>
   <string name="day_view_new_event_hint">"+予定を追加"</string>
+  <string name="default_reminder_later_time">Default interval for \"Remind later\"</string>
   <string name="delete_recurring_event_title">"%sを削除しますか？"</string>
   <string name="delete_this_event_title">"この予定を削除しますか？"</string>
   <string name="description_calendar">"システムアプリ/カレンダー"</string>
@@ -321,6 +323,7 @@
   <string name="movie_event_title">"映画："</string>
   <string name="network_not_available">"ネットワークに接続できません"</string>
   <string name="new_event_description">"新規"</string>
+  <string name="next_alarm_time">Next reminder at %1$s</string>
   <string name="no_contact_birthday_hint">"インポートする誕生日がありません"</string>
   <string name="no_events_hint">"予定はありません"</string>
   <string name="no_network">"ネットワークに接続できません"</string>
@@ -368,6 +371,8 @@
   <string name="recommend_card_close_hint">"似たような購読のおすすめを減らす"</string>
   <string name="refresh">"更新"</string>
   <string name="refreshing_hint">"読み込み中…"</string>
+  <string name="reminder_later">Remind later</string>
+  <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminder_overdue">"期限切れ"</string>
   <string name="repeat_activity_label">"繰り返し"</string>
   <string name="repeat_custom_activity_label">"カスタム"</string>
@@ -418,9 +423,12 @@
   <string name="setting_title_holiday_display">"祝日を表示する"</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="setting_user_experience">"ユーザーエクスペリエンスプログラム"</string>
+  <string name="share_cancel">共有をキャンセルしました</string>
+  <string name="share_fail">共有に失敗しました</string>
   <string name="settings_calendar">"カレンダー"</string>
   <string name="share_not_install_wechat">WeChatをインストールしてください。</string>
   <string name="share_not_install_weibo">Weiboをインストールしてください。</string>
+  <string name="share_success">正常に共有されました</string>
   <string name="share_title">"共有"</string>
   <string name="show_day_view">"日付を表示"</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>

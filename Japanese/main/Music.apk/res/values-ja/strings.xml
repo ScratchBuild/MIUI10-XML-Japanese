@@ -77,7 +77,6 @@
   <string name="avoid_to_use_traffic_title">"モバイルデータを使用して曲を再生する前に警告"</string>
   <string name="back_confirm">"アプリをバックグラウンドで実行するにはもう一度タップ"</string>
   <string name="bluetooth_device">"Bluetoothオーディオデバイス"</string>
-  <string name="browser_error">一時的に利用できません。しばらくしてからもう一度お試しください</string>
   <string name="buffering">"バッファリング中…"</string>
   <string name="button_cancel_download">"キャンセル"</string>
   <string name="button_download_now">"今すぐダウンロード"</string>
