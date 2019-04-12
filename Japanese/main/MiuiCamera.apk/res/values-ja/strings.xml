@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"USBストレージにアクセスできません。"</string>
+  <string name="access_sd_fail">"SDカードにアクセスできません。"</string>
   <string name="accessibility_ai_scene_off">"AIカメラがオフです"</string>
   <string name="accessibility_ai_scene_on">"AIカメラがオンです"</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
@@ -85,7 +85,6 @@
   <string name="beauty_body_reset_tip">Removed figure effects successfully</string>
   <string name="beauty_body_shoulder">Shoulders</string>
   <string name="beauty_body_slim_count_tip">Figure effects work only for one person shots</string>
-  <string name="beauty_body_whole">Body</string>
   <string name="beauty_mode_reset_toast">Removed remodeling effects</string>
   <string name="beauty_reset">リセット</string>
   <string name="beauty_reset_toast">Reset figure effects successfully</string>
@@ -296,7 +295,7 @@ in Portrait mode"</string>
   <string name="multi_window_mode_not_supported">"分割画面でカメラアプリは動作しません"</string>
   <string name="network_access_user_notice_title">インターネットに接続する</string>
   <string name="no_storage">"カメラを使用する前にSDカードを挿入してください"</string>
-  <string name="not_enough_space">"内部ストレージがいっぱいです"</string>
+  <string name="not_enough_space">"SDカードがいっぱいです"</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="out_line_error_prompt">请不要遮挡脸部信息</string>
   <string name="out_line_face_occlusion">脸部被遮挡</string>
@@ -377,7 +376,6 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_title">"コントラスト"</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
-  <string name="pref_camera_delay_capture_entry_10s">10秒遅延</string>
   <string name="pref_camera_delay_capture_entry_3s">3秒遅延</string>
   <string name="pref_camera_delay_capture_entry_5s">5秒遅延</string>
   <string name="pref_camera_delay_capture_title">"タイマー"</string>

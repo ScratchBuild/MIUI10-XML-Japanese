@@ -418,6 +418,7 @@
   <string name="sc_allow_network_dialog_message">"このアプリが更新を受信するためインターネットに接続することを許可しますか？"</string>
   <string name="scanning">"スキャン中…"</string>
   <string name="search_history">"検索履歴"</string>
+  <string name="security_center_slogan">Security. Always on guard.</string>
   <string name="see_more">"その他"</string>
   <string name="set_immediately">"設定"</string>
   <string name="seton_immediately">"オンにする"</string>
