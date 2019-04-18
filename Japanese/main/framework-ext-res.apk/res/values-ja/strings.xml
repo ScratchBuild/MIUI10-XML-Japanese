@@ -90,7 +90,6 @@
   <string name="popup_camera_calibrate_now">キャリブレーション</string>
   <string name="popup_camera_calibrate_success">正常にキャリブレーションされました。前面カメラを起動してみてください。</string>
   <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
-  <string name="popup_camera_front_falied_times">前面カメラを複数回開くことができませんでした。 問題を詳しく診察するには、端末をお近くの Mi Home に持参してください。</string>
   <string name="popup_camera_popup_falied_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
   <string name="popup_camera_sure">OK</string>
   <string name="popup_camera_sure_wait">OK (%d秒)</string>
