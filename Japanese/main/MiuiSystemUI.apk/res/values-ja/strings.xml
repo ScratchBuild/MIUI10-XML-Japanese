@@ -628,6 +628,7 @@
   <string name="gxzw_try_again">"もう一度やり直す"</string>
   <string name="gxzw_try_more_again">"もう一度やり直す"</string>
   <string name="gxzw_use_password">"パスワードを使用してロックを解除"</string>
+  <string name="gxzw_use_password_to_unlock">パスワードを入力</string>
   <string name="hdcp_checking_dialog_title">HDCPチェック動作を設定</string>
   <string name="hdcp_checking_title">HDCPチェック</string>
   <string name="headset">ヘッドセット</string>

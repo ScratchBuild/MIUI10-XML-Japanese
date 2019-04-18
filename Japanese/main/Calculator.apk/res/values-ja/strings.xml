@@ -2,7 +2,12 @@
 <resources>
   <string name="app_name">電卓</string>
   <string name="app_name_danfa">Mi Calculator</string>
+  <string name="app_notification_info">Calculator is working in the background</string>
   <string name="base_rate">基本金利</string>
+  <string name="btn_float_window_alpha">Adjust opacity</string>
+  <string name="btn_float_window_back_to_app">Maximize Calculator</string>
+  <string name="btn_float_window_close">Close minimized Calculator</string>
+  <string name="btn_float_window_resize">Resize minimized calculator</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">コピー</string>
   <string name="cal_edit_mode">編集モード</string>
@@ -51,10 +56,12 @@
   <string name="error_fomrat">Format error</string>
   <string name="exit">終了</string>
   <string name="factorialDesc">階乗</string>
+  <string name="float_window_guide_text">Tap here to minimize calculator</string>
   <string name="from_unit_en">キロメートル毎時</string>
   <string name="from_unit_short">km/h</string>
   <string name="fund_loan">Fund loan</string>
   <string name="golbal_search_path_calculator_setting">システムアプリ/電卓/設定</string>
+  <string name="hint_floatwindow_alpha_guide_text">Tap to adjust opacity</string>
   <string name="home_title_calculator">電卓</string>
   <string name="interest_rate_hint">金利を入力</string>
   <string name="item_title_aa_payment">割り勘</string>
@@ -402,6 +409,7 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">%s年</string>
   <string name="updating">電卓を更新中…</string>
+  <string name="view_float_window_move">Move minimized Calculator</string>
   <string name="voiceDesc">音声コントロール</string>
   <string name="wf_word_figure">財務諸表</string>
   <string name="word_figure_guide_text">Press and hold the text to convert between cases.</string>

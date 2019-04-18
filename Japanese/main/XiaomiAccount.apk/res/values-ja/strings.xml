@@ -40,14 +40,13 @@
   <string name="account_user_base_info">"個人情報"</string>
   <string name="account_user_birthday">"誕生日"</string>
   <string name="account_user_details">"個人情報"</string>
-  <string name="account_user_email">"メール"</string>
+  <string name="account_user_email">Recovery Email</string>
   <string name="account_user_gender">"性別"</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_name">"名前"</string>
   <string name="account_user_name_dialog_title">"ユーザー名を入力"</string>
   <string name="account_user_other_info">"その他の情報"</string>
-  <string name="account_user_phone">"電話"</string>
-  <string name="account_user_recovery_phone">"予備の電話"</string>
+  <string name="account_user_phone">Recovery phone</string>
   <string name="account_user_region">"地域"</string>
   <string name="account_xiaomi_service">"サービス"</string>
   <string name="action_add_phone">"電話番号を追加する"</string>
@@ -55,6 +54,7 @@
   <string name="activate_email_notice">"24時間以内にアカウントを有効にしてください"</string>
   <string name="activity_not_found_notice">"アプリを見つけることができません"</string>
   <string name="add_account">"アカウントを追加"</string>
+  <string name="agreement_and_privacy">利用規約とプライバシーポリシー</string>
   <string name="app_name">Mi Account</string>
   <string name="auth_fail_warning">"セッションが期限切れ、後でもう一度ログイン"</string>
   <string name="authorize_title">"認証"</string>
@@ -246,6 +246,7 @@ ID:%s
   <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">"パスワードをリセットするには account.mi.com にアクセスしてください。"</string>
+  <string name="passport_first_login_prompt">初めてログインすると、Miアカウントが自動的に作成されます。</string>
   <string name="passport_forget_password">"<u>パスワードを忘れた場合</u>"</string>
   <string name="passport_forget_password_no_underline">"パスワードを忘れた場合"</string>
   <string name="passport_get_back_pwd">"アカウントのパスワードを取得"</string>
@@ -420,6 +421,7 @@ ID:%s
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">"予備の電話を変更"</string>
   <string name="same_new_and_old_pwd">現在のパスワードと同じにはできません</string>
+  <string name="scan_barcode">QRコードをスキャン</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
   <string name="search_account_security">"アカウントのセキュリティ"</string>
   <string name="search_account_security_desc">"アカウントの設定"</string>

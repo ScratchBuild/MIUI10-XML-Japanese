@@ -71,7 +71,7 @@
   <string name="autozoom_click_hint">"Tap an object to keep it in focus while it's moving. Stay at least 3 meters away for best effect."</string>
   <string name="autozoom_disabled_hint">Stopped tracking moving object</string>
   <string name="autozoom_hint">Track moving object</string>
-  <string name="autozoom_landscape_hint">建议横屏下拍摄</string>
+  <string name="autozoom_landscape_hint">Shoot in landscape mode for best effect</string>
   <string name="back_bokeh_use_hint">Keep your subject within 1.5 meters for best effect</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
@@ -129,7 +129,7 @@
   <string name="custom_watermark_words_save_success">Saved successfully</string>
   <string name="dialog_google_lens_option_0">Googleレンズ (推奨)</string>
   <string name="dialog_ok">OK</string>
-  <string name="dialog_ok_time">OK (&lt;g id="NUMBER">%d&lt;/g>秒)</string>
+  <string name="dialog_ok_time">OK (%d秒)</string>
   <string name="do_not_remind_me">"次回から表示しない"</string>
   <string name="dual_camera_lens_covered_toast">"レンズが覆われています。"</string>
   <string name="dual_camera_lowlight_toast">"Looks like it's too dark."</string>
@@ -652,8 +652,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="ultra_wide_mode">Ultra wide angle</string>
   <string name="ultra_wide_mode_use_hint_text">"Use this mode to include more of the scene in your photo.
 Ultra wide angle mode comes to help when you can't move farther from the scene."</string>
-  <string name="ultra_wide_mode_use_hint_text_sat">"开启0.6X超广角，为您记录更广阔的视野
-探索更多精彩的美"</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Try 0.6X Ultra wide angle mode to include more of the scene in your photo.
+Ultra wide angle mode comes to help when you can't move farther from the scene."</string>
   <string name="ultra_wide_open_tip">Ultra wide angle mode</string>
   <string name="ultra_wide_recommend_tip_hint">Try Ultra wide angle mode</string>
   <string name="user_agree">"同意"</string>

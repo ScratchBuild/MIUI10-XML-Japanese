@@ -86,12 +86,11 @@
   <string name="perm_send_push_lab">Send push message</string>
   <string name="permdesc_manageLocationPolicy">"アプリが位置情報ポリシーを管理し、アプリ固有のルールを定義することを許可します。"</string>
   <string name="permlab_manageLocationPolicy">"位置情報アクセス"</string>
-  <string name="popup_camera_calibrate_failed">キャリブレーションできませんでした。問題を詳しく診察するには、端末をお近くの Mi Home に持参してください。</string>
+  <string name="popup_camera_calibrate_failed">キャリブレーションできませんでした。</string>
   <string name="popup_camera_calibrate_now">キャリブレーション</string>
   <string name="popup_camera_calibrate_success">正常にキャリブレーションされました。前面カメラを起動してみてください。</string>
   <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
   <string name="popup_camera_front_falied_times">前面カメラを複数回開くことができませんでした。 問題を詳しく診察するには、端末をお近くの Mi Home に持参してください。</string>
-  <string name="popup_camera_front_when_use">前面カメラは使用中です。とにかく開きますか？</string>
   <string name="popup_camera_popup_falied_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
   <string name="popup_camera_sure">OK</string>
   <string name="popup_camera_sure_wait">OK (%d秒)</string>
@@ -169,7 +168,7 @@
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">"ホットスポット"</string>
-  <string name="stop_operate_camera_frequently">前面/背面カメラを頻繁に切り替えているようです。</string>
+  <string name="stop_operate_camera_frequently">前面カメラを頻繁に開いているようです。</string>
   <string name="super_resolution_maintain_tips">"超解像度はまだ使用できません。"</string>
   <string name="switch_brand_desc_tv">Security services provided by Spaces Mobile</string>
   <string name="switch_desc_tv">"二つのスペースを。一つの端末で。"</string>

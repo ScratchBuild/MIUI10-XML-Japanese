@@ -138,6 +138,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_binder_died">"アプリケーションが予期せず終了しました。"</string>
   <string name="err_filesystem_mount">"ルーターのストレージにアクセスできません"</string>
   <string name="err_low_storage">"十分な空き領域がありません"</string>
+  <string name="err_no_gms">互換性のないアプリバージョンです。個別にこのアプリをインストールする。</string>
   <string name="err_not_allow">"サポートされていません"</string>
   <string name="err_pkg_not_exist">"アプリが見つかりません。"</string>
   <string name="err_router_disconnected">"ルーターとの接続を確認してもう一度お試しください。"</string>
@@ -430,6 +431,7 @@ Don't change or rename backup files."</string>
   <string name="trans_detail_category_userdata">"アプリ"</string>
   <string name="trans_detail_category_wechat_qq">WeChat and QQ data (チャット履歴を含む)</string>
   <string name="trans_detail_item_app_data_selected_tip">Selected corresponding apps as well.</string>
+  <string name="trans_detail_item_app_data_skip_data">アプリデータを転送できません</string>
   <string name="trans_detail_item_app_data_too_large_tip">Looks like the item is too big to transfer.</string>
   <string name="trans_detail_list_footer">"1. You can select individual apps you want to transfer.
 2. If you select app data, corresponding apps will be selected as well.
