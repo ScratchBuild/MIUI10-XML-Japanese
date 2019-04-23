@@ -1617,6 +1617,10 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_mode_summary">"バックグラウンドプロセスを監視して同期をオフにします。バッテリーが60%以上充電されている時、バッテリーセーバーは自動でオフになります。"</string>
   <string name="power_save_on_time_end_time_summary_na">"終了時間"</string>
   <string name="power_save_on_time_start_time_summary_na">"開始時間"</string>
+  <string name="power_save_ps_clean">端末のロック時、常にキャッシュを消去する</string>
+  <string name="power_save_ps_close_setting">バッテリーを節約するためにバックグラウンドサービス(同期、GPS)をオフにする</string>
+  <string name="power_save_ps_freeze">アプリをバックグラウンドで停止する</string>
+  <string name="power_save_ps_limit">システムアプリのアクティビティを制限する</string>
   <string name="power_save_started_summary_text">"バッテリーセーバーがオンになっています。これにより、バックグラウンドアクティビティを減らし、同期の停止、システムアニメーションを最小限に抑えます。"</string>
   <string name="power_save_summary_text">"バッテリーセーバーをオンにすると、アプリのバックグラウンドアクティビティの抑制、同期の停止、システムアニメーションを最小限に抑えられます。"</string>
   <string name="power_save_title_text">"バッテリーセーバー"</string>

@@ -4191,7 +4191,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
 "<li>モバイルデータ</li>"
 "<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">設定をリセット</string>
-  <string name="reset_network_final_desc">すべてのネットワーク設定をリセットしますか？この操作は元に戻せません。</string>
+  <string name="reset_network_final_desc">今すぐすべてのネットワーク設定をリセットしますか？これには数秒かかる場合があります。この操作は元に戻せません。</string>
   <string name="reset_network_title">ネットワーク設定のリセット</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Second spaceのパスワードをリセット</string>
@@ -6358,8 +6358,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="wifi_priority_type_title">手動でアクセスポイントの優先順位を設定</string>
   <string name="wifi_property">Wi-Fiのプロパティ</string>
   <string name="wifi_protection_on">On</string>
-  <string name="wifi_protection_settings_title">WIFI probe protection</string>
-  <string name="wifi_protection_tip">MIUI automatically turns on the WIFI probe protection function. When the mobile phone scans the WLAN, it will randomly address the MAC address to prevent the WIFI probe box from stealing user privacy and protecting the mobile phone.</string>
+  <string name="wifi_protection_settings_title">Protection from WLAN probe requests</string>
+  <string name="wifi_protection_tip">MIUI will protect your personal data from WLAN probe requests coming from random MAC addresses and WLAN probe sniffers when your device is searching for WLAN networks.</string>
   <string name="wifi_quick_toggle_summary">Wi-FiをONにする</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">保存済み</string>

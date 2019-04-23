@@ -221,9 +221,14 @@
   <string name="battery_info_status_full">充電完了</string>
   <string name="battery_info_status_not_charging">充電していません</string>
   <string name="battery_info_status_unknown">不明</string>
+  <string name="battery_low_button_not_open_power_save">今はしない</string>
+  <string name="battery_low_button_open_power_save">オンにする</string>
   <string name="battery_low_percent_format">残り %d%%</string>
+  <string name="battery_low_percent_format_save_mode_closed">バッテリー残量が %d%% 未満です。端末を充電してください。</string>
+  <string name="battery_low_percent_format_save_mode_open">バッテリー残量が %d%% 未満です。節電のためバッテリーセーバーをオンにします。</string>
   <string name="battery_low_percent_format_saver_started">残量が%sです。バッテリーセーバーはONです。</string>
   <string name="battery_low_title">充電をしてください</string>
+  <string name="battery_low_title_power_save">バッテリーセーバー</string>
   <string name="battery_low_why">Settings</string>
   <string name="battery_profiles">バッテリープロファイルを使用する</string>
   <string name="battery_saver_confirmation_ok">ONにする</string>
@@ -526,6 +531,7 @@
   <string name="face_data_manage_delete_msg">"顔データの削除"</string>
   <string name="face_data_manage_delete_sure">"顔データを削除した後には、端末のロック解除に使用することはできなくなります。"</string>
   <string name="face_data_manage_delete_title">"顔データ"</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">画面が点灯したら、顔データを使って上にスワイプして端末のロックを解除します。</string>
   <string name="face_data_manage_unlock_msg">"顔データを使用して端末のロックを解除する"</string>
   <string name="face_data_manage_unlock_slide_msg">Replace slider shortcuts with face unlock</string>
   <string name="face_data_manage_unlock_title">"顔データを使用してロックを解除"</string>
@@ -541,7 +547,8 @@
   <string name="face_unlock_close_screen">"画面に近づいてください"</string>
   <string name="face_unlock_down">"頭を上げてください"</string>
   <string name="face_unlock_fail">顔を認識できませんでした</string>
-  <string name="face_unlock_fail_retry">顔を確認できませんでした。アイコンをタップしてもう一度お試しください。</string>
+  <string name="face_unlock_fail_retry">顔を確認できませんでした。上部をタップしてもう一度お試しください。</string>
+  <string name="face_unlock_fail_retry_global">Tap above to use Face unlock</string>
   <string name="face_unlock_identify_error">"認識エラーが発生しました"</string>
   <string name="face_unlock_not_found">"認識できませんでした"</string>
   <string name="face_unlock_not_roi">フレームの内側に顔を収めてください</string>
@@ -1149,6 +1156,10 @@ EEEE"</string>
 - アプリからのすべての通知をブロックする"</string>
   <string name="power_remaining_duration_only">あと約 %1$s</string>
   <string name="power_remaining_duration_only_short">%1$s（残り時間）</string>
+  <string name="power_save_ps_clean">端末のロック時、常にキャッシュを消去する</string>
+  <string name="power_save_ps_close_setting">バッテリーを節約するためにバックグラウンドサービス(同期、GPS)をオフにする</string>
+  <string name="power_save_ps_freeze">アプリをバックグラウンドで停止する</string>
+  <string name="power_save_ps_limit">システムアプリのアクティビティを制限する</string>
   <string name="profile_owned_footer">プロファイルが監視されている可能性があります</string>
   <string name="prompt_danger">危険</string>
   <string name="prompt_detecting">検出中</string>
