@@ -455,6 +455,7 @@
   <string name="dlg_summary_nfc">NFCをオフにする</string>
   <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.</string>
   <string name="dnd_is_off">マナーモードは OFF です</string>
+  <string name="dnd_notification_warnings_title">マナーモードをオフにするまで、着信と通知は無音になります</string>
   <string name="do_disclosure_generic">この端末は組織によって管理されています</string>
   <string name="do_disclosure_with_name">この端末は %s が管理しています</string>
   <string name="do_not_silence">音声で知らせる</string>
@@ -1029,6 +1030,7 @@ EEEE"</string>
   <string name="notification_channel_controls_closed_accessibility">%1$s の通知管理は閉じています</string>
   <string name="notification_channel_controls_opened_accessibility">%1$s の通知管理は開いています</string>
   <string name="notification_channel_disabled">今後、この通知は配信されません</string>
+  <string name="notification_channel_dnd">マナーモード</string>
   <string name="notification_channel_general">一般メッセージ</string>
   <string name="notification_channel_location">位置情報</string>
   <string name="notification_channel_screenbutton">ボタン</string>

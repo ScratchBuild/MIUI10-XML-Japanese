@@ -93,6 +93,8 @@ to be able to view them anytime"</string>
   <string name="do_not_ask">"二度と表示しない"</string>
   <string name="dont_import">"後で"</string>
   <string name="downloading_space">"ダウンロード中…"</string>
+  <string name="dual_animation">起動アニメーション</string>
+  <string name="dual_animation_description">デュアルアプリ起動時にアニメーションを表示する</string>
   <string name="enable">"オンにする"</string>
   <string name="encrypt_space_delete_dialog_click_message">"*データを移動する必要がない場合は、%s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">"今すぐSecond spaceを削除・作成し直してください。"</string>
