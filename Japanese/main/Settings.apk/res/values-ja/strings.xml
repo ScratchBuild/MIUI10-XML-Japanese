@@ -1592,6 +1592,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="date_time_set_timezone_title">タイムゾーン</string>
   <string name="date_time_settings">日付と時刻</string>
   <string name="day_of_week">曜日</string>
+  <string name="dc_light_dialog_summary">アンチフリッカーモードがオンの場合、画質に影響を与える可能性があります。とにかくオンにしますか？</string>
+  <string name="dc_light_summary">目の疲れを軽減するにはアンチフリッカーモードを適用する</string>
+  <string name="dc_light_title">アンチフリッカーモード</string>
   <string name="debug_app">デバッグアプリを選択</string>
   <string name="debug_app_not_set">デバッグアプリケーションが設定されていません</string>
   <string name="debug_app_set">デバッグアプリケーション: %1$s</string>
