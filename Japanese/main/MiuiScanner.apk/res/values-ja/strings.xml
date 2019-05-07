@@ -18,6 +18,7 @@
   <string name="business_card">名刺</string>
   <string name="business_card_result_title">名刺</string>
   <string name="business_card_title">名刺をフレームの内側に置いてください</string>
+  <string name="business_card_with_qr_code">名刺またはQRコードをフレームの内側に置いてください</string>
   <string name="business_copy">コピー</string>
   <string name="business_new_contacts">連絡先を作成</string>
   <string name="business_no_result">名刺を認識できませんでした。もう一度お試しください。</string>

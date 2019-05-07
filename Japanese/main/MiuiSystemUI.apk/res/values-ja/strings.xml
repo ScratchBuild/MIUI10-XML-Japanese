@@ -347,6 +347,9 @@
   <string name="change_theme_reboot">テーマを変更するには再起動が必要です。</string>
   <string name="charge_length_format">%1$s前</string>
   <string name="chooseUsbActivity">USBデバイスのためのアプリを選択してください</string>
+  <string name="choose_clock_title_left_top">Left-aligned</string>
+  <string name="choose_clock_title_middle">Centered</string>
+  <string name="choose_clock_title_vertical">Vertical</string>
   <string name="choose_profile">プロファイルの選択</string>
   <string name="clear_adb_keys">USBデバッグの許可の取り消し</string>
   <string name="clear_all_notifications_text">すべて消去</string>
@@ -455,7 +458,7 @@
   <string name="dlg_summary_nfc">NFCをオフにする</string>
   <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.</string>
   <string name="dnd_is_off">マナーモードは OFF です</string>
-  <string name="dnd_notification_warnings_title">マナーモードをオフにするまで、着信と通知は無音になります</string>
+  <string name="dnd_notification_warnings_title">マナーモードがオンになっています。着信や通知が無音になります。</string>
   <string name="do_disclosure_generic">この端末は組織によって管理されています</string>
   <string name="do_disclosure_with_name">この端末は %s が管理しています</string>
   <string name="do_not_silence">音声で知らせる</string>
@@ -571,6 +574,13 @@
   <string name="face_unlock_sc_status">Push the screen down to open camera</string>
   <string name="face_unlock_stay_away_screen">"画面から25～40cmの位置で保持してください"</string>
   <string name="face_unlock_success">顔データを確認しました</string>
+  <string name="face_unlock_success_show_message_dialog_msg">ロック画面上に通知を表示できるようにします。</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">許可しない</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">許可</string>
+  <string name="face_unlock_success_show_message_dialog_title">ロック画面の通知</string>
+  <string name="face_unlock_success_show_message_msg">端末がロックされている間は通知アイコンのみを表示し、顔データの認証後に通知内容の詳細を表示するようにします</string>
+  <string name="face_unlock_success_show_message_title">顔データの認証後に通知の詳細を表示</string>
+  <string name="face_unlock_success_show_message_toast">ロック画面に通知が表示されます</string>
   <string name="face_unlock_success_stay_screen_msg">顔が認識された後もロック画面に留まります。ホーム画面を開くには上にスワイプしてください。</string>
   <string name="face_unlock_success_stay_screen_title">ロック解除後もロック画面に留まる</string>
   <string name="failed_to_open_app_settings_toast">%1$sの設定を開くことができませんでした</string>

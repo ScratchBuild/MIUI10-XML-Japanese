@@ -73,6 +73,8 @@
   <string name="autozoom_hint">Track moving object</string>
   <string name="autozoom_landscape_hint">Shoot in landscape mode for best effect</string>
   <string name="back_bokeh_use_hint">Keep your subject within 1.5 meters for best effect</string>
+  <string name="beauty_clear">Clear</string>
+  <string name="beauty_clear_toast">Cleared Beautify effects successfully</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
@@ -87,7 +89,7 @@
   <string name="beauty_body_slim_count_tip">Figure effects work only for one person shots</string>
   <string name="beauty_mode_reset_toast">Removed remodeling effects</string>
   <string name="beauty_reset">リセット</string>
-  <string name="beauty_reset_toast">Reset figure effects successfully</string>
+  <string name="beauty_reset_toast">Reset Beautify effects successfully</string>
   <string name="beauty_tab_name_live_beauty">Beautify</string>
   <string name="beauty_tab_name_live_filter">Filters</string>
   <string name="bokeh_use_hint">Depth effect</string>
@@ -141,6 +143,7 @@
   <string name="edit_eyebrow_dye">Eyebrows</string>
   <string name="edit_face_ruddy">Ruddy</string>
   <string name="edit_face_slender">Slender</string>
+  <string name="edit_hairline">Hairline</string>
   <string name="edit_jelly_lips">Lip gloss</string>
   <string name="edit_lips">Lips</string>
   <string name="edit_neck">Neck</string>

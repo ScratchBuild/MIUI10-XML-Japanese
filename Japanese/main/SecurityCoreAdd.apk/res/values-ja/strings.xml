@@ -37,6 +37,7 @@ this feature will be added to Second space automatically."</string>
   <string name="closeSecondSpace">"Second spaceを削除"</string>
   <string name="closeSecondSpaceSummary">"Second spaceをデータと共に削除する"</string>
   <string name="closeSuccess">"オフにしました"</string>
+  <string name="close_kid_space_success">Kid spaceを削除しました</string>
   <string name="close_second_space">"Second spaceを削除しました"</string>
   <string name="close_second_space_success">"Second spaceを削除しました"</string>
   <string name="closed">Off</string>
@@ -200,6 +201,7 @@ You can also download them separately."</string>
   <string name="install">"インストール"</string>
   <string name="install_error">"インストールできませんでした。もう一度お試しください。"</string>
   <string name="invalid_qr_code">"無効なQRコード"</string>
+  <string name="kid_mode_label">Kid space</string>
   <string name="list_empty_text">"何もありません"</string>
   <string name="list_empty_text_xspace">"WeChat/QQ/Weiboをインストールし、デュアルアプリを作成してからもう一度お試しください。"</string>
   <string name="loading">"読み込み中…"</string>

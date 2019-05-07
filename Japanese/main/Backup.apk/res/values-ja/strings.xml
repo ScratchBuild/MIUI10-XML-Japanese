@@ -287,6 +287,7 @@ Don't change or rename backup files."</string>
   <string name="perm_read_phone_state">"端末のステータスの読み取り"</string>
   <string name="perm_read_sms">"SMSの読み取り"</string>
   <string name="perm_storage">"外部ストレージへのアクセスと変更"</string>
+  <string name="phone_title">Phone settings</string>
   <string name="platform_chooser_item_android_mi">"Android端末 (Xiaomi)"</string>
   <string name="platform_chooser_item_android_others">"Android端末 (その他)"</string>
   <string name="platform_chooser_item_ios">"iOS端末からインポート"</string>

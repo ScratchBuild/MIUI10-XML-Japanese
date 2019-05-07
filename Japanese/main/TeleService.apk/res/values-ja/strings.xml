@@ -487,6 +487,7 @@
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">データプラン設定</string>
   <string name="ivr_type_settings_hint">ご使用になるデータプランのコードを入力してください。</string>
+  <string name="jump_to_mobile_network_setting">モバイルネットワーク設定</string>
   <string name="keep_wait_call_back">Keep waiting</string>
   <string name="labelCDMAMore">CDMA通話設定</string>
   <string name="labelCF">着信転送</string>
@@ -985,6 +986,7 @@
   <string name="search_networks">ネットワークを検索</string>
   <string name="selectContact">連絡先を選択</string>
   <string name="select_automatically">"自動的に選択"</string>
+  <string name="select_dds_dialog_title">デフォルトのモバイルデータSIMを選択</string>
   <string name="select_voice_call_sim">SIMカードを選択</string>
   <string name="sendSms">SMSを送信</string>
   <string name="send_button">送信</string>

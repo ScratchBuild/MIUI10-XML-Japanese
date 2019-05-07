@@ -118,6 +118,7 @@
   <string name="error_retry_later">操作を完了できませんでした。しばらくしてからもう一度お試しください。</string>
   <string name="error_unknown">"不明なエラー"</string>
   <string name="get_device_id_error">デバイスIDを取得できませんでした</string>
+  <string name="hint_restore_cross_space">スペース間でアイテムを移動した場合、ホーム画面のレイアウトが正しく表示されない場合があります。</string>
   <string name="home_hint_global_launcher">Poco Launcher</string>
   <string name="home_hint_other_launcher">Other Launcher</string>
   <string name="home_restore_error">ホーム画面を復元できませんでした</string>
@@ -195,6 +196,7 @@
   <string name="restoring_file_title_no_progress">ファイルを復元中…</string>
   <string name="restoring_settings">設定を復元中…</string>
   <string name="retry">再試行</string>
+  <string name="selected">選択済み</string>
   <string name="self_device_main_space">この端末のFirst space</string>
   <string name="self_device_second_space">この端末のSecond space</string>
   <string name="settings_backup">システム設定</string>
@@ -208,6 +210,7 @@
   <string name="total_space">合計容量: %s</string>
   <string name="try_again">再試行するにはタップ</string>
   <string name="try_continue">続行するにはタップ</string>
+  <string name="unselected">未選択</string>
   <string name="unsupported_home">MIUIを最新版に更新してください。</string>
   <string name="wait_icon_download">"アプリアイコンをダウンロード中"</string>
 </resources>

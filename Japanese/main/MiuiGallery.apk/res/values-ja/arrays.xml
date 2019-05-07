@@ -88,6 +88,10 @@
         <item>"男の子"</item>
         <item>"女の子"</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>写真をバックアップする</item>
+        <item>写真をMi Cloudと同期する</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>My weekends</item>
         <item>Bits of life</item>

@@ -1196,10 +1196,14 @@ This feature can be turned off in [Settings]"</string>
   <string name="child_mode_settings">ペアレンタルコントロール</string>
   <string name="choose_assist_title">アシストアプリの選択</string>
   <string name="choose_a_card_to_reset">リセットするにはSIMカードを選択</string>
+  <string name="choose_keyguard_clock_style">ロック画面の時計フォーマット</string>
+  <string name="choose_keyguard_clock_summary">この設定はサードパーティのテーマでは機能しません</string>
   <string name="choose_profile">プロファイルの選択</string>
   <string name="choose_smartcover_type">ケースの種類を選択</string>
   <string name="choose_spell_checker">スペルチェッカーを選択</string>
   <string name="choose_timezone">タイムゾーンの選択</string>
+  <string name="choose_unlock_face_msg">顔データを記録する前に画面ロックを設定してください。</string>
+  <string name="choose_unlock_fingerprint_msg">指紋を追加する前に画面ロックを設定してください。</string>
   <string name="choose_voice_input_title">音声入力の選択</string>
   <string name="cleaner">クリーナー</string>
   <string name="clear_activities">設定を消去</string>
@@ -2357,7 +2361,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gxzw_add_fingerprint_put_finger_title">押して振動後に持ち上げる</string>
   <string name="gxzw_add_fingerprint_title">指紋を追加</string>
   <string name="gxzw_anim_light">Neon</string>
-  <string name="gxzw_anim_metal">Metal</string>
   <string name="gxzw_anim_pulse">Pulse</string>
   <string name="gxzw_anim_rhythm">Rhythm</string>
   <string name="gxzw_anim_star">Starlight</string>
@@ -3153,6 +3156,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_features">MIUIラボの機能</string>
   <string name="miui_lab_gallery_search_desc">改善された画像検索</string>
   <string name="miui_lab_gallery_search_title">ギャラリー内の写真を検索</string>
+  <string name="miui_lab_gesture_desc">物理ボタンを無効にして、フルスクリーンジェスチャーを活用する</string>
+  <string name="miui_lab_gesture_title">フルスクリーンジェスチャー</string>
   <string name="miui_lab_install_drive_mode_error">インストールできませんでした。もう一度お試しください。</string>
   <string name="miui_lab_install_drive_mode_summary">運転モードはシステムアプリです。インストールにインターネット接続は必要ありません。</string>
   <string name="miui_lab_install_drive_mode_title">運転モードをインストール</string>
@@ -3743,7 +3748,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="passpoint_content">%1$sの認証情報</string>
   <string name="passpoint_label">保存</string>
   <string name="passwordIncorrect">入力したパスワードが正しくありません</string>
-  <string name="password_entrance_title">画面ロック</string>
+  <string name="password_entrance_title">画面ロックを設定</string>
   <string name="password_guard">パスワード</string>
   <string name="password_turned_off_text">パスワードがオフになっています</string>
   <string name="password_turned_on_text">パスワードがオンになっています</string>
@@ -4454,6 +4459,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_advanced_settings">高度な設定;Wi-Fi;W-Fi設定</string>
   <string name="search_airplane_mode">機内モード</string>
   <string name="search_alarm_sound_title">アラーム音</string>
+  <string name="search_ambient_display_screen_title">Ambient display</string>
   <string name="search_android_beam_settings_title">NFC;Androidビーム;ビーム</string>
   <string name="search_apn_settings">APN;アクセスポイント名</string>
   <string name="search_app_invisible">App Invisible;非表示のアプリ</string>
@@ -4491,6 +4497,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Exceptions;Whitelist;white list</string>
   <string name="search_dndm_wristband">Mi Bandでアクティブにする;Mi Band</string>
   <string name="search_do_not_disturb_mode">Do not disturb;DND;VIP;Set time;Exceptions;Repeated calls</string>
+  <string name="search_doze_always_on_title">常にオン</string>
   <string name="search_dtmf_tone_enable_title">ダイヤルパッドのタッチ操作音;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
   <string name="search_empty">検索結果はありません</string>
   <string name="search_enable_adb">USBデバッグ</string>
@@ -4769,7 +4776,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="settings_safetylegal_activity_unreachable">データ接続されていません。今すぐこの情報を表示するには、インターネットに接続されているパソコンから%sにアクセスしてください。</string>
   <string name="settings_safetylegal_title">安全に関する情報</string>
   <string name="settings_shortcut">設定をショートカットとする</string>
-  <string name="setup_choose_unlock_fingerprint_msg">指紋を追加する前に画面ロックを設定してください。</string>
   <string name="setup_choose_unlock_mixed_password">パスワード</string>
   <string name="setup_choose_unlock_mixpassword_title">パスワードを設定</string>
   <string name="setup_choose_unlock_password">PIN</string>
@@ -5610,12 +5616,13 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_log">アプリ使用状況の統計</string>
   <string name="usage_state_app_timer">Screen time</string>
   <string name="usage_state_app_usage_detail_title">App usage details</string>
-  <string name="usage_state_app_usage_list_title">"Apps' screen time today"</string>
-  <string name="usage_state_app_usage_list_week_title">"Apps' screen time (last 7 days)"</string>
+  <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
+  <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
   <string name="usage_state_app_use_time">App screen time</string>
   <string name="usage_state_channel_mouth">過去30日間</string>
   <string name="usage_state_channel_week">過去7日間</string>
+  <string name="usage_state_date">M月d日</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications between %d:00 and %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Unlocked device between %d:00 and %d:00</string>
   <string name="usage_state_friday">金</string>
@@ -5623,8 +5630,8 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_state_hour_minute" formatted="false">%d時間%d分</string>
   <string name="usage_state_less_one_minute">1分未満</string>
   <string name="usage_state_monday">月</string>
-  <string name="usage_state_mourth_day">"'Screen time on' MMM d"</string>
-  <string name="usage_state_noti_mourth_day">"'Notifications on' MMM d"</string>
+  <string name="usage_state_mourth_day">Screen time on %s</string>
+  <string name="usage_state_noti_mourth_day">Notifications on %s</string>
   <string name="usage_state_notification">Manage notifications</string>
   <string name="usage_state_notification_manager">Manage app notifications</string>
   <string name="usage_state_remind_summary">Turn on to receive screen time alerts. You can set different time limits for weekdays and weekends.</string>
@@ -5637,7 +5644,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_state_today">Today</string>
   <string name="usage_state_today_total_text">Screen time today</string>
   <string name="usage_state_tuesday">火</string>
-  <string name="usage_state_unlock_mourth_day">"'Unlocked on' MMM d"</string>
+  <string name="usage_state_unlock_mourth_day">Unlocked on %s</string>
   <string name="usage_state_usage_time">Screen time</string>
   <string name="usage_state_usage_time_remind">Screen time alert</string>
   <string name="usage_state_use_time_remind_title">Screen time alert</string>
@@ -5684,7 +5691,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usagestats_app_category_miui_video_etc">Music and video</string>
   <string name="usagestats_device_notification_des">Screen time limit for today: %s</string>
   <string name="usagestats_device_notification_des_over">"You've already reached your screen time limit today."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Screen time limit for today: %s | %s remaining</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">"Today's limit: %s | %s remaining"</string>
   <string name="usagestats_device_notification_title">Screen time alert</string>
   <string name="usagestats_device_timeout_des" formatted="false">"You've been using your device for %dh %dm today. Have some rest!"</string>
   <string name="usagestats_device_timeout_negative">Remind in 1 hour</string>
