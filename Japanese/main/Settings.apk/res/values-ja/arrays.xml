@@ -205,9 +205,9 @@
         <item>90 日間</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Graphical</item>
-        <item>Percentage (in the icon)</item>
-        <item>Percentage (next to the icon)</item>
+        <item>グラフィカル</item>
+        <item>パーセント表示 (アイコンの中)</item>
+        <item>パーセント表示 (アイコンの隣)</item>
         <item>Top bar</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -443,6 +443,11 @@
         <item>5分</item>
         <item>10分</item>
         <item>30分</item>
+    </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>グラフィカル</item>
+        <item>パーセント表示 (アイコンの中)</item>
+        <item>パーセント表示 (アイコンの隣)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>なし</item>

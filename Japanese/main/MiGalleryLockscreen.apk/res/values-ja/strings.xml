@@ -355,13 +355,17 @@
   <string name="summary_international">"この機能を利用することで、当社の&lt;a href ='%1$s'>ユーザー使用許諾契約&lt;/a>と&lt;a href='%2$s'>プライバシーポリシー&lt;/a>に同意したことになります。この機能が正常に動作するにはインターネットに接続する必要があります。​"</string>
   <string name="tab_user_title_bar_text">設定</string>
   <string name="theme_apply_failured">"適用できませんでした、後ほど再試行してください"</string>
+  <string name="theme_apply_lockscreen_success">正常に適用されました</string>
   <string name="theme_apply_success">"ロック画面に適用しました"</string>
   <string name="theme_applying">"適用中…"</string>
+  <string name="theme_close_maml">Wallpaper Carouselの画像は、ロック画面の壁紙を置きえます。</string>
   <string name="theme_des">デフォルトのテーマを適用して、再度Wallpaper Carouselをオンにします。</string>
   <string name="theme_des_lock_style">デフォルトのロック画面を適用して、再度Wallpaper Carouselをオンにします。</string>
+  <string name="theme_des_maml">使用中のテーマのその他のコンポーネントは影響を受けません。変更を適用するため、テーマが更新されます。</string>
   <string name="theme_ok">設定</string>
   <string name="theme_title">デフォルトのテーマに切り替える</string>
   <string name="theme_title_lock_style">デフォルトのロック画面に切り替える</string>
+  <string name="theme_title_subscribe">Wallpaper Carouselを購読</string>
   <string name="ticket_hint">認証コード</string>
   <string name="ticket_invalid">入力したコードが間違っています</string>
   <string name="ticket_sign_in">SMSでログイン</string>

@@ -15,6 +15,7 @@
   <string name="apply_theme_with_ringtones">"テーマの着信音を使用する"</string>
   <string name="audio_duration_minutes_format">"%1$d分"</string>
   <string name="audio_duration_seconds_format">"%1$d秒"</string>
+  <string name="audition_ringtone">再生</string>
   <string name="automatically_update_using_theme_tips">"次回から自動的に更新"</string>
   <string name="backup_theme_dialog_message">"現在のテーマをバックアップしますか？"</string>
   <string name="backup_theme_dialog_ok">"バックアップ"</string>
@@ -41,6 +42,7 @@
   <string name="component_title_settings_video_wallpaper">Wallpapers with special effects</string>
   <string name="component_title_video_wallpaper">Wallpaper movies</string>
   <string name="component_title_wallpaper">"壁紙"</string>
+  <string name="count_down_tip">残り %d秒</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
   <string name="current_using_lockscreen_wallpaper_text">"ロック画面"</string>
   <string name="current_version_incompatible">"互換性がありません"</string>
@@ -166,6 +168,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="item_resource_audio_optional_notification_ring">"通知音"</string>
   <string name="item_resource_audio_optional_phone_ring">"着信音"</string>
   <string name="lab">Beta features</string>
+  <string name="like_list">Items I liked</string>
   <string name="live_wallpaper">"ライブ壁紙"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="loading_resource_detail_fail">"テーマを読み込めません"</string>
@@ -202,6 +205,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="online_no_network">"ネットワークに接続できません"</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
   <string name="password_toggle_content_description">"パスワードの表示を切り替える"</string>
+  <string name="playing_ringtone">再生中</string>
   <string name="present_local_fonts">保存済みフォント</string>
   <string name="present_local_themes">"保存済みテーマ"</string>
   <string name="present_local_themes_subtitle">"端末をカスタマイズする"</string>
@@ -234,7 +238,6 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="resource_account_switch">"切り替え"</string>
   <string name="resource_app_name">"テーママネージャー"</string>
   <string name="resource_apply">"適用"</string>
-  <string name="resource_apply_trial">"今すぐ試す"</string>
   <string name="resource_back">"戻る"</string>
   <string name="resource_buy">"購入"</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
@@ -296,7 +299,6 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="resource_download">"ダウンロード"</string>
   <string name="resource_download_notification_title_many">"%1$s個のテーマをダウンロードしました"</string>
   <string name="resource_download_notification_title_one">"テーマをダウンロードしました"</string>
-  <string name="resource_download_trial">"無料で試す"</string>
   <string name="resource_downloaded_title">"保存済みのテーマ"</string>
   <string name="resource_downloading">"ダウンロード中"</string>
   <string name="resource_exchange">"引き換え"</string>
@@ -453,8 +455,6 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="theme_changed_failed_message">"テーマを適用できません"</string>
   <string name="theme_changed_message">"テーマを適用しました"</string>
   <string name="theme_changing_dialog_title">"適用中 "</string>
-  <string name="theme_comment_dialog_message">Rate this app and tell us what you think.</string>
-  <string name="theme_comment_dialog_ok">Rate</string>
   <string name="theme_component_title_alarm">"アラーム"</string>
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">"テーマ"</string>
@@ -503,7 +503,6 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="theme_select_others">Browse</string>
   <string name="theme_setting">"設定"</string>
   <string name="theme_staggered_item_text">Receive Mi Credits</string>
-  <string name="theme_to_comment">Not bad!</string>
   <string name="theme_user_agreement_allow">"同意"</string>
   <string name="theme_user_agreement_content1">"この製品を利用することで、あなたは我々の"</string>
   <string name="theme_user_agreement_content2">"利用規約"</string>
@@ -536,6 +535,13 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="transparent_wallpaper_white_wallpaper_failed">"Couldn't make background white"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Background color is white now</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Transparent wallpaper looks best on white background</string>
+  <string name="trial_count_empty">No more free items left for today. Come back tomorrow!</string>
+  <string name="trial_count_tip">Trial period ends in %1$s:%2$s:%3$s</string>
+  <string name="trial_for_free">Free trial</string>
+  <string name="trial_get_failed_tip">Finish watching the video to get the theme.</string>
+  <string name="trial_get_success_tip">"Congrats! You've got a 3-day free trial."</string>
+  <string name="trial_now">Try now</string>
+  <string name="try_5_min">Try for 5 minutes</string>
   <string name="uid_change_dialog_message">"更新を削除しました。テーマを使用できるようにデバイスを再起動します。"</string>
   <string name="uid_change_dialog_ok">OK</string>
   <string name="uid_change_dialog_title">"デバイスを再起動"</string>
@@ -553,6 +559,11 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="using_theme_next_automatic_update">"自動更新"</string>
   <string name="using_theme_next_automatic_update_summary">"画面がロックされている時に、Wi-Fi経由でダウンロードしたテーマを自動的に更新する"</string>
   <string name="using_theme_show_ad">"広告を表示する"</string>
+  <string name="video_ad_click">Try now</string>
+  <string name="video_ad_try_for_free">Free trial</string>
+  <string name="video_ad_uncomplete_tip">Finish watching the video to get the theme.</string>
+  <string name="video_ad_uncomplete_tip_cancel">Cancel</string>
+  <string name="video_ad_uncomplete_tip_continue">Keep watching</string>
   <string name="video_audio_apply_success">Configured video with sound successfully</string>
   <string name="video_data_tips_message">"モバイルデータを使用すると追加料金が発生する場合があります。とにかく続けますか？"</string>
   <string name="video_data_tips_title">"データ使用量の警告"</string>

@@ -1060,7 +1060,7 @@ EEEE"</string>
   <string name="notification_low_battery_action_btn">オンにする</string>
   <string name="notification_low_battery_need_charge">バッテリーが残りわずかです。端末を充電してください。</string>
   <string name="notification_low_battery_open_save_mode">バッテリーセーバーをオンにする</string>
-  <string name="notification_low_battery_title">電池残量: %d%%</string>
+  <string name="notification_low_battery_title">電池残量が残り %d%% 未満</string>
   <string name="notification_manager">通知の管理</string>
   <string name="notification_manager_des">フィルターおよび通知の管理</string>
   <string name="notification_menu_filter_description">重要でない通知</string>
