@@ -60,6 +60,7 @@
   <string name="accessibility_stereo_button">Dual camera mode</string>
   <string name="accessibility_ultra_wide_off">Turned off Ultra wide angle mode</string>
   <string name="accessibility_ultra_wide_on">Turned on Ultra wide angle mode</string>
+  <string name="accessibility_video_btn_play">Play video</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>

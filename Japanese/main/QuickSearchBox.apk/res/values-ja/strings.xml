@@ -89,7 +89,7 @@
   <string name="search_settings">"検索設定"</string>
   <string name="search_sources">"検索可能なアイテム"</string>
   <string name="search_sources_summary">"電話内の検索対象を選択してください"</string>
-  <string name="search_suggestion">Tips</string>
+  <string name="search_suggestion">おすすめ</string>
   <string name="search_videos">"動画を検索"</string>
   <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
   <string name="search_widget">"検索"</string>

@@ -1611,6 +1611,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="day_of_week">曜日</string>
   <string name="dc_light_dialog_summary">アンチフリッカーモードがオンの場合、画質に影響を与える可能性があります。とにかくオンにしますか？</string>
   <string name="dc_light_summary">目の疲れを軽減するにはアンチフリッカーモードを適用する</string>
+  <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
   <string name="dc_light_title">アンチフリッカーモード</string>
   <string name="debug_app">デバッグアプリを選択</string>
   <string name="debug_app_not_set">デバッグアプリケーションが設定されていません</string>
@@ -3168,8 +3169,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_features">MIUIラボの機能</string>
   <string name="miui_lab_gallery_search_desc">改善された画像検索</string>
   <string name="miui_lab_gallery_search_title">ギャラリー内の写真を検索</string>
-  <string name="miui_lab_gesture_desc">物理ボタンを無効にして、フルスクリーンジェスチャーを活用する</string>
-  <string name="miui_lab_gesture_title">フルスクリーンジェスチャー</string>
+  <string name="miui_lab_gesture_desc">ナビゲーションボタンの代わりにジェスチャーを使用する</string>
+  <string name="miui_lab_gesture_title">フルスクリーンジェスチャーを使用</string>
   <string name="miui_lab_install_drive_mode_error">インストールできませんでした。もう一度お試しください。</string>
   <string name="miui_lab_install_drive_mode_summary">運転モードはシステムアプリです。インストールにインターネット接続は必要ありません。</string>
   <string name="miui_lab_install_drive_mode_title">運転モードをインストール</string>
@@ -4468,6 +4469,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_accessibility_screen_magnification_title">拡大操作</string>
   <string name="search_accessibility_settings">ユーザー補助</string>
   <string name="search_account_list">その他のアカウント</string>
+  <string name="search_add_facerecoginition_text">Face unlock;Face recognition</string>
   <string name="search_advanced_settings">高度な設定;Wi-Fi;W-Fi設定</string>
   <string name="search_airplane_mode">機内モード</string>
   <string name="search_alarm_sound_title">アラーム音</string>
@@ -4534,6 +4536,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_lock_settings">ロック画面とパスワード;Bluetooth unlock;パスコード;Bluetoothデバイスでロック解除</string>
   <string name="search_lock_sounds_enable_title">画面ロックの音;Turn on Screen lock sound</string>
   <string name="search_manage_device_admin">デバイス管理者;管理;管理者</string>
+  <string name="search_manage_facerecoginition_text">Face unlock;Face recognition</string>
   <string name="search_manage_notification_access_title">通知アクセス;通知;Notification permissions</string>
   <string name="search_master_clear_title">ファクトリーリセット</string>
   <string name="search_menu">検索設定</string>
