@@ -541,6 +541,7 @@
   <string name="charging_text_battery_nearly_full">"ほぼ充電完了"</string>
   <string name="charging_text_battery_perfect">"充電完了"</string>
   <string name="choose">"選択"</string>
+  <string name="choose_gs_show_way">ホーム画面の向きを選択</string>
   <string name="clean_immediately">"消去"</string>
   <string name="cleaned">"消去しました"</string>
   <string name="clear_garbage">"ゴミ箱を空にして空き領域を確保"</string>
@@ -900,8 +901,12 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="free_time_traffic_title">Enter off-peak data limit</string>
   <string name="free_traffic_settings">Off-peak data usage settings</string>
   <string name="function_close">Off</string>
-  <string name="function_shield_summary">Restrict auto brightness, screenshot gestures, and Reading mode</string>
-  <string name="function_shield_summary_m">Restrict auto brightness and screenshot gestures</string>
+  <string name="function_shield_auto_bright">明るさの自動調節をオフにする</string>
+  <string name="function_shield_eye_shield">読書灯をオフにする</string>
+  <string name="function_shield_pull_notification_bar">通知領域を開かない</string>
+  <string name="function_shield_settings_title">ゲームのプレイ中には、以下の機能を制限</string>
+  <string name="function_shield_summary">ゲームをプレイするとき、選択したシステムの機能を制限する</string>
+  <string name="function_shield_three_finger">スクリーンショットジェスチャーを制限する</string>
   <string name="function_shield_title">Enhanced experience</string>
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
@@ -1049,6 +1054,9 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gs_open_game_booster_summary">Boost network speed for games</string>
   <string name="gs_performance_mode">"パフォーマンスモード"</string>
   <string name="gs_performance_mode_detail">ゲーム向けにシステムパフォーマンスを最適化する</string>
+  <string name="gs_show_way">ホーム画面の向き</string>
+  <string name="gs_show_way_horizontal">横向き</string>
+  <string name="gs_show_way_vertical">縦向き</string>
   <string name="gs_sign_notification">"毎日午後8時にチェックインのリマインダーを表示"</string>
   <string name="gs_slip_gamebox_detail">Use slider or swipe from the top side edge of the screen to make the shortcut panel appear</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>間違ったキャリア？&lt;/U>&lt;/font>"</string>

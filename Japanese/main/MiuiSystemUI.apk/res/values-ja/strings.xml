@@ -573,7 +573,6 @@
   <string name="face_unlock_rotated_right">"頭を左に向けてください"</string>
   <string name="face_unlock_sc_status">Push the screen down to open camera</string>
   <string name="face_unlock_stay_away_screen">"画面から25～40cmの位置で保持してください"</string>
-  <string name="face_unlock_success">顔データを確認しました</string>
   <string name="face_unlock_success_show_message_dialog_msg">ロック画面上に通知を表示できるようにします。</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">許可しない</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">許可</string>
@@ -733,7 +732,6 @@
   <string name="keyguard_charged">充電が完了しました</string>
   <string name="keyguard_charging_back_to_lockscreen">ロック画面に戻る</string>
   <string name="keyguard_charging_info_battery_used_time_text">"電池使用時間"</string>
-  <string name="keyguard_charging_info_click_to_detail">"詳細を表示"</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
   <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">"今日 %s"</string>
@@ -745,6 +743,9 @@
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
   <string name="keyguard_charging_info_tip_text5">It takes longer for batteries to charge when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+  <string name="keyguard_charging_normal_and_level_tip">充電中 %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">急速充電中 %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">急速充電中 %d%%</string>
   <string name="keyguard_indication_charging_time">充電中（フル充電まで%s）</string>
   <string name="keyguard_indication_charging_time_fast">急速充電中（完了まで%s）</string>
   <string name="keyguard_indication_charging_time_slowly">低速充電中（完了まで%s）</string>
@@ -897,9 +898,10 @@ EEEE"</string>
   <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">"その他"</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">More</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Enter</string>
   <string name="lock_screen_no_sim_card_emergency_only">緊急通報のみ</string>
   <string name="lock_screen_no_sim_card_no_service">サービスなし</string>
-  <string name="lock_wallpaper_enter">Enter</string>
   <string name="lockscreen_access_pattern_area">Pattern area.</string>
   <string name="lockscreen_access_pattern_cell_added">"セルを追加しました"</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">セル %1$s を追加しました</string>
