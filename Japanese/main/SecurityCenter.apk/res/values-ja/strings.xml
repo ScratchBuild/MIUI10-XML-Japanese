@@ -1723,8 +1723,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="privacy_apps_manage_dialog_title">About hidden apps</string>
   <string name="privacy_apps_manager_dialog_message">"This app's icon won't be displayed on the Home screen after you hide this app. Hide this app now?"</string>
   <string name="privacy_apps_tutorial">"チュートリアル"</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"When you hide an app, it's moved to a hidden folder. Its Home screen shortcut is hidden as well.
-This feature isn't supported for system apps."</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">この機能を使用すると、指定したアプリのアイコンをホーム画面で非表示にすることができます。</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">After you enter your password, the folder with hidden apps will appear.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>
   <string name="privacy_declare_dialog_title">"利用規約"</string>
