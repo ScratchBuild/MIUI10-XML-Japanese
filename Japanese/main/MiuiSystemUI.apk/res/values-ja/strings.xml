@@ -186,10 +186,6 @@
   <string name="always_use_accessory">このUSBアクセサリを既定で使用する</string>
   <string name="always_use_device">このUSBデバイスを既定で使用する</string>
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
-  <string name="aod_dual_togother">HH:mm</string>
-  <string name="aod_dual_togother_12">hh:mm aa</string>
-  <string name="aod_lock_screen_date">M月d日 EEEE</string>
-  <string name="aod_lock_screen_date_12">M月d日 EEEE</string>
   <string name="apn_settings_not_available">このユーザーはアクセスポイント名設定を利用できません</string>
   <string name="app_info">アプリ情報</string>
   <string name="app_label">システムUI</string>

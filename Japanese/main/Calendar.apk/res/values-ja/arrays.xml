@@ -24,6 +24,10 @@
         <item>"この予定のみ"</item>
         <item>"繰り返す予定すべて"</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>今回のみ</item>
+        <item>繰り返しの通知をオフにする</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Forwards</item>
         <item>Backwards</item>
@@ -44,6 +48,7 @@
         <item>10分</item>
         <item>15分</item>
         <item>30分</item>
+        <item>1時間</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>"この日の予定のみ"</item>
@@ -71,6 +76,10 @@
         <item>libra</item>
         <item>天秤座</item>
         <item>9/23 - 10/23</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>今回のみ</item>
+        <item>繰り返しの通知を設定</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>

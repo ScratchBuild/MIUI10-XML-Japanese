@@ -1414,6 +1414,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="note_sms_none">"メッセージはありません"</string>
   <string name="noti_back_diving_mode_title">没入モードをオンにしました。オフにするにはタップ。</string>
   <string name="notification_battery_consume_abnormal_title">"バッテリーの消耗が早すぎます"</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Tap to fix the problem</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s is draining battery</string>
   <string name="notification_exit_power_save_mode">"バッテリーセーバーをオフにしました"</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
   <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
@@ -1522,6 +1524,14 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="password_promotion_title">Add Mi Account</string>
   <string name="password_type">パスワードを変更</string>
   <string name="password_type_underline">&lt;u>パスワードを変更&lt;/u></string>
+  <string name="password_xspace_forget_pattern_message">To change your Second space password, you should delete your current Second space and create a new one.</string>
+  <string name="pc_abnormal_scan_button_text">Close apps</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Prevents the system from going into standby mode</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Tries to connect to the network too frequently</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">Runs abnormally</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Searches for WLAN too frequently</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Uses location services too frequently</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Wakes the system too frequently</string>
   <string name="pc_activity_title">"バッテリーを最適化"</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
   <string name="pc_main_activity_back">戻る</string>

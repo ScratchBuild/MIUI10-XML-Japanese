@@ -80,6 +80,10 @@
         <item quantity="other">%d videos</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Collages can contain 1-%d photos</item>
+        <item quantity="one">Collages can contain 1-%d photo</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">最大%d枚まで写真を選択</item>
         <item quantity="one">最大%d枚まで写真を選択</item>

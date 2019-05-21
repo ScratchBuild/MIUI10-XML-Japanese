@@ -44,4 +44,20 @@
         <item quantity="other"> | %1$s人</item>
         <item quantity="one"> | %1$s人</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">最高気温: 摂氏%1$s度</item>
+        <item quantity="one">最高気温: 摂氏%1$s度</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">最高気温: 華氏%1$s度</item>
+        <item quantity="one">最高気温: 華氏%1$s度</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">最低気温: 摂氏%1$s度</item>
+        <item quantity="one">最低気温: 摂氏%1$s度</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">最低気温: 華氏%1$s度</item>
+        <item quantity="one">最低気温: 華氏%1$s度</item>
+    </plurals>
 </resources>

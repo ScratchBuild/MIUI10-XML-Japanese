@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">"参加者を追加"</string>
+  <string name="accessibility_alarm_remind">アラーム通知</string>
   <string name="accessibility_all_day">"終日"</string>
   <string name="accessibility_pick_start_date">"開始日"</string>
   <string name="accessibility_pick_time_zone">"タイムゾーン"</string>
@@ -8,7 +9,6 @@
   <string name="accessibility_repeats">"頻度"</string>
   <string name="accessibility_sync_cal">"カレンダーを同期"</string>
   <string name="account_and_calendar">"アカウント"</string>
-  <string name="action_bar_date_button_title">"日付を計算"</string>
   <string name="action_bar_return">"戻る"</string>
   <string name="action_label">戻る</string>
   <string name="action_text_card_manager">"チャンネル"</string>
@@ -350,9 +350,15 @@
   <string name="pref_title_alarm_remind">"アラーム通知"</string>
   <string name="pref_title_no_remind">"通知なし"</string>
   <string name="pref_title_notification_remind">"リマインダー通知"</string>
+  <string name="preferences_alarm_default_event_title">アラーム通知を設定</string>
+  <string name="preferences_alarms_category_title">アラーム通知</string>
+  <string name="preferences_alarms_default_event">予定を選択</string>
+  <string name="preferences_alarms_sound">通知音</string>
+  <string name="preferences_alarms_vibrateWhen">バイブレーション</string>
   <string name="preferences_alerts_ringtone_title">"通知音"</string>
   <string name="preferences_alerts_vibrateWhen_title">"バイブレーション"</string>
-  <string name="preferences_alerts_vibrate_title">"バイブレーションと通知音"</string>
+  <string name="preferences_alerts_vibrate_title">デフォルトの通知</string>
+  <string name="preferences_allow_remind">通知を許可する</string>
   <string name="preferences_home_tz_title">"自宅のタイムゾーン"</string>
   <string name="preferences_import_credit_repayment">"クレジットカードの支払い"</string>
   <string name="preferences_import_travel">"交通チケット"</string>
@@ -361,6 +367,8 @@
   <string name="preferences_import_hotel">"ホテル"</string>
   <string name="preferences_import_loan">"ローンの請求"</string>
   <string name="preferences_import_movie">"映画のチケット"</string>
+  <string name="preferences_import_plane">チケット</string>
+  <string name="preferences_import_train">乗車券</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_title">"カレンダー"</string>
   <string name="preferences_use_home_tz_descrip">"旅行中も自宅のタイムゾーンでカレンダーと予定時間を表示する"</string>
@@ -378,6 +386,19 @@
   <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminder_overdue">"期限切れ"</string>
   <string name="repeat_activity_label">"繰り返し"</string>
+  <string name="repeat_alarm_changed_credit_event">Always remind about credit card bills</string>
+  <string name="repeat_alarm_changed_electricity_event">Always remind about electricity bills</string>
+  <string name="repeat_alarm_changed_event">Set repeated reminder</string>
+  <string name="repeat_alarm_changed_flight_event">Always remind about flights</string>
+  <string name="repeat_alarm_changed_gas_event">Always remind about gas bills</string>
+  <string name="repeat_alarm_changed_hotel_event">Always remind about hotels</string>
+  <string name="repeat_alarm_changed_loan_event">Always remind about loan repayments</string>
+  <string name="repeat_alarm_changed_movie_event">Always remind about movies</string>
+  <string name="repeat_alarm_changed_ony_selected">Just for this time</string>
+  <string name="repeat_alarm_changed_title">This is a repeated event. Set reminder?</string>
+  <string name="repeat_alarm_changed_train_event">Always remind about trains</string>
+  <string name="repeat_alarm_close_title">This is a repeated event. Turn off alarm reminder?</string>
+  <string name="repeat_alarm_open_title">This is a repeated event. Set alarm reminder?</string>
   <string name="repeat_custom_activity_label">"カスタム"</string>
   <string name="repeat_custom_prompt_daily">every %1$s</string>
   <string name="repeat_custom_prompt_sentence">Event will repeat %1$s</string>
@@ -412,10 +433,17 @@
   <string name="search_menu_title">検索</string>
   <string name="select_date">"日付を選択"</string>
   <string name="select_today_tip">今日</string>
+  <string name="setting">設定</string>
   <string name="setting_about_calendar_version">カレンダーバージョン:</string>
   <string name="setting_about_miui_version">MIUIバージョン:</string>
   <string name="setting_about_summary">バージョン:</string>
   <string name="setting_accounts">"カレンダーのアカウント"</string>
+  <string name="setting_daysoff_no_update">祝日に関する情報は既に最新の状態です。</string>
+  <string name="setting_daysoff_update">祝日に関する情報を更新する</string>
+  <string name="setting_daysoff_update_cta_cancel">初めにインターネットへの接続を許可してください</string>
+  <string name="setting_daysoff_update_net_err">更新を確認できませんでした。しばらくしてからもう一度お試しください。</string>
+  <string name="setting_daysoff_update_schedule">更新中…</string>
+  <string name="setting_daysoff_update_success">正常に更新されました</string>
   <string name="setting_features_title">"機能の設定"</string>
   <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
   <string name="setting_holiday_reminder">"祝日の通知"</string>
@@ -457,6 +485,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="talk_back_month">月</string>
   <string name="talk_back_read_date">%1$s (%2$s according to lunar calendar).</string>
   <string name="talk_back_setting">"設定"</string>
+  <string name="talk_back_tab_switch">表示を切り替える</string>
   <string name="template_announce_item_index">"%2$s件中%1$s件目の予定"</string>
   <string name="text_year">年</string>
   <string name="ticket_activity_card_date_day">日</string>

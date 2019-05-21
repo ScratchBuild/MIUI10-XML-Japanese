@@ -90,6 +90,7 @@
   <string name="popup_camera_calibrate_now">キャリブレーション</string>
   <string name="popup_camera_calibrate_success">正常にキャリブレーションされました。前面カメラを起動してみてください。</string>
   <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
+  <string name="popup_camera_front_when_use">カメラアプリは前面カメラをもう一度開く必要があります。今すぐ開きますか？</string>
   <string name="popup_camera_popup_falied_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
   <string name="popup_camera_sure">OK</string>
   <string name="popup_camera_sure_wait">OK (%d秒)</string>
@@ -184,6 +185,7 @@
   <string name="turn_off">"オフにする"</string>
   <string name="unknown_caller">"不明な番号"</string>
   <string name="user_switching_dialog_text">"切り替え中…"</string>
+  <string name="voice_assistant_tips">音声アシスタントを起動するため、電源ボタンの長押しするように更新</string>
   <string name="voice_begin">"何をお探しですか？"</string>
   <string name="voice_button_action_down">"指を離して検索"</string>
   <string name="voice_button_action_up">"タップして話しかける"</string>

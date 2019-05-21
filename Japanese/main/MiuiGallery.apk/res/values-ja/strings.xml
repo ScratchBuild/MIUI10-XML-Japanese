@@ -267,6 +267,9 @@
   <string name="cleaner_video_description">動画を削除してストレージの空き領域を増やす</string>
   <string name="cleaner_video_pick_delete_selected">選択した動画を削除</string>
   <string name="cleaner_video_title">動画を削除</string>
+  <string name="clear_dup_medias">重複した写真を整理する</string>
+  <string name="clear_dup_success">整理が正常に完了しました</string>
+  <string name="clear_dup_tip">重複した写真を整理しています</string>
   <string name="click_download_gif">"GIFをダウンロードするにはタップ"</string>
   <string name="click_top_right">"このアイコンをタップ"</string>
   <string name="close">"閉じる"</string>
