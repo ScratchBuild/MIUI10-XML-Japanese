@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="aod_close_color_inversion">この機能は色反転と同時に使用することはできません。最初に色反転をオフにしてください。</string>
+  <string name="aod_dual_togother">HH:mm</string>
+  <string name="aod_dual_togother_12">hh:mm aa</string>
+  <string name="aod_lock_screen_date">M月d日 EEEE</string>
+  <string name="aod_lock_screen_date_12">M月d日 EEEE</string>
+  <string name="aod_mode_style">時計の種類と背景</string>
+  <string name="aod_mode_summary">This feature increases system power consumption. It will be turned off when your device stays in the dark for a long time or Battery saver restrictions are applied.</string>
+  <string name="aod_mode_time_summary">端末が\"アンビエント表示\"に切り替わる時間をスケジュール設定する</string>
+  <string name="aod_mode_time_title">スケジュール</string>
+  <string name="aod_mode_title">アンビエント表示</string>
+  <string name="aod_to_close">オフにする</string>
+  <string name="cancel">キャンセル</string>
+  <string name="paper_mode_end_time_title">オフにする</string>
+  <string name="paper_mode_start_time_title">オンにする</string>
+  <string name="search_menu_title">検索</string>
+</resources>
