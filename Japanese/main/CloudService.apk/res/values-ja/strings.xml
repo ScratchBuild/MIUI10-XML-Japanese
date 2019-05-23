@@ -39,8 +39,7 @@
   <string name="find_device_enabling">オンにしています…</string>
   <string name="find_device_error_network">"データ接続を確認してもう一度お試しください。"</string>
   <string name="find_device_error_server">サーバーエラー</string>
-  <string name="find_device_gdpr_prompt">Find deviceを有効にすると、プライバシーポリシーに同意したことになります。プライバシー保護を取り消す必要がある場合は、この機能をオフにしてください。</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">プライバシーポリシー</string>
+  <string name="find_device_gdpr_prompt">Find deviceを有効にすると、&lt;u>&lt;a href="app://com.miui.cloudservice.gdpr.license">プライバシーポリシー&lt;/a>&lt;/u>に同意したことになります。プライバシー保護を取り消す必要がある場合は、この機能をオフにしてください。</string>
   <string name="find_device_operation_failure_rpc">RPCエラーのため操作を実行できませんでした。</string>
   <string name="find_device_send_sms_alert">SIMカードを切り替えた場合、この機能を再度有効にするためSMSが改めて送信される場合があります。</string>
   <string name="find_device_service_title">Find device</string>
