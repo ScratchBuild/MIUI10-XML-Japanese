@@ -2962,9 +2962,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="long_press_home_key">ホームボタンを長押し</string>
   <string name="long_press_menu_key">メニューボタンを長押し</string>
   <string name="long_press_menu_key_when_lock">ロック時にメニューボタンを長押し</string>
-  <string name="long_press_power_key">電源ボタンを長押し</string>
   <string name="long_press_power_key_half_of_second">電源ボタンを0.5秒間押し続けると、Googleアシスタントがオンになります</string>
-  <string name="long_press_power_key_tips">Long press the Power button Faster and more convenient</string>
   <string name="long_press_volume_down">音量[－]ボタンを長押し</string>
   <string name="lost_internet_access_cancel">Wi‑Fi を継続</string>
   <string name="lost_internet_access_persist">次回から表示しない</string>
