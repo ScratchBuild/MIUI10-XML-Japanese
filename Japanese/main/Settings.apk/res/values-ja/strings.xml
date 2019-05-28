@@ -957,7 +957,8 @@ aptX-Adaptive: Codec Mode"</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">古いデバイスは、現在のデバイスに置き換えられます。</string>
   <string name="bluetooth_unlock_change_matched_device">他のデバイスを選択</string>
   <string name="bluetooth_unlock_confirm_device_text">タップしてロックを解除する</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">時計のボタンをタップするとロックが解除されます。</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirm on the band.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Confirm on the watch.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">端末のボタンをタップするとロックが解除されます。</string>
   <string name="bluetooth_unlock_delete_device">このデバイスを削除する</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">このデバイスを削除しますか？</string>
@@ -3223,6 +3224,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_sos_statusbar_summary">オフにするにはタップ</string>
   <string name="miui_sos_statusbar_title">緊急SOSがオンになっています</string>
   <string name="miui_special_feature">特殊機能</string>
+  <string name="miui_touch_filtered_touchassistant_warning">アクセス許可のダイアログがQuick ballで覆われています。Quick ballを移動するか、この機能をオフにしてください。</string>
   <string name="miui_touch_filtered_warning">アプリがアクセス許可のダイアログをブロックしている場合は、重なっている項目をドラッグして移動するか、アプリを終了してください。</string>
   <string name="miui_updater">システムの更新</string>
   <string name="miui_userguide">ユーザーガイド</string>
@@ -5069,8 +5071,6 @@ PINが正しくない可能性があります。"</string>
   <string name="status_bar_settings_expand_top_notification">Expand top notification</string>
   <string name="status_bar_settings_manage_notification">アプリの通知</string>
   <string name="status_bar_settings_notification_bar">通知領域</string>
-  <string name="status_bar_settings_notification_led_custom">色を変更</string>
-  <string name="status_bar_settings_notification_sound_custom">音を変更</string>
   <string name="status_bar_settings_notification_use_app_icon">通知にアプリアイコンを使用</string>
   <string name="status_bar_settings_qs_layout">クイック設定のレイアウト</string>
   <string name="status_bar_settings_status_bar">ステータスバー</string>

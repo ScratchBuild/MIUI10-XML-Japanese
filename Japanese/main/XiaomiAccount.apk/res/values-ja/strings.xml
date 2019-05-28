@@ -61,7 +61,6 @@
   <string name="bind_facebook">"Facebookアカウントに接続"</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">"次回ログインのため電話番号を追加する"</string>
-  <string name="bind_settings">"アカウント"</string>
   <string name="bind_sina_weibo">"Sina Weiboアカウントに接続"</string>
   <string name="bind_sns_description">"%sでログイン"</string>
   <string name="bind_weibo_description">"Sina Weiboから友だちを追加"</string>
@@ -397,6 +396,7 @@ ID:%s
   <string name="passport_wrong_phone_number_format">"入力した電話番号の形式が無効です"</string>
   <string name="passport_wrong_vcode">"入力したコードが正しくありません"</string>
   <string name="passport_wrong_voice">"入力したコードが正しくありません"</string>
+  <string name="passport_wx_bind_account_limit">今すぐアカウントを作成できません。他のログイン方法を試してください。</string>
   <string name="passport_yes">はい</string>
   <string name="permission_group_contacts">連絡先</string>
   <string name="permission_group_phone">電話</string>
@@ -428,6 +428,7 @@ ID:%s
   <string name="search_account_security_key_words">Change Phone,Change Email,Account protection,Accounts,Sina Weibo,QQ,Authorization,Devices</string>
   <string name="search_account_security_path">"設定/Mi Account/アカウントのセキュリティ"</string>
   <string name="search_app_name">Mi Account</string>
+  <string name="search_menu_title">検索</string>
   <string name="search_mi_account">Mi Account</string>
   <string name="search_mi_account_desc">Mi Account</string>
   <string name="search_mi_account_key_words">Mi Cloud,Account Setting,Mi Pay Info,Sign out</string>

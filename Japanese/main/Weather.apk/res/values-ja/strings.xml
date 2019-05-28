@@ -216,6 +216,8 @@
   <string name="share_subject">"共有"</string>
   <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
   <string name="share_weather_save_pic_fail">"スクリーンショットの取得に失敗しました"</string>
+  <string name="shortcut_short_label_24_hour_forecast">24時間の予報</string>
+  <string name="shortcut_short_label_recent_forecast">天気を確認</string>
   <string name="some_where_on_earth">"地球上のどこか"</string>
   <string name="sunrise">"日の出"</string>
   <string name="sunset">"日の入"</string>

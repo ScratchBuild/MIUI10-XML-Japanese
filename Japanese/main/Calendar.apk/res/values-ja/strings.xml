@@ -370,6 +370,9 @@
   <string name="preferences_import_plane">チケット</string>
   <string name="preferences_import_train">乗車券</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
+  <string name="preferences_popup_alert_smart_summary">MIUIはどの予定が最も関連性があるかを自動的に識別します</string>
+  <string name="preferences_popup_alert_smart_tips">重要な予定を見逃さないように、従来の通知をポップアップ通知に置き換えます。ゲームのプレイ中、フルスクリーンビデオの視聴中、または運転モードの使用中は、ポップアップ通知は表示されません。</string>
+  <string name="preferences_popup_alert_title">ポップアップ通知</string>
   <string name="preferences_title">"カレンダー"</string>
   <string name="preferences_use_home_tz_descrip">"旅行中も自宅のタイムゾーンでカレンダーと予定時間を表示する"</string>
   <string name="preferences_use_home_tz_title">"自宅のタイムゾーン"</string>

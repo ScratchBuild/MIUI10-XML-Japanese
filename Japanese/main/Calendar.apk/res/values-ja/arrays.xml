@@ -86,6 +86,11 @@
         <item>魚座</item>
         <item>2/19 - 3/20</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>オフ</item>
+        <item>すべての予定</item>
+        <item>最も関連性の高い予定</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>常に</item>
         <item>マナーモードの場合のみ</item>
