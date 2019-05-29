@@ -4341,6 +4341,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_paper_mode_global_summary">すべてのアプリで読書モードを使用する</string>
   <string name="screen_paper_mode_global_title">すべてのアプリ</string>
   <string name="screen_paper_mode_hdr_toast">HDR動画を再生している間は、読書モードはオフになります。動画の再生が終了すると、自動的にオンに戻ります。</string>
+  <string name="screen_paper_mode_hdr_toast_new">HDR動画の再生中および指紋認証中は、読書モードは自動的にオフになります。これらの操作が完了すると、端末は読書モードに戻ります。</string>
   <string name="screen_paper_mode_local_summary">選択したアプリで読書モードを使用する</string>
   <string name="screen_paper_mode_local_title">選択したアプリ</string>
   <string name="screen_paper_mode_off_apps_title">読書モードを使用しない</string>

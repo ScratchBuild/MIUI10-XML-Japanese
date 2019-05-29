@@ -331,9 +331,13 @@
   <string name="news_change">"変更"</string>
   <string name="no_network">"ネットワークに接続できませんでした、あとでもう一度試してみてください"</string>
   <string name="no_network_btn">"再試行"</string>
+  <string name="notification_garbage_cleanup_summary">ゴミ箱のサイズが %s に達しました</string>
+  <string name="notification_garbage_cleanup_title">ゴミファイルを消去</string>
+  <string name="notification_low_memory_cache_summary">端末の使用可能な空き容量が 1.5GB 未満です</string>
+  <string name="notification_low_memory_cache_title">キャッシュの消去</string>
+  <string name="notification_low_memory_deepclean_summary">Deep cleanでお使いの端末の空き領域を増やせます</string>
+  <string name="notification_low_memory_deepclean_title">ストレージの空き容量が残りわずか</string>
   <string name="notification_summary_after_auto_cleanup">"%s をクリーンアップしました。"</string>
-  <string name="notification_summary_of_garbage_cleanup">"空き領域を確保するにはタップ。"</string>
-  <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
   <string name="notify_when">"ゴミ箱のサイズが100MBに達したときに通知を行う"</string>
   <string name="ok">OK</string>
   <string name="onekeyclean_boost_available">"%s が利用可能です"</string>

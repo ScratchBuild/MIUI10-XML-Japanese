@@ -259,6 +259,7 @@ in Portrait mode"</string>
   <string name="live_sticker_fragment_tab_name">TikTok マジックステッカー</string>
   <string name="live_sticker_network_error_hint">ネットワークエラー</string>
   <string name="live_sticker_updating">更新中…</string>
+  <string name="lying_direct_hint">写真の向き</string>
   <string name="macro_mode">マクロ</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
