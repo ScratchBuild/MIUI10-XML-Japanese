@@ -259,6 +259,7 @@
   <string name="guild_add_recipients">タップして連絡先に宛先を追加</string>
   <string name="guild_msim_switcher">タップしてSIMカードを切替</string>
   <string name="has_invalid_recipient">"不明な宛先: &lt;%1$s>"</string>
+  <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">差出人アドレス非表示</string>
   <string name="hold_to_talk">Hold to talk</string>
   <string name="hybrid_check_network">"ネットワーク設定"</string>
@@ -576,6 +577,7 @@
   <string name="received_at_time">"受信日時: %1s"</string>
   <string name="received_label">"受信: "</string>
   <string name="recipient_label">"宛先: "</string>
+  <string name="recipients_contain_sub_sim_number">"Looks like there's a secondary SIM number among the recipients. Send this message using secondary SIM."</string>
   <string name="recipients_over_size">宛先が多すぎます</string>
   <string name="recommend_bar_cancel">無視</string>
   <string name="recommend_bar_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges.</string>
@@ -749,6 +751,9 @@
   <string name="storage_limits_setting">制限を設定</string>
   <string name="storage_limits_setting_dismiss">制限しない</string>
   <string name="storage_unavailable">利用可能な容量がありません</string>
+  <string name="sub_sim_card">Sub</string>
+  <string name="sub_sim_card_indicator">Sub%d</string>
+  <string name="sub_sim_not_support_mms">"Can't send MMS using secondary SIM"</string>
   <string name="subject_hint">件名</string>
   <string name="subject_label">"件名: "</string>
   <string name="subscribe">登録</string>

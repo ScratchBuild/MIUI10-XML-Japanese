@@ -186,7 +186,7 @@
   <string name="allow_bind_app_widget_activity_allow_bind_title">ウィジェットの作成とアクセスの許可</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$sによるウィジェットの作成とデータへのアクセスを常に許可する</string>
   <string name="allow_data_usage_title">ローミング時にデータ使用を許可</string>
-  <string name="allow_device_id_access">アプリにデバイスIDの使用を許可</string>
+  <string name="allow_device_id_access">デバイスIDの使用を許可するアプリを選択</string>
   <string name="allow_float_summary">フローティング通知を許可する</string>
   <string name="allow_float_title">フローティング通知</string>
   <string name="allow_interruption">割り込みの許可</string>
@@ -196,6 +196,7 @@
   <string name="allow_lights_title">Allow using LED light</string>
   <string name="allow_mock_location">擬似ロケーションを許可</string>
   <string name="allow_mock_location_summary">擬似ロケーションを許可する</string>
+  <string name="allow_oaid_used">デバイスIDの使用を許可する</string>
   <string name="allow_overlay_description">この権限により、アプリは使用中の他のアプリの上に重ねて表示できるようになります。これにより、他のアプリのインターフェースを使用する際に邪魔になったり、他のアプリに表示されていると思われるものが変更されたりする場合があります。</string>
   <string name="allow_sound_title">音の許可</string>
   <string name="allow_sound">音の許可</string>
@@ -495,7 +496,7 @@
   <string name="backup_set_new_pw_title">新しいバックアップパスワードを入力してください</string>
   <string name="backup_set_null_pw">最初にパスワードを入力してください</string>
   <string name="backup_set_pw_confirm_title">新しいバックアップパスワードをもう一度入力してください</string>
-  <string name="badge_title">Show desktop app icon badge</string>
+  <string name="badge_title">アプリアイコンバッジを表示</string>
   <string name="band_mode_failed">失敗</string>
   <string name="band_mode_loading">バンドリストを読み込み中...</string>
   <string name="band_mode_set">設定</string>
@@ -1679,7 +1680,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_display_layout_title">Features</string>
   <string name="device_edit_title">端末名を編集</string>
   <string name="device_feedback">この端末についてフィードバックを送信</string>
-  <string name="device_id">Device ID</string>
+  <string name="device_id">パーソナライズされたおすすめ用のデバイスID</string>
   <string name="device_info_label">端末情報</string>
   <string name="device_info_not_available">該当なし</string>
   <string name="device_info_settings">端末の状態</string>
@@ -1694,6 +1695,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_name_input_hint">端末名を入力</string>
   <string name="device_name_input_overlength">文字数オーバー</string>
   <string name="device_name_usage_point">近くにある他のデバイスは、この名前を見ることができます。</string>
+  <string name="device_oaid">デバイスID</string>
   <string name="device_picker">Bluetoothデバイスの選択</string>
   <string name="device_screen_consumption">画面消費</string>
   <string name="device_rear_camera">背面カメラ</string>
@@ -4222,11 +4224,14 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="resident_timezone_summary">Second clock</string>
   <string name="resolver_settings_label">並べ替え</string>
   <string name="resource_ringtone_volume_mute">現在の着信音量はミュートされています</string>
-  <string name="restore_device_id_content">パーソナライズされたおすすめをリセットする</string>
-  <string name="restore_device_id_title">デバイスIDを復元する</string>
-  <string name="restore_dialog_content">デバイスIDを復元すると、あなた向けにパーソナライズされたおすすめがリセットされます。</string>
-  <string name="restore_dialog_positive">復元</string>
+  <string name="restore_device_id_content">パーソナライズされたおすすめはリセットされます</string>
+  <string name="restore_device_id_title">デバイスIDをリセットする</string>
+  <string name="restore_dialog_content">デバイスIDをリセットすると、あなた向けにパーソナライズされたおすすめもリセットされます。今すぐリセットしますか？</string>
+  <string name="restore_dialog_positive">リセット</string>
   <string name="restore_dialog_title">Attention</string>
+  <string name="restore_oaid_content">現在のデバイスIDをリセットすると新しいものに置き換えられます。今すぐリセットしますか？</string>
+  <string name="restore_oaid_positive">リセット</string>
+  <string name="restore_oaid_title">デバイスIDをリセット中</string>
   <string name="restr_pin_enter_admin_pin">管理者PINを入力</string>
   <string name="restrict_background_blacklisted">バックグラウンド データは無効になっています</string>
   <string name="restrict_bg_app">制限</string>

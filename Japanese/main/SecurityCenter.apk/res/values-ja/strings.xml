@@ -142,7 +142,7 @@
   <string name="app_manager_app_storage">"ストレージ: "</string>
   <string name="app_manager_app_traffic">"データ使用量: "</string>
   <string name="app_manager_app_update">"更新"</string>
-  <string name="app_manager_app_version_name">"バージョン:"</string>
+  <string name="app_manager_app_version_name">"バージョン: "</string>
   <string name="app_manager_appupdate_remind">"更新に関する通知"</string>
   <string name="app_manager_as_dlg_msg">"アプリの自動起動を許可すると、RAMとバッテリーの追加リソースが必要になることがあります。とにかく許可しますか？"</string>
   <string name="app_manager_as_dlg_title">"注意"</string>
@@ -863,7 +863,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="first_aid_item4_content">"バッテリー"</string>
   <string name="first_aid_item5_content">"その他の問題"</string>
   <string name="first_aid_result_feedback_button">"送信"</string>
-  <string name="first_aid_result_feedback_summary">"Couldn't find any problems. However, I spotted some."</string>
+  <string name="first_aid_result_feedback_summary">"Security scan couldn't find any problems. However, I spotted some."</string>
   <string name="first_aid_result_feedback_title">"フィードバック"</string>
   <string name="first_aid_result_summary_normal">Everything looks good!</string>
   <string name="first_aid_result_summary_not_finished">"Scan wasn't completed. Some risks may be undetected."</string>
@@ -1224,7 +1224,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="managed_user_title">すべての仕事用アプリ</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">"データ使用量を設定"</string>
-  <string name="manual_item_white_list_summary">"選択したアプリが最適化されないようにする"</string>
+  <string name="manual_item_white_list_summary">"選択した項目が最適化されないようにする"</string>
   <string name="manual_item_white_list_title">"例外"</string>
   <string name="mark_agent">Block reported agencies</string>
   <string name="mark_agent_block">Reported as agency</string>

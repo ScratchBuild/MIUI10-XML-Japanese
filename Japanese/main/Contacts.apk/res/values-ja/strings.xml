@@ -637,6 +637,9 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="menu_set_ring_tone">"着信音を設定"</string>
   <string name="menu_settings">"設定"</string>
   <string name="menu_share">"共有"</string>
+  <string name="menu_share_qrcode">QRコード</string>
+  <string name="menu_share_text">テキスト</string>
+  <string name="menu_share_vcard_file">ファイル</string>
   <string name="menu_show_all_calls">"すべての通話を表示"</string>
   <string name="menu_show_voicemails_only">"ボイスメールのみ表示"</string>
   <string name="menu_splitAggregate">"分割"</string>
@@ -1012,8 +1015,10 @@ To add a contact to your list of favorites:
   <string name="service_provider_detail">"ディレクトリの詳細"</string>
   <string name="set_data_package">"初めにデータプランを設定"</string>
   <string name="set_photo_failed_msg">"写真を割り当てることができませんでした"</string>
+  <string name="share_contact_as">連絡先を共有</string>
   <string name="share_error">"この連絡先は共有することができません"</string>
   <string name="share_over_limit">"1,000件以上の連絡先を共有できません"</string>
+  <string name="share_qrcode">QRコードを共有</string>
   <string name="share_via">"連絡先の共有ツール"</string>
   <string name="share_visible_contacts">"連絡先を共有"</string>
   <string name="shortcutActivityTitle">"連絡先ショートカットを選択"</string>

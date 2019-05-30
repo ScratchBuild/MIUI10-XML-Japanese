@@ -279,7 +279,7 @@ ID:%s
   <string name="passport_login_instead_reg">"この番号を使用する"</string>
   <string name="passport_login_instead_reg_with_email">"このメールアドレスを使用する"</string>
   <string name="passport_login_other_account">"その他のアカウント"</string>
-  <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
+  <string name="passport_login_prompt">すべてのMiサービスを、一つのMiアカウントで。</string>
   <string name="passport_login_recycle_account_no">"いいえ"</string>
   <string name="passport_login_recycle_account_yes">"はい"</string>
   <string name="passport_login_title">"Mi Accountにログイン"</string>
