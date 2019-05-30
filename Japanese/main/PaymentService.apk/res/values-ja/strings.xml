@@ -382,7 +382,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_downlink_reg">電話番号を使用してアカウントを作成</string>
   <string name="passport_email">メールアドレス</string>
   <string name="passport_email_or_id_hint_text">メールアドレスまたはMi Account ID</string>
-  <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="passport_email_reg_success_summary">%1$s はあなたのアカウントに関連付けられています。ログインまたはパスワードのリセットに使用することができます。</string>
   <string name="passport_error_auth_fail">セッションが期限切れです、もう一度ログインしてください</string>
   <string name="passport_error_device_id">デバイスIDを取得できません</string>
   <string name="passport_error_dup_email">入力したメールアドレスは既に別のアカウントに関連付けられています。</string>
@@ -431,7 +431,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_login_instead_reg">この番号を使用</string>
   <string name="passport_login_instead_reg_with_email">このメールアドレスを使用</string>
   <string name="passport_login_other_account">その他のアカウント</string>
-  <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
+  <string name="passport_login_prompt">すべてのMiサービスを、一つのMiアカウントで。</string>
   <string name="passport_login_recycle_account_no">いいえ</string>
   <string name="passport_login_recycle_account_yes">はい</string>
   <string name="passport_login_title">Mi Accountでログイン</string>
@@ -467,7 +467,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_reg_recycle_account_no">いいえ</string>
   <string name="passport_reg_recycle_account_yes">はい</string>
   <string name="passport_reg_success">アカウントを作成しました</string>
-  <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="passport_reg_success_summary">%1$s はあなたのアカウントに関連付けられています。ログインまたはパスワードのリセットに使用することができます。</string>
   <string name="passport_reg_type_email">メールアドレス</string>
   <string name="passport_reg_using_other_phone">&lt;u>別の電話番号を使用する&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
