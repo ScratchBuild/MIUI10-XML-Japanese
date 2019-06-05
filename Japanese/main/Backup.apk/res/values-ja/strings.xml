@@ -123,9 +123,12 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="dialog_app_upgrade_download">更新</string>
   <string name="dialog_app_upgrade_exit">終了</string>
   <string name="dialog_app_upgrade_message">新しいバージョンが利用可能です。今すぐMi Moverを更新しますか？</string>
+  <string name="dialog_backup_password_auto_backup_tips">バックアップパスワードがオンになっていると自動的にアイテムをバックアップできません。初めにバックアップパスワードをオフにしてください。</string>
   <string name="dialog_backup_password_backup_tips">バックアップパスワードがオンのときはバックアップできません。パスワードをオフにしてください。</string>
   <string name="dialog_backup_password_cancel">キャンセル</string>
+  <string name="dialog_backup_password_change_device_restore_tips">バックアップパスワードがオンになっているとMi Moverを使用できません。初めにバックアップパスワードをオフにしてください。</string>
   <string name="dialog_backup_password_change_machine_tips">パスワードで保護されたバックアップを転送することはできません。 Mi Moverを使用する前にバックアップパスワードをオフにしてください。</string>
+  <string name="dialog_backup_password_restore_tips">バックアップパスワードがオンになっているとアイテムを復元できません。初めにバックアップパスワードをオフにしてください。</string>
   <string name="dialog_backup_password_to_settings">設定</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">"暗号化しない"</string>
@@ -164,6 +167,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="feature_title_call_log">"通話履歴"</string>
   <string name="feature_title_contacts">"連絡先"</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms_setting">MMSの設定</string>
   <string name="feature_title_sms">"メッセージ"</string>
   <string name="file_uploading">"アップロード中…"</string>
   <string name="files_backup_info">"SDカード上のすべてのファイル (写真、音楽、動画、アプリのデータ、その他を含む)"</string>
@@ -200,6 +204,7 @@ Don't change or rename backup files."</string>
   <string name="hsa_verify_failed_message">Two-factor authentication failed. You can retry or turn off two-factor authentication.</string>
   <string name="hsa_verify_retry">"再試行"</string>
   <string name="hsa_verify_shutdown">"オフにする"</string>
+  <string name="iCloud_ID_verification_tip">"Enter the SMS verification code sent to the phone number associated with your Apple ID. Ignore the pop-up code displayed on your iPhone's screen."</string>
   <string name="icloud_backup_tip">"古いiOS端末にiCloudアカウントでログイン"</string>
   <string name="icloud_how_to_backup_tip_steps">"1.iOS端末で設定を開き、iCloudを選択します。
 2.連絡先などのスイッチを切り替えます。
@@ -283,7 +288,7 @@ Don't change or rename backup files."</string>
   <string name="notif_trans_sending_failed">"データを送信できませんでした"</string>
   <string name="notif_trans_wait_for_reconnecting">"接続が中断されました。もう一度接続してください。"</string>
   <string name="old_soft_name">QRコードで接続する</string>
-  <string name="old_way">QRコードを使用して接続することもできます。コードを生成するにはタップ。</string>
+  <string name="old_way">新しい端末でQRコードを生成し、古い端末からQRコードをスキャンすることもできます。</string>
   <string name="page_loading">"読み込み中…"</string>
   <string name="password">"パスワード"</string>
   <string name="password_null">"パスワードを空にすることはできません"</string>
@@ -419,6 +424,7 @@ Don't change or rename backup files."</string>
   <string name="trans_cancel_selection_message">If you exit Mi Mover, the ongoing transfer will be interrupted. Wait until the transfer is complete.</string>
   <string name="trans_cancel_selection_title">Stay in Mi Mover</string>
   <string name="trans_cancelling">"キャンセル中…"</string>
+  <string name="trans_complete_restoring">転送が完了しました。アプリデータを復元中です…</string>
   <string name="trans_connect_failed_device_incompatible">"デバイスの互換性がありません。転送をキャンセルしてもう一度お試しください。"</string>
   <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
   <string name="trans_connect_failed_title">"接続できませんでした"</string>
@@ -623,8 +629,9 @@ Free up space or transfer only important items."</string>
   <string name="user_notice_message">"いくつかの機能が正常に動作するには、インターネットへの接続が必要です。"</string>
   <string name="user_notice_title">"注意"</string>
   <string name="view_password_description">"パスワードを表示"</string>
-  <string name="wait_link">"このアクセスポイントに古いデバイスで接続してください。
-接続が確立されるまで、このページを離れないでください。"</string>
+  <string name="wait_link">"Open Mi Mover on the old device,
+tap \"I'm a sender\" and select a hotspot to connect.
+Don't close the page before connection is established."</string>
   <string name="waiting">読み込み中…</string>
   <string name="wifi_title">"Wi-Fi設定"</string>
   <string name="xiaomi_connect_download_manager_fail">"ダウンロードを開始できませんでした。ダウンロードマネージャーが正常に動作することを確認してください。"</string>

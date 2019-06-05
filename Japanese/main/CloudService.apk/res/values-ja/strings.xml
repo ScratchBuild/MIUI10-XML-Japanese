@@ -140,7 +140,7 @@
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_dspt_provision_xms">Use Mi Cloud to sync data.</string>
-  <string name="micloud_find_device_close_alert_content">"この機能をオフにすると、端末を紛失した場合に端末を見つけることができなくなります。"</string>
+  <string name="micloud_find_device_close_alert_content">Find deviceをオフにすると、端末を紛失した場合に端末を見つけることができなくなります。お使いの端末がNFC機能をサポートしている場合、すべての銀行カードとキーカードがMi Payから削除されます。</string>
   <string name="micloud_find_device_close_alert_negtive">とにかくオフにする</string>
   <string name="micloud_find_device_close_alert_positive">オンのままにする</string>
   <string name="micloud_find_device_close_alert_title">Find deviceをオフにしますか？</string>

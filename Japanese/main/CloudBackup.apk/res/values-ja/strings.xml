@@ -8,9 +8,12 @@
   <string name="as_new_device_summary">"以前のMi Cloudバックアップを消去する"</string>
   <string name="authentication_failed">"アカウントを確認できませんでした。"</string>
   <string name="back_up_task_in_process">バックアップ中…</string>
-  <string name="back_up_task_unfinished">"バックアップが完了していません"</string>
+  <string name="back_up_task_unfinished">バックアップできませんでした</string>
   <string name="backing_up_to_micloud">バックアップ中…</string>
   <string name="backup_fail_wifi_needed">バックアップできませんでした、Wi-Fi接続が必要です。</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Mi Cloudの空き領域が不足しています。アップグレードするかストレージを整理してください。</string>
+  <string name="backup_failed_reason_disk_space_not_enough">空き領域が不足しています。初めにストレージを整理してください。</string>
+  <string name="backup_failed_reason_network_error">ネットワークエラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="backup_finished_notification_content">ホーム画面のアプリ、システム設定およびその他をバックアップしました。</string>
   <string name="backup_now">今すぐバックアップ</string>
   <string name="backup_size">サイズ: %s</string>
@@ -181,6 +184,8 @@
   <string name="restore_detail_category_settings">設定</string>
   <string name="restore_detail_more">More</string>
   <string name="restore_detail_title">Select items to restore</string>
+  <string name="restore_failed_reason_disk_space_not_enough">空き領域が不足しています。初めにストレージを整理してください。</string>
+  <string name="restore_failed_reason_network_error">ネットワークエラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="restore_finish_description">復元が完了しました</string>
   <string name="restore_finished_notification_content">ホーム画面のアプリ、システム設定、その他を復元しました。</string>
   <string name="restore_from_cloud">Mi Cloudバックアップから復元</string>
@@ -192,6 +197,7 @@
   <string name="restore_network_unconnect">%s (Waiting for connection)</string>
   <string name="restore_task_cancelling">キャンセル中…</string>
   <string name="restore_task_in_process">復元中…</string>
+  <string name="restore_task_unfinished">復元できませんでした</string>
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
   <string name="restoring_file_title_no_progress">ファイルを復元中…</string>
   <string name="restoring_settings">設定を復元中…</string>

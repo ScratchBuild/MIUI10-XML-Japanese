@@ -493,6 +493,10 @@
   <string name="backup_set_enter_pw_title">バックアップパスワードを入力</string>
   <string name="backup_set_error_pw">入力したパスワードが正しくありません</string>
   <string name="backup_set_modify_title">バックアップパスワードを変更</string>
+  <string name="backup_set_new_continue">続行</string>
+  <string name="backup_set_new_exit">終了</string>
+  <string name="backup_set_new_pw_confirm_hint">注意</string>
+  <string name="backup_set_new_pw_confirm_summary">アイテムは自動的にバックアップされます。バックアップパスワードを作成すると、自動バックアップは停止します。とにかく続行しますか？</string>
   <string name="backup_set_new_pw_title">新しいバックアップパスワードを入力してください</string>
   <string name="backup_set_null_pw">最初にパスワードを入力してください</string>
   <string name="backup_set_pw_confirm_title">新しいバックアップパスワードをもう一度入力してください</string>
@@ -1689,6 +1693,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="device_miui_more">もっと見る</string>
   <string name="device_miui_version">MIUIバージョン</string>
   <string name="device_miui_version_for_POCO">MIUIバージョン (For POCO)</string>
+  <string name="device_miui_version_parameters">MIUIバージョン</string>
   <string name="device_miui_version_update">MIUIの更新が利用可能です</string>
   <string name="device_name">端末名</string>
   <string name="device_name_input_error">端末名を保存できませんでした</string>
@@ -4088,6 +4093,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="proxy_settings_title">プロキシ</string>
   <string name="proxy_warning_limited_support">HTTPプロキシはブラウザで使用されていますが、他のアプリでは使用できません。</string>
   <string name="query_hint_text">検索設定</string>
+  <string name="quick_reply_title">クイック返信</string>
+  <string name="quick_settings_developer_tiles">クイック設定 (開発者用タイル)</string>
   <string name="quiet">夜間モード</string>
   <string name="quiet_group">夜間モード</string>
   <string name="quiet_important_interruptions_mode">例外のみ許可する</string>

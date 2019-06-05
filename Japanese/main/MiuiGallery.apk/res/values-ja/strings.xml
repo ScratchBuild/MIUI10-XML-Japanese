@@ -15,7 +15,7 @@
   <string name="add_to_album_success">"アルバムに追加しました"</string>
   <string name="add_to_album_tip">Cloud photos</string>
   <string name="add_to_favorites_failed">"お気に入りに追加できませんでした"</string>
-  <string name="add_to_secret_exist">Photo already exists in hidden album</string>
+  <string name="add_to_secret_exist">This item already exists in hidden album</string>
   <string name="add_to_secret_fail">"Couldn't add to hidden album"</string>
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
@@ -194,6 +194,14 @@
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="browse_category_title">Browse</string>
+  <string name="burst_image_download_item_title" formatted="false">Download original (%s|%s)</string>
+  <string name="burst_preview_title">Burst shot</string>
+  <string name="burst_save_all">すべて保存</string>
+  <string name="burst_save_choice_title" formatted="false">Selected %d out of %d</string>
+  <string name="burst_save_confirm_dialog_title">Saving photos</string>
+  <string name="burst_save_error_msg">保存できませんでした</string>
+  <string name="burst_save_processing">処理中…</string>
+  <string name="burst_transition_image_view">photo_view_burst</string>
   <string name="buy_member_tip">Become a member</string>
   <string name="by_email">"メール"</string>
   <string name="by_others">"その他"</string>
@@ -346,6 +354,8 @@
   <string name="custom_select_title_select_item">"アイテムを選択"</string>
   <string name="debugging_info">"デバッグ情報が正常に生成されました。フォルダを開くには[OK]をタップ。"</string>
   <string name="debugging_tip">"デバッグデータの生成中"</string>
+  <string name="decrypt_video_failed">"Couldn't prepare video"</string>
+  <string name="decrypting_video">Preparing video…</string>
   <string name="define_by_user">Custom</string>
   <string name="delete">"削除"</string>
   <string name="delete_album_failed">"アルバムを削除できません"</string>
@@ -397,6 +407,10 @@
   <string name="downloading_dialog_message">"[設定]からダウンロードする画像の品質を選択するか、画像の自動ダウンロードを無効にすることができます。"</string>
   <string name="downloading_title">"Mi Cloudから写真をダウンロード中"</string>
   <string name="edit_baby_info">"赤ちゃんの情報を表示"</string>
+  <string name="editor_cancel">キャンセル</string>
+  <string name="editor_export">保存</string>
+  <string name="editor_talkback_redo">やり直し</string>
+  <string name="editor_talkback_undo">元に戻す</string>
   <string name="email_picker_title">Add shared email</string>
   <string name="empty_description_conditions">Remember the stories that matter</string>
   <string name="empty_description_no_cards">Remember the stories that matter</string>
@@ -556,7 +570,7 @@ Take more photos of your friends!"</string>
   <string name="filter_people_movie">Movie</string>
   <string name="filter_people_nature">Natural</string>
   <string name="filter_people_pink">Blush</string>
-  <string name="filter_people_riddle">Riddle</string>
+  <string name="filter_people_riddle">Candy</string>
   <string name="filter_people_sepia">Sepia</string>
   <string name="filter_people_story">Story</string>
   <string name="filter_people_tea">Tea</string>
@@ -581,6 +595,7 @@ Take more photos of your friends!"</string>
   <string name="filter_sky_sunset">Sunset</string>
   <string name="finish_create_baby_album_toast">Created an album for \"%s\" in Mi Cloud</string>
   <string name="finish_fill_baby">"作成"</string>
+  <string name="first_time_add_video_to_secret_tips">Update Gallery to be able to hide videos</string>
   <string name="flash_off">"フラッシュOFF"</string>
   <string name="flash_on">"フラッシュON"</string>
   <string name="frame_not_support_image_ratio">"This aspect ratio isn't supported"</string>
@@ -865,7 +880,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_crop_reset">"リセット"</string>
   <string name="photo_editor_doodle">"落書き"</string>
   <string name="photo_editor_filter">"フィルタ"</string>
-  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
+  <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
   <string name="photo_editor_frame">フレーム</string>
   <string name="photo_editor_label">"編集"</string>
   <string name="photo_editor_long_crop">"切り抜き"</string>
@@ -896,6 +911,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_navigator_module_downloading">"%sをダウンロード中…"</string>
   <string name="photo_editor_navigator_need_download">"%sをダウンロードするにはインターネットに接続してください。"</string>
   <string name="photo_editor_remove_watermark">Remove watermark</string>
+  <string name="photo_editor_remove_watermark_on">Add watermark</string>
   <string name="photo_editor_remover">"消去"</string>
   <string name="photo_editor_rotate">"回転"</string>
   <string name="photo_editor_saving">"保存中…"</string>
@@ -904,6 +920,7 @@ Take more photos of your friends!"</string>
   <string name="photo_editor_talkback_confirm">Confirm</string>
   <string name="photo_editor_talkback_crop_16_9">Sixteen to nine</string>
   <string name="photo_editor_talkback_crop_1_1">One to one</string>
+  <string name="photo_editor_talkback_crop_2_3">Two to three</string>
   <string name="photo_editor_talkback_crop_3_4">Three to four</string>
   <string name="photo_editor_talkback_crop_4_3">Four to three</string>
   <string name="photo_editor_talkback_crop_9_16">Nine to sixteen</string>
@@ -1170,6 +1187,12 @@ Take more photos of your friends!"</string>
   <string name="slim_running">"最適化しています…"</string>
   <string name="slim_space">"解放する"</string>
   <string name="slim_stop">"最適化を停止する"</string>
+  <string name="special_type_eye_repair">Fixed closed eyes using AI</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">AI Low Light Beautify</string>
+  <string name="special_type_night_mode">AI night mode</string>
+  <string name="special_type_portrait">AI light painting portrait</string>
+  <string name="special_type_wide_angle">AI ultra wide angle</string>
   <string name="start_debug">Debug Gallery</string>
   <string name="start_to_use_face_albumset">Sort by people</string>
   <string name="sticker_ad">Leaflets</string>
@@ -1289,14 +1312,14 @@ Take more photos of your friends!"</string>
   <string name="video_editor_adjust">Enhance</string>
   <string name="video_editor_analyzing">"動画を分析中…"</string>
   <string name="video_editor_audio">Audio</string>
+  <string name="video_editor_audio_antiquity">Retro</string>
   <string name="video_editor_audio_custom">Select</string>
-  <string name="video_editor_audio_dynamic">Techno</string>
-  <string name="video_editor_audio_love">Romantic</string>
-  <string name="video_editor_audio_memory">Memory</string>
+  <string name="video_editor_audio_dream">Dream</string>
+  <string name="video_editor_audio_electronics">Electro</string>
   <string name="video_editor_audio_none">None</string>
-  <string name="video_editor_audio_rock">Rock</string>
-  <string name="video_editor_audio_sad">Ballad</string>
-  <string name="video_editor_audio_young">Ukulele</string>
+  <string name="video_editor_audio_quiet">Zen</string>
+  <string name="video_editor_audio_summertime">Summer</string>
+  <string name="video_editor_audio_vitality">Vigor</string>
   <string name="video_editor_auto_trim">Auto trim</string>
   <string name="video_editor_auto_trim_tip">Auto trimming…</string>
   <string name="video_editor_cancel">"キャンセル"</string>

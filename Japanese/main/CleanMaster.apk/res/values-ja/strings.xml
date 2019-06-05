@@ -363,7 +363,7 @@
   <string name="pref_content_cleanup_white_list_none">"なし"</string>
   <string name="pref_summary_auto_clean_and_alert">"クリーナーを自動的に実行するようスケジュールする"</string>
   <string name="pref_summary_auto_update_cleanup_db">"最終更新 %s"</string>
-  <string name="pref_summary_cleanup_white_list">"選択したアプリをクリーンアップから除外する"</string>
+  <string name="pref_summary_cleanup_white_list">"選択したファイルをクリーンアップから除外する"</string>
   <string name="pref_summary_expand_cache_group">"キャッシュの詳細を自動的に表示する"</string>
   <string name="pref_summary_garbage_auto_clean_content">"自動的にクリーンアップするアイテムを選択する"</string>
   <string name="pref_summary_garbage_cleanup_check_size">"ゴミが一定のサイズに達したら自動的にクリーンアップする"</string>

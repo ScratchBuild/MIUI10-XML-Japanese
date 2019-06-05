@@ -962,6 +962,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gateway_exception_summary">"ルーターを確認してもう一度お試しください。"</string>
   <string name="gateway_exception_summary2">"サーバーに接続できませんでした"</string>
   <string name="gateway_exception_title">"ルーターのテスト"</string>
+  <string name="gb_add_game_hint">アプリの一覧からアイテムを追加する</string>
   <string name="gb_advance_settings_edge_gear1">None</string>
   <string name="gb_advance_settings_edge_gear2">Small</string>
   <string name="gb_advance_settings_edge_gear3">Medium</string>
@@ -998,6 +999,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gb_first_window_summary">"システムレベルでスピードとパフォーマンスを向上します"</string>
   <string name="gb_first_window_title">Game speed booster</string>
   <string name="gb_get_gift_right_now">"今すぐチェックイン"</string>
+  <string name="gb_global_settings">全般設定</string>
   <string name="gb_have_signed">"今日はチェックイン済み"</string>
   <string name="gb_msg_completely_shielded">"メッセージを隠す"</string>
   <string name="gb_msg_completely_shielded_summary">"隠す"</string>
@@ -1750,6 +1752,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
   <string name="protocol_exception_title">"ネットワークプロトコルの診断"</string>
   <string name="protocol_loop_back_exception_summary">"ローカルループバックテストに失敗しました。この問題をMIUIに報告するには、フィードバックアプリを開いてお使いの端末からログを送信してください。"</string>
+  <string name="qucick_replay_instrument">選択したメッセージアプリ (例: WhatsApp, WeChat, QQ) からの通知にクイック返信を使用する</string>
   <string name="quick_optimize_checking">"スキャン中"</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Couldn't extend battery life"</string>
   <string name="quick_optimize_no_fix_issue_title">"Couldn't fix battery issues"</string>
@@ -1759,6 +1762,8 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="quick_optimize_sub_summary_text">Added %s to battery life</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">The phone is draining battery, fix it</string>
   <string name="quick_optimize_suggest_battery_over_heat">The phone is overheating, fix it</string>
+  <string name="quick_replay_list_title">利用可能なアプリ</string>
+  <string name="quick_reply_title">クイック返信</string>
   <string name="quite_all_string">"キャンセル"</string>
   <string name="read_all_sms">"すべてを既読にする"</string>
   <string name="receive_now">Receive</string>

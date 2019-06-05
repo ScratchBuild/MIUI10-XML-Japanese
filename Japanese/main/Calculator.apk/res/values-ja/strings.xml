@@ -224,6 +224,7 @@
   <string name="tax_param_error">正しい保険料を入力してください</string>
   <string name="tax_payment_period">支払い回数</string>
   <string name="tax_rate_provider">Calculated according to the new tax regulations. Data is provided by hexun.com and East Money.</string>
+  <string name="tax_rate_provider_east_money">Calculated according to the new tax regulations. Data is provided by East Money.</string>
   <string name="tax_result_real_get">税抜</string>
   <string name="tax_social_insurance">社会保険</string>
   <string name="tax_thershold_foreign">%s (中国大陸以外)</string>

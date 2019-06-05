@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">"待機"</string>
   <string name="button_start_now">"ダウンロード"</string>
   <string name="call_record">Recorded calls</string>
+  <string name="call_record_list_group_all">すべて</string>
+  <string name="call_record_list_group_connected">接続済み</string>
+  <string name="call_record_list_group_unconnected">未接続</string>
   <string name="clear_records">"同期した録音を削除"</string>
   <string name="cloud_record_open">"録音を同期"</string>
   <string name="cloud_record_tip">"Mi Cloudと録音を同期します"</string>
@@ -137,13 +140,14 @@
   <string name="preference_enable_earpiece_summary">Use receiver speaker for external playback</string>
   <string name="preference_enable_earpiece_title">Use receiver to play audio</string>
   <string name="preference_led_indicator">"ロック画面の通知"</string>
-  <string name="preference_led_indicator_prompt">"録音中に、ロック画面で通知LEDの点滅と通知領域にショートカットを表示します"</string>
+  <string name="preference_led_indicator_prompt">"録音中に、通知LEDの点滅と通知領域にショートカットを表示します"</string>
   <string name="preference_online_orders">Online orders</string>
   <string name="preference_recog_faqs">Online transcribing FAQ</string>
   <string name="preference_recog_terms">利用規約</string>
   <string name="preference_record_scenes_dialog_title">"録音タイプを選択"</string>
   <string name="preference_scenes">"録音タイプ"</string>
   <string name="preference_silent_mode">"録音中は着信音をミュート"</string>
+  <string name="preference_status_bar_indicator_prompt">録音中はステータスバーにショートカットを表示</string>
   <string name="preference_tip_rename">"手動で録音に名前を付ける"</string>
   <string name="privacy_policy_title">"プライバシーポリシー"</string>
   <string name="recognition_error_cancel">"キャンセルしました"</string>
@@ -251,6 +255,9 @@
   <string name="service_instructions">iflyrec.com について</string>
   <string name="share">"共有"</string>
   <string name="share_dialog_title">"共有方法"</string>
+  <string name="shortcut_records">録音中</string>
+  <string name="shortcut_start_record">録音を開始</string>
+  <string name="shortcut_stop_record">録音を停止</string>
   <string name="sound_recorder_settings">"設定"</string>
   <string name="speech_recognition_complete">Transcribed</string>
   <string name="speech_recognition_running_tip">"Processing "</string>
