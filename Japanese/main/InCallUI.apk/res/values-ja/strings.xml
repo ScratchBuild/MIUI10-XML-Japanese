@@ -171,9 +171,14 @@
   <string name="respond_via_sms_custom_message">"カスタムメッセージ"</string>
   <string name="select_audio_dialog_title">"応答モードを選択"</string>
   <string name="select_one_sim_title">"SIM %1$dのみ使用できます"</string>
+  <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
   <string name="select_sim_hint">"SIM %1$d を使用中のため、SIM %2$d を使用できません。"</string>
+  <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
   <string name="select_voice_call_sim">"SIMカードを選択"</string>
   <string name="separate_from_conference">"通話を分割"</string>
+  <string name="sim1_heduohao_card">Sub1</string>
+  <string name="sim2_heduohao_card">Sub2</string>
+  <string name="sim3_heduohao_card">Sub3</string>
   <string name="sip_call_not_support_record">"SIP通話を録音することはできません"</string>
   <string name="supp_service_notification_call_waiting">ダイヤルした番号はビジーです。しばらくお待ちください…</string>
   <string name="suspect_info">"個人情報に注意してください。"</string>

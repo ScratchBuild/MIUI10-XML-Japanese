@@ -259,7 +259,7 @@ in Portrait mode"</string>
   <string name="live_sticker_fragment_tab_name">TikTok マジックステッカー</string>
   <string name="live_sticker_network_error_hint">ネットワークエラー</string>
   <string name="live_sticker_updating">更新中…</string>
-  <string name="lying_direct_hint">写真の向き</string>
+  <string name="lying_direct_hint">現在の向き</string>
   <string name="macro_mode">マクロ</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
@@ -577,6 +577,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_whitebalance_entry_measure">"測定"</string>
   <string name="pref_camera_whitebalance_title">"ホワイトバランス"</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">LOW LIGHT</string>
+  <string name="pref_camera_zoom_mode_entry_macro">マクロ</string>
   <string name="pref_camera_zoom_mode_entry_standard">"標準"</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zsl_entry_off">Off</string>

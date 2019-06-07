@@ -2359,6 +2359,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="global_locale_change_title">言語の変更</string>
   <string name="go_back_button_label">戻る</string>
   <string name="go_to_sleep">画面をオフにする</string>
+  <string name="google_assistant_label">Googleアシスタント</string>
   <string name="google_backup_enable">バックアップをオンにする</string>
   <string name="google_backup_section_title">Googleバックアップとリセット</string>
   <string name="google_title">Google</string>
@@ -2959,6 +2960,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lockscreen_glogin_checking_password">確認中…</string>
   <string name="lockscreen_glogin_password_hint">パスワード</string>
   <string name="lockscreen_glogin_submit_button">ログイン</string>
+  <string name="lockscreen_label">ロック画面</string>
   <string name="lockscreen_magazine_summary">高品質な Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">端末がロックされている場合に、通知で返信などのテキストを入力できないようにします</string>
   <string name="login_account_dialog_message">Mi Accountでログインして、Mi Cloudとの同期をオンにします。</string>
@@ -3852,6 +3854,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="power_key_how_start_detail">電源ボタンを0.5秒間押し続けた後、指を離して話しかけます。</string>
   <string name="power_key_start_enjoy">Googleアシスタントの詳細についてもっと詳しく</string>
   <string name="power_key_start_guide">全画面ディスプレイ端末の電源ボタンを使ってGoogleアシスタントを起動する</string>
+  <string name="power_label">電源</string>
   <string name="power_menu_under_keyguard_summary">端末がロックされている間も、電源メニューへのアクセスを許可する</string>
   <string name="power_menu_under_keyguard_title">電源メニューへのアクセス</string>
   <string name="power_mgr">バッテリーの最適化</string>
@@ -4095,6 +4098,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="query_hint_text">検索設定</string>
   <string name="quick_reply_title">クイック返信</string>
   <string name="quick_settings_developer_tiles">クイック設定 (開発者用タイル)</string>
+  <string name="quick_settings_label">トグル</string>
   <string name="quiet">夜間モード</string>
   <string name="quiet_group">夜間モード</string>
   <string name="quiet_important_interruptions_mode">例外のみ許可する</string>
@@ -4165,6 +4169,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="rebootiing_for_updates">再起動中…</string>
   <string name="receiver_clean">空き容量を確保</string>
   <string name="recent_app_category_title">最近開いたアプリ</string>
+  <string name="recent_apps_label">履歴</string>
   <string name="recent_location_requests_summary">位置情報にアクセスを要求しているアプリを表示</string>
   <string name="recent_location_requests_title">位置情報アクセス</string>
   <string name="recent_notifications">通知を最近送信したアプリ</string>
@@ -4432,6 +4437,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screensaver_settings_title">スクリーンセーバー</string>
   <string name="screensaver_settings_when_to_dream">起動のタイミング</string>
   <string name="screenshot">スクリーンショット</string>
+  <string name="screenshot_label">スクリーンショット</string>
   <string name="screenshot_three_gesture">スクリーンショットを取得するには三本指でスライド</string>
   <string name="screenshot_three_gesture_summary">他の三本指ジェスチャーはオフになります</string>
   <string name="sd_card_settings_label">SDカード</string>
@@ -5972,6 +5978,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">音量</string>
   <string name="volume_hifi_description">Hi-Fi設定</string>
+  <string name="volume_label">音量</string>
   <string name="volume_media_description">音楽、動画、ゲーム、その他のメディア</string>
   <string name="volume_media_mute">音楽やメディアをミュート</string>
   <string name="volume_notification_description">通知</string>
