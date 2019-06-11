@@ -258,6 +258,7 @@
   <string name="micloud_request_permission_confirm">OK</string>
   <string name="micloud_request_permission_content">"Mi Cloudがデータを同期するにはアクセス許可が必要です。Mi Cloudにカレンダー、連絡先、Mi Account、SIMカードの状態、通話履歴やメッセージへのアクセスを許可します。"</string>
   <string name="micloud_request_permission_title">"Mi Cloudにはアクセス許可が必要"</string>
+  <string name="micloud_request_sync_too_frequent">リクエストが多すぎます。しばらくしてからもう一度試してください。</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_setting_antispam_summary">"例外とブロックされた電話番号"</string>
   <string name="micloud_setting_browser_summary">"ブックマーク、履歴、タブ"</string>
@@ -388,6 +389,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_1_sms_1_intl_sms">1 domestic and 1 international SMS message may be required to activate this service. Your carrier will charge you for these messages.</string>
   <string name="sync_sub_2_intl_sms">2 outgoing international SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
   <string name="sync_sub_2_sms">2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.</string>
+  <string name="system_busy_or_network_error">エラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="title_back">戻る</string>
   <string name="title_reg">Mi Accountを作成</string>
   <string name="trying_to_connect_to_network">ネットワークに接続しています…</string>
@@ -398,6 +400,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="user_detail_agreement">利用規約</string>
   <string name="user_detail_privacy_policy">プライバシーポリシー</string>
   <string name="user_storage_info_available_text_prefix">%s available</string>
+  <string name="waiting_for_sync">待機中…</string>
   <string name="warning_bar_action_add_short_cut">追加</string>
   <string name="warning_bar_action_close">閉じる</string>
   <string name="warning_bar_action_turn_on_master_sync">オンにする</string>

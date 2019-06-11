@@ -1223,6 +1223,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="close_miui_optimization_title">MIUIの最適化をオフにする</string>
   <string name="close_optimization_message">この機能をオフにすると、MIUIのテキストレイアウト、アカウント、およびその他の部分が影響を受ける可能性があります。</string>
   <string name="close_optimization_option">オフにする</string>
+  <string name="close_privacy_thumbnail_blur_title">プレビューはぼやけていません</string>
   <string name="close_sdcard_optimization_title">疑似SDカードの最適化をオフにする</string>
   <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="cloud_backup_section_title">Mi Cloudバックアップ</string>
@@ -1320,12 +1321,15 @@ This feature can be turned off in [Settings]"</string>
   <string name="confirm_enable_oem_unlock_text">警告: この設定をONにしている場合、この端末では端末保護機能を利用できません。</string>
   <string name="confirm_enable_oem_unlock_title">OEMロック解除の許可</string>
   <string name="confirm_erase">消去する</string>
+  <string name="confirm_fingerprint">指紋を確認してください</string>
   <string name="confirm_fingerprint_icon_content_description">続行するには指紋認証を使用してください。</string>
   <string name="confirm_fingerprint_msg">指をセンサーに当ててください</string>
   <string name="confirm_frp_credential_message">端末は工場出荷時の状態にリセットされています。以前の機密情報でロックを解除できます。</string>
   <string name="confirm_frp_credential_skip_txt">代わりにGoogleアカウントを使用する</string>
   <string name="confirm_frp_credential_title">ファクトリーリセット後にロック解除</string>
   <string name="confirm_new_backup_pw_prompt">新しいフルバックアップパスワードをここに再入力してください</string>
+  <string name="confirm_password_with_fingerprint">指紋を使用</string>
+  <string name="confirm_password_with_password">パスワードを入力</string>
   <string name="confirm_privacy_password">プライバシー保護パスワードを入力</string>
   <string name="confirm_privacy_password_fingerprint">指紋を読み取るか、プライバシー保護パスワードを入力</string>
   <string name="confirm_reset_aaid">OK</string>
@@ -3665,6 +3669,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_optimization_message">最適化をオンにすると、より滑らかで高速なUIを実現します。</string>
   <string name="open_optimization_option">オンにする</string>
+  <string name="open_privacy_thumbnail_blur_title">プレビューはぼやけています</string>
   <string name="open_sdcard_optimization_title">疑似SDカードの最適化をオンにする</string>
   <string name="open_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
   <string name="open_wifi_connect_summary">タップして詳細を表示</string>
@@ -4037,6 +4042,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="privacy_relative">プライバシー</string>
   <string name="privacy_settings">バックアップとリセット</string>
   <string name="privacy_settings_title">バックアップとリセット</string>
+  <string name="privacy_thumbnail_blur_progress_message">読み込み中…</string>
+  <string name="privacy_thumbnail_blur_title">アプリのプレビューをぼかす</string>
   <string name="private_dns_help_message">プライベート DNS 機能の&lt;annotation id="url">詳細を見る&lt;/annotation></string>
   <string name="private_dns_mode_off">OFF</string>
   <string name="private_dns_mode_opportunistic">自動</string>

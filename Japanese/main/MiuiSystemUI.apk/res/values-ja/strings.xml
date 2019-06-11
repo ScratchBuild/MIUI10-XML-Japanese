@@ -918,6 +918,7 @@ EEEE"</string>
   <string name="lockscreen_sim_error_message_short">SIMカードが無効です。</string>
   <string name="lockscreen_unlock_left">左ショートカットでもロックを解除</string>
   <string name="lockscreen_unlock_right">右ショートカットでもロックを解除</string>
+  <string name="long_screenshot_guide_text">スクロールショットを作成するにはタップしてください</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
   <string name="long_screenshot_out_of_memory_error">画像が大きすぎます</string>
   <string name="long_screenshot_processing">"処理中…"</string>

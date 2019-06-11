@@ -232,6 +232,8 @@
   <string name="app_manager_show_detail_infos">"すべて表示"</string>
   <string name="app_manager_start_by">Started by %s</string>
   <string name="app_manager_system_mobile_disable">"モバイルデータをオフにする"</string>
+  <string name="app_manager_thumbnail_blur_summary">履歴でアプリのプレビューをぼかす</string>
+  <string name="app_manager_thumbnail_blur_title">アプリのプレビューをぼかす</string>
   <string name="app_manager_title">"アプリを管理"</string>
   <string name="app_manager_total_size">"合計"</string>
   <string name="app_manager_uninstall">"アンインストール"</string>
