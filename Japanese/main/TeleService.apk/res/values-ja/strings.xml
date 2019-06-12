@@ -625,6 +625,7 @@
   <string name="network_info_message">ネットワークメッセージ</string>
   <string name="network_lte">LTE（推奨）</string>
   <string name="network_message">ネットワークメッセージ</string>
+  <string name="network_mode_updating_title">ネットワークタイプ</string>
   <string name="network_query_error">ネットワークの検索中にエラーが発生しました。</string>
   <string name="network_settings_auto_select_title">手動でネットワークを選択しますか？</string>
   <string name="network_settings_automatically_option">優先ネットワーク(%s)を自動的に選択</string>
@@ -871,6 +872,7 @@
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">"3G（CDMA）優先"</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">"LTE優先"</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">"4G（CDMA）優先"</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">5G優先</string>
   <string name="preferred_network_type_pref_entries_auto">"自動"</string>
   <string name="preferred_network_type_pref_entries_global">"グローバル"</string>
   <string name="preferred_network_type_pref_entries_only_2g">"2Gのみ"</string>
