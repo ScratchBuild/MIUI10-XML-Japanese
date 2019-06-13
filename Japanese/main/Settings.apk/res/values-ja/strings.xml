@@ -1960,6 +1960,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_service_pin_reason">%1$sをONにするとデータの暗号化に影響するため、PINの確認が必要となります。</string>
   <string name="enable_service_title">%1$sを使用しますか？</string>
   <string name="enable_snapshot_screenlock">戻るボタンの長押しで写真を撮影</string>
+  <string name="enable_tcp_rtt_support">TCP RTTを表示</string>
+  <string name="enable_tcp_rtt_support_summary">ネットワーク通信品質のパフォーマンスを評価する</string>
   <string name="enable_terminal_summary">ローカルシェルアクセスを提供するターミナルアプリを有効にします</string>
   <string name="enable_terminal_title">ローカルターミナル</string>
   <string name="enable_text">有効にする</string>
