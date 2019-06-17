@@ -97,15 +97,7 @@
   <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
   <string name="cm_privacy_dialog_title">Attention</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
-  <string name="complain_input_number">電話番号を入力</string>
-  <string name="complain_jump">スキップ</string>
   <string name="complain_message_title">Report</string>
-  <string name="complain_ok">OK</string>
-  <string name="complain_phone_number">電話番号 (オプション)</string>
-  <string name="complain_reason">Why are you reporting this message?</string>
-  <string name="complain_success">Thanks for your feedback. It helps us make Messaging better!</string>
-  <string name="complain_tips">"The content of the most recent message you report will be uploaded to our servers along with the phone number you provide. Our service providers will review the reported message."</string>
-  <string name="complain_upload">Complaint has been submitted</string>
   <string name="compressing">画像が大きすぎます。圧縮中...</string>
   <string name="confirm">確認</string>
   <string name="confirm_add_blacklist_dialog_dspt">この番号をブロックリストに追加しますか？</string>
@@ -169,6 +161,7 @@
   <string name="delete_wild_sims_title">選択した番号を削除</string>
   <string name="delivery_report_activity">受取確認通知</string>
   <string name="delivery_toast_body">"%sさん宛てのメッセージ"</string>
+  <string name="dialog_complain_tips">Allow Messaging to connect to the network to be able to report items.</string>
   <string name="dialog_message_fake_cell_detect_error">Correct the info about this message? To do this, MIUI needs to upload the phone number (%1$s), the contents of the message, and the info about nearby location to its servers.</string>
   <string name="dialog_message_mx">Mi Message allows you to send messages to other MIUI users without incurring charges. An outgoing SMS message is required to activate Mi Message. Your carrier will charge you for this message. You must agree to our \"%1$s\" and \"%2$s\" before using Mi Message.</string>
   <string name="dialog_message_networking">Messaging needs to use Yellow pages to be able to provide Sender ID recognition. Messaging and Yellow pages need to connect to the internet and access your location to work normally. Allow?</string>
@@ -411,7 +404,7 @@
   <string name="networking_allow_desc_without_mx">Mi Messageが正常に動作するには、インターネットへの接続が必要です。不明な番号の識別、スパムのフィルタリング、その他の機能を有効にするため、Mi Messageはイエローページを使用する必要があります。イエローページにインターネット接続、現在地情報の取得、連絡先の読み取りを許可しますか？</string>
   <string name="networking_allow_title">注意</string>
   <string name="new_message">新規作成</string>
-  <string name="new_message_arrived">新着メッセージがあります</string>
+  <string name="new_message_arrived">表示するにはタップ</string>
   <string name="new_phrase">定型文を追加</string>
   <string name="new_phrase_hint">新規定型文を入力</string>
   <string name="no">キャンセル</string>
@@ -655,7 +648,7 @@
   <string name="security_alert_dialog_title">レポート</string>
   <string name="select_audio">音声の選択</string>
   <string name="select_bottom_text">下部のテキスト</string>
-  <string name="select_copy_text">コピーするテキストを選択</string>
+  <string name="select_copy_text">テキストを選択してコピー</string>
   <string name="select_different_attachment">別の添付ファイルを選択してください。</string>
   <string name="select_different_audio">別の音声を選択してください。</string>
   <string name="select_different_picture">別の画像を選択してください。</string>
@@ -796,7 +789,7 @@
   <string name="undelivered_msg_dialog_title">未配信メッセージ</string>
   <string name="undelivered_sms_dialog_body">"このメッセージは送信できません"</string>
   <string name="unknown_num">不明な番号</string>
-  <string name="unknown_sender">送信者不明</string>
+  <string name="unknown_sender">新着メッセージがあります</string>
   <string name="unstick">ピンを外す</string>
   <string name="unstick_conversation">現在のスレッドのピンを外す</string>
   <string name="unsticked_conversation">スレッドのピンは既に外されています</string>
