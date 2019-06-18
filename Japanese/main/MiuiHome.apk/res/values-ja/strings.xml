@@ -2,6 +2,7 @@
 <resources>
   <string name="action_add_to_workspace">"ホーム画面に追加"</string>
   <string name="activity_not_found">"アプリがインストールされていません"</string>
+  <string name="activity_not_unlocked">アプリを開く前に、端末が完全に再起動されるのを待ちます</string>
   <string name="add_screen">"画面を追加"</string>
   <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
   <string name="announce_for_checked">%1$s, checked</string>
@@ -306,6 +307,9 @@
   <string name="setting_wallpaper_tip">"ピンチまたはスワイプで調整"</string>
   <string name="settings">"設定"</string>
   <string name="settings_shortcut">"設定"</string>
+  <string name="shake_to_align_icons">空のセルをアイコンで埋めるようにデバイスを振る</string>
+  <string name="shake_to_align_icons_summary">編集モード端末を振ると、空のセルをアイコンで埋めるように自動で整列します</string>
+  <string name="shake_to_align_icons_title">空のセルを埋めるために振る</string>
   <string name="share">"共有"</string>
   <string name="show_all">"すべて表示"</string>
   <string name="show_mem_info_title">メモリの状態を表示</string>
@@ -320,6 +324,7 @@
   <string name="status_installing">"インストール中"</string>
   <string name="status_paused">"停止中"</string>
   <string name="status_pending">"待機中"</string>
+  <string name="system_shortcuts_more_operation">アプリ情報</string>
   <string name="title_select_live_folder">"フォルダを選択"</string>
   <string name="title_select_shortcut">"ショートカットを選択"</string>
   <string name="toast_screen_icons_misplaced">Restored from other source, some icons may be misplaced.</string>

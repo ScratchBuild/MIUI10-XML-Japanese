@@ -187,8 +187,8 @@
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
   <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
   <string name="micloud_main_simple_off">同期はオフ</string>
-  <string name="micloud_main_sync_mode_summary">Sync all items except photos and videos in real time. Power consumption will increase when this feature is on.</string>
-  <string name="micloud_main_sync_mode_title">Sync in real time</string>
+  <string name="micloud_main_sync_mode_summary">アプリデータをリアルタイムで同期します。この機能をオンにすると、消費電力が増加します。</string>
+  <string name="micloud_main_sync_mode_title">クイック同期</string>
   <string name="micloud_main_wait_charge">同期を再開するには端末を充電してください。</string>
   <string name="micloud_main_wait_charge_sleep">同期を再開するには画面をオフにし、端末を充電してください。</string>
   <string name="micloud_main_wait_wlan">Wi-Fiを待機中</string>

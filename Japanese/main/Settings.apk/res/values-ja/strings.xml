@@ -1467,7 +1467,8 @@ This feature can be turned off in [Settings]"</string>
   <string name="daltonizer_type_overridden">%1$sによって上書き済み</string>
   <string name="dangerous_option_switch_title">Notify about high-risk features</string>
   <string name="dark_color_mode">ダークモード</string>
-  <string name="dark_color_summary">配色を暗い色に切り替えて、バッテリーを節約する</string>
+  <string name="dark_color_summary_lcd">システムの背景や互換性のあるアプリでは、暗いカラーパレットを使用します。ダークモードは、暗闇の中で端末を使用している時に目の疲れを和らげるのに役立ちます。</string>
+  <string name="dark_color_summary_oled">システムの背景や互換性のあるアプリでは、暗いカラーパレットを使用します。ダークモードではバッテリーの消費電力を減らし、目の疲れを和らげます。</string>
   <string name="dark_ui_mode">夜間モード</string>
   <string name="dark_ui_mode_title">夜間モードの設定</string>
   <string name="dashboard_suggestion_condition_footer_content_description">折りたたむ</string>
@@ -1905,8 +1906,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="draw_overlay_title">他のアプリの上に重ねて描画できるアプリ</string>
   <string name="dtmf_tone_enable_title">ダイヤルパッドの操作音</string>
   <string name="dual_clock">Dual clock</string>
-  <string name="dual_clock_aod_hint">"\"Dual Clock\" relies on the following features: 1. For turned off screen, allow showing items in Settings &gt; Display; 2. For Lock screen, make sure you're using either the default or classic theme in Settings &gt; Themes; 3. For Home screen, make sure you're using the default system clock widget."</string>
-  <string name="dual_clock_hint">"\"Dual Clock\" relies on the following features: 1. For Lock screen, make sure you're using either the default or classic theme in Settings &gt; Themes; 2. For Home screen, make sure you're using the default system clock widget."</string>
+  <string name="dual_clock_aod_open_message">デュアルクロックはロック画面、ホーム画面、画面の消灯時に表示されます。</string>
+  <string name="dual_clock_hint">デュアルクロックを使用するにはシステムの時計ウィジェットとデフォルトテーマが必要です</string>
   <string name="dual_clock_ok">OK</string>
   <string name="dual_clock_open_message">Dual Clock will be displayed on the Lock screen, Home screen.</string>
   <string name="dump_log">問題に関するログを取得</string>
@@ -2280,10 +2281,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="force_stop">強制停止</string>
   <string name="force_stop_dlg_text">アプリを強制停止すると、アプリが正常に機能しないことがあります。</string>
   <string name="force_stop_dlg_title">強制停止しますか？</string>
-  <string name="force_touch">3D Touch</string>
-  <string name="force_touch_demo">デモを表示</string>
-  <string name="force_touch_enable">3D Touchを有効にする</string>
-  <string name="force_touch_enable_tips">3D Touchが有効になっている間、ランチャー上でアプリアイコンを強く押すとショートカットメニューが表示されます。</string>
   <string name="foreground_traffic">フォアグラウンド %s</string>
   <string name="forget">切断</string>
   <string name="forget_password_button_text"><u>パスワードを忘れた場合</u></string>
@@ -3664,8 +3661,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="online_resource_entry">オンラインリソース</string>
   <string name="only_one_home_message">ホームの設定は別のホームアプリをインストールするまで表示されません。</string>
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
-  <string name="open_dark_mode_dialog_summary">特定のディスプレイ設定は、ダークモードと互換性がありません。ただし、ダークモードをオフにすると元に戻ります。ダークモードをオンにしますか？</string>
-  <string name="open_dark_mode_dialog_title">ダークモードの互換性</string>
   <string name="open_demo_mode">オンにする</string>
   <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
@@ -3829,6 +3824,17 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
+  <string name="popup_led_summary">フロントカメラをポップアップした時にアニメーションを表示する</string>
+  <string name="popup_led_title">Visual effect</string>
+  <string name="popup_title">Front camera effects</string>
+  <string name="popup_title_cangmen">Cabin door</string>
+  <string name="popup_title_chilun">Gearwheel</string>
+  <string name="popup_title_jijia">Mecha</string>
+  <string name="popup_title_mofa">Magic</string>
+  <string name="popup_title_muqin">Xylophone</string>
+  <string name="popup_title_yingyan">Condor</string>
+  <string name="popup_voice_summary">フロントカメラをポップアップした時にサウンドを再生する</string>
+  <string name="popup_voice_title">Sound effect</string>
   <string name="popup_window">フローティング通知を制限</string>
   <string name="power_autorun_apps_empty">なし</string>
   <string name="power_autorun_empty">なし</string>
@@ -5674,7 +5680,7 @@ Android端末をUSBケーブルでコンピューターにつなぐことで、�
   <string name="usage_state_noti_mourth_day">Notifications on %s</string>
   <string name="usage_state_notification">Manage notifications</string>
   <string name="usage_state_notification_manager">Manage app notifications</string>
-  <string name="usage_state_remind_summary">Turn on to receive screen time alerts. You can set different time limits for weekdays and weekends.</string>
+  <string name="usage_state_remind_summary">Turn on to receive screen time alerts</string>
   <string name="usage_state_remind_title">Screen time alert</string>
   <string name="usage_state_rest_day">週末</string>
   <string name="usage_state_saturday">土</string>
