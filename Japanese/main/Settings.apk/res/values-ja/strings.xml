@@ -3824,6 +3824,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
+  <string name="popup_gesture_summary">フロントカメラを自動的に開くには、端末を持ち上げた後に画面を見てください</string>
+  <string name="popup_gesture_title">フロントカメラを開くために持ち上げる</string>
   <string name="popup_led_summary">フロントカメラをポップアップした時にアニメーションを表示する</string>
   <string name="popup_led_title">Visual effect</string>
   <string name="popup_title">Front camera effects</string>

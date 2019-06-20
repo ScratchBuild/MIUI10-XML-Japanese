@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">Applied on %1$d devices</item>
+        <item quantity="one">Applied on %1$d device</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d件のコメント</item>
+        <item quantity="one">%d件のコメント</item>
+    </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f points</item>
         <item quantity="one">%1$.1f point</item>

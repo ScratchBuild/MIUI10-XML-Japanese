@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_app_name">テーマアプリについて</string>
+  <string name="about_version_update">"What's new"</string>
   <string name="account_info">My account</string>
   <string name="account_name_not_login">"ログイン"</string>
   <string name="account_unactivated">Account not activated</string>
@@ -7,6 +9,7 @@
   <string name="ad_app_is_downloading">ダウンロード中…</string>
   <string name="add_resource_detail_fail">"テーマを追加できません"</string>
   <string name="all_resources">"すべて"</string>
+  <string name="already_latest_version">最新の状態です</string>
   <string name="app_ad_title">Daily Recommendations</string>
   <string name="app_name">"テーマ"</string>
   <string name="apply_font_btn_exclude">"後で"</string>
@@ -33,8 +36,13 @@
   <string name="card_retry">"再試行"</string>
   <string name="change_host_hint">"ホストを変更"</string>
   <string name="change_wallpaper">"壁紙"</string>
+  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="check_has_new_version">更新が利用可能</string>
   <string name="classification_more_understand_you">"お気に入りのカテゴリーを選択"</string>
   <string name="close">"閉じる"</string>
+  <string name="common_applying">適用中…</string>
+  <string name="common_downloading">ダウンロード中…</string>
+  <string name="common_skip">スキップ</string>
   <string name="component_backup_preference_title">"テーマのバックアップ"</string>
   <string name="component_category_finest_title">"全般"</string>
   <string name="component_category_more_title">"詳細"</string>
@@ -45,6 +53,7 @@
   <string name="count_down_tip">残り %d秒</string>
   <string name="current_using_desktop_wallpaper_text">"ホーム画面"</string>
   <string name="current_using_lockscreen_wallpaper_text">"ロック画面"</string>
+  <string name="current_version">現在のバージョン: %1$s</string>
   <string name="current_version_incompatible">"互換性がありません"</string>
   <string name="deleting">"削除中…"</string>
   <string name="description_author">"作者"</string>
@@ -138,6 +147,9 @@
   <string name="gift_use_confirmation_dlg_title">"このギフトを送信しますか？"</string>
   <string name="gift_use_fail_dlg_title">"エラーが発生しました"</string>
   <string name="gift_used">"送信済み"</string>
+  <string name="go_accessibility_setting">選択</string>
+  <string name="goto_purchased_list">購入履歴を表示</string>
+  <string name="goto_wechat">WeChatアカウント \"%1$s\" をクリップボードにコピーしました。今すぐWeChatを開きますか？</string>
   <string name="hide_free">"無料の%1$sを表示しない"</string>
   <string name="hide_incompatible">"互換性のない%1$sを表示しない"</string>
   <string name="hide_pull_down_message">Hide trinket?</string>
@@ -175,6 +187,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="loading_resource_detail_info">"読み込み中…"</string>
   <string name="local_photos">Local photos</string>
   <string name="local_resouce_creator_name">"作成者: %1$s"</string>
+  <string name="lock_screen_apply">ロック画面として設定</string>
   <string name="lockscreen_apply_failured">"ロック画面の壁紙を適用できません"</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">"ホーム画面の壁紙を適用したが、ロック画面の壁紙を適用できませんでした。"</string>
   <string name="lockscreen_apply_success">"ロック画面の壁紙を適用しました"</string>
@@ -193,6 +206,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="mix_icons_option_des">Home screen icons. Uncheck this box to use default options.</string>
   <string name="mix_lockscreen_option_des">Wallpaper and clock. Uncheck this box to use default options.</string>
   <string name="mix_tip">Theme components</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$sを削除</string>
   <string name="multi_sim_ringtone_settings_dialog_message">"着信音は両方のSIMカードへ同時に適用されます。"</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">OK</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"二度と表示しない"</string>
@@ -200,11 +214,12 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="my_gifts">"ギフト"</string>
   <string name="my_gifts_purchased">"購入済み"</string>
   <string name="my_gifts_received">"受取済み"</string>
+  <string name="network_exception">ネットワークに接続できませんでした。しばらくしてからもう一度お試しください。</string>
   <string name="no_data">"ネットワークに接続できません"</string>
   <string name="no_net_work_connection">ネットワーク設定を確認して、もう一度お試しください。</string>
   <string name="online_no_network">"ネットワークに接続できません"</string>
   <string name="online_search_hint">"オンラインリソースを検索"</string>
-  <string name="password_toggle_content_description">"パスワードの表示を切り替える"</string>
+  <string name="password_toggle_content_description">パスワードを表示</string>
   <string name="playing_ringtone">再生中</string>
   <string name="present_local_fonts">保存済みフォント</string>
   <string name="present_local_themes">"保存済みテーマ"</string>
@@ -333,6 +348,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="resource_import_successful">"完了"</string>
   <string name="resource_importing">"インポート中…"</string>
   <string name="resource_is_off_shelf">"利用できません"</string>
+  <string name="resource_is_off_shelf_can_not_share">共有できません。このアイテムは使用できなくなりました。</string>
   <string name="resource_list_title">Recently selected</string>
   <string name="resource_local_picker">"端末上の着信音を選択"</string>
   <string name="resource_menu_refresh">"更新"</string>
@@ -427,6 +443,8 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="search_menu_title">"検索"</string>
   <string name="selected_resource_file_invalid">"選択したテーマファイルを使用できません"</string>
   <string name="server_internal_error">サーバーエラーが発生しました、しばらくしてからもう一度お試しください。</string>
+  <string name="service_btn_text_know">OK</string>
+  <string name="service_btn_text_try">試す</string>
   <string name="set_color_ring_back_tone">Set a custom ringback tone</string>
   <string name="set_home_wallpaper_failed">"%s. Can't apply Home screen wallpaper."</string>
   <string name="settings">"設定"</string>
@@ -455,6 +473,9 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="theme_changed_failed_message">"テーマを適用できません"</string>
   <string name="theme_changed_message">"テーマを適用しました"</string>
   <string name="theme_changing_dialog_title">"適用中 "</string>
+  <string name="theme_comment_dialog_cancel">後で</string>
+  <string name="theme_comment_dialog_message">使用中のテーマは気に入りましたか？ぜひフィードバックをお寄せください。</string>
+  <string name="theme_comment_dialog_ok">レビュー</string>
   <string name="theme_component_title_alarm">"アラーム"</string>
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">"テーマ"</string>
@@ -559,6 +580,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="using_theme_next_automatic_update">"自動更新"</string>
   <string name="using_theme_next_automatic_update_summary">"画面がロックされている時に、Wi-Fi経由でダウンロードしたテーマを自動的に更新する"</string>
   <string name="using_theme_show_ad">"広告を表示する"</string>
+  <string name="version_update">更新を確認</string>
   <string name="video_ad_click">Try now</string>
   <string name="video_ad_try_for_free">Free trial</string>
   <string name="video_ad_uncomplete_tip">Finish watching the video to get the theme.</string>
@@ -585,6 +607,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="wallpaper_settings_no_history">"履歴なし"</string>
   <string name="wallpaper_settings_pad_more_page_title">"その他の壁紙"</string>
   <string name="wallpaper_settings_page_title">"壁紙"</string>
+  <string name="wechat_not_found">初めにWeChatをインストールしてください</string>
   <string name="wifi_check_cancel">"キャンセル"</string>
   <string name="wifi_check_confirm">"確認"</string>
   <string name="wifi_check_message">"モバイルデータを使用して更新をダウンロードしますか？"</string>
@@ -592,4 +615,9 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="xiaoai_speech_not_installed_download">"ダウンロード"</string>
   <string name="xiaoai_speech_not_installed_message">"続行するには、Mi AI音声アシスタントをダウンロードしてインストールしてください。"</string>
   <string name="xiaoai_speech_not_installed_title">"Mi AI音声アシスタントがインストールされていません。"</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Download Managerに接続できませんでした、アプリケーションの管理でDownload Managerの状態を確認してください。</string>
+  <string name="xiaomi_update_sdk_dialog_message">更新バージョン %1$s\nサイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">更新バージョン %1$s\n差分更新サイズ: %2$s</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$sの更新が利用可能</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">ストレージが使用できません、SDカードを確認してください。</string>
 </resources>
