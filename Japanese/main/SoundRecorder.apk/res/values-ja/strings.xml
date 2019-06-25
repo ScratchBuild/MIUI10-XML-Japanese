@@ -265,7 +265,9 @@
   <string name="status_bar_back">"レコーダーに戻るにはタップ"</string>
   <string name="status_bar_recording">"録音中…"</string>
   <string name="status_bar_recording_pause">"レコーダーの一時停止"</string>
+  <string name="text_btn_backward_3_seconds">3秒戻る</string>
   <string name="text_btn_complete">"停止"</string>
+  <string name="text_btn_forward_3_seconds">3秒進む</string>
   <string name="text_btn_list">Recordings</string>
   <string name="text_btn_mark">Mark</string>
   <string name="text_btn_pause">"一時停止"</string>
@@ -275,6 +277,10 @@
   <string name="text_btn_recording">"録音"</string>
   <string name="text_btn_wave">Wave</string>
   <string name="text_finish">"確認"</string>
+  <string name="text_play_speed_0_5">0.5X playback speed</string>
+  <string name="text_play_speed_1_0">Regular playback speed</string>
+  <string name="text_play_speed_1_5">1.5X playback speed</string>
+  <string name="text_play_speed_2_0">2X playback speed</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"File Managerがインストールされていません"</string>
   <string name="webview_check_network">ネットワーク設定</string>

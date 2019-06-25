@@ -472,6 +472,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_long_pressing_shutter_title">"AE/AF/AWBをロックするにはシャッターボタンを長押し"</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Googleレンズ</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF lock</string>
+  <string name="pref_camera_lying_summary">端末が地面と平行になると、カメラの画面にリアルタイムでカメラの方向を示すプロンプトが表示されます。</string>
+  <string name="pref_camera_lying_title">スクリーンガイドを表示</string>
   <string name="pref_camera_magic_mirror_title">"マジックミラー"</string>
   <string name="pref_camera_manual_mode_title">"マニュアル"</string>
   <string name="pref_camera_mono_mode_title">B&amp;W</string>
@@ -495,7 +497,6 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Full screen</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
@@ -646,6 +647,9 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_watermark_style_entry_off">"オフ"</string>
   <string name="pref_watermark_style_entry_timestamp">"タイムスタンプ"</string>
   <string name="pref_watermark_style_title">"写真に透かしを追加"</string>
+  <string name="pref_watermark_off">Off</string>
+  <string name="pref_watermark_on">On</string>
+  <string name="pref_watermark_title">Watermark</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
   <string name="recapture_dialog_message">确认重拍？</string>
   <string name="recapture_dialog_title">重新拍摄将清空当前形象</string>
@@ -704,6 +708,8 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="user_agree">"同意"</string>
   <string name="user_agreement2">"利用規約"</string>
   <string name="user_agreement4">"プライバシーポリシー"</string>
+  <string name="user_define_watermark_cancel">キャンセル</string>
+  <string name="user_define_watermark_save">保存</string>
   <string name="user_notice_identify_summary_format">"この機能を利用することで、Xiaomiの%1$sと%2$sに同意されたものとみなします。インターネットに接続することに同意しますか？"</string>
   <string name="user_notice_title">規約と条件</string>
   <string name="video_beauty_tip">Beautify for videos</string>

@@ -626,6 +626,7 @@
   <string name="deep_save_memory_clean_summary">"アプリがバッテリーを消費するのを防ぐため、端末がロックされた時にキャッシュを消去する"</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Schedule time to turn device on and off</string>
   <string name="delete">"削除"</string>
+  <string name="delete_all_sms">すべて削除</string>
   <string name="delete_from_manual_item_white_list">"例外から削除"</string>
   <string name="delete_input">"削除"</string>
   <string name="deleted_apps">"削除したアプリ"</string>
@@ -1916,6 +1917,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_blacklist">SMS blocklist</string>
   <string name="sms_cloud_block">Cloud blocklist</string>
   <string name="sms_contact_block">Block SMS from contacts</string>
+  <string name="sms_delete_all_hint">今すぐすべてのメッセージを削除しますか？</string>
   <string name="sms_delete_hint">"この番号からブロックされたメッセージをすべて削除しますか？"</string>
   <string name="sms_delete_title">"メッセージを削除"</string>
   <string name="sms_detail_correct_success_text">"Here's the data usage stats from the previous calibration (%1$s):"</string>

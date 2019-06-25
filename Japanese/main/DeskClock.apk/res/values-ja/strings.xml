@@ -62,6 +62,7 @@
   <string name="dynamic_alarm_speech">"スマートアラーム"</string>
   <string name="edit_alarm">"アラームの編集"</string>
   <string name="edit_systemtime">"システム時刻の編集"</string>
+  <string name="edit_systemtime_setting_summary">日付、時刻、デュアルクロックなど</string>
   <string name="every_day">"毎日"</string>
   <string name="expired_timers_dismissed">タイマーを正常に終了しました</string>
   <string name="force_touch_add_alarm">"アラームを追加"</string>
@@ -154,7 +155,7 @@
   <string name="shortcut_stop_watch">ストップウォッチを開始</string>
   <string name="shut_down_keep_screen">"Screen won't be kept on"</string>
   <string name="shutdown_alarm_disable_summary">"Alarm won't go off after the device is powered off"</string>
-  <string name="shutdown_alarm_enable_summary">"Alarm will go off if it's set for at least 5 minutes after you power off your device"</string>
+  <string name="shutdown_alarm_enable_summary">"Alarm will go off if it's set for at least 10 minutes after you power off your device"</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">"マナーモード"</string>
   <string name="skip_alarm_once_hint">"%sを一度だけオフにする"</string>
@@ -173,6 +174,8 @@
   <string name="stat_repeat_self_define">"カスタム"</string>
   <string name="stat_repeat_weekdays">"平日（月～金）"</string>
   <string name="stat_repeat_weekends">"週末"</string>
+  <string name="status_bar_clock_date_time_format">H:mm:ss</string>
+  <string name="status_bar_clock_date_time_format_12">a h:mm:ss</string>
   <string name="stopwatch_lap_empty_text">"ラップなし"</string>
   <string name="stopwatch_title">"ストップウォッチ"</string>
   <string name="system_time_setting">"設定"</string>
@@ -234,9 +237,12 @@
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">"時計なし"</string>
   <string name="worldclock_input_hint_text">"国または都市を検索"</string>
+  <string name="worldclock_resident_city_text">Second clock: %s</string>
+  <string name="worldclock_resident_city_text_detail">Dual clock is on</string>
   <string name="worldclock_search_city">"都市を選択"</string>
   <string name="worldclock_title">"時計"</string>
   <string name="worldclock_world_time">"タイムゾーン"</string>
+  <string name="worldcolock_date_display_prefix">現在: </string>
   <string name="worldcolock_timezone_current">"現在: %1$s"</string>
   <string name="worldcolock_timezone_date">MM/dd</string>
   <string name="worldcolock_timezone_gap">%s時間</string>

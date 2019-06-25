@@ -774,6 +774,8 @@
   <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">端末を再起動しますか？</string>
   <string name="bluetooth_disable_absolute_volume">絶対音量を無効にする</string>
   <string name="bluetooth_disable_absolute_volume_summary">リモート端末で音量に関する問題（音量が大きすぎる、制御できないなど）が発生した場合に、Bluetooth の絶対音量の機能を無効にする。</string>
+  <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
+  <string name="bluetooth_disable_inband_ringing_summary">Don’t play custom phone ringtones on Bluetooth headsets</string>
   <string name="bluetooth_disable_profile_message">次のプロファイルが無効になります:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>対象デバイス:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">プロファイルを無効にしますか？</string>
   <string name="bluetooth_disabled">他の端末には非表示</string>
@@ -1452,6 +1454,7 @@ This feature can be turned off in [Settings]"</string>
   <string name="current_zone">(current)</string>
   <string name="custom_carrier_title">キャリア名を編集</string>
   <string name="custom_wifi_name_title">Wi-Fi名を編集</string>
+  <string name="customize_function">利用可能なパターン</string>
   <string name="cutout_mode_always">常にノッチを表示</string>
   <string name="cutout_mode_default">自動</string>
   <string name="cutout_mode_settings_title">ノッチの表示方法をカスタマイズすると、一部のアプリが正しく表示されない場合があります。</string>
@@ -2349,12 +2352,20 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="game_controller_settings_category">ゲーム用コントローラ</string>
   <string name="game_mode_settings">ゲームモード</string>
   <string name="game_storage_settings">ゲーム</string>
+  <string name="gesture_c">C pattern</string>
+  <string name="gesture_m">M pattern</string>
+  <string name="gesture_open_alipay">Alipayを開く</string>
+  <string name="gesture_open_camera">カメラを開く</string>
+  <string name="gesture_open_music">Musicを開く</string>
+  <string name="gesture_open_wechat">WeChatを開く</string>
   <string name="gesture_preference_summary">簡単な操作でスマートフォンを管理できます</string>
   <string name="gesture_preference_title">動作</string>
   <string name="gesture_prevent_ringing_screen_title">着信音を停止</string>
   <string name="gesture_prevent_ringing_sound_title">着信音ミュート用のショートカット</string>
   <string name="gesture_prevent_ringing_title">電源ボタンと音量大ボタンを同時に押す</string>
+  <string name="gesture_w">W pattern</string>
   <string name="gesture_wakeup_title">画面をダブルタップしてスリープ解除</string>
+  <string name="gesture_z">Z pattern</string>
   <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
   <string name="getConnectionInfo">接続情報の取得</string>
   <string name="global_change_warning">この設定はこの端末上のすべてのユーザーに影響します。</string>
@@ -3166,6 +3177,10 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_ime_xiaoai_voice_hint">より速く、より便利なテキストの入力方法です</string>
   <string name="miui_ime_xiaoai_voice_title">Mi AIでの音声入力</string>
   <string name="miui_input_method_settings">入力方法の設定</string>
+  <string name="miui_lab_3d_gesture_desc">選択したアプリを起動するには、ホーム画面を開いて端末を持ったまま空中でパターンを描いてください</string>
+  <string name="miui_lab_3d_gesture_slogan">アプリを開くには、端末を持ったまま空中でパターンを描きます</string>
+  <string name="miui_lab_3d_gesture_summary">アプリを開くには、端末を持ったまま空中でパターンを描きます</string>
+  <string name="miui_lab_3d_gesture_title">3Dパターン</string>
   <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
   <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
@@ -3179,6 +3194,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_gallery_search_title">ギャラリー内の写真を検索</string>
   <string name="miui_lab_gesture_desc">ナビゲーションボタンの代わりにジェスチャーを使用する</string>
   <string name="miui_lab_gesture_title">フルスクリーンジェスチャーを使用</string>
+  <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
+  <string name="miui_lab_home_feed_title">メディアセンター</string>
   <string name="miui_lab_install_drive_mode_error">インストールできませんでした。もう一度お試しください。</string>
   <string name="miui_lab_install_drive_mode_summary">運転モードはシステムアプリです。インストールにインターネット接続は必要ありません。</string>
   <string name="miui_lab_install_drive_mode_title">運転モードをインストール</string>
@@ -5340,6 +5357,8 @@ PINが正しくない可能性があります。"</string>
   <string name="super_resolution_title">超解像度</string>
   <string name="supl_not_set">&lt;未設定></string>
   <string name="supplicant_state_label">申請者の状態:</string>
+  <string name="support_gesture_title">3Dパターン</string>
+  <string name="support_summary">Help articles, phone &amp; chat, getting started</string>
   <string name="sure_sync_now">今すぐアイテムを同期しますか？</string>
   <string name="suw_back_button_label">戻る</string>
   <string name="suw_more_button_label">その他</string>

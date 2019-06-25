@@ -174,6 +174,7 @@
   <string name="micloud_find_device_verify_close">Turn off Find device</string>
   <string name="micloud_find_device_verify_fail">"Couldn't reactivate Find device"</string>
   <string name="micloud_find_device_verify_progress">Reactivating Find device…</string>
+  <string name="micloud_last_sync_canceled">同期がキャンセルされました。再試行。</string>
   <string name="micloud_main_button_set_internet">設定</string>
   <string name="micloud_main_head_menu_cloud_backup">ホーム画面のバックアップ</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Find deviceはSecond spaceで使用できません、First spaceでのみ使用できます。</string>

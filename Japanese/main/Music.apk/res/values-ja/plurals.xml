@@ -52,6 +52,10 @@ total %2$d song"</item>
         <item quantity="other">%d件のコメント</item>
         <item quantity="one">%d件のコメント</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%d日前</item>
+        <item quantity="one">%d日前</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">%d個のアイテムを削除しますか？</item>
         <item quantity="one">%d個のアイテムを削除しますか？</item>

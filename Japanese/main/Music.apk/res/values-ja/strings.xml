@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="April">4月</string>
+  <string name="August">8月</string>
+  <string name="December">12月</string>
+  <string name="February">2月</string>
+  <string name="January">1月</string>
+  <string name="July">7月</string>
+  <string name="June">6月</string>
+  <string name="March">3月</string>
+  <string name="May">5月</string>
+  <string name="November">11月</string>
+  <string name="October">10月</string>
+  <string name="September">9月</string>
+  <string name="Updated_at">"最終更新: "</string>
   <string name="account_and_cloud">"アカウント"</string>
   <string name="action_item_add">"追加"</string>
   <string name="action_item_add_song">"プレイリストに追加"</string>
@@ -75,6 +88,7 @@
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"モバイルデータを使用して曲をストリーミングしない"</string>
   <string name="avoid_to_use_traffic_title">"モバイルデータを使用して曲を再生する前に警告"</string>
+  <string name="back">戻る</string>
   <string name="back_confirm">"アプリをバックグラウンドで実行するにはもう一度タップ"</string>
   <string name="bluetooth_device">"Bluetoothオーディオデバイス"</string>
   <string name="buffering">"バッファリング中…"</string>
@@ -309,6 +323,11 @@
   <string name="hungama_category_radio">Radio</string>
   <string name="hungama_category_video">Video</string>
   <string name="hungama_free_download_out_summary">"You can't download more free songs. Get a PRO membership to download unlimited songs?"</string>
+  <string name="hungama_playlist_category">Playlist category</string>
+  <string name="hungama_privacy_desc">Hungama Privacy Policy (optional)</string>
+  <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
+  <string name="hungama_privacy_tips_content">To get access to online content, you must agree to &lt;a href="/link/click"&gt;Hungama Privacy Policy&lt;/a&gt;.</string>
+  <string name="hungama_privacy_tips_title">Hungama Privacy Policy</string>
   <string name="hungama_pro">Hungama Pro</string>
   <string name="hungama_subscribe_message">Hey there! Go Pro to download this song and all your other favourites too. Take your music along in supreme sound quality.</string>
   <string name="hungama_subscribe_positive_button">Go PRO</string>
@@ -452,14 +471,29 @@
   <string name="nowplaying_dialog_title_delete_tracks">"この曲をキューから削除しますか？"</string>
   <string name="nowplaying_menu_item_delete">"キューから削除"</string>
   <string name="ok">OK</string>
+  <string name="online_apk_acquired">読み込み済 %d%%</string>
+  <string name="online_apk_acquiring">読み込み中… %d%%</string>
   <string name="online_apk_download_error_no_enough_space">空き領域が不足しているため、ダウンロードできませんでした。</string>
   <string name="online_apk_downloading">ダウンロード中…%d%%</string>
   <string name="online_apk_install_alert_confirm">ダウンロード</string>
+  <string name="online_apk_install_alert_continue">再開</string>
+  <string name="online_apk_install_alert_failed_text">ダウンロードできませんでした。再試行。</string>
   <string name="online_apk_install_alert_message">Yandex.Musicプラグインをダウンロードする必要があります。今すぐダウンロードしますか？</string>
+  <string name="online_apk_install_alert_mobile_net_text">"You're using mobile data now. Using mobile data to download items may generate additional fees."</string>
   <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
+  <string name="online_apk_install_alert_note_new">Online content is provided by %s</string>
+  <string name="online_apk_install_alert_pause">中断</string>
+  <string name="online_apk_install_alert_retry">再試行</string>
+  <string name="online_apk_install_alert_start">開始</string>
+  <string name="online_apk_install_completed">Loaded online content successfully. Tap %s to view.</string>
   <string name="online_apk_install_error_no_enough_space">"空き領域が不足しているため、インストールできませんでした。"</string>
   <string name="online_apk_install_error_with_reason">"インストールできませんでした (エラー %d)"</string>
+  <string name="online_apk_install_failed_with_reason" formatted="false">"Couldn't load online content. Tap %s to try again. Error code: %d."</string>
+  <string name="online_apk_install_in_background">Loading online content in the background…</string>
+  <string name="online_apk_install_network_change_paused">"You're using mobile data. Paused loading items for now. Tap %s to view."</string>
+  <string name="online_apk_install_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
   <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from internal storage.</string>
+  <string name="online_playlist_category">プレイリスト</string>
   <string name="online_recommend">"プレイリスト"</string>
   <string name="online_service_open_tip">Online music services are on</string>
   <string name="online_service_title">Online services</string>
@@ -497,6 +531,7 @@
   <string name="play_mode_shuffle_all">Shuffle</string>
   <string name="play_next">"次を再生"</string>
   <string name="playlist_empty">"プレイリストが見つかりません。"</string>
+  <string name="playlist_recommend_title">Recommend</string>
   <string name="playlist_title">プレイリスト名</string>
   <string name="playlist_title_is_empty">"プレイリスト名は空白にできません"</string>
   <string name="playlist_title_is_invalid">プレイリストが既に存在します</string>
@@ -565,6 +600,8 @@
   <string name="save_changes">変更を保存</string>
   <string name="search_album_and_lyric">"アルバムカバーと歌詞を検索"</string>
   <string name="search_empty">"何も見つかりませんでした"</string>
+  <string name="search_empty_subtitle_online_music">Tap the button below to open %s.</string>
+  <string name="search_empty_title_online_music">No items here yet.</string>
   <string name="search_for_album">"アルバム"</string>
   <string name="search_for_artist">"アーティスト"</string>
   <string name="search_hint">"アーティスト、曲、アルバム、おすすめを検索"</string>
@@ -681,6 +718,8 @@
   <string name="toast_not_pro">This feature is available only to PRO members.</string>
   <string name="toast_uhd_songs_for_download">"ダウンロード品質を高品質に設定しました"</string>
   <string name="toast_uhd_songs_for_stream">"ストリーミング品質を高品質に設定しました"</string>
+  <string name="today">Today</string>
+  <string name="top_chart_title">チャート</string>
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">"不明なアルバム"</string>
   <string name="unknown_artist_name">"不明なアーティスト"</string>
