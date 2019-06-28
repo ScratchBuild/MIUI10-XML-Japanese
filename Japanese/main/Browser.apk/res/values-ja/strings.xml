@@ -133,6 +133,12 @@
   <string name="aqi_quality_index_unhealthy">"不健康"</string>
   <string name="at_miui_browser">\@Miブラウザ</string>
   <string name="autoSwithcingSearchEngineTips">"頻繁に使用する検索エンジンに切り替えました"</string>
+  <string name="auto_floatlayer_click_close_e_n">点击关闭按钮</string>
+  <string name="auto_floatlayer_click_e_a">点击</string>
+  <string name="auto_floatlayer_click_page_e_n">点击页面</string>
+  <string name="auto_floatlayer_e_c">浮层拦截错误导流页</string>
+  <string name="auto_floatlayer_show_e_a">曝光</string>
+  <string name="auto_floatlayer_show_e_n">错误页浮层曝光</string>
   <string name="autologin_bar_error">"ログインに失敗しました"</string>
   <string name="autologin_bar_hide_text">"表示しない"</string>
   <string name="autologin_bar_login_text">"ログイン"</string>

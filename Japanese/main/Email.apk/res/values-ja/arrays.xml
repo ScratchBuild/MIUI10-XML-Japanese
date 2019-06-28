@@ -51,6 +51,10 @@
         <item>Older message</item>
         <item>Inbox</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>すべて</item>
+        <item>受信者のみ</item>
+    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
