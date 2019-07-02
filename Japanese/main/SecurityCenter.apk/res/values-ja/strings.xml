@@ -911,6 +911,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="function_shield_summary">ゲームをプレイするとき、選択したシステムの機能を制限する</string>
   <string name="function_shield_three_finger">スクリーンショットジェスチャーを制限する</string>
   <string name="function_shield_title">Enhanced experience</string>
+  <string name="function_shield_voice_trigger">音声でMi AIを起動しない</string>
   <string name="fw_blocked">"ブロックリスト"</string>
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" と "</string>

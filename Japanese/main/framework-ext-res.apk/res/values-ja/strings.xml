@@ -20,6 +20,10 @@
   <string name="auto_start_warning_deny">"拒否"</string>
   <string name="auto_start_warning_title">"%sの自動起動を許可しますか？"</string>
   <string name="autofill">"自動入力"</string>
+  <string name="autofill_save_message">MIUIにアカウントとパスワードの保存を許可しますか？</string>
+  <string name="autofill_save_ok">許可</string>
+  <string name="autofill_save_sub_message">保存したパスワードは [設定] &gt; [高度な設定] &gt; [プライバシー] &gt; [パスワードの管理] から管理できます。</string>
+  <string name="autofill_save_title">パスワードを自動的に保存する</string>
   <string name="button_text_cancel">"キャンセル"</string>
   <string name="button_text_delete">"アンインストール"</string>
   <string name="button_text_delete_timer">"アンインストール (%d)"</string>
