@@ -92,9 +92,13 @@
   <string name="popup_camera_calibrate_failed">キャリブレーションできませんでした。</string>
   <string name="popup_camera_calibrate_now">キャリブレーション</string>
   <string name="popup_camera_calibrate_success">正常にキャリブレーションされました。前面カメラを起動してみてください。</string>
+  <string name="popup_camera_cancel_popup">キャンセル</string>
+  <string name="popup_camera_continue_popup">カメラを開く</string>
   <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
   <string name="popup_camera_front_when_use">カメラアプリは前面カメラをもう一度開く必要があります。今すぐ開きますか？</string>
+  <string name="popup_camera_hid_device_name">Black Shark</string>
   <string name="popup_camera_popup_falied_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
+  <string name="popup_camera_remove_hid_device">お使いの端末にゲームコントローラが接続されているようです。ゲームコントローラが接続されていると、前面カメラを開くことができない場合があります。</string>
   <string name="popup_camera_sure">OK</string>
   <string name="popup_camera_sure_wait">OK (%d秒)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">前面カメラを複数回終了することができませんでした。カメラのキャリブレーションを試してみてください。</string>

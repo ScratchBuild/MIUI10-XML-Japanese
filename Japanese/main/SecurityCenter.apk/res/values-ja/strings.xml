@@ -992,6 +992,11 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gb_description_image_button_answer">"応答"</string>
   <string name="gb_description_image_button_reject">"拒否"</string>
   <string name="gb_description_image_button_video_answer">"ビデオ通話"</string>
+  <string name="gb_first_guide_function_shiled_title">Game Turboがオンのとき、システム機能をオフにする</string>
+  <string name="gb_first_guide_gamebox_des">ゲームのプレイ中にショートカットを使用する</string>
+  <string name="gb_first_guide_handsfree_des">バックグラウンドで着信に応答する</string>
+  <string name="gb_first_guide_shortcut_des">ホーム画面にGame Turboのショートカットが作成されました</string>
+  <string name="gb_first_guide_title">システムレベルでスピードとパフォーマンスを向上</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">"クイック返信を使用する"</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">"テキストの背景を透過して表示する"</string>
   <string name="gb_first_window_antimsg_title">"便利な通知"</string>

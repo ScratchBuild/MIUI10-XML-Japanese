@@ -1036,8 +1036,11 @@ aptX-Adaptive: Codec Mode"</string>
   <string name="bootloader_status_unlocked">Unlocked</string>
   <string name="bootloader_status_unlocked_info">このデバイスはロック解除されています</string>
   <string name="bootloader_summary">USB経由で端末をフラッシュ</string>
-  <string name="bootloader_tips">Mi Accountを追加した後、ログアウトやファクトリーリセットを使用した設定の初期化、システムアプリのデータを消去したりしないでください。上記のいずれかを行った場合、アカウントを追加し直すまでデバイスのロックを解除することができなくなります。</string>
+  <string name="bootloader_tips">"%s
+
+上記のいずれかを既に行っている場合には、Miアカウントをもう一度追加してください。そうしないと端末のロックを解除できません。"</string>
   <string name="bootloader_tips_ok">OK</string>
+  <string name="bootloader_tips_warning">ネットワークからの切断、Miアカウントからのログアウト、出荷時設定へのリセットやシステムデータの消去を行わないでください。</string>
   <string name="breathing_light_color_menu_title">LEDの色</string>
   <string name="breathing_light_color_summary">新しい通知を受信した時のLEDの色</string>
   <string name="breathing_light_freq_summary">新しい通知を受信した時に</string>
@@ -1792,6 +1795,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="disabled_dependent_setting_summary">別の設定に依存しています</string>
   <string name="disabled_for_user_setting_summary">現在のユーザーは設定を変更できません</string>
   <string name="disabled_low_ram_device">この機能はお使いの端末では利用できません</string>
+  <string name="disallow_lock_screen_summary">初めに \"アプリの通知\" で通知を許可してください</string>
   <string name="disconnect">切断</string>
   <string name="disconnected">切断されています</string>
   <string name="display_auto_rotate_rotate">オン</string>
@@ -2115,7 +2119,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="ethernet_data_usage">イーサネット データ使用量</string>
   <string name="every_day">毎日</string>
   <string name="expand_button_title">詳細設定</string>
-  <string name="expandable_under_keyguard_title">ロック画面に表示</string>
+  <string name="expandable_under_keyguard_title">安全なロック画面で展開可能</string>
   <string name="experimental_category_title">試験運用機能</string>
   <string name="experimental_preference">（試験運用）</string>
   <string name="extended_power_menu">拡張電源メニュー</string>
@@ -2593,7 +2597,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_shortcuts_helper">キーボード ショートカット ヘルパー</string>
   <string name="keyboard_shortcuts_helper_summary">使用可能なショートカットを表示します</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
-  <string name="keyguard_double_tap_to_sleep_title">ダブルタップでスリープ</string>
+  <string name="keyguard_double_tap_to_sleep_title">ダブルタップで画面をスリープ</string>
   <string name="keyguard_notification_status_title">通知を受け取って、画面がオフになっている場合</string>
   <string name="keyguard_security_setting_others">その他</string>
   <string name="keyguard_security_setting_privacy_policy">プライバシーポリシー</string>
@@ -2846,7 +2850,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
   <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
   <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
-  <string name="lock_screen_tip_toast">初めにアプリの設定で通知を許可してください。</string>
   <string name="lock_screen_unlock_show">ロック画面をスキップする</string>
   <string name="lock_screen_unlock_show_summary">ホーム画面を開くか、パスワードを直接入力します</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">変更するにはタップ</string>
@@ -4156,6 +4159,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="quick_reply_title">クイック返信</string>
   <string name="quick_settings_developer_tiles">クイック設定 (開発者用タイル)</string>
   <string name="quick_settings_label">トグル</string>
+  <string name="quick_settings_under_keyguard_summary">端末がロックされているとき、クイック設定へのアクセスを許可する</string>
+  <string name="quick_settings_under_keyguard_title">クイック設定へのアクセス</string>
   <string name="quiet">夜間モード</string>
   <string name="quiet_group">夜間モード</string>
   <string name="quiet_important_interruptions_mode">例外のみ許可する</string>
@@ -4680,7 +4685,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_sound_settings">Sound;Volumes;vibration;Suppress noise;noise suppression</string>
   <string name="search_status_bar_settings">通知とステータスバー;通知;ステータスバー</string>
   <string name="search_status_bar_settings_custom_carrier">キャリア名を編集;キャリア名</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">ロック画面に表示</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Expandable under secure Lock screen;expandable under secure lockscreen</string>
   <string name="search_status_bar_settings_manage_notification">アプリの通知;通知</string>
   <string name="search_status_bar_settings_show_carrier">キャリア名を表示;キャリア名</string>
   <string name="search_status_bar_settings_show_network_speed">接続速度を表示;接続速度</string>
