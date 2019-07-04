@@ -23,14 +23,14 @@
         <item>"今月: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>"昨日 (モバイルデータ)"</item>
-        <item>"今日 (モバイルデータ)"</item>
-        <item>"先月 (モバイルデータ)"</item>
-        <item>"今月 (モバイルデータ)"</item>
-        <item>"昨日 Wi-Fi "</item>
-        <item>"今日 Wi-Fi "</item>
-        <item>"先月 Wi-Fi "</item>
-        <item>"今月 Wi-Fi "</item>
+        <item>"昨日 (モバイルデータ) "</item>
+        <item>"今日 (モバイルデータ) "</item>
+        <item>"先月 (モバイルデータ) "</item>
+        <item>"今月 (モバイルデータ) "</item>
+        <item>"昨日 (Wi-Fi) "</item>
+        <item>"今日 (Wi-Fi) "</item>
+        <item>"先月 (Wi-Fi) "</item>
+        <item>"今月 (Wi-Fi)"</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"モバイルデータ使用量 "</item>
