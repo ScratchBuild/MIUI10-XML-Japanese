@@ -8,6 +8,7 @@
   <string name="enable_float_notification">フローティング通知は許可されています</string>
   <string name="enable_lockscreen_notification">ロック画面の通知は許可されています</string>
   <string name="enable_show_badge_notification">通知バッジは許可されています</string>
+  <string name="expand_top_notification">Expand top notification</string>
   <string name="expandable_under_keyguard">ロック画面で通知シェードを開く</string>
   <string name="float_notifications">フローティング通知</string>
   <string name="hint_search_all">アプリを検索</string>

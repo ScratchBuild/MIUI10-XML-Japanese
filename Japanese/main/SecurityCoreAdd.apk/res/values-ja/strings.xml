@@ -163,16 +163,18 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="go_on_import">Keep importing</string>
   <string name="gpg_message">"デュアルアプリを作成するにはGoogle Play ゲームを使用する必要があります。Goolge Play ゲームのデュアルアプリを作成しますか？"</string>
   <string name="gpg_title">"Google Playゲームのデュアルアプリ"</string>
-  <string name="green_guard">"ペアレンタルコントロール"</string>
+  <string name="green_guard">Family Guard</string>
   <string name="green_guard_des1">"リモートで管理するデバイスを追加する"</string>
   <string name="green_guard_des2">"すべての管理するデバイスがどこにあるかを表示する"</string>
   <string name="green_guard_des3">"インストール済みアプリの管理と、使用を制限する"</string>
   <string name="green_guard_title2">"現在地を表示"</string>
   <string name="green_guard_title3">"アプリの管理"</string>
-  <string name="greenguard_child_des">Use our app to stay connected​</string>
-  <string name="greenguard_child_des_title">I need help from my friends and family</string>
-  <string name="greenguard_parent_des">"Download our app and add other people's devices"</string>
-  <string name="greenguard_parent_des_title">I need to help my friends and family</string>
+  <string name="greenguard_child_des">Manage the devices of your friends and family</string>
+  <string name="greenguard_child_des_title">Scan QR code to add device</string>
+  <string name="greenguard_functional_description">"Manage devices remotely, view location info,
+control installed apps and restrict usage"</string>
+  <string name="greenguard_parent_des">Manage the devices of your friends and family</string>
+  <string name="greenguard_parent_des_title">Use Kite Guard to add devices</string>
   <string name="guide_contact_sub_title_desc">"Contacts added to Second space will be private.
 Messages will only appear in Second space."</string>
   <string name="guide_contact_suc_sub_title_desc">Only private contacts and messages will be shown in Second space</string>

@@ -391,6 +391,7 @@
   <string name="battery_charge_estimating">"計算中"</string>
   <string name="battery_charge_full">"充電完了"</string>
   <string name="battery_charging_prompt">"充電中"</string>
+  <string name="battery_desc_ambient_display">アンビエント表示による電池使用量</string>
   <string name="battery_desc_apps">アプリの電池使用量</string>
   <string name="battery_desc_bluetooth">Bluetoothの電池使用量</string>
   <string name="battery_desc_display">ディスプレイとバックライトの電池使用量</string>
@@ -1574,6 +1575,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pm_root_success_notification_infomation">Make sure you understand the risks related with root access</string>
   <string name="pm_root_success_notification_title">Allowed root access</string>
   <string name="power_20s_shutdown">Device will power off in %d seconds</string>
+  <string name="power_ambient_display">アンビエント表示</string>
   <string name="power_analysis_consume_title">"電池使用量"</string>
   <string name="power_analysis_suggestion_need_optimize">Battery usage issues detected.</string>
   <string name="power_autorun_apps_empty">"自動起動するアプリはありません"</string>
@@ -1936,7 +1938,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sms_service">Block service SMS</string>
   <string name="sms_smart_engine_update">"SMSフィルタを自動的に更新する"</string>
   <string name="sms_smart_engine_update_now">"更新"</string>
-  <string name="sms_stranger_block">Block SMS from strangers</string>
+  <string name="sms_stranger_block">ブロック済み</string>
   <string name="sorted_dialog_title">"並べ替え"</string>
   <string name="sp_background_risk_dialog_summary">, check and fix payment issues.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">"公共のWi-Fiネットワークに接続されており、安全でない可能性があります。支払いが完了する前に保護されていることを確認してください。"</string>
@@ -2033,7 +2035,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_msg_keyword_white">"キーワード (例外)"</string>
   <string name="st_msg_other_group">"その他"</string>
   <string name="st_msg_settings">SMS blocklist</string>
-  <string name="st_msg_stranger_group">Block SMS from strangers</string>
+  <string name="st_msg_stranger_group">不明な番号からのメッセージをブロック</string>
   <string name="st_settings_name">"ブロックリストの設定"</string>
   <string name="st_share_settings">"SIM 1の設定を使用"</string>
   <string name="st_sub_title_customize_mode_name">"名前"</string>

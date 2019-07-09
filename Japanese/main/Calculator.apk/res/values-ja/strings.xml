@@ -130,6 +130,7 @@
   <string name="mortgage_item_years">ローン期間</string>
   <string name="mortgage_loans_amount">ローン金額</string>
   <string name="mortgage_provident_found_interest_rate">"Fund's interest rate"</string>
+  <string name="mortgage_provider_east_money">Data is provided by East Money</string>
   <string name="mortgage_repayment_amount">返済額</string>
   <string name="mortgage_result">結果</string>
   <string name="mortgage_show_details">詳細を表示</string>

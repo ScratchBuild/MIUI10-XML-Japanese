@@ -2375,6 +2375,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gesture_prevent_ringing_sound_title">着信音ミュート用のショートカット</string>
   <string name="gesture_prevent_ringing_title">電源ボタンと音量大ボタンを同時に押す</string>
   <string name="gesture_w">W pattern</string>
+  <string name="gesture_wakeup_summary">この機能はデフォルトテーマまたはクラシックテーマの適用時のみ動作します</string>
   <string name="gesture_wakeup_title">画面をダブルタップしてスリープ解除</string>
   <string name="gesture_z">Z pattern</string>
   <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
@@ -3557,12 +3558,12 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notes_privacy_password_role_instruction">プライベートなメモはここに保存されます。</string>
   <string name="notifi_channels">Notification categories</string>
   <string name="notifi_channels_other">その他</string>
-  <string name="notifi_importance_default">Play sound and show on the Lock screen</string>
-  <string name="notifi_importance_high">Play sound, show on the Lock screen, allow using fullscreen options</string>
-  <string name="notifi_importance_low">"Don't play sound"</string>
-  <string name="notifi_importance_min">"Don't show on the Lock screen, don't play sound"</string>
-  <string name="notifi_importance_none">Off</string>
-  <string name="notifi_importance_unspecified">Let the app decide</string>
+  <string name="notifi_importance_default">通知音を再生</string>
+  <string name="notifi_importance_high">通知を鳴らして画面に表示する</string>
+  <string name="notifi_importance_low">通知音を再生しない</string>
+  <string name="notifi_importance_min">Show silently and minimize</string>
+  <string name="notifi_importance_none">通知を表示しない</string>
+  <string name="notifi_importance_unspecified">再生を許可</string>
   <string name="notifi_no_channels">"This app hasn't received any notifications yet"</string>
   <string name="notification_app_settings_button">通知設定</string>
   <string name="notification_badge_title">通知ドットの許可</string>
