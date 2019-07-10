@@ -284,6 +284,10 @@
         <item quantity="other">共有できませんでした。%d枚の写真を処理中です…</item>
         <item quantity="one">共有できませんでした。%d枚の写真を処理中です…</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d秒</item>
+        <item quantity="one">%1$d秒</item>
+    </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d枚の写真を最適化しました</item>
         <item quantity="one">%d枚の写真を最適化しました</item>

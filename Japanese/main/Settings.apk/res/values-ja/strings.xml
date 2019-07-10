@@ -2375,7 +2375,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gesture_prevent_ringing_sound_title">着信音ミュート用のショートカット</string>
   <string name="gesture_prevent_ringing_title">電源ボタンと音量大ボタンを同時に押す</string>
   <string name="gesture_w">W pattern</string>
-  <string name="gesture_wakeup_summary">この機能はデフォルトテーマまたはクラシックテーマの適用時のみ動作します</string>
+  <string name="gesture_wakeup_summary">デフォルトまたはクラシックテーマが適用されている時は、ダブルタップして画面をオフにすることができます</string>
   <string name="gesture_wakeup_title">画面をダブルタップしてスリープ解除</string>
   <string name="gesture_z">Z pattern</string>
   <string name="getConfiguredNetworks">構成済みネットワークの取得</string>
@@ -3555,6 +3555,11 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="notch_force_black_desc">機能をオンにすると、ノッチ領域が黒色になります</string>
   <string name="notch_force_black_title">ノッチを隠す</string>
   <string name="notch_settings">ノッチ</string>
+  <string name="notch_style_mod_description">ノッチとステータスバーの表示オプション</string>
+  <string name="notch_style_mod_title">ノッチを隠す</string>
+  <string name="notch_style_show">ノッチを表示</string>
+  <string name="notch_style_status_bar_inside">ステータスバーを移動せずに隠す</string>
+  <string name="notch_style_status_bar_outside">ステータスバーを移動して隠す</string>
   <string name="notes_privacy_password_role_instruction">プライベートなメモはここに保存されます。</string>
   <string name="notifi_channels">Notification categories</string>
   <string name="notifi_channels_other">その他</string>

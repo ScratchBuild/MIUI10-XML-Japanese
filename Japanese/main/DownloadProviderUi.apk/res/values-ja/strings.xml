@@ -243,7 +243,7 @@ across all your devices with Xunlei"</string>
   <string name="other">"その他"</string>
   <string name="other_filter">"その他"</string>
   <string name="package_filter">"パッケージ"</string>
-  <string name="path_not_available">経路が利用できません</string>
+  <string name="path_no_available">この経路は利用できません</string>
   <string name="pause_download">Pause</string>
   <string name="paused">Paused</string>
   <string name="paused_by_app">Paused</string>
