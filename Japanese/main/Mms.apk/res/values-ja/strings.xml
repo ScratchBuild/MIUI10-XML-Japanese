@@ -411,6 +411,7 @@
   <string name="no_block_button_msg">ブロックを解除</string>
   <string name="no_conversations">スレッドがありません</string>
   <string name="no_delivery_report">配達レポートなし</string>
+  <string name="no_longer_recommend">次回から表示しない</string>
   <string name="no_network_description">ネットワークに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。</string>
   <string name="no_subject">(件名なし)</string>
   <string name="no_subject_view">(件名なし)</string>
@@ -425,10 +426,12 @@
   <string name="notification_channel_sim1_name">メッセージ (SIM1)</string>
   <string name="notification_channel_sim2_description">メッセージの通知 (SIM2)</string>
   <string name="notification_channel_sim2_name">メッセージ (SIM2)</string>
+  <string name="notification_delete">削除</string>
   <string name="notification_failed_multiple">"%s件のメッセージを送信できませんでした"</string>
   <string name="notification_failed_multiple_title">メッセージ送信失敗</string>
   <string name="notification_group_name">メッセージ</string>
   <string name="notification_multiple_title">新着メッセージ</string>
+  <string name="notification_seen">既読にする</string>
   <string name="number_add_hint">電話番号を入力</string>
   <string name="number_recognition_partner">Sender ID recognition service providers</string>
   <string name="open_audio_record_panel">"オーディオ録音のパネルを開く"</string>

@@ -2849,6 +2849,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="lock_screen_notifications_summary_show">すべての通知とその内容を表示する</string>
   <string name="lock_screen_notifications_summary_show_profile">すべての通知内容を表示する</string>
   <string name="lock_screen_notifications_title">端末がロックされているとき</string>
+  <string name="lock_screen_settings_title">ロック画面</string>
   <string name="lock_screen_signature_summary">このメッセージはロック画面に表示されます</string>
   <string name="lock_screen_signature_title">ロック画面の所有者情報</string>
   <string name="lock_screen_unlock_show">ロック画面をスキップする</string>
@@ -3874,7 +3875,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="pointer_location_summary">現在のタップデータをオーバーレイ表示する</string>
   <string name="pointer_settings_category">マウス/トラックパッド</string>
   <string name="pointer_speed">ポインタの速度</string>
-  <string name="popup_gesture_summary">フロントカメラを自動的に開くには、端末を持ち上げた後に画面を見てください</string>
+  <string name="popup_gesture_summary">フロントカメラを自動的に開くには、ホーム画面に戻って、端末を持ち上げた後に画面を見てください</string>
   <string name="popup_gesture_title">フロントカメラを開くために持ち上げる</string>
   <string name="popup_led_summary">フロントカメラをポップアップした時にアニメーションを表示する</string>
   <string name="popup_led_title">Visual effect</string>
@@ -5433,7 +5434,7 @@ PINが正しくない可能性があります。"</string>
 %1$s"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Google Syncへようこそ</font>"
 このサービスを使用すると、データを同期してどこからでも連絡先や予定などにアクセスできます。"</string>
-  <string name="sync_settings">同期</string>
+  <string name="sync_settings">アカウントと同期</string>
   <string name="sync_wifi_label">Wi-Fiネットワーク</string>
   <string name="sync_wifi_only">Wi-Fiのみ</string>
   <string name="system">システム</string>
@@ -6756,6 +6757,8 @@ Looks like credential storage isn't enabled."</string>
   <string name="xiaomi_account">Miアカウント</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_description">Mi Cloudは連絡先、写真、その他のアイテムをお使いの端末間で同期します。\"Find device\"が正常に動作するにはMi Cloudが必要です。</string>
+  <string name="xiaomi_cloud_service_description_contact">連絡先と</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Cloud は %s の写真を同期、アプリや設定をバックアップ、端末を紛失した場合にFind deviceで見つける手助けを行います。</string>
   <string name="xiaomi_cloud_service_disabled">オフ</string>
   <string name="xiaomi_cloud_service_unknown">不明</string>
   <string name="xiaomi_money_service">Mi Credit</string>
