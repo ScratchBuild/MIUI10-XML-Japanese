@@ -6709,10 +6709,17 @@ Looks like credential storage isn't enabled."</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
   <string name="winscope_trace_quick_settings_title">ウィンスコープ トレース</string>
+  <string name="wireless_button">他の機器をワイヤレスで充電する</string>
+  <string name="wireless_charging_settings">他の機器をワイヤレスで充電する</string>
+  <string name="wireless_closed">オフ</string>
   <string name="wireless_connected">接続しました</string>
   <string name="wireless_networks_settings_title">無線とネットワーク</string>
   <string name="wireless_off">オフ</string>
   <string name="wireless_on">オン</string>
+  <string name="wireless_opened">オン</string>
+  <string name="wireless_tip">"お使いの端末で他の機器をワイヤレスで充電します。
+
+充電が90秒以内に始まらない場合、この機能は自動的にオフになります。"</string>
   <string name="wizard_back">戻る</string>
   <string name="wizard_finish">終了</string>
   <string name="wizard_next">次へ</string>
