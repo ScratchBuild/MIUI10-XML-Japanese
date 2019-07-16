@@ -1308,11 +1308,13 @@ EEEE"</string>
   <string name="recents_accessibility_split_screen_top">画面を上に分割</string>
   <string name="recents_app_info_button_label">アプリ情報</string>
   <string name="recents_caption_resize">新しいタスクレイアウトの選択</string>
+  <string name="recents_dimiss_task">消去</string>
   <string name="recents_drag_hint_message">アプリを長押しして、ここにドラッグします。</string>
   <string name="recents_empty_message">最近のタスクはありません</string>
   <string name="recents_empty_message_dismissed_all">すべてのタスクを消去しました</string>
   <string name="recents_empty_message_multi_window">ホーム画面からアプリを開く</string>
   <string name="recents_exit_multi_window_mode">終了</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">キャスト中は分割画面を使用できません</string>
   <string name="recents_incompatible_app_message">このアプリは分割画面をサポートしていません</string>
   <string name="recents_launch_disabled_message">「%s」はセーフモードでは無効になります。</string>
   <string name="recents_launch_error_message">%sを開始できません。</string>
@@ -1323,6 +1325,7 @@ EEEE"</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">縦に分割</string>
   <string name="recents_search_bar_label">検索</string>
   <string name="recents_stack_action_button_label">すべて消去</string>
+  <string name="recents_task_screening">キャスト中</string>
   <string name="reject_call">"着信を拒否"</string>
   <string name="remaining_length_format">あと %1$s</string>
   <string name="remove_from_settings">設定から削除</string>

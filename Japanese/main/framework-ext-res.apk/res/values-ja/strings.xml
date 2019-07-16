@@ -33,6 +33,11 @@
   <string name="caller_info_name_delimiter">" または "</string>
   <string name="cancel_action">"キャンセル"</string>
   <string name="configure_input_methods">"キーボードの選択"</string>
+  <string name="content_description_dial">発信</string>
+  <string name="content_description_search">検索</string>
+  <string name="content_description_share">共有</string>
+  <string name="content_description_translate">翻訳</string>
+  <string name="content_description_web_url">ブラウザで開く</string>
   <string name="copy">"コピー"</string>
   <string name="cut">"切り取り"</string>
   <string name="enable_livetalk_summary">Save 70% on your calling charges</string>
@@ -47,6 +52,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">"後で"</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"オンにする"</string>
   <string name="fp_nav_center_action_choose_dlg_title">Turn on Quick tap</string>
+  <string name="frequent_email">よく使うメールアドレス</string>
   <string name="frequent_phrases">"よく使うフレーズ"</string>
   <string name="global_actions_airplane_mode">"機内モード"</string>
   <string name="global_actions_reboot">"再起動"</string>

@@ -444,11 +444,6 @@
         <item>10分</item>
         <item>30分</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>グラフィカル</item>
-        <item>パーセント表示 (アイコンの中)</item>
-        <item>パーセント表示 (アイコンの隣)</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>なし</item>
         <item>Logcat</item>
@@ -598,8 +593,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>移動中…</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
-        <item>Graphical</item>
-        <item>Percentage</item>
+        <item>グラフィカル</item>
+        <item>パーセント表示 (アイコンの中)</item>
+        <item>パーセント表示 (アイコンの隣)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>検索</item>
@@ -911,6 +907,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>低</item>
         <item>中</item>
         <item>高</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>グラフィカル</item>
+        <item>パーセント表示 (アイコンの中)</item>
+        <item>パーセント表示 (通知領域のアイコンの隣)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi優先</item>

@@ -17,7 +17,7 @@
   <string name="list_title_disable_notification">通知は許可されていません</string>
   <string name="loading">読み込み中…</string>
   <string name="lock_screen_display_rules">表示形式</string>
-  <string name="lock_screen_tip_toast">初めに \"アプリの通知\" で通知を許可してください</string>
+  <string name="lock_screen_tip_toast">\"形式\" でロック画面の通知を許可してください</string>
   <string name="lockscreen_notifications">ロック画面の通知</string>
   <string name="not_sent_recently">最近ではない</string>
   <string name="notch_and_status_bar_setting">ノッチとステータスバー</string>

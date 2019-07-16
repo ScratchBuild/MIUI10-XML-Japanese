@@ -244,7 +244,7 @@
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">"インポート方法を選択"</string>
-  <string name="contact_is_deleted">連絡先が削除されました</string>
+  <string name="contact_is_deleted">この連絡先は削除されました</string>
   <string name="contact_is_readOnly">"読み取り専用の連絡先を編集することはできません"</string>
   <string name="contact_list_loading">"読み込み中..."</string>
   <string name="contact_pick_photo">"写真"</string>
@@ -1026,6 +1026,8 @@ To add a contact to your list of favorites:
   <string name="shortcutContact">"連絡先"</string>
   <string name="shortcutDialContact">"直接発信"</string>
   <string name="shortcutMessageContact">"直接メッセージを送る"</string>
+  <string name="shortcut_new_contact_label">新しい連絡先</string>
+  <string name="shortcut_scan_label">名刺をスキャン</string>
   <string name="showAllContactsJoinItem">"すべての連絡先を表示"</string>
   <string name="simContacts_airplaneMode">"SIMカードから連絡先をインポートするには、機内モードをオフにしてください"</string>
   <string name="simContacts_empty">"SIMカードに連絡先がありません"</string>

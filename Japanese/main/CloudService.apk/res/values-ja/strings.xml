@@ -135,7 +135,6 @@
   <string name="micloud_confusion_toast_deny">"Mi Accountにログイン"</string>
   <string name="micloud_confusion_yes">はい</string>
   <string name="micloud_detail_fail">"同期できません"</string>
-  <string name="micloud_detail_not_syncable">Not syncable</string>
   <string name="micloud_detail_query_error">"Can't obtain sync state"</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
@@ -175,7 +174,6 @@
   <string name="micloud_find_device_verify_fail">"Couldn't reactivate Find device"</string>
   <string name="micloud_find_device_verify_progress">Reactivating Find device…</string>
   <string name="micloud_last_sync_canceled">同期がキャンセルされました。再試行。</string>
-  <string name="micloud_main_button_set_internet">設定</string>
   <string name="micloud_main_head_menu_cloud_backup">ホーム画面のバックアップ</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Find deviceはSecond spaceで使用できません、First spaceでのみ使用できます。</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">削除したアイテムを復元する</string>
@@ -186,8 +184,6 @@
   <string name="micloud_main_manual_sync">手動で同期</string>
   <string name="micloud_main_memory_low_title">"端末の内部ストレージがいっぱいです"</string>
   <string name="micloud_main_network_error">ネットワークに接続できません</string>
-  <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
-  <string name="micloud_main_simple_off">同期はオフ</string>
   <string name="micloud_main_sync_mode_summary">アプリデータをリアルタイムで同期します。この機能をオンにすると、消費電力が増加します。</string>
   <string name="micloud_main_sync_mode_title">クイック同期</string>
   <string name="micloud_main_wait_charge">同期を再開するには端末を充電してください。</string>

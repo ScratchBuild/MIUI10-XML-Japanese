@@ -229,7 +229,6 @@
   <string name="animator_duration_scale_title">Animator再生時間スケール</string>
   <string name="anti_spam">ブロックリスト</string>
   <string name="aod_and_lock_screen_settings_title">アンビエントディスプレイとロック画面</string>
-  <string name="aod_clock_style_title">時計のスタイル</string>
   <string name="aod_settings_category_name">アンビエントディスプレイ</string>
   <string name="aod_settings_title">アンビエントディスプレイ</string>
   <string name="apn_auth_type">認証タイプ</string>
@@ -2598,7 +2597,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_shortcuts_helper">キーボード ショートカット ヘルパー</string>
   <string name="keyboard_shortcuts_helper_summary">使用可能なショートカットを表示します</string>
   <string name="keyguard_advance_setting_title">高度な設定</string>
-  <string name="keyguard_double_tap_to_sleep_title">ダブルタップで画面をスリープ</string>
   <string name="keyguard_notification_status_title">通知を受け取って、画面がオフになっている場合</string>
   <string name="keyguard_security_setting_others">その他</string>
   <string name="keyguard_security_setting_privacy_policy">プライバシーポリシー</string>
@@ -4089,6 +4087,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="privacy_password_remind_bindaccount_title">Mi Accountを追加</string>
   <string name="privacy_password_settings">プライバシー保護パスワードを使用</string>
   <string name="privacy_password_settings_next">次へ</string>
+  <string name="privacy_password_settings_summary">機密情報を含む可能性があるアプリには、プライバシー保護パスワードが使用されます。</string>
   <string name="privacy_password_settings_titles">プライバシー保護パスワードはあなたのメッセージ、写真、ファイル、およびメモを保護します。</string>
   <string name="privacy_password_settings_titles_elder_mode">プライバシー保護パスワードはあなたの写真、ファイル、およびメモを保護します。</string>
   <string name="privacy_password_settings_titles_second_space">プライバシー保護パスワードはあなたのメッセージ、写真、およびメモを保護します。</string>

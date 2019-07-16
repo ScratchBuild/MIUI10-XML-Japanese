@@ -371,6 +371,7 @@
   <string name="preferences_import_train">乗車券</string>
   <string name="preferences_notification_ringtone_title">"通知音"</string>
   <string name="preferences_popup_alert_smart_summary">MIUIはどの予定が最も関連性があるかを自動的に識別します</string>
+  <string name="preferences_popup_alert_smart_summary_new">Time-sensitive events are the events with an exact time</string>
   <string name="preferences_popup_alert_smart_tips">重要な予定を見逃さないように、従来の通知をポップアップ通知に置き換えます。ゲームのプレイ中、フルスクリーンビデオの視聴中、または運転モードの使用中は、ポップアップ通知は表示されません。</string>
   <string name="preferences_popup_alert_title">ポップアップ通知</string>
   <string name="preferences_title">"カレンダー"</string>
@@ -447,6 +448,7 @@
   <string name="setting_daysoff_update_net_err">更新を確認できませんでした。しばらくしてからもう一度お試しください。</string>
   <string name="setting_daysoff_update_schedule">更新中…</string>
   <string name="setting_daysoff_update_success">正常に更新されました</string>
+  <string name="setting_desc_import_todo">メモからスケジュール済みタスクをインポートする</string>
   <string name="setting_features_title">"機能の設定"</string>
   <string name="setting_holiday_display_desc">Holiday cards are located below your agenda on the home page</string>
   <string name="setting_holiday_reminder">"祝日の通知"</string>
@@ -455,6 +457,7 @@
   <string name="setting_title_about">"このアプリについて"</string>
   <string name="setting_title_debug">"ログのエクスポート"</string>
   <string name="setting_title_holiday_display">"祝日を表示する"</string>
+  <string name="setting_title_import_todo">タスクのインポート</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="setting_user_experience">"ユーザーエクスペリエンスプログラム"</string>
   <string name="share_cancel">共有をキャンセルしました</string>
@@ -506,6 +509,8 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="today_at_time_fmt">"今日の%s"</string>
   <string name="today_icon_voice_contentdescription">今日に戻る</string>
   <string name="today_no_events">"予定なし"</string>
+  <string name="todo_audio_event">"[Voice task] "</string>
+  <string name="todo_event">Upcoming tasks</string>
   <string name="tomorrow">"明日"</string>
   <string name="tomorrow_at_time_fmt">"明日の%s"</string>
   <string name="too_long_content">"内容が長すぎます"</string>
@@ -573,6 +578,7 @@ You can also add reminders so you don't miss anything important."</string>
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">"Mi Accountカレンダー"</string>
   <string name="xingxiu">星宿</string>
+  <string name="year_indicator_month">旧暦の初日</string>
   <string name="yearly">"毎年（%s）"</string>
   <string name="yearly_plain">"毎年"</string>
 </resources>
