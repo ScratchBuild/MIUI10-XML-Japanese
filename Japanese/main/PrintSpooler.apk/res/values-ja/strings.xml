@@ -87,7 +87,6 @@
   <string name="printer_busy">プリンタがビジー状態です</string>
   <string name="printer_error">プリンタエラー</string>
   <string name="printer_error_msg">プリンタエラー:…%1$s</string>
-  <string name="printer_unavailable">"%1$s–使用不可"</string>
   <string name="printer_notification_error_title">%1$s を印刷できませんでした</string>
   <string name="printer_unavailable">プリンタは利用できません</string>
   <string name="printing">Printing…</string>

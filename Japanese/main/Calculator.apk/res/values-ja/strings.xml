@@ -15,6 +15,7 @@
   <string name="cal_text_copied">テキストをコピーしました</string>
   <string name="cancel">キャンセル</string>
   <string name="choose_currency">通貨を選択</string>
+  <string name="choose_radix">数体系を選択</string>
   <string name="choose_unit">単位を選択</string>
   <string name="city">都市</string>
   <string name="clearDesc">消去</string>
@@ -25,6 +26,7 @@
   <string name="convertion_unit">単位変換</string>
   <string name="convertion_unit_area">面積変換</string>
   <string name="convertion_unit_length">長さ変換</string>
+  <string name="convertion_unit_radix">数体系</string>
   <string name="convertion_unit_temperature">温度変換</string>
   <string name="convertion_unit_time">時間変換</string>
   <string name="convertion_unit_velocity">速度変換</string>
@@ -71,6 +73,7 @@
   <string name="item_title_dress_size">Clothing size</string>
   <string name="item_title_length_conversion">長さ</string>
   <string name="item_title_mortgage">ローン</string>
+  <string name="item_title_radix">数体系</string>
   <string name="item_title_relationship">親族の条件</string>
   <string name="item_title_scientific_calculator">学術</string>
   <string name="item_title_tax">税金</string>
@@ -260,6 +263,7 @@
   <string name="unit_data_display_currency_aed">UAEディルハム</string>
   <string name="unit_data_display_currency_ars">アルゼンチン・ペソ</string>
   <string name="unit_data_display_currency_aud">オーストラリア・ドル</string>
+  <string name="unit_data_display_currency_bdt">バングラデシュ・タカ</string>
   <string name="unit_data_display_currency_bgn">ブルガリア・レフ</string>
   <string name="unit_data_display_currency_bhd">バーレーン・ディナール</string>
   <string name="unit_data_display_currency_bnd">ブルネイ・ドル</string>
@@ -350,6 +354,10 @@
   <string name="unit_data_display_length_um">マイクロメートル</string>
   <string name="unit_data_display_length_yd">ヤード</string>
   <string name="unit_data_display_length_zhang">Zhang</string>
+  <string name="unit_data_display_radix_10">10進</string>
+  <string name="unit_data_display_radix_16">16進</string>
+  <string name="unit_data_display_radix_2">2進</string>
+  <string name="unit_data_display_radix_8">8進</string>
   <string name="unit_data_display_temperature_c">摂氏</string>
   <string name="unit_data_display_temperature_f">華氏</string>
   <string name="unit_data_display_temperature_k">ケルビン</string>

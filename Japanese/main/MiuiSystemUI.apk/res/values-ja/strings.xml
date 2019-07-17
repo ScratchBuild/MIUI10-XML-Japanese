@@ -674,6 +674,7 @@
   <string name="input_password_after_boot_msg">"端末のロックを解除するには、パスワードを入力します"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"ペアレンタルコントロールが有効な間はspaceを切り替えることはできません"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">ウルトラバッテリーセーバーがオンのとき、スペースを切り替えることはできません</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">"デバイスを再起動した後、First spaceのパスワードを入力する必要があります"</string>
   <string name="input_password_hint_text">"パスワードを入力"</string>
   <string name="input_pattern_hint_text">"ロック解除パターンを入力"</string>
@@ -1092,10 +1093,10 @@ EEEE"</string>
   <string name="oem_unlock_enable_summary">ブートローダーによるロック解除を許可する</string>
   <string name="oldman_airplane_mode_text">機内モード</string>
   <string name="oldman_incall_text">通話に戻る</string>
-  <string name="open_camera_hint_text">"左にスワイプでカメラを開く"</string>
+  <string name="open_camera_hint_text">アイコンをドラッグしてカメラを開く</string>
   <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
-  <string name="open_lock_screen_magazine_hint_text">右にスワイプしてその他のオプションを開く</string>
-  <string name="open_remote_center_hint_text">"右にスワイプしてショートカットを開く"</string>
+  <string name="open_lock_screen_magazine_hint_text">アイコンをドラッグしてWallpaper Carouselを開く</string>
+  <string name="open_remote_center_hint_text">"アイコンをドラッグして表示のコントロールを開く"</string>
   <string name="other">その他</string>
   <string name="overlay_display_devices_title">2次画面シミュレート</string>
   <string name="overview">履歴</string>

@@ -25,6 +25,7 @@ this feature will be added to Second space automatically."</string>
   <string name="can_not_delete_when_calling">"通話中にspaceを削除することはできません"</string>
   <string name="can_not_switch_when_calling">"通話中にspaceを切り替えることはできません"</string>
   <string name="can_not_switch_when_green_kid_active">"Second spaceへの切り替えは、ペアレンタルコントロールによって制限されています"</string>
+  <string name="can_not_switch_when_super_power_active">ウルトラバッテリーセーバーがオンのとき、スペースを切り替えることはできません</string>
   <string name="cancelClosePassword">"オフにしないでください"</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="changePassword">"パスワードを変更"</string>
