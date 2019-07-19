@@ -2675,7 +2675,6 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_wifi">wifi wi-fi ネットワーク 接続</string>
   <string name="keywords_wifi_calling">wifi、Wi-Fi、通話、発信</string>
   <string name="keywords_write_settings">書き込み 変更 システム設定</string>
-  <string name="kid_space_settings">Kid space</string>
   <string name="label_global_roaming_settings">ローミング設定</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="language_empty_list_user_restricted">端末の言語を変更する権限がありません。</string>
