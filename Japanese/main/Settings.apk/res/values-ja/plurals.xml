@@ -172,6 +172,14 @@
         <item quantity="other">"パスワードには大文字の英字が%d文字以上必要です。"</item>
         <item quantity="one">"パスワードには大文字の英字が1文字以上必要です。"</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">%d 文字未満にしてください</item>
+        <item quantity="one">%d 文字未満にしてください</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">%d 文字以上必要です</item>
+        <item quantity="one">%d 文字以上必要です</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PINは%d桁で指定してください</item>
         <item quantity="one">PINは%d桁で指定してください</item>

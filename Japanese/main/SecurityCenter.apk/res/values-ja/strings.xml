@@ -498,6 +498,7 @@
   <string name="call_blacklist">Call blocklist</string>
   <string name="call_cloud_block">Cloud blocklist</string>
   <string name="call_contact_block">Block calls from contacts</string>
+  <string name="call_delete_all_hint">ブロックされたすべての通話を削除しますか？</string>
   <string name="call_delete_hint">"この番号からブロックされたすべての通話を削除しますか？"</string>
   <string name="call_delete_title">"通話履歴を削除"</string>
   <string name="call_oversea_block">"海外からの通話をブロックする"</string>
