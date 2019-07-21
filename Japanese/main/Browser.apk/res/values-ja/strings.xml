@@ -70,7 +70,7 @@
   <string name="action_text_change_textsize_bigger">文字を拡大</string>
   <string name="action_text_change_textsize_smaller">文字を縮小</string>
   <string name="action_text_edit_bookmark_exit">ブックマークの編集を終了</string>
-  <string name="action_text_nightmode_change">Switching night mode</string>
+  <string name="action_text_nightmode_change">夜間モードにスイッチ</string>
   <string name="action_text_readmode_bookmark_add">読書モードのブックマークに追加</string>
   <string name="action_text_readmode_exit">読書モードを終了</string>
   <string name="action_text_readmode_more">その他</string>
@@ -78,9 +78,9 @@
   <string name="action_text_theme_and_textsize_change">文字サイズとテーマを変更</string>
   <string name="ad_app_download_notification_content">After the installation is complete, open the demo now~</string>
   <string name="ad_app_download_site_new">NEW</string>
-  <string name="ad_exit_dialog_exit_btn_name">quit</string>
+  <string name="ad_exit_dialog_exit_btn_name">終了</string>
   <string name="ad_exit_dialog_message">Installation is complete! Do you want to open it now?</string>
-  <string name="ad_exit_dialog_open_btn_name">open</string>
+  <string name="ad_exit_dialog_open_btn_name">開く</string>
   <string name="ad_exit_dialog_title_name">New app open confirmation</string>
   <string name="adblock_force_updating_rules_toast">"Ad blockerを更新中"</string>
   <string name="adblock_notification">"%d個の広告をブロックしました"</string>
@@ -89,7 +89,7 @@
   <string name="adblock_rules_updated_toast">"正常に更新されました"</string>
   <string name="adblock_websites_settings_empyt_hint">"ブロックしたサイトはありません。"</string>
   <string name="adblock_websites_settings_title">"ブロック済みのサイト"</string>
-  <string name="add_bookmark_group">Add group</string>
+  <string name="add_bookmark_group">グールプ追加</string>
   <string name="add_bookshelf_popup_text">"本棚に追加"</string>
   <string name="add_favorites_to">"お気に入りに追加"</string>
   <string name="add_new_bookmark">"ブックマークを追加"</string>
@@ -251,8 +251,8 @@
   <string name="copy_url">"URLをコピー"</string>
   <string name="create_qr_code">"QRコード"</string>
   <string name="current_version_pad">Pad</string>
-  <string name="current_version_pc">Desktop</string>
-  <string name="current_version_phone">Phone</string>
+  <string name="current_version_pc">デスクトップ</string>
+  <string name="current_version_phone">端末</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_content_pull_down_text">pull down</string>
   <string name="custom_head_pull_down_text">Enter infoFlow</string>
