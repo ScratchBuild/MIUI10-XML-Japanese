@@ -32,7 +32,7 @@
   <string name="accessibility_data_two_bars">データ信号:レベル2</string>
   <string name="accessibility_desc_app_allow_block">"%1$s's notifications can be hidden"</string>
   <string name="accessibility_desc_app_unallow_block">"%1$s's notifications can't be hidden"</string>
-  <string name="accessibility_desc_block_notification">Hide notifications</string>
+  <string name="accessibility_desc_block_notification">お知らせを非表示</string>
   <string name="accessibility_desc_cancel_block">"Don't hide"</string>
   <string name="accessibility_desc_check_block_notification">"Select %1$s's notifications"</string>
   <string name="accessibility_desc_confirm_block">Hide</string>
@@ -238,7 +238,7 @@
   <string name="block_notification_desc">アプリの通知は再度表示されません。設定で変更できます。</string>
   <string name="block_notification_text">非表示</string>
   <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
-  <string name="block_record_notification_title">Notifications hidden</string>
+  <string name="block_record_notification_title">お知らせが非表示されました</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
   <string name="bluetooth_connected">接続済み: %1$s</string>
@@ -314,7 +314,7 @@
   <string name="broadcast_tile">ブロードキャストタイル</string>
   <string name="bt_hci_snoop_log">Bluetooth HCIスヌープログを有効にする</string>
   <string name="bt_hci_snoop_log_summary">Bluetooth HCIパケットをすべてファイルにキャプチャする</string>
-  <string name="bt_is_off">Bluetooth は OFF です</string>
+  <string name="bt_is_off">Bluetooth はオフです</string>
   <string name="btn_camera">Enter your face</string>
   <string name="bugreport_in_power">バグレポートのショートカット</string>
   <string name="bugreport_in_power_summary">電源メニューにバグレポートを取得するボタンを表示する</string>
@@ -1102,7 +1102,7 @@ EEEE"</string>
   <string name="overview">履歴</string>
   <string name="phone_hint">右にスワイプして電話を起動</string>
   <string name="phone_label">電話を起動</string>
-  <string name="phone_locked_foget_password">Forgot password?</string>
+  <string name="phone_locked_foget_password">パスワード忘れましたか?</string>
   <string name="phone_locked_foget_password_mehod_back">"戻る"</string>
   <string name="phone_locked_foget_password_method">Forgot password?</string>
   <string name="phone_locked_foget_password_method_content"><Data>写真や連絡先などの端末上の&lt;font color=#a5220e>すべてのデータを消去&lt;/font>してから、新しいロック画面のパスワードを設定する必要があります。</Data></string>
@@ -1198,7 +1198,7 @@ EEEE"</string>
   <string name="quick_settings_batterysaver_label">バッテリーセーバー</string>
   <string name="quick_settings_bluetooth_detail_empty_text">ペアリング可能なデバイスがありません</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
-  <string name="quick_settings_bluetooth_off_label">Bluetooth OFF</string>
+  <string name="quick_settings_bluetooth_off_label">Bluetooth オフ</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">自動</string>
   <string name="quick_settings_brightness_dialog_title">画面の明るさ</string>
   <string name="quick_settings_brightness_label">画面の明るさ</string>
@@ -1251,7 +1251,7 @@ EEEE"</string>
   <string name="quick_settings_media_device_label">メディアデバイス</string>
   <string name="quick_settings_midrop_label">Mi Drop</string>
   <string name="quick_settings_more_settings">その他の設定</string>
-  <string name="quick_settings_mute_label">Mute</string>
+  <string name="quick_settings_mute_label">静音</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="quick_settings_nfc_off">NFC は無効です</string>
   <string name="quick_settings_nfc_on">NFC は有効です</string>
@@ -1273,7 +1273,7 @@ EEEE"</string>
   <string name="quick_settings_rssi_emergency_only">緊急通報のみ</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">ボタン</string>
-  <string name="quick_settings_screenlock_label">Lock screen</string>
+  <string name="quick_settings_screenlock_label">スクリーンをロック</string>
   <string name="quick_settings_screenshot_label">スクリーンショット</string>
   <string name="quick_settings_secondary_label_until">%sまで</string>
   <string name="quick_settings_settings_label">設定</string>
@@ -1290,8 +1290,8 @@ EEEE"</string>
   <string name="quick_settings_wifi_nearby">近くのネットワークを選択してください</string>
   <string name="quick_settings_wifi_no_network">ネットワークなし</string>
   <string name="quick_settings_wifi_not_connected">接続されていません</string>
-  <string name="quick_settings_wifi_off_label">Wi-Fi OFF</string>
-  <string name="quick_settings_wifi_on_label">Wi-Fi: ON</string>
+  <string name="quick_settings_wifi_off_label">Wi-Fi オフ</string>
+  <string name="quick_settings_wifi_on_label">Wi-Fi: オン</string>
   <string name="quick_settings_work_mode_label">Work モード</string>
   <string name="rapid_charge_mode_tip">急速充電</string>
   <string name="recent_cannot_dock">Second spaceでは分割画面を使用できません</string>
@@ -1600,11 +1600,11 @@ EEEE"</string>
   <string name="tts_status_title">デフォルトの言語のステータス</string>
   <string name="tuner_app">%1$s アプリ</string>
   <string name="tuner_circle">サークル</string>
-  <string name="tuner_doze">Ambient Display</string>
-  <string name="tuner_doze_always_on">Always on</string>
+  <string name="tuner_doze">アンビエント表示</string>
+  <string name="tuner_doze_always_on">常にオン</string>
   <string name="tuner_full_importance_settings">電源通知管理</string>
-  <string name="tuner_full_importance_settings_off">OFF</string>
-  <string name="tuner_full_importance_settings_on">ON</string>
+  <string name="tuner_full_importance_settings_off">オフ</string>
+  <string name="tuner_full_importance_settings_on">オン</string>
   <string name="tuner_full_zen_title">音量調節を表示</string>
   <string name="tuner_launch_app">%1$s を起動</string>
   <string name="tuner_left">左</string>
