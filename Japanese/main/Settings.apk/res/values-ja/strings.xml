@@ -2158,8 +2158,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="filter_install_sources_apps">他のアプリをインストール可能</string>
   <string name="filter_instant_apps">インスタントアプリ</string>
   <string name="filter_notif_all_apps">アプリ: すべて</string>
-  <string name="filter_notif_blocked_apps">アプリ: OFF</string>
-  <string name="filter_notif_blocked_channels">カテゴリ: OFF</string>
+  <string name="filter_notif_blocked_apps">アプリ: オフ</string>
+  <string name="filter_notif_blocked_channels">カテゴリ: オフ</string>
   <string name="filter_notif_dnd_channels">カテゴリ: マナーモードに優先</string>
   <string name="filter_notif_hide_notifications_apps">ロック画面に表示しない</string>
   <string name="filter_notif_low_channels">カテゴリ: 重要度「低」</string>
@@ -2172,9 +2172,9 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="filter_with_domain_urls_apps">ドメインURLあり</string>
   <string name="filter_work_apps">仕事用</string>
   <string name="filter_write_settings_apps">システム設定を変更できるアプリ</string>
-  <string name="find_my_device">Find device</string>
-  <string name="find_my_device_disable">OFF</string>
-  <string name="find_my_device_enable">ON</string>
+  <string name="find_my_device">端末を検索</string>
+  <string name="find_my_device_disable">オフ</string>
+  <string name="find_my_device_enable">オン</string>
   <string name="fingerprint_add_max">最大で%d個の指紋を追加できます</string>
   <string name="fingerprint_add_title">指紋を追加</string>
   <string name="fingerprint_and_password_entrance_title">画面ロックと指紋認証</string>
@@ -2347,8 +2347,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="gadget_brightness_template">画面の明るさ: %1$s</string>
   <string name="gadget_location">現在地</string>
   <string name="gadget_picker_title">ガジェットを選択</string>
-  <string name="gadget_state_off">OFF</string>
-  <string name="gadget_state_on">ON</string>
+  <string name="gadget_state_off">オフ</string>
+  <string name="gadget_state_on">オン</string>
   <string name="gadget_state_turning_off">OFFにしています</string>
   <string name="gadget_state_turning_on">ONにしています</string>
   <string name="gadget_sync">同期</string>
