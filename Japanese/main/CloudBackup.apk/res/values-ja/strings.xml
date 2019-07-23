@@ -158,7 +158,6 @@
   <string name="provision_restore_data">復元中のアイテム</string>
   <string name="query_restore_description">このバックアップを使用してホーム画面のアプリと設定を復元します。この操作はお使いの端末に既にインストールされているアプリのデータを上書きします。バックアップに含まれていないアプリは、ホーム画面の最後に移動します。</string>
   <string name="query_restore_summary">この端末向けのMi Cloudバックアップが見つかりました。ホーム画面のアプリと設定を復元するか、\"新しい端末\"として使用し、以前のMi Cloudバックアップを消去しますか？</string>
-  <string name="recover_from_micloud">Mi Cloudバックアップから復元</string>
   <string name="recover_home_settings">ホーム画面の設定を復元</string>
   <string name="recover_miui_settings">システムの設定を復元</string>
   <string name="recover_settings_description">端末の電源を切らないでください</string>
@@ -199,6 +198,7 @@
   <string name="restore_task_in_process">復元中…</string>
   <string name="restore_task_unfinished">復元できませんでした</string>
   <string name="restore_unfinished">復元中、後ほど再試行してください</string>
+  <string name="restoring_data">データを復元中…</string>
   <string name="restoring_file_title_no_progress">ファイルを復元中…</string>
   <string name="restoring_settings">設定を復元中…</string>
   <string name="retry">再試行</string>
