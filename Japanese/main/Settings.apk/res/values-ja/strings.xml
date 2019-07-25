@@ -933,6 +933,12 @@ aptX-Adaptive: Codec Mode"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth オーディオ LDAC コーデック: 再生音質</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth オーディオ LDAC コーデックを選択:
 再生音質"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Latency</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Latency"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Playback Quality</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Select Bluetooth Audio LHDC Codec:
+Playback Quality"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth オーディオ サンプルレート</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth オーディオ コーデックを選択:
 サンプルレート"</string>
@@ -1072,6 +1078,14 @@ This feature can be turned off in [Settings]"</string>
   <string name="bt_ldac_pre_summary">高品質なオーディオ体験を提供します</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">プロパティ</string>
+  <string name="bt_lhdc_declaration">When a Bluetooth device supports LHDC, it will be connected by default. LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC provides a high-quality audio experience and also brings higher power consumption
+This feature can be turned off in [Settings]"</string>
+  <string name="bt_lhdc_dialog_title">The current device supports LHDC, which has been connected by default:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC provides a high-quality audio experience, but also increases power consumption. Issues may occur during playback due to Bluetooth hardware limitations.</string>
+  <string name="bt_lhdc_open_dialog_title">Turn on LHDC?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Attributes</string>
   <string name="bt_pre_summary">Provide a high-quality audio experience</string>
   <string name="bt_ldac_settings">設定</string>
   <string name="bt_rarely_used_device_title">たまに使用する端末 (%d)</string>
@@ -2678,6 +2692,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keywords_wifi">wifi wi-fi ネットワーク 接続</string>
   <string name="keywords_wifi_calling">wifi、Wi-Fi、通話、発信</string>
   <string name="keywords_write_settings">書き込み 変更 システム設定</string>
+  <string name="kid_space_settings">Kid space</string>
   <string name="label_global_roaming_settings">ローミング設定</string>
   <string name="label_mi_stats">Mi analytics</string>
   <string name="language_empty_list_user_restricted">端末の言語を変更する権限がありません。</string>

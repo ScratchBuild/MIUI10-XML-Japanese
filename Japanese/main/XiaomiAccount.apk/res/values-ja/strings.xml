@@ -425,7 +425,6 @@ ID:%s
   <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">"予備の電話を変更"</string>
   <string name="same_new_and_old_pwd">現在のパスワードと同じにはできません</string>
-  <string name="scan_barcode">ログインするにはQRコードをスキャンしてください</string>
   <string name="scan_barcode_title">"Mi Accountにログインするには、QRコードをスキャン"</string>
   <string name="search_account_security">"アカウントのセキュリティ"</string>
   <string name="search_account_security_desc">"アカウントの設定"</string>

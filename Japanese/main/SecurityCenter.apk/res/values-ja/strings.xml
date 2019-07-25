@@ -21,7 +21,7 @@
   <string name="ac_pre_notification_contentText">"個人情報を保護する"</string>
   <string name="ac_pre_notification_contentTitle">"アプリロックを試す"</string>
   <string name="ac_summaryOff">"オフにしました、アプリを開くのにパスワードは不要です"</string>
-  <string name="ac_summaryOn">"オンにしました、アプリを開くにはパスワードが必要です"</string>
+  <string name="ac_summaryOn">保護されたアプリを開くにはパスワードを入力してください</string>
   <string name="ac_unmask_all_apps">"すべてのアプリを表示"</string>
   <string name="access_control_app_is_launching">"アプリを起動中"</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">"新しい指紋でロックを解除する前にパスワードを入力してください"</string>
@@ -1433,8 +1433,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="notification_battery_scan_consume_abnormal_title_set">%s is draining battery</string>
   <string name="notification_exit_power_save_mode">"バッテリーセーバーをオフにしました"</string>
   <string name="notification_exit_power_save_mode_subtitle">Battery %s charged.</string>
-  <string name="notification_mask_summary">"ロック画面と通知シェードで通知内容を非表示にする"</string>
-  <string name="notification_mask_title">"内容を非表示"</string>
+  <string name="notification_mask_summary">保護されたアプリからの通知の内容を表示しない</string>
+  <string name="notification_mask_title">"通知内容を隠す"</string>
   <string name="notification_masked_item">"通知を非表示"</string>
   <string name="notification_masked_subtitle">"アプリロックで保護されているアプリからの通知を非表示"</string>
   <string name="notification_summary_cmcc_app_check">"詳細を表示するにはタップ。"</string>
@@ -1757,6 +1757,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="preferred_app_entries_messaging">"メッセージ"</string>
   <string name="preferred_app_entries_music">Music</string>
   <string name="privacy_apps">Hidden apps</string>
+  <string name="privacy_apps_begin_use">開始</string>
+  <string name="privacy_apps_button_know">OK</string>
   <string name="privacy_apps_category_title">Hidden apps</string>
   <string name="privacy_apps_checkbox_remind_choice">"次回から表示しない"</string>
   <string name="privacy_apps_close">"閉じる"</string>
@@ -1765,7 +1767,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="privacy_apps_manage">Manage hidden apps</string>
   <string name="privacy_apps_manage_dialog_title">About hidden apps</string>
   <string name="privacy_apps_manager_dialog_message">"This app's icon won't be displayed on the Home screen after you hide this app. Hide this app now?"</string>
+  <string name="privacy_apps_next_stup">次へ</string>
+  <string name="privacy_apps_shield_message_summary">保護されたアプリからの通知を表示しない</string>
+  <string name="privacy_apps_shield_message_title">通知を表示しない</string>
   <string name="privacy_apps_tutorial">"チュートリアル"</string>
+  <string name="privacy_apps_tutorial_dlg_title">非表示のアプリを見つける方法</string>
   <string name="privacy_apps_tutorial_prompt_pageone">この機能を使用すると、指定したアプリのアイコンをホーム画面で非表示にすることができます。</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">After you enter your password, the folder with hidden apps will appear.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Spread two fingers on the screen. You'll see a message asking you to enter your App lock password."</string>
