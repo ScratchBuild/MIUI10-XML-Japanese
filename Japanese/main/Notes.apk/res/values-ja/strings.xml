@@ -266,7 +266,6 @@
   <string name="todo_schedule_time_mdhm">MM/dd HH:mm</string>
   <string name="todo_schedule_time_today">今日</string>
   <string name="todo_schedule_time_tomorrow">明日</string>
-  <string name="todo_schedule_time_y">yyyy/</string>
   <string name="todo_schedule_time_yesterday">昨日</string>
   <string name="todo_schedule_time_ymdhm">yyyy/MM/dd HH:mm</string>
   <string name="todo_search_hint">タスクを検索</string>

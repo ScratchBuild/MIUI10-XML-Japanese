@@ -12,9 +12,9 @@
   <string name="chinese_youth_day">"青年節"</string>
   <string name="christmas_day">"クリスマス"</string>
   <string name="clear_and_bright">清明</string>
-  <string name="cloud_state_disabled">"Mi Cloudとの同期はオフです"</string>
-  <string name="cloud_state_finished">"Mi Cloudと同期しました"</string>
-  <string name="cloud_state_syncing">"Mi Cloudと同期しています"</string>
+  <string name="cloud_state_disabled">"Cloudとの同期はオフです"</string>
+  <string name="cloud_state_finished">"Cloudと同期しました"</string>
+  <string name="cloud_state_syncing">"Cloudと同期しています"</string>
   <string name="cold_dews">寒露</string>
   <string name="cta_button_continue">"同意"</string>
   <string name="cta_button_quit">"終了"</string>

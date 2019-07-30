@@ -413,6 +413,7 @@
   <string name="battery_history_hours">%1$d時間%2$d分%3$d秒</string>
   <string name="battery_history_minutes">%1$d分%2$d秒</string>
   <string name="battery_history_seconds">%1$d秒</string>
+  <string name="battery_statistics_activity_title">バッテリー使用量の統計</string>
   <string name="battery_stats_charging_label">充電中</string>
   <string name="battery_stats_gps_on_label">GPSがON</string>
   <string name="battery_stats_on_battery">電池使用時間: %1$s</string>
@@ -456,7 +457,7 @@
   <string name="btn_start_diagnostic">"ネットワークをテスト"</string>
   <string name="btn_stop_diagnostic">"停止"</string>
   <string name="btn_text_already_opened">On</string>
-  <string name="btn_text_goto_power_rank">View battery ranking</string>
+  <string name="btn_text_goto_power_rank">すべての統計を表示</string>
   <string name="btn_text_goto_setup">"設定を開く"</string>
   <string name="btn_text_network_speed_detail">Connection</string>
   <string name="btn_text_open_now">"オンにする"</string>
@@ -1549,9 +1550,19 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pc_abnormal_scan_reason_use_GPS">Uses location services too frequently</string>
   <string name="pc_abnormal_scan_reason_wake_system">Wakes the system too frequently</string>
   <string name="pc_activity_title">"バッテリーを最適化"</string>
+  <string name="pc_battery_detail_curve_reference_now">たった今</string>
+  <string name="pc_battery_detail_device_item_title">バッテリー使用量の統計</string>
+  <string name="pc_battery_history_battery_detail_menu_item">詳細</string>
+  <string name="pc_battery_history_consume_rank_menu_item">ランキング</string>
+  <string name="pc_battery_history_rank_mha_menu_item">mA/時</string>
+  <string name="pc_battery_history_rank_percent_menu_item">パーセント</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
   <string name="pc_main_activity_back">戻る</string>
   <string name="pc_settings_title">バッテリーの最適化の設定</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
+  <string name="pc_statistics_battery_use_summary">%s since last charge</string>
+  <string name="pc_statistics_battery_use_title">Battery usage</string>
   <string name="pc_to_phone_install">"USB経由で%sのインストールをブロックしました"</string>
   <string name="per_month_pkg_traffic_settings">データの制限を設定する</string>
   <string name="perfermance_optimization_summary">端末の過熱やハードウェア関連の問題を回避する</string>
@@ -2188,6 +2199,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_permission_declare_double_link">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature.&lt;/Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
   <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
   <string name="system_permission_declare_privacy_declare">"We respect and protect your privacy.
 Note that %1s needs to collect your data and requires the following permissions to work normally:"</string>
   <string name="system_permission_declare_privacy_no_permission">"Note that %1s needs to collect your data to work normally.

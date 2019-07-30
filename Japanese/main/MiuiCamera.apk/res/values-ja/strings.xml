@@ -264,6 +264,7 @@ in Portrait mode"</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
   <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
+  <string name="mimoji_app_name">Fun Cam</string>
   <string name="mimoji_back">戻る</string>
   <string name="mimoji_cancle">キャンセル</string>
   <string name="mimoji_check_beyond_20_degrees">カメラをまっすぐ見てください</string>
@@ -550,6 +551,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_tilt_shift_entry_circle">Circle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Parallel</string>
   <string name="pref_camera_tilt_shift_title">"チルトシフト"</string>
+  <string name="pref_camera_touch_focus_delay_title">延长触摸对焦超时时间</string>
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>

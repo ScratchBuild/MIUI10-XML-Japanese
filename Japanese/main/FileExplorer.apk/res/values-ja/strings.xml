@@ -5,6 +5,7 @@
   <string name="ad_download">"ダウンロード"</string>
   <string name="add_private">Hide files now</string>
   <string name="add_private_files">"ファイルを追加"</string>
+  <string name="app_function">端末上のファイルを管理する</string>
   <string name="app_name">File Manager</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Camera</string>
@@ -131,6 +132,7 @@
   <string name="error_create_dir">"フォルダを作成できません"</string>
   <string name="error_create_file">"ファイルを作成できません"</string>
   <string name="error_delete_failed">"ファイルを削除できません"</string>
+  <string name="error_file_already_exists">このファイルは既に存在します</string>
   <string name="error_filename_too_long">"入力したファイル名が長すぎます。"</string>
   <string name="error_folder_already_exists">"ファイルが既に存在します"</string>
   <string name="error_info_cant_send_folder">"この種類のファイルは送信できません。"</string>
@@ -169,6 +171,9 @@
   <string name="ftp_transfer_secure">"セキュリティ"</string>
   <string name="ftp_username_and_passworld">"ログイン"</string>
   <string name="ftp_username_hint">"ユーザー名"</string>
+  <string name="function_file_operation">"For accessing and opening files; "</string>
+  <string name="function_set_private">"For viewing and encrypting files; "</string>
+  <string name="function_use_imei">"For accessing IMEI and encrypting files; "</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="group_title">%2$s from %1$s</string>
@@ -176,7 +181,7 @@
   <string name="group_title_extra_expire">"期限切れについて"</string>
   <string name="group_title_extra_new">"新規"</string>
   <string name="home_action_up">戻る</string>
-  <string name="home_title">ファイル</string>
+  <string name="home_title">ファイルマネージャー</string>
   <string name="homepage_tab_category">"カテゴリー"</string>
   <string name="homepage_tab_file_view_phone">"ストレージ"</string>
   <string name="homepage_tab_recent">"履歴"</string>
