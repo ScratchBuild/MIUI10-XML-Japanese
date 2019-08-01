@@ -1267,18 +1267,23 @@ This feature can be turned off in [Settings]"</string>
   <string name="color_led_applications_title">アプリを選択</string>
   <string name="color_led_applications_title_summary">個々のアプリに対してLEDライトの使用を制限することができます</string>
   <string name="color_led_battery_title">充電中は変更しない</string>
+  <string name="color_led_charging_summary">バッテリーが充電されるとオフになります</string>
   <string name="color_led_end_time">終了時間</string>
-  <string name="color_led_game_mode_title">Game Turbo</string>
+  <string name="color_led_game_mode_summary">Game Turboがオンのときにゲームの効果を表示する</string>
+  <string name="color_led_game_mode_title">Game Turboに使用</string>
   <string name="color_led_hint">LEDライトを使用する必要がある場合、シナリオを選択してください。画面が下向きで夜間モードがオフのときは、LEDライトが点灯します。</string>
-  <string name="color_led_incall_pulse_title">通話の着信中に点滅させる</string>
+  <string name="color_led_incall_pulse_title">通話の着信時に使用</string>
   <string name="color_led_lucky_dialog_message">この機能を使用するには、Red envelopeアシスタントが必要です。今すぐオンにしますか？</string>
   <string name="color_led_lucky_dialog_title">Red envelopeアシスタントをオンにする</string>
-  <string name="color_led_music_mode_summary">音楽の再生時、リズミカルにLEDライトを点滅させる</string>
-  <string name="color_led_music_mode_title">音楽再生</string>
-  <string name="color_led_notification_pulse_title">通知のために点滅する</string>
+  <string name="color_led_music_mode_summary">音楽の再生時、リズミカルにLEDライトを点滅させる。サイレントモードでは動作しません。</string>
+  <string name="color_led_music_mode_title">音楽再生時に使用</string>
+  <string name="color_led_notification_pulse_title">画面の消灯時に通知のために点滅する</string>
   <string name="color_led_red_more_feature">特殊効果</string>
-  <string name="color_led_red_package_title">Red envelopes</string>
+  <string name="color_led_red_package_title">Use for red envelopes</string>
+  <string name="color_led_red_packets_summary">Show effects for red envelopes from WeChat and QQ when Red envelope assistant is on</string>
+  <string name="color_led_special_scene_title">特殊効果</string>
   <string name="color_led_start_time">開始時間</string>
+  <string name="color_led_summary">夜間モードでは動作しません</string>
   <string name="color_led_title">LEDライト</string>
   <string name="color_magenta">マゼンタ</string>
   <string name="color_mode_option_automatic">自動</string>
@@ -6728,17 +6733,10 @@ Looks like credential storage isn't enabled."</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">ウィンドウアニメスケール</string>
   <string name="winscope_trace_quick_settings_title">ウィンスコープ トレース</string>
-  <string name="wireless_button">他の機器をワイヤレスで充電する</string>
-  <string name="wireless_charging_settings">他の機器をワイヤレスで充電する</string>
-  <string name="wireless_closed">オフ</string>
   <string name="wireless_connected">接続しました</string>
   <string name="wireless_networks_settings_title">無線とネットワーク</string>
   <string name="wireless_off">オフ</string>
   <string name="wireless_on">オン</string>
-  <string name="wireless_opened">オン</string>
-  <string name="wireless_tip">"お使いの端末で他の機器をワイヤレスで充電します。
-
-充電が90秒以内に始まらない場合、この機能は自動的にオフになります。"</string>
   <string name="wizard_back">戻る</string>
   <string name="wizard_finish">終了</string>
   <string name="wizard_next">次へ</string>

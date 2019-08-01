@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ad_downloading">ダウンロード…</string>
+  <string name="app_select_title">よく使うアプリを追加する</string>
   <string name="cancel_button">"キャンセル"</string>
   <string name="dialog_market_score_cancel">キャンセル</string>
   <string name="dialog_market_score_dislike">コメント</string>
@@ -44,6 +45,20 @@
   <string name="privacy_prompt_traffic_purchase_message">"あなたの電話番号とキャリアに関する情報は、暗号化された状態でデータ購入オプションの詳細を取得するためにXiaomiのサーバーにアップロードされます。"</string>
   <string name="search_menu_title">検索</string>
   <string name="share">"共有"</string>
+  <string name="superpower_app_add">追加</string>
+  <string name="superpower_app_finish">完了</string>
+  <string name="superpower_battery_dangerous">Connect the charger as soon as possible</string>
+  <string name="superpower_date">M月d日 EEEE</string>
+  <string name="superpower_dialog_app_select_content">Third party apps normally consume more power than system apps. Add anyway?</string>
+  <string name="superpower_dialog_app_select_title">Attention</string>
+  <string name="superpower_incharging">充電中</string>
+  <string name="superpower_progress_battery_last">残り %s</string>
+  <string name="superpower_progress_left_time">%1$d時間 %2$d分</string>
+  <string name="superpower_search_hint">アプリを検索</string>
+  <string name="superpower_select_app_title">ホーム画面のレイアウト</string>
+  <string name="superpower_settings">Ultra battery saver</string>
+  <string name="superpower_system">Recommended</string>
+  <string name="superpower_third">Third party apps</string>
   <string name="title_share_link">"URLを共有"</string>
   <string name="toast_create_fail_text">作成に失敗しました</string>
   <string name="toast_founction_not_support">このバージョンはサポートされていません</string>
