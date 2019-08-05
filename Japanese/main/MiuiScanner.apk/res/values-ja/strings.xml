@@ -26,6 +26,7 @@
   <string name="call_anyone">Call</string>
   <string name="camera_error_title">Camera error</string>
   <string name="cancel">キャンセル</string>
+  <string name="character_counter_content_description">文字数制限を %2$d 文字のうち %1$d 文字超えました</string>
   <string name="choose_pay_title">支払い方法を選択</string>
   <string name="choose_picture">"QRコードの画像を選択"</string>
   <string name="common_retake_picture">"撮り直す"</string>
@@ -78,10 +79,11 @@
   <string name="gps">Navigate</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">連絡先をインポート</string>
-  <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Privacy Policy&lt;/a>&lt;/font> and allow Scanner to connect to the internet."</string>
+  <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allow Scanner to connect to the internet."</string>
   <string name="impunity_declaration_negative_text">終了</string>
   <string name="impunity_declaration_title">プライバシーポリシー</string>
   <string name="init_success">初期化が完了しました</string>
+  <string name="jd_shopping_title">Search on JD</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
   <string name="keywords_search_document">Scanner;Scan document;Scan documents;OCR;Scan text;Scan</string>
   <string name="keywords_search_namecard">Scanner;Business card;Business cards;Scan;Scan cards;Card;Cards;Contacts;Contact</string>
@@ -111,6 +113,7 @@
   <string name="module_title_shopping">ショッピング</string>
   <string name="module_title_study">宿題</string>
   <string name="module_title_translation">翻訳</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$sを削除</string>
   <string name="name">名前:</string>
   <string name="new_schedule">予定を作成</string>
   <string name="nickname">ニックネーム:</string>
@@ -203,7 +206,9 @@
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">Wi-Fiホットスポット \"%1$s\" は既に存在します。削除してもう一度お試しください。</string>
   <string name="wifi_open_fail">Wi-Fiをオンにできません</string>
+  <string name="wifi_psd_toolong">パスワードが長すぎます。手動で入力してください。</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="wx_not_installed_toast">この機能を使用するにはWeChatを開く必要があります。WeChatをインストールしてください。</string>
 </resources>

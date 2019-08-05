@@ -190,6 +190,12 @@
   <string name="cancle_sync_cloud_tabs">"同期をキャンセル"</string>
   <string name="cannot_download">"ダウンロードできるのは\"http\"または\"https\"のURLのみです"</string>
   <string name="cast_video">"動画をキャスト"</string>
+  <string name="channel_complete">完了</string>
+  <string name="channel_edit">編集</string>
+  <string name="channel_header_description">Click into,long press edit</string>
+  <string name="channel_header_title">My Channel</string>
+  <string name="channel_more_description">タップしてチャンネルを追加</string>
+  <string name="channel_more_title">その他のチャンネル</string>
   <string name="check_security_tip_privacy_policy">"プライバシーポリシー"</string>
   <string name="check_security_tip_user_agreement">"利用規約"</string>
   <string name="checking_now">確認中…</string>
@@ -256,6 +262,7 @@
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_content_pull_down_text">pull down</string>
   <string name="custom_head_pull_down_text">Enter infoFlow</string>
+  <string name="custom_head_weather">天気</string>
   <string name="data_monitor">Traffic monitoring reminder</string>
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">"続行"</string>
@@ -538,6 +545,7 @@ ID:%s
   <string name="more_option">"その他のオプション"</string>
   <string name="movie_player_3g_tip_retry">続行</string>
   <string name="movie_player_loading">Coming soon：%s</string>
+  <string name="multi_window_max_tips">The number of windows has reached the upper limit</string>
   <string name="mw_accessibility_date_picker_month">"月"</string>
   <string name="mw_accessibility_date_picker_week">"週"</string>
   <string name="mw_accessibility_date_picker_year">"年"</string>
@@ -830,6 +838,7 @@ ID:%s
   <string name="pref_notifications_title">"通知"</string>
   <string name="pref_other_title">"その他"</string>
   <string name="pref_paper_mode_title">"読書モード"</string>
+  <string name="pref_personalized_customization">Personalized customization</string>
   <string name="pref_privacy_clear_cache">"キャッシュを消去"</string>
   <string name="pref_privacy_clear_cache_dlg">"ローカルにキャッシュされたコンテンツとデータベースを削除しますか？"</string>
   <string name="pref_privacy_clear_cache_summary">"ローカルにキャッシュしたコンテンツとデータベースを消去する"</string>

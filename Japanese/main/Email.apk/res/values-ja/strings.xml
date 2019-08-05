@@ -3,6 +3,7 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">"パスワード"</string>
   <string name="SMTP_username_text">"ユーザー名"</string>
+  <string name="account_add_title">Select an email service</string>
   <string name="account_duplicate_dlg_message_fmt">"このユーザー名はアカウント「%s」で既に使用しています。"</string>
   <string name="account_duplicate_dlg_title">"重複するアカウント"</string>
   <string name="account_failure">"セッションがタイムアウトしました"</string>
@@ -34,7 +35,7 @@
   <string name="account_settings_incoming_summary">"ユーザー名、パスワードなど受信サーバーを設定する"</string>
   <string name="account_settings_login_dialog_content_fmt">"%sのユーザー名またはパスワードが正しくありません。
 今すぐ更新しますか？"</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"%sにログインできませんでした。サーバーからの応答: %s"</string>
+  <string name="account_settings_login_dialog_reason_fmt">"%1$sにログインできませんでした。サーバーからの応答: %2$s"</string>
   <string name="account_settings_login_dialog_title">"ログインできません"</string>
   <string name="account_settings_mail_check_frequency_dialog_title">"メールを同期するには手動で更新する必要があります"</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"メッセージとカレンダーの予定を同期できるようにするには、手動でメールアプリを同期する必要があります。"</string>
@@ -408,6 +409,7 @@
   <string name="email_setting">"メール"</string>
   <string name="email_setting_keywords">アカウント;アカウントを追加;メールアカウント;メールアカウントを追加;削除前に確認する;削除確認;送信前に確認する;送信確認;delete message flow;delete redirect;conversation view;mail conversation;バッテリーセーバー;mail battery;フィードバックを送信;ログをアップロード</string>
   <string name="email_sina">Sina Mail</string>
+  <string name="email_sync_failed">Synchronization failed</string>
   <string name="eml_parse_message">"emlファイルを開いています…"</string>
   <string name="empty_account_tip">"アカウントが見つかりませんでした"</string>
   <string name="empty_email_tip">"空のメールは送信できません"</string>
@@ -534,12 +536,12 @@
   <string name="loading_conversations">"読み込み中…"</string>
   <string name="loading_from_remote">"読み込み中…"</string>
   <string name="local_search">"ローカルを検索"</string>
-  <string name="local_search_result">%s Results in synced messages</string>
   <string name="log_save_path">"ログの保存場所"</string>
   <string name="login">"ログイン"</string>
   <string name="login139">"China Mobileでログイン"</string>
-  <string name="login_err_message">The password you entered is incorrect. You might also need a verification code to sign in. If you need to reset your password, visit https://email.163.com/ to see the options available to you.</string>
+  <string name="login_err_message">%1$sYou might also need a verification code to sign in. If you need to reset your password, visit https://email.163.com/ to see the options available to you..</string>
   <string name="login_failed_ticker">"%sでログインできませんでした。"</string>
+  <string name="login_failed_tip">Login help feedback add WeChat public number:</string>
   <string name="login_failed_title">"ログインできませんでした"</string>
   <string name="login_mail">"ログイン"</string>
   <string name="login_qq_psw">Sign in using QQ password/authenticator/verification code</string>
@@ -550,6 +552,11 @@
   <string name="mail_description_content">"メールアプリは複数アカウントの管理、メールの送受信、カレンダーの情報や連絡先の同期をすることができるメールクライアントです。メールアプリをアンインストールすると、メールのデータも削除されます。"</string>
   <string name="mail_description_title">"メールアプリについて"</string>
   <string name="mail_header_network_not_available">ネットワークに接続できません。"</string>
+  <string name="mail_login_help">Login help</string>
+  <string name="mail_login_help_bottom_tip">If you need to reset your password or check the settings status,visit https://email.163.com/ to see the options available to you:</string>
+  <string name="mail_login_help_details1">1.Email password: If you haven’t set up client verification code and already open the POP3/IMAP/SMTP protocol,you can use email password to sign in.</string>
+  <string name="mail_login_help_details2">2.Client verification code:If you already set up a client verification code,you need use this to sign in.And make sure the POP3/IMAP/SMTP protocol was open.</string>
+  <string name="mail_login_help_title">Email password or client verification code description:</string>
   <string name="mailbox_list_account_selector_combined_view">"統合ビュー"</string>
   <string name="mailbox_name_display_ad">"広告"</string>
   <string name="mailbox_name_display_add_account">メールアカウントを追加</string>
@@ -657,7 +664,7 @@ Try switching to a different email account."</string>
   <string name="no_more_mail">これ以上メッセージはありません</string>
   <string name="no_recognize_describe">"Couldn't find emails containing tickets or bookings.
 Try a different inbox."</string>
-  <string name="no_search_results">何も見つかりませんでした</string>
+  <string name="no_search_results">Continue searching from the server</string>
   <string name="not_subject">"(件名なし)"</string>
   <string name="not_synced_title">"アカウントが同期していません"</string>
   <string name="note_text">Through a network of China Mobile and SMS verification, it will only generate additional traffic, do not generate SMS fees.</string>
@@ -693,7 +700,8 @@ Try a different inbox."</string>
   <string name="open_notification_kingagent">Turn on burial point notifications</string>
   <string name="optimization_suggestion">Optimization suggestions</string>
   <string name="others_mail">"その他"</string>
-  <string name="others_mail_des">(Compatible with 600K mail services)</string>
+  <string name="others_mail_des">This for other email service or enterprise email service</string>photo_view_count
+  
   <string name="outbox_alert_button_no_resend">"送信しない"</string>
   <string name="outbox_alert_button_resend">"再送"</string>
   <string name="outbox_alert_certificate_error">"電子メールシステムの管理者に連絡し、証明書を更新してください。"</string>
@@ -757,7 +765,7 @@ Try a different inbox."</string>
   <string name="permission_tip">Configuration fails, please allow calls and text messages during configuration permissions</string>
   <string name="phone">phone</string>
   <string name="photo_load_failed">"画像を読み込めませんでした"</string>
-  <string name="photo_view_count" formatted="false">%d/%d</string>
+  <string name="photo_view_count">%1$d/%2$d</string>
   <string name="please_fill_in_your_mailbox_information2">"受信トレイの情報を入力してください"</string>
   <string name="pls_parse_bill_discribe">"Analyze bills and travel info in your email
 to receive reminders about payments and trips"</string>
@@ -827,6 +835,11 @@ to receive reminders about payments and trips"</string>
   <string name="qq_bar_send_message">Send SMS</string>
   <string name="qq_login_basecode">Signing in to the web QQ Mail. Enter independent password.</string>
   <string name="qq_login_get_auth">"Turn on password protection if you can't receive SMS"</string>
+  <string name="qq_login_help_bottom_tip">If you need to reset your password or check the settings status,visit https://mail.qq.com/ to see the options available to you.More questions feedback add WeChat public number:</string>
+  <string name="qq_login_help_details1">1.QQ password: If you haven’t set up email password and client verification code,and make sure the POP3/IMAP/SMTP protocol was open you can use QQ password to sign in.</string>
+  <string name="qq_login_help_details2">2.Email password:If you already set up email password and haven’t set up client verification code,and make sure the POP3/IMAP/SMTP protocol was open you can use email password to sign in.</string>
+  <string name="qq_login_help_details3">3.Client verification code:If you already set up QQ client verification code,you have to us this to sign in.If you need to reset your client verification code,click here:</string>
+  <string name="qq_login_help_title">QQ password/email password/client verification code description</string>
   <string name="qq_login_notice">"Note: If you've already set up a password, you'll need to verify it when you sign in."</string>
   <string name="qq_login_open_imap">Tap \"Help\" to turn on IMAP/SMTP</string>
   <string name="qq_login_origin_setting">"ユーザー名とパスワードを入力してログイン&gt;"</string>
@@ -922,7 +935,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="reply">"返信"</string>
   <string name="reply_add_bodycontent">"メッセージ本文を返信に追加しますか？"</string>
   <string name="reply_all">"全員に返信"</string>
-  <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
+  <string name="reply_attribution">On %1$s, %2$s wrote:</string>
   <string name="report_phishing">"フィッシングを報告"</string>
   <string name="report_spam">"スパムを報告"</string>
   <string name="request_copy_db_to_disk">Mail is requesting to copy your database into a file</string>
@@ -978,7 +991,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="ser_resp_err_map_max_connections">Too many connection attempts</string>
   <string name="ser_resp_err_map_nouser">"ユーザーが存在しません"</string>
   <string name="ser_resp_err_map_or">"%1$s または %2$s"</string>
-  <string name="ser_resp_err_map_pserr">"ユーザー名かパスワードが間違っています"</string>
+  <string name="ser_resp_err_map_pserr">"ユーザー名かパスワードが間違っています。"</string>
   <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="service_protocol_discribe">"I've read and agree with WPS Mail Service Agreement"</string>
@@ -1009,7 +1022,6 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="storage">"ストレージ"</string>
   <string name="str_select_all">"すべて選択"</string>
   <string name="str_select_none">"すべて選択を解除"</string>
-  <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">"件名"</string>
   <string name="sync_contacts_fail_per_content">"連絡先へのアクセスを許可するにはタップ"</string>
   <string name="sync_contacts_fail_per_title">"連絡先を同期できませんでした"</string>
@@ -1041,8 +1053,9 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="toast_bar_insufficient_memory_space">"メールを受信できません、十分な空き領域がありません。"</string>
   <string name="toast_bar_invalid_account">"アカウント情報が期限切れです、もう一度ログインするにはタップ。"</string>
   <string name="toast_bar_no_connection_network">"インターネットに接続していません"</string>
-  <string name="toast_bar_open_gmail_synchronization">"Gmailに接続できませんでした。Gmailプロキシをオンにします。"</string>
+  <string name="toast_bar_open_gmail_synchronization">Gmail connection error,please check the network settings.</string>
   <string name="toast_bar_send_fail_remind">"メールを送信できませんでした。\"送信\"フォルダに保存されています。"</string>
+  <string name="toast_bar_sync_failed_client_cert">Synchronization failed,authentication error，click to re-add the certificate</string>
   <string name="toast_bar_sync_failed_mi_authority">"同期できませんでした。しばらくしてからもう一度お試しください。詳細を表示。
 (If you're using an unauthorized device, connect to the intranet or use a verification code.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">"カレンダー情報と連絡先を同期するには、[設定]から必要な権限を許可してください"</string>

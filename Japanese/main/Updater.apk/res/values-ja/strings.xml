@@ -6,12 +6,13 @@
   <string name="btn_changelog">"変更履歴"</string>
   <string name="btn_download">"ダウンロード (%1$s)"</string>
   <string name="btn_error">"エラーが発生しました、もう一度お試しください"</string>
-  <string name="btn_install">"インストール"</string>
+  <string name="btn_install">"MD5の確認とインストール"</string>
   <string name="btn_no">"キャンセル"</string>
   <string name="btn_ok">OK</string>
   <string name="btn_pause">"中断"</string>
   <string name="btn_share">"共有"</string>
   <string name="btn_stop">"停止"</string>
+  <string name="btn_wrong_md5">Bad MD5, click to remove ROM!</string>
   <string name="btn_yes">"はい"</string>
   <string name="channel_downloading">ダウンロード中</string>
   <string name="channel_update">更新が利用可能</string>
