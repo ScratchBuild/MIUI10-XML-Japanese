@@ -25,9 +25,12 @@
   <string name="fastboot_status_locked_summary">"rootアクセスを取得できません"</string>
   <string name="fastboot_unlock_web_title">"MIUIの公式サイトからアンロックツールを入手してください。"</string>
   <string name="game_booster">Game speed booster</string>
+  <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
+  <string name="gamebooster_network_dialog_title">一部の機能は利用できません</string>
   <string name="gamebox_no_network_btn">再読み込み</string>
   <string name="gb_alipays_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
   <string name="gb_weixinpay_can_not_complete">"支払いを完了できません。インストールを続行します。"</string>
+  <string name="gdpr_msg">&lt;Data&gt;"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="loading">読み込み中</string>
   <string name="main_toolbar_purchase">"チャージ"</string>
   <string name="miuishare_title_more">"もっと"</string>
@@ -51,6 +54,7 @@
   <string name="superpower_date">M月d日 EEEE</string>
   <string name="superpower_dialog_app_select_content">Third party apps normally consume more power than system apps. Add anyway?</string>
   <string name="superpower_dialog_app_select_title">Attention</string>
+  <string name="superpower_exit_hint">ウルトラバッテリーセーバーをオンにしています…</string>
   <string name="superpower_incharging">充電中</string>
   <string name="superpower_progress_battery_last">残り %s</string>
   <string name="superpower_progress_left_time">%1$d時間 %2$d分</string>

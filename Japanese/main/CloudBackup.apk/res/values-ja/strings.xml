@@ -2,16 +2,16 @@
 <resources>
   <string name="about_to_recover">読み込み中…</string>
   <string name="app_is_running">アプリを実行中…</string>
-  <string name="app_name">Mi Cloud backup​</string>
+  <string name="app_name">Cloud backup​</string>
   <string name="arrange_restore_order">アプリを並べ替え中…</string>
   <string name="as_new_device">"以前のホーム画面と設定を置き換える"</string>
-  <string name="as_new_device_summary">"以前のMi Cloudバックアップを消去する"</string>
+  <string name="as_new_device_summary">"以前のXiaomi Cloudバックアップを消去する"</string>
   <string name="authentication_failed">"アカウントを確認できませんでした。"</string>
   <string name="back_up_task_in_process">バックアップ中…</string>
   <string name="back_up_task_unfinished">バックアップできませんでした</string>
   <string name="backing_up_to_micloud">バックアップ中…</string>
   <string name="backup_fail_wifi_needed">バックアップできませんでした、Wi-Fi接続が必要です。</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Mi Cloudの空き領域が不足しています。アップグレードするかストレージを整理してください。</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi Cloudの空き領域が不足しています。アップグレードするかストレージを整理してください。</string>
   <string name="backup_failed_reason_disk_space_not_enough">空き領域が不足しています。初めにストレージを整理してください。</string>
   <string name="backup_failed_reason_network_error">ネットワークエラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="backup_finished_notification_content">ホーム画面のアプリ、システム設定およびその他をバックアップしました。</string>
@@ -42,7 +42,7 @@
   <string name="cancel_restore_home">キャンセル中…</string>
   <string name="click_try_to_restore_again">"タップして再試行"</string>
   <string name="cloud_app_backup_success">"アプリのバックアップが完了しました"</string>
-  <string name="cloud_app_check_data">"Mi Cloudに接続中…"</string>
+  <string name="cloud_app_check_data">"Xiaomi Cloudに接続中…"</string>
   <string name="cloud_app_current_device">"現在のデバイス"</string>
   <string name="cloud_app_dont_restore">"新しい端末として設定する"</string>
   <string name="cloud_app_no_data">バックアップなし</string>
@@ -52,14 +52,14 @@
   <string name="cloud_app_restore_data">個人データや以前インストールしたアプリはお使いのデバイス上に自動で表示されます</string>
   <string name="cloud_app_restore_error">復元できませんでした</string>
   <string name="cloud_app_restore_success">アプリを復元しました</string>
-  <string name="cloud_app_restore_wifi_prompt">Mi Cloudバックアップから復元する。</string>
+  <string name="cloud_app_restore_wifi_prompt">Cloudバックアップから復元する。</string>
   <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
-  <string name="cloud_back_up_detail_discription">"お使いのデバイスがWi-Fiに接続されている時、以下のアイテムがMi Cloudにバックアップされます: 
+  <string name="cloud_back_up_detail_discription">"お使いのデバイスがWi-Fiに接続されている時、以下のアイテムがXiaomi Cloudにバックアップされます: 
 *  アプリ、ホーム画面のレイアウト、壁紙
 *  アラーム、時計と時刻設定
 *  通知設定
 *  MIUIとシステム設定
-注意: インストールしたアプリのデータはMi Cloudにバックアップされません。"</string>
+注意: インストールしたアプリのデータはXiaomi Cloudにバックアップされません。"</string>
   <string name="cloud_back_up_frequence_choice_title">"バックアップのスケジュール"</string>
   <string name="cloud_back_up_frequence_long">7日毎</string>
   <string name="cloud_back_up_frequence_short">毎日</string>
@@ -70,18 +70,18 @@
   <string name="cloud_back_up_subscribe_vip_discription">"より多くのストレージ容量、毎日のバックアップなどを入手できます。"</string>
   <string name="cloud_back_up_subscribe_vip_title">"Mi Accountのアップグレード"</string>
   <string name="cloud_back_up_task">"バックアップ中…"</string>
-  <string name="cloud_backup">Mi Cloudバックアップ</string>
+  <string name="cloud_backup">Cloudバックアップ</string>
   <string name="cloud_backup_derail_size_summary">サイズ: %s</string>
   <string name="cloud_backup_detail_frequence">"バックアップのスケジュール"</string>
   <string name="cloud_backup_detail_manage">"バックアップの管理"</string>
   <string name="cloud_backup_detail_state">自動バックアップ</string>
-  <string name="cloud_backup_detail_state_summary">Wi-Fiに接続すると、Mi Cloudバックアップが自動的に作成されます。</string>
+  <string name="cloud_backup_detail_state_summary">Wi-Fiに接続すると、Xiaomi Cloudバックアップが自動的に作成されます。</string>
   <string name="cloud_backup_detail_time">前回のバックアップ: %1$s</string>
   <string name="cloud_backup_detail_title">ホーム画面、アプリと設定</string>
-  <string name="cloud_backup_have_data">"Mi Cloudにバックアップが見つかりました"</string>
+  <string name="cloud_backup_have_data">"Xiaomi Cloudにバックアップが見つかりました"</string>
   <string name="cloud_backup_in_cancel">キャンセル</string>
   <string name="cloud_backup_in_process">バックアップ中…</string>
-  <string name="cloud_backup_select_recover">Mi Cloudからバックアップを選択</string>
+  <string name="cloud_backup_select_recover">Xiaomi Cloudからバックアップを選択</string>
   <string name="cloud_restore_from_other_device">"%sからの復元を停止してこのバックアップを削除しますか？この操作は元に戻すことができません。"</string>
   <string name="cloud_restore_task">"復元中…"</string>
   <string name="cloud_task_in_process">"%sを停止してこのバックアップを削除しますか？この操作は元に戻すことができません。"</string>
@@ -106,7 +106,7 @@
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">スイッチを切り替えると、実行中のバックアップが停止します。</string>
   <string name="dialog_cancel_backup_title">実行中のバックアップをキャンセルしますか？</string>
-  <string name="dialog_msg_overwrite_backup">ローカルのバックアップはMi Cloudのバックアップと異なります。続行した場合、現在のバックアップは以前のバックアップを上書きします。</string>
+  <string name="dialog_msg_overwrite_backup">ローカルのバックアップはXiaomi Cloudのバックアップと異なります。続行した場合、現在のバックアップは以前のバックアップを上書きします。</string>
   <string name="dialog_msg_restore_require_wlan">バックアップを復元するにはWi-Fi接続が必要です。</string>
   <string name="dialog_title_require_wlan">Wi-Fiに接続</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
@@ -136,13 +136,13 @@
   <string name="menu_item_sort_size">サイズ順</string>
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">アイテムを復元中です、今すぐ停止しますか？</string>
-  <string name="msg_alert_restore_error">Mi Cloudからアイテムを復元できませんでした。もう一度お試しください。</string>
+  <string name="msg_alert_restore_error">Xiaomi Cloudからアイテムを復元できませんでした。もう一度お試しください。</string>
   <string name="msg_restore_start_with_metered_network">"Your Home screen will be relaunched. Backed up apps will be downloaded automatically. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">If you proceed to restore these items, mobile data will be used for downloading.</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; of files will be downloaded."</string>
   <string name="network_error">ネットワークに接続</string>
   <string name="no_account">Mi Accountにログインしていません。</string>
-  <string name="no_backup">Mi Cloudにバックアップはありません。</string>
+  <string name="no_backup">Xiaomi Cloudにバックアップはありません。</string>
   <string name="notification_channel_remind">通知</string>
   <string name="notification_channel_service">サービス</string>
   <string name="open_backup_switch">バックアップのスイッチを切り替える</string>
@@ -157,7 +157,7 @@
   <string name="provision_error_connect_title">接続できません</string>
   <string name="provision_restore_data">復元中のアイテム</string>
   <string name="query_restore_description">このバックアップを使用してホーム画面のアプリと設定を復元します。この操作はお使いの端末に既にインストールされているアプリのデータを上書きします。バックアップに含まれていないアプリは、ホーム画面の最後に移動します。</string>
-  <string name="query_restore_summary">この端末向けのMi Cloudバックアップが見つかりました。ホーム画面のアプリと設定を復元するか、\"新しい端末\"として使用し、以前のMi Cloudバックアップを消去しますか？</string>
+  <string name="query_restore_summary">この端末向けのXiaomi Cloudバックアップが見つかりました。ホーム画面のアプリと設定を復元するか、\"新しい端末\"として使用し、以前のMi Cloudバックアップを消去しますか？</string>
   <string name="recover_home_settings">ホーム画面の設定を復元</string>
   <string name="recover_miui_settings">システムの設定を復元</string>
   <string name="recover_settings_description">端末の電源を切らないでください</string>
@@ -176,7 +176,7 @@
   <string name="restore_app_order_search_normal">Regular-priority apps</string>
   <string name="restore_app_order_search_prior">High-priority apps</string>
   <string name="restore_app_order_title">Prioritize restored items</string>
-  <string name="restore_cloud_backup_to_phone">Mi Cloudからアイテムを復元</string>
+  <string name="restore_cloud_backup_to_phone">Xiaomi Cloudからアイテムを復元</string>
   <string name="restore_data_summary">この機能にはインターネットへの接続が必要です。</string>
   <string name="restore_data_title">データを復元</string>
   <string name="restore_detail_category_apps">Home screen layout &amp; apps</string>
@@ -187,10 +187,10 @@
   <string name="restore_failed_reason_network_error">ネットワークエラーが発生しました。しばらくしてからもう一度お試しください。</string>
   <string name="restore_finish_description">復元が完了しました</string>
   <string name="restore_finished_notification_content">ホーム画面のアプリ、システム設定、その他を復元しました。</string>
-  <string name="restore_from_cloud">Mi Cloudバックアップから復元</string>
+  <string name="restore_from_cloud">Cloudバックアップから復元</string>
   <string name="restore_from_this_device">このバックアップを使用して復元</string>
   <string name="restore_home_failed">ホーム画面を復元できませんでした。</string>
-  <string name="restore_home_screen_apps">Mi Cloudバックアップから復元</string>
+  <string name="restore_home_screen_apps">Cloudバックアップから復元</string>
   <string name="restore_init_description">復元を開始中</string>
   <string name="restore_network_pause">%s (Tap to resume)</string>
   <string name="restore_network_unconnect">%s (Waiting for connection)</string>
@@ -207,7 +207,7 @@
   <string name="self_device_second_space">この端末のSecond space</string>
   <string name="settings_backup">システム設定</string>
   <string name="size_unknown">不明なサイズ</string>
-  <string name="start_backup_to_micloud">"Mi Cloudへアプリをバックアップ"</string>
+  <string name="start_backup_to_micloud">"Xiaomi Cloudへアプリをバックアップ"</string>
   <string name="start_recover">%sを復元</string>
   <string name="success_open_cloudbackup">ホーム画面のアプリのバックアップをオンにしました</string>
   <string name="title_alert_cancel_restore">復元を停止する</string>

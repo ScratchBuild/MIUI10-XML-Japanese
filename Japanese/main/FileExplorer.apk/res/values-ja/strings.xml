@@ -180,6 +180,8 @@
   <string name="group_title_extra_backup">"バックアップ"</string>
   <string name="group_title_extra_expire">"期限切れについて"</string>
   <string name="group_title_extra_new">"新規"</string>
+  <string name="hint_switch_to_grid_mode">グリッド表示に切り替えました</string>
+  <string name="hint_switch_to_list_mode">リスト表示に切り替えました</string>
   <string name="home_action_up">戻る</string>
   <string name="home_title">ファイルマネージャー</string>
   <string name="homepage_tab_category">"カテゴリー"</string>

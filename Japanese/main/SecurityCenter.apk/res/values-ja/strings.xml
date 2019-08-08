@@ -1558,6 +1558,12 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pc_battery_history_rank_percent_menu_item">パーセント</string>
   <string name="pc_install_manager">"USB経由でインストール"</string>
   <string name="pc_main_activity_back">戻る</string>
+  <string name="pc_main_sub_battery_text_hour_minute">残り %1$s時間%2$s分</string>
+  <string name="pc_search_keywords_battery">バッテリー</string>
+  <string name="pc_search_keywords_battery_save">バッテリーセーバー</string>
+  <string name="pc_search_keywords_battery_use">バッテリー使用量</string>
+  <string name="pc_search_keywords_capacity">バッテリー容量</string>
+  <string name="pc_search_keywords_property">パフォーマンス</string>
   <string name="pc_settings_title">バッテリーの最適化の設定</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
@@ -1983,7 +1989,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sp_settings_check_item_title_root">Root</string>
   <string name="sp_settings_check_item_title_sign_exception">Signature exceptions</string>
   <string name="sp_settings_check_item_title_update">System updates</string>
-  <string name="sp_settings_check_item_title_virus_exception">Virus exceptions</string>
+  <string name="sp_settings_check_item_title_virus_exception">例外</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">"アイテムはありません"</string>
   <string name="sp_settings_group_title_check_item">Multiple items</string>

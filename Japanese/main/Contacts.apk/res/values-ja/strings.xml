@@ -173,11 +173,11 @@
   <string name="cloud_antispam_mark">Flag</string>
   <string name="cloud_antispam_marked">Flagged</string>
   <string name="cloud_antispam_title">Caller ID</string>
-  <string name="cloud_recommend_msg">"Mi Cloudと連絡先を同期するにはタップ。"</string>
-  <string name="cloud_state_disabled">"Mi Cloudと連絡先を同期"</string>
+  <string name="cloud_recommend_msg">"Cloudと連絡先を同期するにはタップ。"</string>
+  <string name="cloud_state_disabled">"Cloudと連絡先を同期"</string>
   <string name="cloud_state_loading">"読み込み中…"</string>
-  <string name="cloud_state_sync_finished">"Mi Cloudと同期しました"</string>
-  <string name="cloud_state_syncing">"Mi Cloudと同期しています"</string>
+  <string name="cloud_state_sync_finished">"Cloudと同期しました"</string>
+  <string name="cloud_state_syncing">"Cloudと同期しています"</string>
   <string name="composer_failed_to_get_database_infomation">"データベース情報を取得できません。"</string>
   <string name="composer_has_no_exportable_contact">"エクスポート可能な連絡先がありません。お使いの端末に連絡先がある場合、一部のデータプロバイダが端末から連絡先のエクスポートを許可していない可能性があります。"</string>
   <string name="composer_not_initialized">"vCard composerが正常に開始できませんでした。"</string>

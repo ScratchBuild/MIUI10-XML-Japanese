@@ -239,6 +239,7 @@
   <string name="multi_selecting_tips">"アプリのアイコンをここにドラッグ＆ドロップ。"</string>
   <string name="no_detail_page">"詳細ページなし"</string>
   <string name="no_space_toast">"空きスペースがありません"</string>
+  <string name="no_space_toast_when_click_widget">このページに空きスペースがありません。アイテムを別のページにドラッグしてみてください。</string>
   <string name="normal_wallpaper">"壁紙"</string>
   <string name="notification_installed">"正常にインストールされました"</string>
   <string name="notification_open_button">"開く"</string>
