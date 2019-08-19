@@ -1250,10 +1250,10 @@ This feature can be turned off in the Settings."</string>
   <string name="close_privacy_thumbnail_blur_title">プレビューはぼやけていません</string>
   <string name="close_sdcard_optimization_title">疑似SDカードの最適化をオフにする</string>
   <string name="close_sdcard_optimization_warning_message">この変更を適用するために端末を再起動します。</string>
-  <string name="cloud_backup_section_title">Cloudバックアップ</string>
+  <string name="cloud_backup_section_title">Xiaomi Cloudバックアップ</string>
   <string name="cloud_backup_settings_section_title">バックアップの設定</string>
   <string name="cloud_restore_section_summary">システム設定、ホーム画面のレイアウトやアプリを復元する</string>
-  <string name="cloud_restore_section_title">Cloudから復元</string>
+  <string name="cloud_restore_section_title">Xiaomi Cloudから復元</string>
   <string name="cmcc_hardware_version">ハードウェアバージョン</string>
   <string name="collect_diagnostics_summary">トラブルシューティングのために診断データを収集する</string>
   <string name="collect_diagnostics_title">診断データを収集</string>
@@ -3241,6 +3241,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="miui_lab_ai_cloud_closed">AI preloadingはまだ使用できません。</string>
   <string name="miui_lab_ai_preload_desc">AI preloadingによりアプリの起動速度が向上します</string>
   <string name="miui_lab_ai_preload_title">AI preloading</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Connect By Tips</string>
+  <string name="miui_lab_aiasst_call_screen_title">Tips Call</string>
   <string name="miui_lab_drive_mode_desc">音声コントロールとWeChatメッセージの読み上げを使用</string>
   <string name="miui_lab_drive_mode_title">運転モード</string>
   <string name="miui_lab_feature_applied">適用しました</string>
@@ -4074,7 +4076,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="privacy_authorize_cloud_msg">アカウントのセキュリティを確保するために、Mi Cloudサービス(同期やバックアップを含む)の認証を取り消したい場合は、i.mi.com にログインしてください。</string>
   <string name="privacy_authorize_dialog_agree">同意</string>
   <string name="privacy_authorize_dialog_exit">終了</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data>"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data></string>
+  <string name="privacy_authorize_dialog_message">&lt;Data>"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data></string>
   <string name="privacy_authorize_network_error">ネットワークに接続してもう一度お試しください。</string>
   <string name="privacy_authorize_privacy_policy">プライバシーポリシー</string>
   <string name="privacy_authorize_revoke">取り消し</string>
@@ -4916,7 +4918,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="settings_manual_activity_title">マニュアル</string>
   <string name="settings_manual_activity_unavailable">マニュアルの読み込み中に問題が発生しました。</string>
   <string name="settings_new_version_btn">更新</string>
-  <string name="settings_notify_need_backup">端末を切り替えた後にも設定を引き継ぐには、Cloudに設定をバックアップしてください。</string>
+  <string name="settings_notify_need_backup">端末を切り替えた後にも設定を引き継ぐには、Xiaomi Cloudに設定をバックアップしてください。</string>
   <string name="settings_notify_new_version">更新が利用可能です。詳細を表示するにはタップ。</string>
   <string name="settings_notify_phone_recycled">登録した電話番号は既に再利用されています。別の電話番号を追加するにはタップ。</string>
   <string name="settings_safetylegal_activity_loading">読み込み中...</string>
@@ -6799,9 +6801,9 @@ Looks like credential storage isn't enabled."</string>
   <string name="write_tag">書き込む</string>
   <string name="wrong_pin_code_pukked">SIM PINコードが無効です。お使いの端末をロック解除するには携帯通信会社にお問い合わせいただく必要があります。</string>
   <string name="xiaomi_account">Miアカウント</string>
-  <string name="xiaomi_cloud_service">Cloud</string>
-  <string name="xiaomi_cloud_service_description">Cloudは連絡先、写真、その他のアイテムをお使いの端末間で同期します。\"Find device\"が正常に動作するにはMi Cloudが必要です。</string>
-  <string name="xiaomi_cloud_service_description_format">Cloud は %s の写真を同期、アプリや設定をバックアップ、端末を紛失した場合にFind deviceで見つける手助けを行います。</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Xiaomi Cloudは連絡先、写真、その他のアイテムをお使いの端末間で同期します。\"Find device\"が正常に動作するにはMi Cloudが必要です。</string>
+  <string name="xiaomi_cloud_service_description_format">Xiaomi Cloud は %s の写真を同期、アプリや設定をバックアップ、端末を紛失した場合にFind deviceで見つける手助けを行います。</string>
   <string name="xiaomi_cloud_service_disabled">オフ</string>
   <string name="xiaomi_cloud_service_unknown">不明</string>
   <string name="xiaomi_money_service">Mi Credit</string>

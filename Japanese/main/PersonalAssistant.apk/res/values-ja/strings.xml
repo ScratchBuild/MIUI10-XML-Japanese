@@ -969,7 +969,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
   <string name="locations">Frequent places</string>
   <string name="locations_preferences">Addresses</string>
   <string name="login_before_use">初めにログインする必要があります</string>
-  <string name="login_dialog_body">Mi Cloudとの同期を有効にすることで、重要なデータを保護します。今すぐログインして開きますか？</string>
+  <string name="login_dialog_body">クラウドとの同期を有効にすることで、重要なデータを保護します。今すぐログインして開きますか？</string>
   <string name="login_dialog_negative">後で</string>
   <string name="login_dialog_positive">ログインしてオンにする</string>
   <string name="login_dialog_title">同期をオンにする</string>

@@ -9,11 +9,17 @@
         <item>"スタートページ"</item>
         <item>"カスタム"</item>
     </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>既定のスタートページ</item>
+        <item>新規スタートページ</item>
+        <item>カスタム</item>
+    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>
         <item>Pad</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>タイル表示</item>
         <item>"縦向き表示"</item>
         <item>"横向き表示"</item>
     </string-array>
@@ -34,6 +40,10 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>ブックマーク</item>
+        <item>履歴</item>
     </string-array>
     <string-array name="readmode_theme_background_color">
         <item>white</item>

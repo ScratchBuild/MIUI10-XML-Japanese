@@ -156,6 +156,7 @@
   <string name="saturday">"土曜日"</string>
   <string name="saturday_short">"土"</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_action_mode_cancel">キャンセル</string>
   <string name="search_input_description">"検索"</string>
   <string name="search_mode_button_back_description">"戻る"</string>
   <string name="select_all">"すべて選択"</string>

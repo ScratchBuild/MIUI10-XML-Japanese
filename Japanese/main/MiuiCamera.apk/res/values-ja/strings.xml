@@ -258,10 +258,14 @@ in Portrait mode"</string>
   <string name="live_speed_slow">Slow</string>
   <string name="live_sticker_fragment_tab_name">TikTok マジックステッカー</string>
   <string name="live_sticker_network_error_hint">ネットワークエラー</string>
+  <string name="live_sticker_tab_name">TikTok Magic Sticker</string>
   <string name="live_sticker_updating">更新中…</string>
   <string name="lying_direct_hint">現在の向き</string>
   <string name="macro_mode">マクロ</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
+  <string name="macro_mode_use_hint_text_body">"开启微距模式，为您记录更微观的世界
+探索更多细节的美"</string>
+  <string name="macro_mode_use_hint_text_title">微距模式</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
   <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
   <string name="mimoji_app_name">Fun Cam</string>
@@ -655,6 +659,9 @@ Keep the subject sharp while blurring the background."</string>
   <string name="preparing_sd">"内部ストレージを確認中…"</string>
   <string name="recapture_dialog_message">确认重拍？</string>
   <string name="recapture_dialog_title">重新拍摄将清空当前形象</string>
+  <string name="recommend_macro_mode">建议开启微距</string>
+  <string name="recommend_portrait">建议使用人像模式</string>
+  <string name="recommend_super_night">建议使用夜景模式</string>
   <string name="record_back_pressed_hint">"録画を停止するにはもう一度タップ"</string>
   <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
   <string name="screen_on_proximity_sensor_summary">"イヤホンの領域を覆わないでください"</string>
@@ -684,6 +691,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="spaceIsLow_content_external_storage_priority">"SDカードの空き容量が不足しています"</string>
   <string name="spaceIsLow_content_primary_storage_priority">"USBストレージの空き容量が不足しています"</string>
   <string name="start_capture">OK</string>
+  <string name="super_night_hint">画质优化中</string>
   <string name="super_night_toast">写真の撮影中は端末をしっかり保持してください</string>
   <string name="tap_to_exposure">"手動で露出を調整するにはタップ"</string>
   <string name="tap_to_focus">"フォーカスするにはタップ"</string>
@@ -695,6 +703,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"写真を撮影できません"</string>
   <string name="ubifocus_capture_warning_message">"最良の結果を得るためには、(レンズから1メートル未満で)遠近両方の被写体を写真に収める必要があります"</string>
+  <string name="ultra_pixel_portrait_hint">超清人像</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Zoom doesn't work in %s Ultra HD mode"</string>
   <string name="ultra_wide_bokeh_close_tip">全身モードはオフです</string>
   <string name="ultra_wide_bokeh_open_tip">全身モード</string>
   <string name="ultra_wide_close_tip">Ultra wide angle mode is off</string>
@@ -718,6 +728,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="video_camera_label">Camcorder</string>
   <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
   <string name="view_privacy_policy">"プライバシーポリシーを表示"</string>
+  <string name="vv_start">VVの撮影を開始</string>
   <string name="wideselfie_press_shoot_key_to_start">シャッターボタンを押す</string>
   <string name="wideselfie_result_image_lossless">"Couldn't create panoramic shot"</string>
   <string name="wideselfie_rotate_slowly">端末を回転させる</string>
@@ -725,7 +736,5 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="wideselfie_rotate_to_front">端末を前方に傾ける</string>
   <string name="wideselfie_rotate_to_left_slowly">端末を左に回転させる</string>
   <string name="wideselfie_rotate_to_right_slowly">端末を右に回転させる</string>
-  <string name="zoom_no_support_tip_48M">"Zoom doesn't work in 48MP mode"</string>
-  <string name="zoom_no_support_tip_64M">"Zoom doesn't work in 64MP mode"</string>
   <string name="wait">"読み込み中…"</string>
 </resources>

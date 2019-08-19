@@ -558,6 +558,7 @@
   <string name="local_enable">ローカルニュースは有効になっています</string>
   <string name="local_weather_disable">各地の天気は無効になっています</string>
   <string name="local_weather_enable">各地の天気は有効になっています</string>
+  <string name="location">地域</string>
   <string name="lodgings_disable">ロッジングは無効になっています</string>
   <string name="lodgings_enable">ロッジングは有効になっています</string>
   <string name="maintenance_disable">メンテナンスは無効になっています</string>
@@ -712,6 +713,7 @@
   <string name="open_miui">開く</string>
   <string name="opened_dual_4g_confirm_prompt">4Gのみ対応のSIMカードをお使いのようです。デュアル4Gは自動的にオンになりました。</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$sは4Gのみ対応しています。SIMカードが正常に動作するように、デュアル4Gがオンになっています。</string>
+  <string name="operator">キャリア</string>
   <string name="optional_summary">&lt;オプション></string>
   <string name="ota_activate">有効にする</string>
   <string name="ota_call_end">戻る</string>
@@ -1064,6 +1066,7 @@
   <string name="sip_save_register_error">新しいSIPプロファイルを保存して登録することができません</string>
   <string name="sip_settings">SIP設定</string>
   <string name="sip_system_decide">自動</string>
+  <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
   <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="sports_news_settings">スポーツニュース</string>

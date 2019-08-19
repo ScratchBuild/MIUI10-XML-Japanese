@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_message_clear_records">"選択した録音を削除しますか？"</string>
   <string name="alert_message_delete_local_record">この録音を削除しますか？</string>
-  <string name="alert_message_delete_record">"端末から録音を削除すると、Mi Cloudからもこの録音が削除されます。今すぐ削除しますか？"</string>
+  <string name="alert_message_delete_record">"端末から録音を削除すると、Xiaomi Cloudからもこの録音が削除されます。今すぐ削除しますか？"</string>
   <string name="alert_message_delete_record_title">"録音を削除しますか？"</string>
   <string name="app_name">"レコーダー"</string>
   <string name="back">"戻る"</string>
@@ -14,12 +14,12 @@
   <string name="call_record_list_group_unconnected">未接続</string>
   <string name="clear_records">"同期した録音を削除"</string>
   <string name="cloud_record_open">"録音を同期"</string>
-  <string name="cloud_record_tip">"Mi Cloudと録音を同期します"</string>
-  <string name="cloud_service_state_open_reminder">"Mi Cloudとの同期をオンにして、録音したファイルを同期します。"</string>
+  <string name="cloud_record_tip">"Xiaomi Cloudと録音を同期します"</string>
+  <string name="cloud_service_state_open_reminder">"Xiaomi Cloudとの同期をオンにして、録音したファイルを同期します。"</string>
   <string name="cloud_status_full_dialog_cancel">"後で"</string>
   <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
   <string name="cloud_status_full_dialog_ok">Upgrade</string>
-  <string name="cloud_status_full_dialog_title">Mi Cloudストレージがいっぱいです</string>
+  <string name="cloud_status_full_dialog_title">Xiaomi Cloudストレージがいっぱいです</string>
   <string name="data_connection_body">"モバイルデータ接続を使用してこのファイルをダウンロードすると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">"データ使用の警告"</string>
@@ -28,7 +28,7 @@
   <string name="deleting_message">"削除中…"</string>
   <string name="details">"詳細"</string>
   <string name="dialog_content_storage_full">"端末のストレージに十分な空き領域がないため、録音を停止しました。"</string>
-  <string name="dialog_privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりアプリは事実上使用できなくなる可能性があります。アカウントのセキュリティを確保するには、Mi Cloudサービスの権限を取り消す前に i.mi.com にログインしてください。"</string>
+  <string name="dialog_privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりアプリは事実上使用できなくなる可能性があります。アカウントのセキュリティを確保するには、Xiaomi Cloudサービスの権限を取り消す前に i.mi.com にログインしてください。"</string>
   <string name="dialog_title_storage_full">"十分な空き領域がありません"</string>
   <string name="download">Download</string>
   <string name="duration_format_hour">"%s時間"</string>
@@ -201,7 +201,7 @@
   <string name="recognize_extra_price_desp">(Exclusive offer for Mi users)</string>
   <string name="record">Record</string>
   <string name="record_back_pressed_hint">"録音を停止するには、戻るをもう一度タップ"</string>
-  <string name="record_download">"Mi Cloudからダウンロード"</string>
+  <string name="record_download">"Xiaomi Cloudからダウンロード"</string>
   <string name="record_download_complete">"ダウンロード済み"</string>
   <string name="record_download_msg">"録音は、ダウンロードが完了した後でのみ再生できます。"</string>
   <string name="record_download_msg_reload">"この録音は存在しません。"</string>

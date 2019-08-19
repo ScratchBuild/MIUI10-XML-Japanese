@@ -968,6 +968,7 @@ To add a contact to your list of favorites:
   <string name="scan_bussiness_card_merge_tip">競合するデータが置き換えられました</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">"重複する連絡先を検索しています…"</string>
+  <string name="scan_not_installed">初めにスキャナーアプリをインストールしてください。</string>
   <string name="scan_qrcode_card_hint1">"上記のQRコードをスキャンしてください"</string>
   <string name="scanning_sdcard_failed_message">理由: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">"SDカードを読み込めませんでした"</string>

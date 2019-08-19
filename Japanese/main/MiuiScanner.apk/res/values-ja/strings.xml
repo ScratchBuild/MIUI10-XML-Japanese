@@ -79,7 +79,7 @@
   <string name="gps">Navigate</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">連絡先をインポート</string>
-  <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allow Scanner to connect to the internet."</string>
+  <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allowing Scanner to connect to the internet."</string>
   <string name="impunity_declaration_negative_text">終了</string>
   <string name="impunity_declaration_title">プライバシーポリシー</string>
   <string name="init_success">初期化が完了しました</string>
@@ -210,5 +210,5 @@
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wx_not_installed_toast">この機能を使用するにはWeChatを開く必要があります。WeChatをインストールしてください。</string>
+  <string name="wx_not_installed_toast">この機能はWeChatを使用する必要があります。初めにWeChatをインストールしてください。</string>
 </resources>

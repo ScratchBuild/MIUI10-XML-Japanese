@@ -176,6 +176,7 @@
   <string name="function_use_imei">"For accessing IMEI and encrypting files; "</string>
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
+  <string name="grid_mode">グリッド表示</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">"バックアップ"</string>
   <string name="group_title_extra_expire">"期限切れについて"</string>
@@ -194,6 +195,7 @@
   <string name="instruction_pre_pad">"FTPサーバーを起動するにはタップ"</string>
   <string name="instruction_pre_phone">"FTPサーバーを起動するにはタップ"</string>
   <string name="just_now">"たった今"</string>
+  <string name="list_mode">リスト表示</string>
   <string name="load_more">"もっと表示"</string>
   <string name="loading">"読み込み中…"</string>
   <string name="local_image">"画像"</string>
@@ -378,6 +380,7 @@
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>
   <string name="storage_warning">"外部ストレージを使用できません"</string>
+  <string name="switch_doc_type">フォーマットを選択</string>
   <string name="sys_size_enable">" 利用可能"</string>
   <string name="tab_app">その他</string>
   <string name="tab_category">"カテゴリー"</string>

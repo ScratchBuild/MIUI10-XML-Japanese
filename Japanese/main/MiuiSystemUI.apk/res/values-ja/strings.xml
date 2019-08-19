@@ -237,8 +237,6 @@
   <string name="block_notification_content_text">"%1$s の通知は再度表示されません。設定で変更できます。"</string>
   <string name="block_notification_desc">アプリの通知は再度表示されません。設定で変更できます。</string>
   <string name="block_notification_text">非表示</string>
-  <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
-  <string name="block_record_notification_title">Notifications hidden</string>
   <string name="bluetooth_a2dp_profile_summary_connected">メディアの音声に接続</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">メディアの音声に使用</string>
   <string name="bluetooth_connected">接続済み: %1$s</string>
@@ -416,6 +414,7 @@
   <string name="description_direction_left">左にスライドして%sを行います。</string>
   <string name="description_direction_up">上にスライドして%sを行います。</string>
   <string name="description_image_button_answer">応答</string>
+  <string name="description_image_button_bubble_answer">スピーカー</string>
   <string name="description_image_button_reject">拒否</string>
   <string name="description_image_icon_sim_card">SIM %1$d</string>
   <string name="description_target_search">検索</string>
@@ -429,7 +428,6 @@
   <string name="development_settings_summary">アプリ開発オプションを設定する</string>
   <string name="development_settings_title">開発者向けオプション</string>
   <string name="direct_boot_unaware_dialog_message">注: 再起動後、スマートフォンのロックを解除するまでこのアプリを起動することはできません</string>
-  <string name="disable_notification_summary">選択したアプリからの通知を表示しない</string>
   <string name="disable_notification_title">通知を非表示</string>
   <string name="disable_overlays">HWオーバーレイを無効</string>
   <string name="disable_overlays_summary">画面合成に常にGPUを使用する</string>
@@ -490,7 +488,6 @@
   <string name="enable_webview_multiprocess_desc">WebViewレンダラを個別に実行する</string>
   <string name="enabled_by_admin">管理者により有効にされています</string>
   <string name="ethernet_label">イーサネット</string>
-  <string name="expanded_confirm_disable_notification">非表示</string>
   <string name="expanded_header_battery_charged">充電が完了しました</string>
   <string name="expanded_header_battery_charging">充電しています</string>
   <string name="expanded_header_battery_charging_with_time">充電完了まで%s</string>
@@ -1191,6 +1188,7 @@ EEEE"</string>
   <string name="qs_dnd_replace">設定を変更</string>
   <string name="qs_dnd_until">終了時間: %s</string>
   <string name="qs_edit">編集</string>
+  <string name="qs_open_night_mode_alert_summary">"Certain display settings aren't compatible with Dark mode. However, they will be restored once you turn Dark mode off."</string>
   <string name="qs_paging">新しいクイック設定を使用する</string>
   <string name="qs_rearrange">クイック設定を並べ替え</string>
   <string name="quick_settings">クイック設定</string>
@@ -1259,6 +1257,7 @@ EEEE"</string>
   <string name="quick_settings_night_secondary_label_on_at">%sにオン</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">日没から</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">日の出まで</string>
+  <string name="quick_settings_nightmode_label">ダークモード</string>
   <string name="quick_settings_notifications_label">通知</string>
   <string name="quick_settings_papermode_label">読書モード</string>
   <string name="quick_settings_powermode_label">パフォーマンスモード</string>

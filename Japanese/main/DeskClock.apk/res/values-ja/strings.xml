@@ -15,6 +15,7 @@
   <string name="alarm_notify_snooze_label">"%s（スヌーズ）"</string>
   <string name="alarm_notify_text">"アラームをスヌーズ/解除します。"</string>
   <string name="alarm_repeat">"繰り返し"</string>
+  <string name="alarm_ringtone">Alarm ringtones</string>
   <string name="alarm_settings">"アラーム設定"</string>
   <string name="alarm_settings_category_title">"アラームの設定"</string>
   <string name="alarm_vibrate">"バイブレーション"</string>
@@ -109,7 +110,7 @@
   <string name="life_post_wake_up_time_title">"起床時間"</string>
   <string name="life_post_weather_invalid">天気情報を取得するにはタップ</string>
   <string name="life_post_weather_no_network">ネットワークに接続して天気情報を取得する</string>
-  <string name="listen_news_privacy">&lt;Data&gt;In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="listen_news_privacy">&lt;Data&gt;In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="loading_ringtone">"着信音を読み込み中..."</string>
   <string name="menu_add_worldclock">"都市を追加"</string>
   <string name="menu_desk_clock">"時計"</string>
@@ -139,29 +140,29 @@
   <string name="module_update_success">Updated audio for MIUI smart alarms was downloaded successfully. You can set MIUI smart alarms in the Clock settings.</string>
   <string name="module_update_success_control">OK</string>
   <string name="module_weather_ringtone_download_data">Weather alarm selects different ringtones according to the current weather. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
-  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_download_wifi">Weather alarm selects different ringtones according to the current weather. Clock needs to download audio to make it work. Download now?</string>
-  <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Weather alarm selects different ringtones according to the current weather. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_introduce">Weather alarm selects different ringtones according to the current weather. It also allows you to listen to the current weather info in the morning.</string>
   <string name="module_weather_ringtone_introduce_global">Weather alarm selects different ringtones according to the current weather.</string>
   <string name="module_weather_ringtone_update_data">Weather alarm now comes with background music and better voice announcements. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
-  <string name="module_weather_ringtone_update_success">Weather alarm now comes with background music and better voice announcements. You can turn this feature on in the Clock settings.</string>
+  <string name="module_weather_ringtone_update_success">Weather alarm now comes with background music and better voice announcements. You can create a new alarm to try this feature.</string>
   <string name="module_week_ringtone_download_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
-  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download &amp;#8776;30MB of audio. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_week_ringtone_download_wifi">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download audio to make it work. Download now?</string>
-  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Weekly alarm plays different sounds of nature every day of the week. Clock needs to connect to the internet to download audio. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="module_week_ringtone_introduce">Weekly alarm plays different sounds of nature every day of the week.</string>
   <string name="module_week_ringtone_update_data">Weekly alarm plays different sounds of nature every day of the week. Clock needs to download ≈30MB of audio to make it work. Download now?</string>
-  <string name="module_week_ringtone_update_success">Weekly alarm comes with background music for each day of the week. You can turn this feature on in the Clock settings.</string>
+  <string name="module_week_ringtone_update_success">Weekly alarm comes with background music for each day of the week. You can create a new alarm to try this feature.</string>
   <string name="module_white_noise_download_data">Clock needs to download audio files for ambient noise timers. ≈30MB of your mobile data will be required for this download. Download now?</string>
-  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"In order to download audio files for ambient noise timers (&amp;#8776;30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. You're using mobile data now. Agree?"&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"In order to download audio files for ambient noise timers (&amp;#8776;30MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. You're using mobile data now. Agree?"&lt;/Data&gt;</string>
   <string name="module_white_noise_download_wifi">Clock needs to download audio files for ambient noise timers. Download now?</string>
-  <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; Agree?&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; Agree?&lt;/Data&gt;</string>
   <string name="monday_to_friday">Monday to Friday</string>
   <string name="more_setting">"その他の設定"</string>
   <string name="more_settings">"設定"</string>
-  <string name="network_privacy">&lt;Data&gt;In order to get relevant info about local public holidays, adjust alarms, and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
-  <string name="network_privacy_global">&lt;Data&gt;In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="network_privacy">&lt;Data&gt;In order to get relevant info about local public holidays and adjust alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
+  <string name="network_privacy_global">&lt;Data&gt;In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href= %1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="never">"一度だけ"</string>
   <string name="no_alarm_setting">アラームはありません</string>
   <string name="no_worldclock">世界時計はありません</string>
@@ -175,16 +176,22 @@
   <string name="repeat_count">回数</string>
   <string name="reset">"リセット"</string>
   <string name="revert">"元に戻す"</string>
+  <string name="ringtone_all">All ringtones</string>
+  <string name="ringtone_dew">Morning dew</string>
+  <string name="ringtone_dream">Daydream</string>
+  <string name="ringtone_firefly">Fireflies</string>
   <string name="ringtone_other">More ringtones</string>
-  <string name="ringtone_weather">Weather alarm ringtones</string>
-  <string name="ringtone_week">Weekly alarm ringtones</string>
+  <string name="ringtone_weather">Weather alarm</string>
+  <string name="ringtone_week">Weekly alarm</string>
   <string name="search_alarm_clock_keywords">"アラーム;アラーム時計"</string>
   <string name="search_menu_title">検索</string>
   <string name="search_stopwatch_keywords">"ストップウォッチ"</string>
   <string name="search_timer_keywords">"タイマー"</string>
   <string name="search_worldclock_keywords">"時刻;世界時計;時計"</string>
   <string name="set_alarm">"時刻を選択"</string>
+  <string name="set_alarm_choose_ringtone">アラームを選択</string>
   <string name="set_alarm_done">"完了"</string>
+  <string name="set_alarm_other">その他</string>
   <string name="setting_alarm_arriving_subtitle">Show notifications before alarms go off</string>
   <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
   <string name="setting_alarm_arriving_title">Notification before ringing</string>
@@ -271,8 +278,8 @@
   <string name="tomorrow">"明日"</string>
   <string name="turn_off_a_repeat_alarm">"繰り返しアラームをオフにする"</string>
   <string name="turn_off_this_repeat_alarm">"この繰り返しアラームをオフにする"</string>
-  <string name="upcoming_alarm">%s Upcoming alarm</string>
-  <string name="upcoming_alarm_hint">You can close this alarm in advance</string>
+  <string name="upcoming_alarm">Upcoming alarm: %s</string>
+  <string name="upcoming_alarm_hint">You can turn off this alarm now</string>
   <string name="update_notification_info">バックグラウンドでデータを更新中…</string>
   <string name="user_agreement">ユーザー規約</string>
   <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>

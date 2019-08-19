@@ -4,6 +4,19 @@
   <string name="activity_not_found">"アプリがインストールされていません"</string>
   <string name="activity_not_unlocked">アプリを開く前に、端末が完全に再起動されるのを待ちます</string>
   <string name="add_screen">"画面を追加"</string>
+  <string name="all_apps">すべてのアプリ</string>
+  <string name="all_apps_no_search_results">何も見つかりませんでした</string>
+  <string name="all_apps_search_app">アプリを検索</string>
+  <string name="all_apps_search_market_message">オンライン検索</string>
+  <string name="all_apps_setting_desktop_desc">インストールされているすべてのアプリをホーム画面に表示します。アプリのアイコンを押し続けると、使用可能なショートカットが表示され、アプリの管理またはアンインストールができます。</string>
+  <string name="all_apps_setting_desktop_title">標準</string>
+  <string name="all_apps_setting_drawer_desc">インストールされているすべてのアプリを、ホーム画面で上にスワイプして開くことができるアプリドロワーに配置します。ホーム画面に移動したアプリは、アプリドロワーで引き続き検索できます。</string>
+  <string name="all_apps_setting_drawer_tips_desc">ホーム画面を上にスワイプすると、アプリドロワーが開きます。アプリドロワーでホーム画面モードに切り替えると、検索が利用できなくなります。とにかく切り替えますか？</string>
+  <string name="all_apps_setting_drawer_tips_title">アプリドロワーを使用</string>
+  <string name="all_apps_setting_drawer_title">アプリドロワー</string>
+  <string name="all_apps_setting_title">ホーム画面</string>
+  <string name="all_apps_slide_up_tips">\"上にスワイプ\"はアプリドロワーを開くために使用されます。通常のホーム画面モードに切り替えてから、もう一度試してください。</string>
+  <string name="all_apps_suggestions">App suggestions</string>
   <string name="announce_for_app_move_in_folder">Moved to position %1$d in the folder</string>
   <string name="announce_for_checked">%1$s, checked</string>
   <string name="announce_for_choose_default_screen">"画面%1$dをデフォルトのホーム画面として設定しました"</string>
@@ -284,6 +297,7 @@
   <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
   <string name="privacy_thumbnail_blur_title">Blur app previews</string>
   <string name="quick_app">Quick App</string>
+  <string name="recent_apps">履歴</string>
   <string name="recents_config_title">履歴</string>
   <string name="recommend_apps_no_data">"データなし"</string>
   <string name="recommend_apps_no_data_toast">現在おすすめはありません。</string>
@@ -294,6 +308,7 @@
   <string name="recommend_loading">"読み込み中"</string>
   <string name="recommend_refresh">"更新"</string>
   <string name="recommend_xout">"表示しない"</string>
+  <string name="remove_invalidate_gadget_tips">使用するウィジェットの1つが使用できなくなりました。別のものを追加できます。</string>
   <string name="reset_description_first_time">"2時間以内に%1$sからレイアウトを復元することができます"</string>
   <string name="reset_description_others">"%1$sからレイアウトを復元することができます"</string>
   <string name="reset_fail">"復元できませんでした"</string>

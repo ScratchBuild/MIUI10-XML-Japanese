@@ -140,6 +140,7 @@
   <string name="delete_download">"削除"</string>
   <string name="delete_file_as_well">"この曲を完全に削除"</string>
   <string name="delete_file_end">"完全に削除"</string>
+  <string name="delete_file_error">ファイルを削除できませんでした</string>
   <string name="delete_file_start">"選択したファイルを削除"</string>
   <string name="deselect_all">"すべて選択を解除"</string>
   <string name="desktop_lyric_button_close">"閉じる"</string>
@@ -167,7 +168,7 @@
   <string name="dialog_my_playlist_online_changed_merge">Keep</string>
   <string name="dialog_my_playlist_online_changed_message">Looks like this playlist changed. You can replace it with the new version or keep the old one.</string>
   <string name="dialog_my_playlist_online_changed_replace">Replace</string>
-  <string name="dialog_my_playlist_set_to_public">Share this playlist to Mi Music</string>
+  <string name="dialog_my_playlist_set_to_public">Share this playlist with all users of Mi Music and Hungama music</string>
   <string name="dialog_queued_body">This file is queued for future download.</string>
   <string name="dialog_renew_failure">Sorry, action failed</string>
   <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
@@ -284,11 +285,14 @@
   <string name="eq_preset_select">"プリセットを選択"</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">イコライザー</string>
+  <string name="error_not_support">サポートされていません</string>
   <string name="expand_button_title">Advanced</string>
   <string name="expired">Expired</string>
   <string name="facebook_not_installed">まずFacebookをインストールしてください。</string>
   <string name="fail_to_fetch_payment_page_url">"Couldn't get payment info"</string>
   <string name="fail_to_play">"曲を再生できません"</string>
+  <string name="failed_not_access_sd_card">初めにSDカードへのアクセスを許可してください</string>
+  <string name="failed_obtain_permissions">アクセス許可を取得できませんでした</string>
   <string name="fav_login_msg">"Mi Accountにログインして曲をダウンロードする"</string>
   <string name="favorite_canceled">"お気に入りから削除しました"</string>
   <string name="favorite_playlist">"お気に入り"</string>
@@ -308,6 +312,10 @@
   <string name="filter_by_size">By size</string>
   <string name="filter_by_size_prefix">"Hide files smaller than "</string>
   <string name="filter_by_size_summary">Hide small audio files</string>
+  <string name="floating_view_dialog_desc">Music will stop playing if you leave this page now. Leave anyway?</string>
+  <string name="floating_view_dialog_leave">Leave</string>
+  <string name="floating_view_dialog_stay">Stay</string>
+  <string name="floating_view_dialog_title">Leave this page?</string>
   <string name="follow">Follow</string>
   <string name="followed">Following</string>
   <string name="format_not_support">"この形式はサポートされていません"</string>
@@ -322,8 +330,12 @@
   <string name="hide_lyric">"歌詞を非表示"</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
+  <string name="home_tab_home">Home</string>
   <string name="home_tab_local">My music</string>
+  <string name="home_tab_more_music">More music</string>
   <string name="home_tab_online">Discover</string>
+  <string name="home_tab_search">Search</string>
+  <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_batch_download_alert_summary">Only PRO members can download multiple songs. Get a PRO membership now?</string>
@@ -469,6 +481,7 @@
   <string name="not_login">"ログインしていません"</string>
   <string name="not_now">後で</string>
   <string name="not_selected">"曲を選択"</string>
+  <string name="not_support_documentui">DocumentUIはこの端末ではサポートされていません</string>
   <string name="notif_title_file_size">%1$d total</string>
   <string name="notif_title_single_downloading">"%1$sをダウンロード中"</string>
   <string name="notification_download_complete">"ダウンロード完了"</string>
@@ -637,6 +650,7 @@
   <string name="search_in_youtube">Search on YouTube</string>
   <string name="search_instant_online_music">"オンライン"</string>
   <string name="search_menu_title">"検索"</string>
+  <string name="search_more">その他</string>
   <string name="search_result_local_songs">ローカル</string>
   <string name="search_result_online_songs">オンライン</string>
   <string name="search_songs">曲を検索</string>
@@ -688,8 +702,10 @@
   <string name="sleep_mode_summary">"一定時間後にプレーヤーを停止する"</string>
   <string name="sleep_mode_title">"スリープタイマー"</string>
   <string name="sliding_pro_center">PRO center</string>
+  <string name="song_already_in_playlist">この曲は既にキューに入っています</string>
   <string name="song_exist_in_playlist">この曲は既にキューに入っています</string>
   <string name="song_info">"曲の詳細"</string>
+  <string name="song_is_added_to_playlist">キューに追加しました</string>
   <string name="song_is_empty">Song name can not be empty.</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"この曲は利用できません。"</string>
@@ -702,6 +718,7 @@
   <string name="start_shuffle">"シャッフル中..."</string>
   <string name="start_to_download">"ダウンロード中…"</string>
   <string name="start_to_play">"再生"</string>
+  <string name="storage_cloned_app">デュアルアプリ用のストレージ</string>
   <string name="storage_internal">"内部ストレージ"</string>
   <string name="storage_sd_card">"SDカード"</string>
   <string name="storage_usb">"USBストレージ"</string>

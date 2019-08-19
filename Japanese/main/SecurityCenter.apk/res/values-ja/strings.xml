@@ -388,6 +388,7 @@
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
+  <string name="battery_and_property">バッテリーとパフォーマンス</string>
   <string name="battery_capacity_title">"電池容量"</string>
   <string name="battery_charge_estimating">"計算中"</string>
   <string name="battery_charge_full">"充電完了"</string>
@@ -1564,7 +1565,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="pc_search_keywords_battery_use">バッテリー使用量</string>
   <string name="pc_search_keywords_capacity">バッテリー容量</string>
   <string name="pc_search_keywords_property">パフォーマンス</string>
-  <string name="pc_settings_title">バッテリーの最適化の設定</string>
+  <string name="pc_settings_title">バッテリーとパフォーマンスの設定</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
   <string name="pc_statistics_battery_use_summary">%s since last charge</string>
@@ -1640,7 +1641,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_center_super_save_title_text">ウルトラバッテリーセーバー</string>
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
-  <string name="power_center_title">"バッテリーの最適化"</string>
+  <string name="power_center_title">"バッテリーとパフォーマンス"</string>
   <string name="power_consume_hardware_total_format">"ハードウェア: %s"</string>
   <string name="power_consume_other">"その他"</string>
   <string name="power_consume_rank_hardware">"ハードウェア"</string>
@@ -1690,8 +1691,16 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_setting_background_app_save_summary">機能に影響を与えることなく、バックグラウンドでのアプリのアクティビティを制限する</string>
   <string name="power_setting_background_app_save_title">バックグラウンドバッテリーセーバー</string>
   <string name="power_setting_category_other">高度な設定</string>
+  <string name="power_setting_config_scenario_policies_title">シナリオ</string>
+  <string name="power_setting_features">Special features</string>
+  <string name="power_setting_important_warning">Attention</string>
   <string name="power_setting_power_save_summary_text">バッテリーを節約するためにシステム設定を最適化する</string>
+  <string name="power_setting_scenario_policies_summary">Identify scenarios to switch between battery saving modes automatically</string>
   <string name="power_setting_super_save_summary_text">バッテリーを節約するためにほとんどのシステム機能を制限する</string>
+  <string name="power_setting_warm_configure">温度制御</string>
+  <string name="power_setting_warm_performance_tip">Scenarios that require high power consumption will raise the temperature of your device above the levels of the default temperature control mode.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Charge compatible devices wirelessly</string>
+  <string name="power_setting_wireless_reverse_charging_title">Reverse wireless charging</string>
   <string name="power_settings_category_title">"バッテリー残量表示"</string>
   <string name="power_settings_lock_screen_saver_title">ロック画面の設定</string>
   <string name="power_settings_number">Percentage</string>
@@ -2201,10 +2210,12 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="system_app">"システムアプリ"</string>
   <string name="system_application">"システムアプリ"</string>
   <string name="system_permission_declare_agree">同意</string>
+  <string name="system_permission_declare_analytics_declare">"Thank you for enrolling in our User Experience Program. Your device needs to be connected to the internet to allow this feature to work normally. You're also required to grant the following permissions to allow us to collect the data that will help us improve our products and services. This data is collected for statistical purposes only. We won't be able to use this data to identify you personally."</string>
   <string name="system_permission_declare_disagree">同意しない</string>
   <string name="system_permission_declare_double_link">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature.&lt;/Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! This app allows you to use the following feature: %2s.</string>
   <string name="system_permission_declare_no_say_no">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work normally."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"If you don't want to grant these permissions, you can unenroll in Settings &gt; Additional settings &gt; Privacy &gt; User Experience Program."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
   <string name="system_permission_declare_privacy_declare">"We respect and protect your privacy.
 Note that %1s needs to collect your data and requires the following permissions to work normally:"</string>
