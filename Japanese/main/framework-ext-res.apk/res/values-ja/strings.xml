@@ -75,7 +75,7 @@
   <string name="handy_mode_title">"片手操作モード"</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">"ホームボタンの上に指を置いてください"</string>
   <string name="input_method_edit_phrase_text">よく使うフレーズを編集</string>
-  <string name="input_method_no_content_text">ここにはまだアイテムがありません/string>
+  <string name="input_method_no_content_text">ここにはまだアイテムがありません</string>
   <string name="input_method_switch_settings_text">キーボード設定</string>
   <string name="input_method_tab_clipboard_text">クリップボード</string>
   <string name="input_method_tab_phrase_text">よく使うフレーズ</string>
