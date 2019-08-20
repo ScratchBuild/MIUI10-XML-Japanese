@@ -1388,6 +1388,7 @@ This feature can be turned off in the Settings."</string>
   <string name="connected_via_wfa">Wi-Fiアシスタント経由で接続しました</string>
   <string name="connected_wifi">接続しました</string>
   <string name="connecting_to_vpn">VPNへの接続</string>
+  <string name="connection_and_sharing">接続と共有</string>
   <string name="content_description_menu_button">メニュー</string>
   <string name="contributors_title">アライアンスパートナー</string>
   <string name="controls_label">コントロール</string>
@@ -1986,6 +1987,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="enable_multi_window_summary">複数のアクティビティを同時に画面上に表示する</string>
   <string name="enable_opengl_traces_title">OpenGLトレースを有効化</string>
   <string name="enable_quick_setting">クイック設定に表示</string>
+  <string name="enable_screen_projection_summary">画面の内容を外部モニターにキャストする</string>
   <string name="enable_service_encryption_warning">%1$sをONにすると、端末データの暗号化の強化に画面ロックは使用されなくなります。</string>
   <string name="enable_service_password_reason">%1$sをONにするとデータの暗号化に影響するため、パスワードの確認が必要となります。</string>
   <string name="enable_service_pattern_reason">%1$sをONにするとデータの暗号化に影響するため、パターンの確認が必要となります。</string>
@@ -3750,6 +3752,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="onscreen_keyboard_settings_summary">画面キーボードを設定する</string>
   <string name="open_demo_mode">オンにする</string>
   <string name="open_demo_mode_warning_message">デモモードをオンにすると、ステータスバーの時計が停止し、バッテリーと電波強度のアイコンは100%として表示されます。元に戻すにはデモモードをオフにするか、端末を再起動してください。</string>
+  <string name="open_game_accelerate">Game Turboをオンにする</string>
   <string name="open_miui_optimization_title">MIUIの最適化をオンにする</string>
   <string name="open_optimization_message">最適化をオンにすると、より滑らかで高速なUIを実現します。</string>
   <string name="open_optimization_option">オンにする</string>
@@ -3770,6 +3773,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="otg_tip">"USB On-The-Go allows USB drives and portable keyboards to connect to your mobile device and exchange data.
 
 OTG turns off automatically after 10 minutes of inactivity."</string>
+  <string name="other">その他</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
   <string name="other_personal_settings">個人設定</string>
@@ -4443,6 +4447,8 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_compatibility_label">画面の互換性</string>
   <string name="screen_compatibility_text">このアプリはお使いの画面用に設計されていない可能性があります。ここでお使いの画面に合わせて設定できます。</string>
   <string name="screen_confirm">オンにする</string>
+  <string name="screen_dark_mode_select_time_error_summary">開始時間と終了時間を同じにすることはできません</string>
+  <string name="screen_dark_mode_time_title">スケジュール</string>
   <string name="screen_effect">コントラストと色</string>
   <string name="screen_key_long_press">ナビゲーションボタンを長押し</string>
   <string name="screen_key_long_press_action">トリガ機能</string>
@@ -4509,6 +4515,24 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="screen_pinning_unlock_password">画面固定の解除前にパスワードを要求</string>
   <string name="screen_pinning_unlock_pattern">画面固定の解除前にロック解除パターンを要求</string>
   <string name="screen_pinning_unlock_pin">画面固定の解除前にPINを要求</string>
+  <string name="screen_projection">Cast</string>
+  <string name="screen_projection_characteristics">Special features</string>
+  <string name="screen_projection_characteristics_off_screen_summary">You can keep casting when the screen of your device is turned off. This feature decreases power consumption.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Cast with screen off</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Don't display floating notifications, incoming calls, and other private items on external monitors."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Hide private items</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Minimize the window that's being cast to be able to use other features of your phone."</string>
+  <string name="screen_projection_characteristics_small_window_title">Minimize window</string>
+  <string name="screen_projection_example_document_summary">Display presentations on an external monitor while using your phone to switch between slides and view notes. Go to File Manager &gt; Docs to try this feature.</string>
+  <string name="screen_projection_example_document_title">Documents</string>
+  <string name="screen_projection_example_gallery_summary">Tap the Share button under an item in the Gallery app to display it on an external monitor.</string>
+  <string name="screen_projection_example_gallery_title">Photos &amp; videos</string>
+  <string name="screen_projection_example_game_summary">Game Turbo allows you to cast games to an external monitor. Use the shortcut in the Game Turbo toolbox to turn this feature on.</string>
+  <string name="screen_projection_example_game_title">Games</string>
+  <string name="screen_projection_help">Help</string>
+  <string name="screen_projection_sample_summary">Casting documents, games, photos, and videos</string>
+  <string name="screen_projection_sample_title">Demos</string>
+  <string name="screen_projection_title">Cast</string>
   <string name="screen_resolution_confirm">再起動</string>
   <string name="screen_resolution_dialog_title">解像度を変更する</string>
   <string name="screen_resolution_high_format">高 (%1$s)</string>
@@ -4629,6 +4653,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_choose_timezone">タイムゾーンを選択;タイムゾーン</string>
   <string name="search_cloud_backup_settings_section_title">バックアップの設定;バックアップ</string>
   <string name="search_cloud_restore_section_title">Mi Cloudから復元する;Mi Cloud;Cloud backups</string>
+  <string name="search_connection_and_sharing">More;Wireless</string>
   <string name="search_copyright_title">著作権</string>
   <string name="search_credentials_install">ストレージからのインストール;Direct install;Install APK</string>
   <string name="search_date_and_time_settings_title">日付と時刻;日付;時刻</string>
@@ -4708,7 +4733,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="search_preferred_network_type_title">優先ネットワークタイプ;優先ネットワーク;Network type</string>
   <string name="search_privacy_policy">プライバシーポリシー</string>
   <string name="search_privacy_settings">バックアップとリセット;バックアップ;リセット</string>
-  <string name="search_radio_controls_title">More;Wireless</string>
   <string name="search_recents_queries_label">最近の検索</string>
   <string name="search_results_label">検索結果</string>
   <string name="search_results_title">設定</string>
@@ -5497,6 +5521,7 @@ PINが正しくない可能性があります。"</string>
   <string name="system_backup_section_title">バックアップ</string>
   <string name="system_dashboard_summary">言語、時間、バックアップ、アップデート</string>
   <string name="system_package">システムアップデートは外部メディアにはインストールできません。</string>
+  <string name="system_print_service_help">印刷について</string>
   <string name="system_shortcut_wake">ショートカットボタンでスリープ解除</string>
   <string name="system_storage">システムストレージ</string>
   <string name="system_ui_settings">SystemUI調整ツールを表示</string>
@@ -6811,6 +6836,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="xiaomi_router_available_notif_title">Mi WiFiルーターが利用可能</string>
   <string name="xiaomi_router_notif_summary">Mi WiFiルーターが利用可能な場合には通知する</string>
   <string name="xiaomi_router_notif_title">Mi WiFiルーター通知</string>
+  <string name="xiaomi_transfer">Mi Share</string>
   <string name="xspace">デュアルアプリ</string>
   <string name="yes">はい</string>
   <string name="zen_access_disabled_package_warning">通知アクセスが ON になっているため ON のままにしておく必要があります</string>

@@ -624,7 +624,7 @@
   <string name="deep_clean_never_memory_clean">"何もしない"</string>
   <string name="deep_power_save_item_summary_auto_brightness">バッテリーを節約するために画面の明るさを自動で調節する</string>
   <string name="deep_power_save_item_summary_bluetooth">バッテリーを節約するためにBluetoothをオフにする</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">バッテリーを節約するため、30秒間操作が行われていない場合は画面を消灯する</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">バッテリーを節約するため、15秒間操作が行われていない場合は画面を消灯する</string>
   <string name="deep_power_save_item_title_auto_brightness">明るさの自動調節をオンにする</string>
   <string name="deep_power_save_item_title_bluetooth">Bluetoothをオフにする</string>
   <string name="deep_power_save_item_title_lock_screen_time">画面をスリープ状態にする</string>
@@ -909,6 +909,12 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="free_time_traffic_title">Enter off-peak data limit</string>
   <string name="free_traffic_settings">Off-peak data usage settings</string>
   <string name="function_close">Off</string>
+  <string name="function_gwsd_detail">"About this feature:
+ 1. Incoming calls to your data SIM won't interrupt mobile data connection. The connection will be interrupted only when you answer a call.
+ 2. When this feature is turned on, the caller won't hear call waiting ringtones. Incoming calls will be ended unless you answer within 6 seconds.
+ 3. This feature only works for data SIM cards. Calls to your primary SIM will interrupt mobile data connection.
+ 4. This feature is supported only by China Mobile and China Unicom."</string>
+  <string name="function_gwsd_title">"Don't allow incoming calls to interrupt data SIM connection"</string>
   <string name="function_shield_auto_bright">明るさの自動調節をオフにする</string>
   <string name="function_shield_eye_shield">読書灯をオフにする</string>
   <string name="function_shield_pull_notification_bar">通知領域を開かない</string>
@@ -1575,6 +1581,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="perfermance_optimization_summary">端末の過熱やハードウェア関連の問題を回避する</string>
   <string name="perfermance_optimization_title">パフォーマンスの最適化</string>
   <string name="permission_action_accept">"許可"</string>
+  <string name="permission_action_always">常に許可</string>
+  <string name="permission_action_foreground">アプリを使用中のみ</string>
   <string name="permission_action_prompt">"確認"</string>
   <string name="permission_action_reject">"拒否"</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
@@ -2348,7 +2356,7 @@ We respect and protect your privacy."</string>
   <string name="title_chain_start">Restrict chain start</string>
   <string name="title_cleaner_cloudscan">Cloud trash scan</string>
   <string name="title_cloud_account">Mi Account</string>
-  <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cloud_service">Xiaomi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloud storage nearly full, items may not sync</string>
   <string name="title_cloud_space_full">Cloud is full</string>
   <string name="title_cmcc_app_check">"Verification isn't complete"</string>

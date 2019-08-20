@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_sound">カスタムプリセットを追加</string>
-  <string name="app_name">ヘッドフォンとオーディオエフェクト</string>
+  <string name="app_name">イヤホン</string>
   <string name="apply_sound">適用</string>
   <string name="can_you_here">Can you hear the sound?</string>
   <string name="complete_dialog_button">OK</string>
@@ -104,7 +104,7 @@
   <string name="music_headset_mode_settings">ヘッドフォンのリモコン</string>
   <string name="music_headset_mode_volume">ボリュームコントロール</string>
   <string name="music_headset_no_contected">ヘッドフォンが見つかりません</string>
-  <string name="music_headset_settings">ヘッドフォンとオーディオエフェクト</string>
+  <string name="music_headset_settings">イヤホン</string>
   <string name="music_hifi_summary">ノイズと歪みを低減し、音質を向上させます</string>
   <string name="music_hifi_title">Hi-Fiオーディオ</string>
   <string name="music_mi_effect_summary">スピーカー利用時にMi Sound Enhancerを使用する</string>

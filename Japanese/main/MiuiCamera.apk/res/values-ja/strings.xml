@@ -29,6 +29,7 @@
   <string name="accessibility_filter_open_panel">Opened filter menu</string>
   <string name="accessibility_filter_pad_close">Filter menu is hidden</string>
   <string name="accessibility_flash_auto">Auto flash is on</string>
+  <string name="accessibility_flash_back_soft_light">闪光灯，柔光状态</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_flash_off">Flash is off</string>
   <string name="accessibility_flash_on">Flash is on</string>
@@ -263,9 +264,8 @@ in Portrait mode"</string>
   <string name="lying_direct_hint">現在の向き</string>
   <string name="macro_mode">マクロ</string>
   <string name="macro_mode_tip">レンズと被写体の間の距離を10cm以内に近づけてください</string>
-  <string name="macro_mode_use_hint_text_body">"开启微距模式，为您记录更微观的世界
-探索更多细节的美"</string>
-  <string name="macro_mode_use_hint_text_title">微距模式</string>
+  <string name="macro_mode_use_hint_text_body">"マクロモードを使用して、小さな被写体を写真で大きく見せます"</string>
+  <string name="macro_mode_use_hint_text_title">マクロ</string>
   <string name="makeup_reset_toast">Cleared makeup effects successfully</string>
   <string name="message_snap_double_confirm">"音量ボタンの長押しには現在、NFCの起動が割り当てられています。この機能を置換えますか？"</string>
   <string name="mimoji_app_name">Fun Cam</string>
@@ -357,6 +357,9 @@ in Portrait mode"</string>
   <string name="pano_how_to_use_prompt_start">Tap the arrow to switch direction and begin panning slowly.</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">"システムアプリ/カメラ/設定"</string>
+  <string name="pic_flaw_blink_more">照片拍摄有人眨眼</string>
+  <string name="pic_flaw_blink_one">照片拍摄有眨眼</string>
+  <string name="pic_flaw_cover">照片拍摄有遮挡</string>
   <string name="popup_tip_3d_beauty_intro_text">3D Beauty</string>
   <string name="photos_portrait_type_description">Portrait shots have a depth effect that keeps your subject in focus and blurs out rest of the background.</string>
   <string name="photos_portrait_type_name">Portrait</string>
@@ -435,6 +438,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_facedetection_title">"顔検出"</string>
   <string name="pref_camera_fisheye_title">Fisheye</string>
   <string name="pref_camera_flashmode_entry_auto">"自動"</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Soft light</string>
   <string name="pref_camera_flashmode_entry_off">"オフ"</string>
   <string name="pref_camera_flashmode_entry_on">"オン"</string>
   <string name="pref_camera_flashmode_entry_torch">"発光"</string>
@@ -502,6 +506,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_peak_title">Focus peaking</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Full screen</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
@@ -605,6 +610,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">You can only record 720p videos with 960fps</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+  <string name="pref_pic_flaw_tip_summary">拍摄的照片有闭眼或边缘有遮挡时,会在拍照界面实时给出提示</string>
+  <string name="pref_pic_flaw_tip_title">照片瑕疵提示</string>
   <string name="pref_priority_storage_title">"SDカードへ保存"</string>
   <string name="pref_privacy_title">プライバシーポリシー</string>
   <string name="pref_qc_focus_position_title">"フォーカス"</string>
@@ -661,6 +668,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="recapture_dialog_title">重新拍摄将清空当前形象</string>
   <string name="recommend_macro_mode">建议开启微距</string>
   <string name="recommend_portrait">建议使用人像模式</string>
+  <string name="recommend_soft_light_tip">Use flash in the soft light mode</string>
   <string name="recommend_super_night">建议使用夜景模式</string>
   <string name="record_back_pressed_hint">"録画を停止するにはもう一度タップ"</string>
   <string name="screen_on_proximity_sensor_hint">"この機能をオフにするには、音量[＋]ボタンと戻るボタンを同時に押してください。"</string>
@@ -728,7 +736,8 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="video_camera_label">Camcorder</string>
   <string name="video_reach_size_limit">"サイズ制限に達しました。"</string>
   <string name="view_privacy_policy">"プライバシーポリシーを表示"</string>
-  <string name="vv_start">VVの撮影を開始</string>
+  <string name="vv_hint">VISION仅支持横屏拍摄</string>
+  <string name="vv_start">VISIONの撮影を開始</string>
   <string name="wideselfie_press_shoot_key_to_start">シャッターボタンを押す</string>
   <string name="wideselfie_result_image_lossless">"Couldn't create panoramic shot"</string>
   <string name="wideselfie_rotate_slowly">端末を回転させる</string>

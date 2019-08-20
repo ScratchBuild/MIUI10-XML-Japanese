@@ -2,7 +2,7 @@
 <resources>
   <string name="add">追加</string>
   <string name="add_manual_printer">手動でプリンタを追加</string>
-  <string name="app_name">デフォルト印刷サービス</string>
+  <string name="app_name">システム印刷サービス</string>
   <string name="forget_printer">プリンタを削除</string>
   <string name="hostname_or_ip">ホスト名またはIPアドレス</string>
   <string name="media_size_4x6in">4x6 インチ</string>

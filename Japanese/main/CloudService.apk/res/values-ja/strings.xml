@@ -22,6 +22,7 @@
   <string name="cloud_storage_already_used">使用量: %1$s/%2$s</string>
   <string name="cloud_storage_info_type_others">その他</string>
   <string name="cloud_storage_manage_title">ストレージの管理</string>
+  <string name="cloud_storage_no_data">クラウドにはまだアイテムがありません</string>
   <string name="cloudservice_new_sync">"Cloudと%sを同期"</string>
   <string name="confirm_delete">"削除"</string>
   <string name="confirm_save">"保持"</string>
@@ -332,13 +333,16 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_sub_dspt_provision_with_voip">"インターネット通話"</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="no_sim">"SIMカードが見つかりませんでした"</string>
+  <string name="pay_info_dialog_confirm_to_pay">Pay %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Use remaining Mi Credits: %s</string>
+  <string name="pay_info_dialog_title">支払い方法を選択</string>
   <string name="phone_number_required_dspt_provision">"このサービスには電話番号が必要です。 "</string>
   <string name="pre_privacy_policy">プライバシーポリシー</string>
   <string name="pre_user_agreement">利用規約</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Wi-Fiネットワークに接続している場合にのみ、連絡先のプロフィール写真を同期する"</string>
   <string name="pref_title_sync_contacts_title">"連絡先を同期"</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">"写真の同期はWi-Fiのみ使用する"</string>
-  <string name="privacy_and_agreement">プライバシーと同意</string>
+  <string name="privacy_and_agreement">規約と条件</string>
   <string name="privacy_policy">プライバシーポリシー</string>
   <string name="provision_sync_items_loading">Preparing to sync items</string>
   <string name="reading_status">ステータスを読み込み中…</string>

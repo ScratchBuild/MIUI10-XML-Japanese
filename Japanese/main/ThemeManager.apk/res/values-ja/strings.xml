@@ -19,6 +19,11 @@
   <string name="audio_duration_minutes_format">"%1$d分"</string>
   <string name="audio_duration_seconds_format">"%1$d秒"</string>
   <string name="audition_ringtone">再生</string>
+  <string name="author_attention">Follow</string>
+  <string name="author_attention_success">Followed successfully</string>
+  <string name="author_dialog_message">Unfollow this account now?</string>
+  <string name="author_dynamic">Status</string>
+  <string name="author_dynamic_no_resource">"Couldn't find results"</string>
   <string name="automatically_update_using_theme_tips">"次回から自動的に更新"</string>
   <string name="backup_theme_dialog_message">"現在のテーマをバックアップしますか？"</string>
   <string name="backup_theme_dialog_ok">"バックアップ"</string>
@@ -67,6 +72,9 @@
   <string name="description_version_szie">"バージョン: %1$s サイズ: %2$s"</string>
   <string name="desktop_effects">ホーム画面のエフェクト</string>
   <string name="desktop_wallpaper">"ホーム画面"</string>
+  <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
+  <string name="detail_author_fans">"Followers: "</string>
+  <string name="detail_author_works">"Items: "</string>
   <string name="detail_recommend_title">You might like these</string>
   <string name="dev_options">"開発者向けオプション"</string>
   <string name="dev_options_summary">Web resources</string>
@@ -267,6 +275,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="resource_account_switch">"切り替え"</string>
   <string name="resource_app_name">"テーママネージャー"</string>
   <string name="resource_apply">"適用"</string>
+  <string name="resource_apply_trial">適用</string>
   <string name="resource_back">"戻る"</string>
   <string name="resource_buy">"購入"</string>
   <string name="resource_can_not_selected">"%1$s can't be selected"</string>
@@ -328,6 +337,7 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="resource_download">"ダウンロード"</string>
   <string name="resource_download_notification_title_many">"%1$s個のテーマをダウンロードしました"</string>
   <string name="resource_download_notification_title_one">"テーマをダウンロードしました"</string>
+  <string name="resource_download_trial">試す</string>
   <string name="resource_downloaded_title">"保存済みのテーマ"</string>
   <string name="resource_downloading">"ダウンロード中"</string>
   <string name="resource_exchange">"引き換え"</string>
@@ -632,6 +642,8 @@ To turn this feature off, go to Settings &gt; Sound and vibration &gt; Profile v
   <string name="wallpaper_detail_load_page_no_network">"ネットワークに接続してもう一度お試しください。"</string>
   <string name="wallpaper_dynamic">Dynamic</string>
   <string name="wallpaper_loop_title_lock_walpaper">Lock screen wallpaper slideshow</string>
+  <string name="wallpaper_no_favorite">ここにアイテムはありません。</string>
+  <string name="wallpaper_no_record">ここにアイテムはありません。</string>
   <string name="wallpaper_online">Online wallpapers</string>
   <string name="wallpaper_online_no_more">"That's all for now"</string>
   <string name="wallpaper_online_tip">Connect to the network to view more items</string>
