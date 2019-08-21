@@ -388,6 +388,9 @@
   <string name="background_restrict_app_dialog_message">"このアプリのバックグラウンドネットワークアクセスを制限すると、メッセージの受信、コンテンツのダウンロード、その他の機能が正常に動作しなくなる可能性があります。とにかく制限しますか？"</string>
   <string name="background_traffic">"バックグラウンド %s"</string>
   <string name="backsound_set_hint">"不在メッセージを%sに設定しますか？"</string>
+  <string name="banner_optimizemanage_summary">メモリを解放する</string>
+  <string name="banner_red_money_assist_button">オンにする</string>
+  <string name="banner_red_money_assist_summary">Open red envelopes faster</string>
   <string name="battery_and_property">バッテリーとパフォーマンス</string>
   <string name="battery_capacity_title">"電池容量"</string>
   <string name="battery_charge_estimating">"計算中"</string>
@@ -944,7 +947,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gamebooster_lowbattery_notification_summary">"電源を切る前に、端末を充電してください。"</string>
   <string name="gamebooster_lowbattery_notification_title">"バッテリー残量が5%%未満です"</string>
   <string name="gamebooster_main_activity_back">"戻る"</string>
-  <string name="gamebooster_network_dialog_message">"Game speed boosterのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
+  <string name="gamebooster_network_dialog_message">"Game Turboのすべての機能を使用するため、セキュリティアプリにネットワーク接続を許可しますか？"</string>
   <string name="gamebooster_network_dialog_title">"一部の機能が利用できません"</string>
   <string name="gamebox_app_not_find">最初にアプリをインストールしてください。</string>
   <string name="gamebox_browser_not_find">最初にMiブラウザをインストールする</string>
@@ -1315,15 +1318,10 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_setting_traffic">"手動で設定"</string>
   <string name="menu_sms">"メッセージを送信"</string>
   <string name="menu_summary_antispam">"通話とメッセージをブロック"</string>
-  <string name="menu_summary_antispam_2">"ブロックした通話とメッセージ"</string>
   <string name="menu_summary_antivirus">"端末上のウイルスを検索する"</string>
-  <string name="menu_summary_antivirus_2">"潜在的なリスクが見つかりました"</string>
-  <string name="menu_summary_antivirus_3">"端末はスキャンされていません"</string>
   <string name="menu_summary_app_manager">"アプリの更新とアンインストール"</string>
-  <string name="menu_summary_app_manager_2">"更新が利用可能です"</string>
   <string name="menu_summary_garbage_cleanup">"ゴミはありません"</string>
-  <string name="menu_summary_garbage_cleanup_2">"ゴミ箱のサイズ制限"</string>
-  <string name="menu_summary_garbage_cleanup_3">"今すぐゴミ箱を空にする"</string>
+  <string name="menu_summary_garbage_cleanup_ex">Clear %s of trash</string>
   <string name="menu_summary_networkassistants">"データプランの設定"</string>
   <string name="menu_summary_networkassistants_2">"制限を超過しました"</string>
   <string name="menu_summary_networkassistants_3">十分なデータ残量あり</string>
@@ -1341,7 +1339,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="menu_text_networkassistants_danger">"超過 %s"</string>
   <string name="menu_text_networkassistants_remain">"残り %s"</string>
   <string name="menu_text_optimize_manage">Boost speed</string>
-  <string name="menu_text_power_manager">"バッテリーの最適化"</string>
+  <string name="menu_text_power_manager">バッテリーとパフォーマンス</string>
   <string name="menu_wh_remove">"例外から削除"</string>
   <string name="menu_white">"例外に追加"</string>
   <string name="mi_service_app_detail">"データ使用量の詳細"</string>
@@ -1595,6 +1593,16 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="permit_running_network">"バックグラウンドデータ"</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="phone">"電話"</string>
+  <string name="phone_manage">ユーティリティ</string>
+  <string name="phone_manage_app_manager_summary">端末上のアプリを管理する</string>
+  <string name="phone_manage_clean_summary">ストレージの空き領域を増やす</string>
+  <string name="phone_manage_clean_title">クリーナー</string>
+  <string name="phone_manage_electric_summary">端末を最適化してバッテリーを節約する</string>
+  <string name="phone_manage_electric_title">バッテリー</string>
+  <string name="phone_manage_special_summary">追加機能を調べる</string>
+  <string name="phone_manage_special_title">特別な機能</string>
+  <string name="phone_manage_system_tool_summary">便利なシステムレベルのツール</string>
+  <string name="phone_manage_system_tool_title">ツール</string>
   <string name="pkg_traffic">"データ使用量の制限を設定"</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
   <string name="pm_auto_start_by_other_app">Allow the app to be started by other apps</string>
@@ -1677,6 +1685,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_optimize_save_mode_not_opened">Battery saver off</string>
   <string name="power_optimize_save_on_lockscreen">Save power when device is locked</string>
   <string name="power_phone">"音声通話"</string>
+  <string name="power_save_mode">バッテリーセーバー</string>
   <string name="power_save_mode_auto_exit_summary">Turn off when battery is 60% or fully charged​</string>
   <string name="power_save_mode_auto_exit_title">Turn off when charged</string>
   <string name="power_save_mode_close_warn_text">"バッテリーセーバーはバックグラウンドアクティビティと同期を制限します。端末の充電中に使用した場合、一部の機能が正常に動作しなくなる可能性があります。お使いの端末が充電されているときにバッテリーセーバーをオンにしますか？"</string>
@@ -1692,6 +1701,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_save_ps_close_setting">バッテリーを節約するためにバックグラウンドサービス(同期、GPS)をオフにする</string>
   <string name="power_save_ps_freeze">アプリをバックグラウンドで停止する</string>
   <string name="power_save_ps_limit">システムアプリのアクティビティを制限する</string>
+  <string name="power_save_settings">バッテリー設定</string>
   <string name="power_save_started_summary_text">"バッテリーセーバーがオンになっています。これにより、バックグラウンドアクティビティを減らし、同期の停止、システムアニメーションを最小限に抑えます。"</string>
   <string name="power_save_summary_text">"バッテリーセーバーをオンにすると、アプリのバックグラウンドアクティビティの抑制、同期の停止、システムアニメーションを最小限に抑えられます。"</string>
   <string name="power_save_title_text">"バッテリーセーバー"</string>
@@ -1918,13 +1928,14 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="section_title_clear_acc">"キャッシュを消去"</string>
   <string name="section_title_security_defend">"セキュリティ"</string>
   <string name="section_title_system">"システムのセキュリティ"</string>
-  <string name="security_center_slogan">Security. Always on guard.</string>
+  <string name="security_center_slogan">端末を高速かつ安全な状態に保つ</string>
   <string name="security_scan_optimizing">"最適化しています…"</string>
   <string name="securityadd_install_fail">プラグインを更新できませんでした。もう一度お試しください。</string>
   <string name="securityadd_update_tips_cancle">後で</string>
   <string name="securityadd_update_tips_message">最新のゲーム機能を利用するには、セキュリティサービスプラグインを更新してください。%1$dMB がダウンロードされます。</string>
   <string name="securityadd_update_tips_now">更新</string>
   <string name="securityadd_update_tips_title">更新</string>
+  <string name="securitycenter_tab_title">セキュリティ</string>
   <string name="see_detail">"詳細"</string>
   <string name="see_more_content">"より多くのおすすめを表示するため、ゲームを更新する"</string>
   <string name="set_applock_password">"パスワードを設定"</string>
@@ -2231,7 +2242,7 @@ Note that %1s needs to collect your data and requires the following permissions 
 We respect and protect your privacy."</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">このアプリを終了することができます。</string>
-  <string name="system_permission_declare_revoke_uninstallable">このアプリをアンインストールするか、[セキュリティ] &gt; [アプリの管理] &gt; [権限] &gt; [その他の権限] からアクセス権限を管理することができます。</string>
+  <string name="system_permission_declare_revoke_uninstallable">You can sign out, uninstall this app, or revoke your authorization in Security &gt; Manage apps &gt; Permissions &gt; Permissions.</string>
   <string name="system_permission_declare_use_network">ネットワークへの接続</string>
   <string name="system_permission_declare_use_network_no_permission">ネットワークに接続</string>
   <string name="system_permission_declare_user_agreement">&lt;Data>この機能を使用する前に、&lt;a href=\"%1$s\">利用規約&lt;/a>に同意する必要があります。&lt;/Data></string>
@@ -2239,6 +2250,8 @@ We respect and protect your privacy."</string>
   <string name="system_permission_perm_read_mms">MMSの読み取り</string>
   <string name="system_permission_perm_read_numbers">電話番号の読み取り</string>
   <string name="system_permission_perm_send_mms">MMSの送信</string>
+  <string name="system_tool_green_guard">Family Guard</string>
+  <string name="system_tool_sos">Emergency SOS</string>
   <string name="tab_blacklist">"ブロックリスト"</string>
   <string name="tab_block_log_unKnowNumber">"非通知"</string>
   <string name="tab_call">"通話"</string>

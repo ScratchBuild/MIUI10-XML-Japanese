@@ -102,6 +102,7 @@ You can sign in to your Mi Account using %s now."</string>
 ID:%s
 このコードを技術者に送ってください。"</string>
   <string name="empty_device_list_notice">No devices</string>
+  <string name="ep_unsupported">お使いの端末は、Xiaomiアカウントへのログインをサポートしていません</string>
   <string name="error_dup_binded_email">"このメールアドレスは既に別のMiアカウントに関連付けられています。"</string>
   <string name="error_invalid_bind_address">"入力したメールアドレスは無効です"</string>
   <string name="exceed_binded_phone_times_notice">"この電話番号は既に別のMi Accountに関連付けられています。"</string>

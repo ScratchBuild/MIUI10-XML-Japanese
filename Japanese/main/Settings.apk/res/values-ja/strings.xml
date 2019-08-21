@@ -5189,6 +5189,7 @@ PINが正しくない可能性があります。"</string>
   <string name="sound_stereo_mode_title">ステレオサウンド</string>
   <string name="sound_title">音</string>
   <string name="sound_vibrate_settings">音量とバイブレーション</string>
+  <string name="speaker">スピーカー</string>
   <string name="special_access">特別なアクセス</string>
   <string name="speed_label_fast">速い</string>
   <string name="speed_label_medium">普通</string>
