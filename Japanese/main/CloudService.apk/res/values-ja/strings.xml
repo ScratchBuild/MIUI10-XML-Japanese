@@ -20,7 +20,10 @@
   <string name="cloud_find_device_on">オン</string>
   <string name="cloud_lab_title">Lab</string>
   <string name="cloud_storage_already_used">使用量: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_drive">Mi Drive</string>
+  <string name="cloud_storage_info_type_duokan">Duokan</string>
   <string name="cloud_storage_info_type_others">その他</string>
+  <string name="cloud_storage_info_type_pdc">システム設定</string>
   <string name="cloud_storage_manage_title">ストレージの管理</string>
   <string name="cloud_storage_no_data">クラウドにはまだアイテムがありません</string>
   <string name="cloudservice_new_sync">"Cloudと%sを同期"</string>
@@ -182,6 +185,8 @@ Locate and lock your device in case it's lost."</string>
   <string name="micloud_find_device_verify_progress">Reactivating Find device…</string>
   <string name="micloud_last_sync_canceled">同期がキャンセルされました。再試行。</string>
   <string name="micloud_main_head_menu_cloud_backup">ホーム画面のバックアップ</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Home screen layout, apps, and system settings</string>
+  <string name="micloud_main_head_menu_finddevice_summary">"Locate and lock your device if it's lost"</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Find deviceはSecond spaceで使用できません、First spaceでのみ使用できます。</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">削除したアイテムを復元する</string>
   <string name="micloud_main_head_menu_recycle_bin_title">削除したアイテム</string>
@@ -203,7 +208,7 @@ Locate and lock your device in case it's lost."</string>
   <string name="micloud_manaul_sync_success_time_prefix">最終同期: %s</string>
   <string name="micloud_manaul_sync_success_title">同期済み</string>
   <string name="micloud_manual_activating">Activating…</string>
-  <string name="micloud_manual_all_sync_off_button_text">同期をオンにする</string>
+  <string name="micloud_manual_all_sync_off_button_text">オンにする</string>
   <string name="micloud_manual_all_sync_off_summary">Restore synced data on new devices using Xiaomi Cloud</string>
   <string name="micloud_manual_all_sync_off_title">同期はオフです</string>
   <string name="micloud_manual_buy_vip">Get more storage</string>
@@ -267,9 +272,15 @@ Locate and lock your device in case it's lost."</string>
   <string name="micloud_request_sync_too_frequent">リクエストが多すぎます。しばらくしてからもう一度試してください。</string>
   <string name="micloud_setting_antispam_summary">"例外とブロックされた電話番号"</string>
   <string name="micloud_setting_browser_summary">"ブックマーク、履歴、タブ"</string>
+  <string name="micloud_setting_calendar_summary">予定</string>
+  <string name="micloud_setting_calllog_summary">通話履歴</string>
   <string name="micloud_setting_contact_summary">"連絡先の情報とプロフィール写真"</string>
   <string name="micloud_setting_gallery_summary">"写真と動画"</string>
   <string name="micloud_setting_music_summary">"プレイリストとお気に入り"</string>
+  <string name="micloud_setting_notes_summary">メモ</string>
+  <string name="micloud_setting_personal_assistant_summary">App vaultのカードと機能</string>
+  <string name="micloud_setting_phrase_summary">よく使うフレーズ</string>
+  <string name="micloud_setting_recorder_summary">オーディオと通話の録音</string>
   <string name="micloud_setting_sms_summary">"SMSとMMSメッセージ"</string>
   <string name="micloud_setting_wifi_summary">"Wi-Fi設定"</string>
   <string name="micloud_space_applist_detail">"ホーム画面のアプリを管理"</string>
@@ -371,6 +382,11 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="soundrecorder_sync_only_in_wifi">"同期はWi-Fiのみ使用する"</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">"レコーダーの記録ファイルのダウンロードやアップロードにモバイルデータを使用しない"</string>
   <string name="soundrecorder_sync_records">"Xiaomi Cloudと同期"</string>
+  <string name="storage_manage_expansion">Get more</string>
+  <string name="storage_manage_list_title">Cloud data</string>
+  <string name="storage_manage_list_title_action">View more</string>
+  <string name="storage_manage_renewal">Renew</string>
+  <string name="storage_manage_upgrade">Upgrade</string>
   <string name="sub_alert_notif_content">"Xiaomi Cloudとの同期をオンにしてデータをバックアップする"</string>
   <string name="sub_alert_notif_title">"Xiaomi Cloudと同期"</string>
   <string name="sub_sync_item_sms_summary">"写真、オーディオ、その他のメディアを含むメッセージは、Wi-Fiに接続している時のみ同期する"</string>
@@ -422,7 +438,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="warning_bar_action_upgrade_vip">Upgrade Xiaomi Cloud plan</string>
   <string name="warning_bar_add_short_cut_success">Added successfully</string>
   <string name="warning_bar_title_cloud_space_already_full">Cloud storage is running low. Your photos might not be synced.</string>
-  <string name="warning_bar_title_cloud_space_full">Cloud storage is full. Sync was paused.</string>
+  <string name="warning_bar_title_cloud_space_full">"Cloud storage is full. Can't sync photos, call history, and other items."</string>
   <string name="warning_bar_title_master_sync_off">Auto sync is off</string>
   <string name="warning_bar_title_network_unconnected">ネットワークに接続できませんでした</string>
   <string name="warning_bar_title_short_cut">Add a Home screen shortcut for Xiaomi Cloud?</string>

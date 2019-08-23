@@ -895,6 +895,7 @@
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">"3G（CDMA）優先"</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">"LTE優先"</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">"4G（CDMA）優先"</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G優先</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">5G優先</string>
   <string name="preferred_network_type_pref_entries_auto">"自動"</string>
   <string name="preferred_network_type_pref_entries_global">"グローバル"</string>

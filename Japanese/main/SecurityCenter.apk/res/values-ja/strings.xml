@@ -580,8 +580,8 @@
   <string name="cpu_usage_view_action_btn_text">"表示するにはタップ"</string>
   <string name="create_gamebooster_destop">ホーム画面にショートカットを作成しました</string>
   <string name="create_shortcut">"Game speed boosterのショートカットをホーム画面に作成"</string>
-  <string name="cta_dialog_msg">"セキュリティアプリが正常に動作するには、更新を取得するためのインターネット接続と位置情報へのアクセスが必要です。"</string>
   <string name="cta_dialog_title">"インターネット接続"</string>
+  <string name="cta_main_purpose">Welcome to Security! You can use this app to clear trash on your device, find and neutralize viruses, optimize performance for gaming, save battery, manage apps, and more.</string>
   <string name="cta_settings">"インターネット接続を許可する"</string>
   <string name="current_network_state_not_need_diagnose">"インターネット接続は正常です。"</string>
   <string name="customize_limit_pkg">%s (custom)</string>
@@ -1045,7 +1045,7 @@ All data on your device might be erased and your Lock screen password might be r
   <string name="gb_xunyou_gift_type_one">"Xunyou boost (1日分)"</string>
   <string name="gb_xunyou_gift_type_three">"Xunyou boost (3日分)"</string>
   <string name="gb_xunyou_gift_type_two">"Xunyou boost (2日分)"</string>
-  <string name="gdpr_msg">&lt;Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data></string>
+  <string name="gdpr_msg">&lt;Data>"In order to use the basic features of Security, you must agree that Xiaomi will collect, process, and use your personal data, including information about the ways you use Security's features (e.g., mobile data usage stats, info about malware, as well as basic info about your device) and other types of information specified in our &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data></string>
   <string name="get_sys_info">"情報を取得中…"</string>
   <string name="gmscore_support_remind">"Gmail、Googleマップ、その他のGoogleアプリの使用に問題が発生した場合は、この機能を有効にしてください。バッテリーの寿命がわずかに短くなります。"</string>
   <string name="gmscore_support_service">"Googleサービス"</string>
