@@ -589,7 +589,7 @@
   <string name="current_network_state_not_need_diagnose">"インターネット接続は正常です。"</string>
   <string name="customize_limit_pkg">%s (custom)</string>
   <string name="customizer_mode_user_define_name">"マイルール"</string>
-  <string name="daily_card_setting_fragment_daily_card_brand">キャリアCarrier</string>
+  <string name="daily_card_setting_fragment_daily_card_brand">キャリア</string>
   <string name="daily_card_setting_fragment_daily_card_brand_value">キャリアを選択</string>
   <string name="daily_card_setting_fragment_daily_card_setting">Daily data plan settings</string>
   <string name="daily_card_setting_fragment_daily_card_summary">"MIUI will set data limits and apps with unlimited data according to the carrier you select. If your carrier isn't listed, select \"Other\" and set up your daily data plan manually."</string>
