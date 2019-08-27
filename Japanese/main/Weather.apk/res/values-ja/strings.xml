@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">天気について</string>
+  <string name="about_weather_setting_feedback">フィードバック</string>
+  <string name="abrupt_weather_settings_summary_type">Receive alerts about expected rainfall, air quality changes, and other significant changes</string>
   <string name="abrupt_weather_settings_summary_type_a">"異常気象警報を切り替える"</string>
   <string name="abrupt_weather_settings_summary_type_b">"異常気象警報を切り替える"</string>
   <string name="abrupt_weather_settings_title">"異常気象警報"</string>
@@ -29,6 +32,8 @@
   <string name="add_city">"追加"</string>
   <string name="alert_detail_title">"アラートの詳細"</string>
   <string name="alert_warning">"警告アラート"</string>
+  <string name="alert_weather_enable_settings_summary">Receive official weather warnings</string>
+  <string name="alert_weather_enable_settings_title">Weather warnings</string>
   <string name="already_voted_toast">"今日の天気は既に選択済みです"</string>
   <string name="app_name">"天気"</string>
   <string name="aqi_desc">Air Quality Index</string>
@@ -100,6 +105,7 @@
   <string name="empty_view_net_unavailable">ネットワークに接続できませんでした</string>
   <string name="empty_view_refresh">再試行</string>
   <string name="eu_region_version_first_start_network_msg">"By using this product, you agree that this product will connect the network, collect, process, and use you personal information, including the coordinates of the cities you search, and other types of data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we collect and process information. By tapping \"Agree\", you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="feedback">Report incorrect weather info</string>
   <string name="feedback_cloudy">Cloudy</string>
   <string name="feedback_foggy">Foggy</string>
   <string name="feedback_haze">Haze</string>
@@ -245,6 +251,8 @@
   <string name="view_forecast_item_yesterday">"昨日"</string>
   <string name="view_indexes_item_today">"今日"</string>
   <string name="view_indexes_item_tommorrow">"明日"</string>
+  <string name="warning_weather_day_and_night_settings_summary">Receive daily summaries containing weather info at 7:00 and 19:00</string>
+  <string name="warning_weather_day_and_night_settings_title">Daily summaries</string>
   <string name="weather_alert_channel_name">アラート</string>
   <string name="weather_introduce">雨の日も晴れの日も、あなたと共に。</string>
   <string name="weather_permission_agree">許可</string>

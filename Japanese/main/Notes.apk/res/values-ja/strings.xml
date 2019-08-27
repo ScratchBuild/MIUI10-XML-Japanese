@@ -3,7 +3,7 @@
   <string name="action_folder_description">"フォルダを表示"</string>
   <string name="action_mode_switcher_grid_description">"グリッド表示"</string>
   <string name="action_mode_switcher_list_description">"リスト表示"</string>
-  <string name="action_settings_description">"設定を開く"</string>
+  <string name="action_settings_description">"設定"</string>
   <string name="actionbar_close_description">"閉じる"</string>
   <string name="actionbar_home_description">"戻る"</string>
   <string name="add_account_desc">"Mi Accountを使用してメモを同期しますか？"</string>

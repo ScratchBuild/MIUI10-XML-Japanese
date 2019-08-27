@@ -4077,7 +4077,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="priority_storage_title">ストレージ設定</string>
   <string name="priority_summary">通知をリストの最上部に表示</string>
   <string name="priority_title">優先度</string>
-  <string name="privacy_authorize_cloud_msg">アカウントのセキュリティを確保するために、Mi Cloudサービス(同期やバックアップを含む)の認証を取り消したい場合は、i.mi.com にログインしてください。</string>
+  <string name="privacy_authorize_cloud_msg">アカウントのセキュリティを確保するために、Xiaomi Cloudサービス(同期やバックアップを含む)の認証を取り消したい場合は、i.mi.com にログインしてください。</string>
   <string name="privacy_authorize_dialog_agree">同意</string>
   <string name="privacy_authorize_dialog_exit">終了</string>
   <string name="privacy_authorize_dialog_message">&lt;Data>"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data></string>
