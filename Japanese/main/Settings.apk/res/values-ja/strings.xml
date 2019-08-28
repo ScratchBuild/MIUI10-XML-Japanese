@@ -2357,6 +2357,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="fsg_mistake_touch_title">ジェスチャーの再確認</string>
   <string name="full_screen_display">フルスクリーンモード</string>
   <string name="full_screen_keyboard_optimization">Enhance keyboard</string>
+  <string name="full_screen_keyboard_settings">全画面表示のキーボード設定</string>
   <string name="full_transparent_smarrcover_title">透明なフロントカバー</string>
   <string name="fullbackup_data_summary">"端末のデータ（Wi-Fiのパスワードや通話履歴など）とアプリのデータ（アプリで保存された設定やファイルなど）を自動的にリモートでバックアップします。
 
@@ -2540,6 +2541,8 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="input_assistance">入力アシスタント</string>
   <string name="input_hint_prefix">%1$sを入力</string>
   <string name="input_method">キーボード</string>
+  <string name="input_method_bottom_close">オフ</string>
+  <string name="input_method_bottom_open">オン</string>
   <string name="input_method_function_clipboard">クリップボードとよく使うフレーズ</string>
   <string name="input_method_function_clipboard_des">クリップボードの内容とよく使うフレーズを表示するにはタップ</string>
   <string name="input_method_function_no_function">なし</string>
@@ -2550,12 +2553,14 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="input_method_function_voice_des">音声入力を使用するにはタップ</string>
   <string name="input_method_function_xiaoai">Mi AI 音声入力</string>
   <string name="input_method_function_xiaoai_des">Mi AI 音声入力を使用するにはタップ</string>
+  <string name="input_method_manage">キーボードの管理</string>
   <string name="input_method_selector">入力方法選択オプション</string>
   <string name="input_method_selector_always_hide_title">常に非表示</string>
   <string name="input_method_selector_always_show_title">常に表示</string>
   <string name="input_method_selector_show_automatically_title">自動</string>
   <string name="input_method_settings">設定</string>
   <string name="input_method_settings_button">設定</string>
+  <string name="input_method_settings_text">設定</string>
   <string name="input_methods_and_subtype_enabler_title">有効な入力方法の選択</string>
   <string name="input_methods_settings_label_format">%1$sの設定</string>
   <string name="input_methods_settings_title">文字入力</string>
@@ -2627,6 +2632,7 @@ Googleアカウントなど、アカウントによっては、携帯電話で�
   <string name="keyboard_layout_dialog_switch_hint">切り替えるにはCtrl+スペースを押します</string>
   <string name="keyboard_layout_dialog_title">キーボードレイアウトの選択</string>
   <string name="keyboard_layout_picker_title">キーボードレイアウト</string>
+  <string name="keyboard_mouse_touch">キーボード/マウス/トラックパッド</string>
   <string name="keyboard_settings_category">入力方法</string>
   <string name="keyboard_settings_title">Androidキーボード</string>
   <string name="keyboard_shortcuts_helper">キーボード ショートカット ヘルパー</string>
@@ -3776,6 +3782,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="other">その他</string>
   <string name="other_advanced_settings">その他の設定</string>
   <string name="other_device_info">その他</string>
+  <string name="other_input_settings">その他のキーボード設定</string>
   <string name="other_personal_settings">個人設定</string>
   <string name="other_relative">その他</string>
   <string name="other_settings_sync_settings">同期</string>
