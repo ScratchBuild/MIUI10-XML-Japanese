@@ -110,6 +110,7 @@
   <string name="do_not_support_video_calls_by_remote">"ビデオ通話は相手先の端末でサポートされていません"</string>
   <string name="emergency_call_dialog_number_for_display">"緊急通報番号"</string>
   <string name="inCallLabel">電話</string>
+  <string name="incall_bubble_hangup_click_hint">もう一度タップして通話に戻ります</string>
   <string name="incall_call_type_label_sip">"SIP通話"</string>
   <string name="incall_error_supp_service_conference">"グループ通話できません。"</string>
   <string name="incall_error_supp_service_hangup">"通話を解放できません。"</string>
