@@ -24,7 +24,7 @@
   <string name="action">"ログイン"</string>
   <string name="action_imme_open">"今すぐ開く"</string>
   <string name="action_menu_account_not_login">"ログインしていません"</string>
-  <string name="action_menu_account_not_login_hint">"Mi Cloudと同期するにはログインしてください"</string>
+  <string name="action_menu_account_not_login_hint">"Cloudと同期するにはログインしてください"</string>
   <string name="action_menu_bookshelf">"本棚"</string>
   <string name="action_menu_current_version">Current version</string>
   <string name="action_menu_download">"ダウンロード"</string>
@@ -258,8 +258,9 @@
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">"続行"</string>
   <string name="data_traffic_download_cancel">キャンセル</string>
-  <string name="data_traffic_download_prompt">この動画はWi-Fi接続時にのみダウンロードすることができます</string>
+  <string name="data_traffic_download_prompt">Currently using data traffic, do you want to continue to cache video?</string>
   <string name="data_traffic_download_setting">設定</string>
+  <string name="data_traffic_download_toast_msg">Currently using data traffic to cache video</string>
   <string name="data_traffic_prompt_free_data">Using your mobile data connection to browse videos will increase your data usage. Please get free data traffic.</string>
   <string name="data_traffic_prompt_message">"モバイルデータ接続を使用して動画を閲覧すると、データ使用量が増加します。データ使用量の制限を超えた場合は、キャリアによっては追加料金が発生する場合があります。"</string>
   <string name="data_traffic_prompt_title">"データ使用の警告"</string>
@@ -704,8 +705,8 @@ ID:%s
   <string name="novel_toast_hint">This website has been added to the bookshelf</string>
   <string name="ok">OK</string>
   <string name="open_app_confirm_message">Allow this page to open %s?</string>
-  <string name="open_cloud_sync">"Mi Cloudとの同期をオンにする"</string>
-  <string name="open_cloud_sync_desc">"ブックマークを正常に追加しました。他の端末に保存されたブックマークを同期するには、Mi Cloudとの同期をオンにしてください。今すぐログインしてオンにしますか？"</string>
+  <string name="open_cloud_sync">"Cloudとの同期をオンにする"</string>
+  <string name="open_cloud_sync_desc">"ブックマークを正常に追加しました。他の端末に保存されたブックマークを同期するには、Cloudとの同期をオンにしてください。今すぐログインしてオンにしますか？"</string>
   <string name="open_file_explorer_failed">"File Managerを開くことができません"</string>
   <string name="open_voice_permission">Allow the mic to connect to the internet</string>
   <string name="page_hang_message">The current page is stuck and you need to restart your browser.</string>
@@ -1122,6 +1123,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_download_unknown_name">"不明な名前"</string>
   <string name="video_download_unknown_size">"不明なサイズ"</string>
   <string name="video_download_unsupport">"サポートされていません"</string>
+  <string name="video_download_wait_for_caching">Waiting for caching</string>
+  <string name="video_download_wait_for_network">Waiting for network</string>
   <string name="video_download_wait_for_wifi">"Wi-Fiを待機中"</string>
   <string name="video_downloaded_group">"ダウンロード済み"</string>
   <string name="video_downloading_group">"ダウンロード中"</string>

@@ -9,11 +9,6 @@
         <item>"スタートページ"</item>
         <item>"カスタム"</item>
     </string-array>
-    <string-array name="pref_homepage_choices_with_simplehome">
-        <item>既定のスタートページ</item>
-        <item>新規スタートページ</item>
-        <item>カスタム</item>
-    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>
         <item>Pad</item>

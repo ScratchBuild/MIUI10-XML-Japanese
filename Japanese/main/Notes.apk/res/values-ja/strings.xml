@@ -29,8 +29,8 @@
   <string name="call_folder_name">"通話メモ"</string>
   <string name="cancel_alarm_description">"リマインダーをキャンセル"</string>
   <string name="check_in_todo_app">タスクを表示</string>
-  <string name="cloud_service_state_open_reminder">"Cloudとの同期をオンにして、メモを同期します。"</string>
-  <string name="cloud_trash_bin_title">"Cloudのメモを削除"</string>
+  <string name="cloud_service_state_open_reminder">"クラウドとの同期をオンにして、メモを同期します。"</string>
+  <string name="cloud_trash_bin_title">"クラウドのメモを削除"</string>
   <string name="cta_confirm_cancel">許可しない</string>
   <string name="cta_confirm_ok">許可</string>
   <string name="cta_dialog_message">メモアプリが正常に動作するには、インターネットへの接続、音声の録音、および連絡先へのアクセス許可が必要です。許可しますか？</string>
@@ -42,7 +42,7 @@
   <string name="date_time_picker_has_not_set_alarm">アラームが設定されていません</string>
   <string name="date_time_picker_has_set_alarm">アラームを設定しました</string>
   <string name="db_downgrade_clear_button">"アプリデータを消去"</string>
-  <string name="db_downgrade_clear_date_reminder">"異なるMIUIのバージョンに切り替えるには、メモのアプリデータを消去する必要があります。実行前にはあらかじめCloudへメモをバックアップしておいてください。"</string>
+  <string name="db_downgrade_clear_date_reminder">"異なるMIUIのバージョンに切り替えるには、メモのアプリデータを消去する必要があります。実行前にはあらかじめクラウドへメモをバックアップしておいてください。"</string>
   <string name="delete_folder_dialog_tile">"フォルダを削除"</string>
   <string name="dialog_privacy_revoke_tips">"権限を取り消すとアプリはデータの収集を停止し、すべての関連データがサーバーから削除されます。これによりアプリは事実上使用できなくなる可能性があります。アカウントのセキュリティを確保するには、Cloudサービスの権限を取り消す前に i.mi.com にログインしてください。"</string>
   <string name="dialog_share_as_pic">"メモを画像として共有"</string>
@@ -121,7 +121,7 @@
   <string name="menu_unmark_privacy">"非表示を解除"</string>
   <string name="menu_unstick">"ピン留めを解除"</string>
   <string name="not_now">"後で"</string>
-  <string name="note_description_content">"メモアプリはあなたのアイデアを記録するのに最適なツールです。内蔵のリマインダーを備えており、作成したメモをお使いのCloudと同期することで、いつでもどこからでもアクセスすることができます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
+  <string name="note_description_content">"メモアプリはあなたのアイデアを記録するのに最適なツールです。内蔵のリマインダーを備えており、作成したメモをお使いのクラウドと同期することで、いつでもどこからでもアクセスすることができます。アプリをアンインストールする前に、これらの機能を使用していないことを確認してください。"</string>
   <string name="note_description_title">メモについて</string>
   <string name="note_link_email">"メールを作成"</string>
   <string name="note_link_other">"マップを開く"</string>
@@ -140,7 +140,7 @@
   <string name="permlab_accessNote">"メモへのアクセス"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">確認なしでメモを削除するには、2本の指で上にスワイプ</string>
   <string name="pref_desc_todo_float_mode">画面の端からスワイプしてタスクツールボックスを開く</string>
-  <string name="pref_title_cloud_trash_bin">Cloudで削除されたメモ</string>
+  <string name="pref_title_cloud_trash_bin">クラウドで削除されたメモ</string>
   <string name="pref_title_common">"その他の設定"</string>
   <string name="pref_title_font_size">"文字サイズ"</string>
   <string name="pref_title_note_style">"スタイル"</string>
@@ -191,7 +191,7 @@
   <string name="sns_title_send">"メッセージを送信"</string>
   <string name="sns_toast_empty">"空のメッセージを送信することはできません"</string>
   <string name="sns_toast_over_limit">"画像として送信"</string>
-  <string name="sync_tips">"Cloudとメモを同期するにはタップします。"</string>
+  <string name="sync_tips">"クラウドとメモを同期するにはタップします。"</string>
   <string name="theme_blue_description">Blue</string>
   <string name="theme_green_description">Green</string>
   <string name="theme_red_description">Red</string>
